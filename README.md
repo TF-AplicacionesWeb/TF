@@ -455,3 +455,12 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 | **Debilidades** |  |  | Costo elevado, curva de aprendizaje y falta de aplicación móvil. | Costo elevado, curva de aprendizaje, dependencia de internet y falta de aplicación móvil. |
 | **Oportunidades** |  |  | Innovación tecnológica y colaboraciones estratégicas. | Innovación tecnológica y colaboraciones estratégicas. |
 | **Amenazas** |  |  | Competencia creciente, cambios en la regulación y resistencia al cambio. | Competencia creciente, cambios en la regulación y resistencia al cambio. |
+
+
+
+
+
+
+<div id='3.2.'><h2>3.2. User Stories</h2></div>
+
+
