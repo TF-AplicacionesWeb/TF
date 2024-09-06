@@ -463,3 +463,5 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 - Ofreceremos planes de suscripción escalonados para adaptarnos a diversos presupuestos y necesidades. Desde opciones básicas hasta avanzadas, cada plan estará diseñado para diferentes tipos de consultorios.
 
 - Utilizaremos testimonios de clientes satisfechos en nuestro marketing para construir credibilidad. Los testimonios se destacarán en nuestro sitio web y materiales promocionales. Este enfoque ayudará a atraer nuevos clientes y fortalecer la confianza en nuestra plataforma.
+<div id='3.2.'><h2>3.2. User Stories</h2></div>
+
