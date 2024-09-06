@@ -38,7 +38,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | :-----: | :---: | :---: | --------------------------- |
 |TB1 |06/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián|   |
 |TB1 |06/09/2024 |Huanaco Huayte, Elizabeth Lucero | |
-|TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano |   |
+|TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app|
 |TB1 |06/09/2024 |  Julca Cruz, Renzo Anthony ||
 |TB1 |06/09/2024 |Uribe Quispe, Jesús Guillermo | Descripción de la Startup, Antecedentes y Problemática, Estrategias y tácticas frente a competidores, Segmentos objetivos, Diseño de Base de Datos, Diagrama de clases, Wireframe y Mockup Landing Page|
 
@@ -66,7 +66,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 | ---------- | ---------------- |
 | Bohórquez Lerzundi, Gerardo Sebastián|   |
  |Huanaco Huayte, Elizabeth Lucero | |
-|Jimenez Melgar, Daniel Luciano |   |
+|Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app |
 |  Julca Cruz, Renzo Anthony ||
 |Uribe Quispe, Jesús Guillermo | Descripción de la Startup, Antecedentes y Problemática, Estrategias y tácticas frente a competidores, Segmentos objetivos, Diseño de Base de Datos, Diagrama de clases, Wireframe y Mockup Landing Page|
 
@@ -77,7 +77,7 @@ Github también presenta un timeline de las ramas principales y los procesos de 
 Los integrantes son:
 - Bohórquez Lerzundi, Gerardo Sebastián()
 - Huanaco Huayta, Elizabeth Lucero(lucerohh)
-- Jimenez Melgar, Daniel Luciano()
+- Jimenez Melgar, Daniel Luciano(Gatetogod)
 - Julca Cruz, Renzo Anthony()
 - Uribe Quispe, Jesús Guillermo()
 
@@ -245,7 +245,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="Img/imagen_2024-09-05_144639052.png" alt="Jimenez Melgar, Daniel Luciano" style="margin-bottom: 5px;" width="800"/>
+            <img src="Img/Daniel-foto.png" alt="Jimenez Melgar, Daniel Luciano" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
