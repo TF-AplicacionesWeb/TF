@@ -76,9 +76,9 @@ Github también presenta un timeline de las ramas principales y los procesos de 
 
 Los integrantes son:
 - Bohórquez Lerzundi, Gerardo Sebastián()
+- Huanaco Huayta, Elizabeth Lucero(lucerohh)
 - Jimenez Melgar, Daniel Luciano()
-- Luza Carhuamaca, Jose Adrian()
-- Silva Tirado, Sebastian Valentino(SebasSilvaT)
+- Julca Cruz, Renzo Anthony()
 - Uribe Quispe, Jesús Guillermo()
 
 ## STUDENT OUTCOME
