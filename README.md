@@ -372,7 +372,7 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 
 **¿Cómo podemos desarrollar una plataforma web integral y fácil de usar que optimice la gestión de los consultorios dentales, permitiendo a los profesionales concentrarse en brindar un servicio de alta calidad, mientras se mejora la experiencia del paciente a través de la digitalización y la automatización de tareas clave?**
 
-<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
+<div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions</h5></div>
 
 **Business Assumptions**
 
@@ -417,3 +417,11 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 
 - **¿Cómo debe verse nuestro producto y cómo comportarse?**
   Debe tener un diseño limpio, profesional e intuitivo que refleje la seriedad y confianza necesaria en el ámbito de la salud. Asimismo, el sitio web debe responder rápidamente a las acciones del usuario y ser fácil de navegar.
+
+<div id='1.2.2.3.'><h5> 1.2.2.3. Lean UX Hypothesis Statements</h5></div>
+
+- Creemos que al ofrecer herramientas para gestionar citas, historiales clínicos y pagos en línea, mejoraremos la eficiencia en la clínica y la experiencia del paciente. Sabemos que estamos teniendo éxito en mejorar la experiencia de los usuarios cuando observamos un incremento en la eficiencia de las citas y una reducción en quejas de pacientes.
+
+- Creemos que al integrar opciones de pago en línea y generar facturas automáticas, simplificamos el proceso de facturación para los dentistas y pacientes. Sabemos que estamos logrando este objetivo cuando más del 80% de los pagos se procesan en línea sin problemas y se reduce el tiempo de emisión de facturas.
+
+- Creemos que al proporcionar recursos educativos sobre cuidados dentales y consejos de higiene, mejoraremos la educación del paciente y su compromiso con el tratamiento. Sabemos que estamos educando a los pacientes cuando más del 60% de ellos interactúan regularmente con estos recursos y se registra un incremento en la satisfacción del paciente.
