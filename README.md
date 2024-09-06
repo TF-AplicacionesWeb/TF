@@ -465,16 +465,7 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 - Utilizaremos testimonios de clientes satisfechos en nuestro marketing para construir credibilidad. Los testimonios se destacarán en nuestro sitio web y materiales promocionales. Este enfoque ayudará a atraer nuevos clientes y fortalecer la confianza en nuestra plataforma.
 <div id='3.2.'><h2>3.2. User Stories</h2></div>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-jxgv{background-color:#FFF;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-4zxv{background-color:#F00;border-color:inherit;color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-pdeq{background-color:#FFF;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-</style>
+
 <table class="tg"><thead>
   <tr>
     <th class="tg-4zxv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Epic / Story ID</span></th>
