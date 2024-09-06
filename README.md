@@ -221,7 +221,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt="Huanaco Huayta Elizabeth Lucero" style="margin-bottom: 5px;" width="800"/>
+            <img src="Img/Elizabeth-Huanaco.jpg" alt="Huanaco Huayta, Elizabeth Lucero" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -233,14 +233,14 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
         <td align="left">
         <b>Carrera:</b>
         <br>
-          ----- 
+          Ingeniería de Software 
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-       ---
+       Estoy en el quinto ciclo de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona organizada, resiliente y asertiva. Elegí enfocarme en esta carrera por el interés que tengo en el desarrollo de software, ya que considero que es un área clave para el futuro de la innovación tecnológica. En este proyecto, me comprometo a aplicar mis cualidades y contribuir al logro de los objetivos de mi equipo. 
         </td>
     </tr>
     <tr align="center">
