@@ -455,3 +455,11 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 | **Debilidades** |  |  | Costo elevado, curva de aprendizaje y falta de aplicación móvil. | Costo elevado, curva de aprendizaje, dependencia de internet y falta de aplicación móvil. |
 | **Oportunidades** |  |  | Innovación tecnológica y colaboraciones estratégicas. | Innovación tecnológica y colaboraciones estratégicas. |
 | **Amenazas** |  |  | Competencia creciente, cambios en la regulación y resistencia al cambio. | Competencia creciente, cambios en la regulación y resistencia al cambio. |
+
+<div id='2.1.2.'><h4> 2.1.2 Estrategias y tácticas frente a competidores</h4></div>
+
+- Ofreceremos nuestra interfaz intuitiva, que simplificará el uso del software, con una navegación fácil y rápida, y soporte personalizado para asegurar una adopción ágil y una alta satisfacción del cliente.
+
+- Ofreceremos planes de suscripción escalonados para adaptarnos a diversos presupuestos y necesidades. Desde opciones básicas hasta avanzadas, cada plan estará diseñado para diferentes tipos de consultorios.
+
+- Utilizaremos testimonios de clientes satisfechos en nuestro marketing para construir credibilidad. Los testimonios se destacarán en nuestro sitio web y materiales promocionales. Este enfoque ayudará a atraer nuevos clientes y fortalecer la confianza en nuestra plataforma.
