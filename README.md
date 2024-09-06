@@ -463,8 +463,12 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 - Ofreceremos planes de suscripción escalonados para adaptarnos a diversos presupuestos y necesidades. Desde opciones básicas hasta avanzadas, cada plan estará diseñado para diferentes tipos de consultorios.
 
 - Utilizaremos testimonios de clientes satisfechos en nuestro marketing para construir credibilidad. Los testimonios se destacarán en nuestro sitio web y materiales promocionales. Este enfoque ayudará a atraer nuevos clientes y fortalecer la confianza en nuestra plataforma.
-<div id='3.2.'><h2>3.2. User Stories</h2></div>
 
+  
+
+<div id='3.'><h2>CAPITULO III: REQUIREMENTS SPECIFICATIONS </h2></div>
+<div id='3.1.'><h3>3.1. To-Be Scenario Mapping</h3></div>
+<div id='3.2.'><h3>3.2. User Stories</h3></div>
 
 <table class="tg"><thead>
   <tr>
@@ -865,6 +869,179 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
   </tr>
 </tbody></table>
 
+
+<div id='3.3.'><h3>3.3. Impact Mapping</h3></div>
+
+<div id='3.3.'><h3> 3.3 Impact Mapping.</h4></div>
+<div id='3.4.'><h3> 3.4 Product Backlog.</h4></div>
+El "Product Backlog" es una herramienta esencial en la metodología ágil de desarrollo de software. Consiste en una lista priorizada de todas las tareas, user stories, y epics que deben ser completadas para llevar a cabo el desarrollo del producto final. Este backlog es dinámico y evoluciona constantemente en respuesta a las necesidades del negocio, los comentarios de los usuarios y los cambios en el mercado
+
+
+| # Orden | User story ID | Título                | Description                                                                 | Story points (1,2,3,5,8,13) |
+|---------|----------------|-----------------------|-----------------------------------------------------------------------------|--------------|
+|01| US01|Registrar usuario|Como personal del consultorio, quiero registrarme en la aplicación para acceder a los servicios.|5|
+|02|US02|Iniciar sesión|Como personal de consultorio, quiero iniciar sesión en la aplicación para acceder a mi cuenta.|5|
+|03|US03| Gestionar citas|Como personal administrativo, quiero programar una cita en el sistema para distribuir eficientemente las consultas.|5|
+|04|US04|Recordatorio de cita|Como personal del consultorio, quiero recibir recordatorios de la cita para coordinar y asegurar que todo esté listo para las citas programadas.|5|
+|05|US05|Gestionar historias clínicas|Como personal odontológico, quiero acceder y actualizar las historias clínicas de las pacientes para asegurar que la información esté disponible durante las consultas.|5|
+|06|US06|Pagar tratamiento|Como personal administrativo, quiero registrar y procesar el pago de un tratamiento para asegurar que la transacción quede registrada.|5|
+|07|US07|Historial de pagos|Como personal administrativo, quiero visualizar las facturas de los pagos registrados en el sistema para realizar un seguimiento eficiente.|5|
+|08|US08|Buscar citas|Como personal administrativo, quiero buscar citas por fecha, paciente o dentista para gestionar fácilmente las citas registradas.|5|
+|09|US09|Buscar historia clínica | Como personal odontológico, quiero buscar la historia clínica del paciente para acceder inmediatamente a la información médica relevante.|5|
+|10|US10|Menú |Como personal del consultorio,quiero acceder a un menú de navegación organizado para gestionar de manera eficiente información relevante del consultorio|5|
+|11|US11|Soporte|Como personal del consultorio, quiero acceder a la sección soporte del sistema para resolver cualquier problema en la aplicación.|5|
+|12|US12|Perfil | Como usuario, quiero poder gestionar mi perfil personal en la aplicación para actualizar mis datos y preferencias.|3|
+|13|US13|Gestión del inventario|Como personal administrativo, quiero gestionar el inventario de productos en el consultorio para asegurar que siempre haya suficiente stock de materiales.|5|
+|14|US14|Aumento en la base de datos | Como personal administrativo, necesito adquirir un mayor almacenamiento para administrar los datos de mi consultoría.|5|
+|15|US15|Métricas e informes | Como administrador, quiero generar y revisar informes de actividades y métricas para evaluar el rendimiento del consultorio y tomar decisiones informadas. | 5|
+|16|US16|Dashboard |Como personal administrativo, quiero ver un panel de control que muestre un resumen de las actividades y métricas del consultorio para tener una visión general rápida. | 5 |
+|17|US17|Gestion de especialistas |Como administrador, quiero agregar y eliminar especialistas en el sistema para mantener actualizado el personal disponible en el consultorio.|5|
+|18|US18|Gestión horarios|Como administrador, quiero actualizar los horarios disponibles de los especialistas para coordinar adecuadamente la programación de citas.|5|
+|19|US19|Menú Principal(Landing Page)|Como visitante quiero visualizar en un navegador atajos importantes hacia los datos de MediTech, sobre quienes son, que ofrecen y sus contactos.|5|
+|20|US20|Sección “Nosotros”|Como visitante quiero saber más sobre MediTech, su producto y las características que definen a la empresa.|5|
+|21|US21|Sección “Servicios”  |Como visitante quiero saber más sobre el producto y las funcionalidades que posee.|5|
+|22|US22|Sección “Información”|Como visitante quiero saber sobre los distintos tipos de medio por donde comunicarme con “Meditech”.|5|
+|23|US23 |Sección “Contacto” | Como visitante al estar interesado en el producto “Dentify”, quiero más información sobre las demás funcionalidades y contactar directamente con Meditech para dar a conocer mi posible adquisición del producto.|5|
+|24|TS001|Implementar Registro de Usuario|Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita el registro de nuevos usuarios.|5|
+|25|TS002|Implementar Inicio de Sesión|	Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita a los usuarios iniciar sesión de forma segura.|5|
+|26|TS003|Gestionar Citas|	Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API para que los usuarios puedan gestionar citas.|5|
+|27|TS004|Implementar Recordatorio de Citas	|Como desarrollador que trabaja en la aplicación de Meditech, quiero crear un sistema de recordatorio de citas que envíe notificaciones a los pacientes.|5|
+|28|TS005|Gestionar Historial Clínico	| Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API para gestionar el historial clínico de los pacientes.|5|
+|29|TS006 | Pagar Tratamiento	| Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita procesar pagos de tratamientos.|5|
+|30|TS007|Historial de Pagos	| Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API que muestre el historial de pagos de un paciente.|5|
+|31|TS008|	Buscar Citas	|Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita buscar citas programadas por paciente o por fecha.|5|
+|32|TS009|	Buscar Historial Clínico	|Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una funcionalidad que permita buscar el historial clínico de los pacientes.|5|	
+|33|TS010|	Perfil de Usuario	| Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una página donde los usuarios puedan actualizar su perfil.	|5|
+|34|TS011|	Gestionar Inventario	| Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API para gestionar el inventario de productos utilizados en los tratamientos odontológicos.|5|
+|35|TS012|	Métricas e Informes	| Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API para generar métricas e informes de rendimiento de los odontólogos y citas.|5|
+|36|TS013|	Dashboard	|Como desarrollador que trabaja en la aplicación de Meditech, quiero crear un dashboard que muestre un resumen de citas, pagos y métricas.|5|
+|37|TS014|	Gestión de Odontólogos	|Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una funcionalidad para gestionar la información de los odontólogos.|5|
+|38|TS015|	Gestión de Horarios|	Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una funcionalidad que permita gestionar los horarios de los odontólogos.|8|
+
+<div id='4.'><h2> CAPÍTULO IV: PRODUCT DESIGN</h2></div>
+<div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
+<div id ='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
+<div id ='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
+<div id ='4.2.'><h3> 4.2. Information Architecture</h4></div>
+<div id ='4.2.1.'><h4> 4.2.1 Organization Systems</h4></div>
+<div id= '4.2.2.'><h4>4.2.2. Labeling Systems. </h4><div>                   
+<div id= '4.2.3.'><h4>4.2.3. SEO Tags and Meta Tags</h4></div>
+<div id= '4.2.4.'><h4>4.2.4. Searching Systems.</h4></div>
+<div id= '4.2.5.'><h4>4.2.5. Navigation Systems.</h4></div>
+<div id= '4.3.'><h3>4.3. Landing Page UI Design.</h3></div>
+<div id= '4.3.1.'><h4>4.3.1. Landing Page Wireframe.</h4></div>
+<div id= '4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>
+<div id= '4.4.'><h3>4.4. Web Applications UX/UI Design.</h3></div>
+<div id= '4.4.1'><h4>4.4.1. Web Applications Wireframes.</h4></div>
+<div id= '4.4.2'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
+<div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups.</h4></div>
+<div id= '4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
+<div id= '4.5.'><h3>4.5. Web Applications Prototyping.</h4></div>
+<div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
+<div id= '4.6.1'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
+<div id= '4.6.2'><h4>4.6.2. Software Architecture Container Diagrams.</h4></div>
+<div id= '4.6.3.'><h4>4.6.3. Software Architecture Components Diagrams.</h4></div>
+<div id= '4.7.'><h3>4.7. Software Object-Oriented Design.</h4></div>
+<div id= '4.7.1.'><h4>4.7.1. Class Diagrams.</h4></div>
+<img src = "https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Class.png" alt="class diagram">
+<div id= '4.7.2.'><h4>4.7.2. Class Dictionary.</h4></div>
+
+nombre de clase: Usuario
+
+| atributo       | tipo   | descripción          |
+|----------------|--------|----------------------|
+| id             | int    | Identificador único  |
+| nombre         | string | Nombre del usuario   |
+| apellido       | string | Apellido del usuario |
+| email          | string | Correo electrónico   |
+| contraseña     | string | Clave de acceso      |
+| telefono       | string | Número de teléfono   |
+| fecha_registro | date   | Fecha de registro    |
+| trial | bool | usuario en modo prueba |
+
+
+nombre de clase: HistorialClinico
+
+| atributo          | tipo   | descripción               |
+|-------------------|--------|---------------------------|
+| id_historial      | int    | Identificador único       |
+| dni_paciente      | string | DNI del paciente          |
+| edad              | int    | Edad del paciente         |
+| correo            | string | Correo electrónico        |
+| fecha_nacimiento  | date   | Fecha de nacimiento       |
+| antecedentes      | text   | Antecedentes médicos      |
+| fecha             | date   | Fecha del historial       |
+| descripcion       | text   | Descripción del historial |
+| tratamiento       | string | Tratamiento asignado      |
+
+nombre de clase: Metricas
+
+| atributo      | tipo    | descripción               |
+|---------------|---------|---------------------------|
+| id_metricas   | int     | Identificador único       |
+| total_citas   | int     | Total de citas            |
+| total_pagos   | decimal | Total de pagos            |
+| fecha_inicio  | date    | Fecha de inicio           |
+| fecha_fin     | date    | Fecha de finalización     |
+
+
+nombre de clase: Odontologo
+
+| atributo       | tipo   | descripción               |
+|----------------|--------|---------------------------|
+| id_odontologo  | int    | Identificador único       |
+| nombre         | string | Nombre del odontólogo     |
+| apellido       | string | Apellido del odontólogo   |
+| especialidad   | string | Especialidad del odontólogo |
+| experiencia    | int    | Años de experiencia       |
+| telefono       | string | Número de teléfono        |
+| email          | string | Correo electrónico        |
+
+nombre de clase: Horario
+
+| atributo      | tipo  | descripción               |
+|---------------|-------|---------------------------|
+| id_horario    | int   | Identificador único       |
+| dia_semana    | enum  | Día de la semana          |
+| hora_inicio   | time  | Hora de inicio            |
+| hora_fin      | time  | Hora de finalización      |
+
+nombre de clase: Cita
+
+| atributo              | tipo      | descripción                    |
+|-----------------------|-----------|--------------------------------|
+| id_cita               | int       | Identificador único de la cita |
+| dni_paciente          | string    | DNI del paciente               |
+| fecha_cita            | datetime  | Fecha y hora de la cita        |
+| motivo                | string    | Motivo de la cita              |
+| realizada             | bit       | Indicador de cita realizada    |
+| recordatorio_enviado  | boolean   | Indicador de recordatorio enviado |
+
+nombre de clase: Pago
+
+| atributo              | tipo      | descripción                    |
+|-----------------------|-----------|--------------------------------|
+| id_pago               | int       | Identificador único del pago   |
+| dni_paciente          | string    | DNI del paciente               |
+| monto                 | decimal   | Monto del pago                 |
+| metodo_pago           | enum      | Método de pago                 |
+| fecha_pago            | date      | Fecha del pago                 |
+
+nombre de clase: Inventario
+
+| atributo              | tipo      | descripción                    |
+|-----------------------|-----------|--------------------------------|
+| id_producto           | int       | Identificador único del producto |
+| nombre_producto       | string    | Nombre del producto            |
+| cantidad              | int       | Cantidad en inventario         |
+| precio_unitario       | decimal   | Precio unitario del producto   |
+| fecha_actualizacion   | date      | Fecha de última actualización  |
+
+
+<div id= '4.8.'><h3>4.8. Database Design.</h3></div>
+
+<div id= '4.8.1.'><h4>4.8.1. Database Diagram.</h4></div>
+<img src = "https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/BD.png" alt="class diagram">
 
 
 
