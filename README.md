@@ -373,3 +373,47 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 **¿Cómo podemos desarrollar una plataforma web integral y fácil de usar que optimice la gestión de los consultorios dentales, permitiendo a los profesionales concentrarse en brindar un servicio de alta calidad, mientras se mejora la experiencia del paciente a través de la digitalización y la automatización de tareas clave?**
 
 <div id='1.2.2.2.'><h5> 1.2.2.2. Lean UX Assumptions.</h5></div>
+
+**Business Assumptions**
+
+- Creemos que nuestros clientes necesitan una mejor tecnología para la gestión de sus citas, historial clínico y pagos en línea.
+  
+- Estas necesidades se pueden resolver mediante el uso de un sitio web que integre gestión de pacientes, registro de historiales clínicos, reserva y recordatorios de citas, y opciones de pago en línea.
+
+- Los clientes iniciales son profesionales odontológicos que buscan ofrecer un servicio más eficiente y cómodo para sus pacientes.
+
+- El valor #1 que un cliente quiere del servicio es eficiencia en la gestión de su clínica dental y la satisfacción del paciente a través de herramientas que mejoren su experiencia.
+
+- El cliente también puede obtener estos beneficios adicionales con la venta de planes de suscripción, soporte continuo y especializado para la gestión del consultorio, y funcionalidades para el control administrativo, lo que les permitirá mejorar la eficiencia operativa y la satisfacción en el manejo de su consultorio dental.
+
+- Vamos a adquirir la mayoría de los clientes a través del marketing digital y alianzas estratégicas con asociaciones dentales para ampliar nuestra red de contactos y aumentar la visibilidad de nuestro sitio web.
+
+- Se hará dinero a través de las ventas de suscripciones a diferentes niveles de acceso a la plataforma y las ventas de productos del consultorio dental.
+
+- Nuestra competencia principal en el mercado serán los sitios web de gestión dental que no ofrecen una integración completa o carecen de una experiencia de usuario intuitiva.
+
+- Los venceremos debido al uso de tecnologías modernas y un enfoque en la mejora de la experiencia tanto para los dentistas como para los pacientes, además de ofrecer soporte continuo.
+
+- Nuestro mayor riesgo es la resistencia al cambio por parte de los dentistas que utilizan métodos tradicionales para gestionar sus consultorios dentales.
+
+- Resolveremos esto a través de demostraciones del software y un enfoque en el soporte al cliente para ayudar a los usuarios a adaptarse rápidamente a nuestro sitio web.
+
+**Assumptions Worksheet**
+
+- **¿Quién es el usuario?**
+  Dentistas que buscan una experiencia de gestión más moderna y eficiente.
+
+- **¿Dónde encaja nuestro producto en su trabajo o vida?**
+  Nuestro sitio web se integra en la vida diaria de los dentistas para facilitar la gestión de citas, historiales médicos, y pagos. Para los pacientes, mejora la experiencia de reserva de citas y acceso a su información de salud.
+
+- **¿Qué problemas tiene nuestro producto? ¿Resolver?**
+  La adopción de nuevas tecnologías puede ser un desafío para algunos dentistas. Además, puede haber resistencia al uso de plataformas digitales para la gestión de la información.
+
+- **¿Cuándo y cómo es nuestro producto usado?**
+  El sitio web se usa diariamente para gestionar citas, revisar historiales médicos, procesar pagos y enviar recordatorios, así como también para agendar citas, realizar pagos y acceder a sus registros de salud.
+
+- **¿Qué características son importantes?**
+  Garantizar la accesibilidad desde una variedad de dispositivos, integración con sistemas de pago y calendarios, recordatorios automáticos e interfaz amigable.
+
+- **¿Cómo debe verse nuestro producto y cómo comportarse?**
+  Debe tener un diseño limpio, profesional e intuitivo que refleje la seriedad y confianza necesaria en el ámbito de la salud. Asimismo, el sitio web debe responder rápidamente a las acciones del usuario y ser fácil de navegar.
