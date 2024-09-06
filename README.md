@@ -1045,6 +1045,77 @@ nombre de clase: Inventario
 
 
 
+<div id='5.'><h2>CAPÍTULO IV: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT </h4></div>
+
+<div id='5.1.'><h3> 5.1. Software Configuration Management.</h3></div>
+
+Controlar y rastrear los cambios que se realizan en el software durante el ciclo de vida. Asegura que el software se mantiene consistente, ordenado y controlado a medida que evoluciona desde su desarrollo inicial hasta su entrega y mantenimiento.
+
+<div id='5.1.1.'><h4> 5.1.1. Software Development Environment Configuration.</h4></div>
+<div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
+El Proyecto tanto de la Landing Page asi como el de la Aplicación web, seguirá los principios del modelo "Git Branch Model" en la cual se define como una estrategia para organizar el trabajo en un repositorio de Git mediante la creación de ramas (branches) que permiten desarrollar nuevas características, corregir errores, y gestionar versiones de manera eficiente. Uno de los modelos más conocidos es Git Flow, propuesto por Vincent Driessen, que define cómo y cuándo crear ramas para mantener el control del ciclo de vida del desarrollo de software, la cual usaremos.
+
+**Repositorio de Landing Page:** https://github.com/TF-AplicacionesWeb/Landing_Page
+
+
+
+**Estructura de Branches:** <br>
+
+**1.Rama principal:** esta rama es la principal del proyecto, contendrá versiones finales del desarrollo. Solo se permitirán cambios si ya han pasado por una previa revisión en otras ramas de testing.
+
+
+**2.Rama de Desarrollo:** esta rama es en donde se lleva a cabo los avances del proyecto en equipo. Es donde se integran las nuevas características antes de fusionarlas al main.
+
+
+**3.Rama de Características:**  Se crean a partir de develop para desarrollar nuevas características o funcionalidades. Una vez completadas, se fusionan de nuevo a develop. Cabe destacar que estas ramas son temporales, ya que su única funcionalidad es desarrollar una funcionalidad y fusionarla con la rama de desarrollo si es que se completó el requerimiento. Sin embargo en el proyecto de la Landing Page, no se eliminarán para fines de descripción.
+
+
+**4.Rama de Corrección:** Estas ramas se crean para abarcar un error específico y poder solucionarlo para fusionarlo a la rama de desarrollo.
+
+
+**5.Rama de Lanzamiento:** Se crean cuando en la rama de desarrollo está listo para una nueva versión de producción. Permiten hacer pruebas y correcciones menores antes de fusionar a main.
+
+
+**Versionamiento Semántico:** Para nombrar las Releases, se utilizará el sistema de versionamiento semántico (Semantic
+Versioning 2.0.0).
+
+
+**Convenciones de Commits:** Para los mensajes de los commits realizados, se utilizará la especificación Conventional Commits
+La estructura a seguir será la siguiente:
+
+"(tipo):(titulo)" y "(descripcion)"
+
+<div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
+
+<div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
+
+<div id='5.2.'><h3> 5.2.  Landing Page, Services & Applications Implementation.</h3></div>
+
+<div id='5.2.1.'><h4> 5.2.1. Sprint #1.</h4></div>
+
+<div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning #1.</h5></div>
+
+<div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog #1.</h5></div>
+
+<div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
+
+<div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h5></div>
+
+<div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review. </h5></div>
+
+<div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h5></div>
+
+<div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+
+<div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint. </h5></div>
+
+| Alumno  | Actividad |
+| -------- | -------- |
+| Bohorquez Lerzundi Gerardo Sebastian| Implementación de la sección de pie de página y funcionalidades de la landing page.    |
+| Huanaco Huayta, Elizabeth Lucero | Implementación de la sección de servicios. |
+| Jimenez Melgar, Daniel Luciano | Implementación de la sección nosotros. |
+| Julca Cruz, Renso Anthony | Implementación de la sección contacto.|
+| Uribe Quispe, Jesús Guillermo | Implementación de la sección de modales de Login e información de servicios.|
 
 
 
