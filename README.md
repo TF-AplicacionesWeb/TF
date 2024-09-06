@@ -176,10 +176,10 @@ ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miemb
 
 <div id='1.'><h2>Capítulo I: Introducción</h2></div>
 
-<div id='1.1.'><h3> 1.1 Startup Profile.</h3></div>
+<div id='1.1.'><h3> 1.1 Startup Profile</h3></div>
 En esta sección se presenta la descripción del startup y los perfiles de los miembros del equipo.
 
-<div id='1.1.1.'><h4> 1.1.1. Descripción del startup.</h4></div>
+<div id='1.1.1.'><h4> 1.1.1. Descripción del startup</h4></div>
 
 MediTech es una innovadora startup tecnológica dedicada a transformar la manera en que los consultorios dentales gestionan sus operaciones cotidianas. Nuestro producto Dentify es una aplicación web integral diseñada específicamente para cubrir todas las necesidades de gestión de un consultorio.
 
@@ -192,7 +192,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
 - Innovación constante
 - Responsabilidad Social
 
-<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo.</h4></div>
+<div id='1.1.2.'><h4> 1.1.2. Perfiles de los integrantes del equipo</h4></div>
 
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
@@ -318,8 +318,8 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
     </tr>
 	 
 </table>
-<div id='1.2.'><h3> 1.2. Solution Profile.</h3></div>
-<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática.</h4></div>
+<div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
+<div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
 **Antecedentes:**
 
 La gestión de pacientes en consultorios dentales ha evolucionado significativamente con la incorporación de tecnologías digitales, facilitando procesos como la programación de citas, la actualización de historiales médicos y la comunicación entre el personal médico y los pacientes. Cabe resaltar que el desarrollo de salud digital en Perú no está del todo consolidado, pero si en un crecimiento moderado. Según (INEI, 2022), menciona que el porcentaje total de personas que tienen acceso a internet es de un 72.7% en 2022, con respecto al 2020 en la cual solo abarcaba el 64.5%. Por tanto, al ver dicho crecimiento, nos proponemos brindar e impulsar la digitalización en consultorios dentales para abarcar a más personas que necesiten una gestión optimizada y eficaz de sus pacientes.
@@ -425,3 +425,13 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 - Creemos que al integrar opciones de pago en línea y generar facturas automáticas, simplificamos el proceso de facturación para los dentistas y pacientes. Sabemos que estamos logrando este objetivo cuando más del 80% de los pagos se procesan en línea sin problemas y se reduce el tiempo de emisión de facturas.
 
 - Creemos que al proporcionar recursos educativos sobre cuidados dentales y consejos de higiene, mejoraremos la educación del paciente y su compromiso con el tratamiento. Sabemos que estamos educando a los pacientes cuando más del 60% de ellos interactúan regularmente con estos recursos y se registra un incremento en la satisfacción del paciente.
+
+<div id='2.'><h2>Capítulo II: Requirements Elicitation & Analysis</h2></div>
+
+<div id='2.1.'><h3> 2.1 Competidores</h3></div>
+
+| **Competidor**   |         **Descripción**                                                                                                                                 | **Características**                                                                                                                                       | **Logo** |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+|   |  |  | |
+| **Dentrix**                | Dentrix es un software integral para consultorios dentales que optimiza la gestión del consultorio con herramientas avanzadas.                 | - Copias de seguridad de datos automatizadas <br> - Reclamos electrónicos <br> - Procesamiento de tarjetas de pago <br> - Estados de cuenta automatizados <br> - Herramientas de desarrollo de sitios web <br> - Recordatorios de citas <br> - Software de reconocimiento de voz | <img src="Img/dentrix-logo.png" alt="Logo Dentrix" style="margin-bottom: 5px;" width="800"/> |
+| **Curve Dental**           | Curve Dental es una plataforma basada en la nube para la gestión de clínicas dentales que proporciona una solución integral.                    | - Plataforma basada en la nube <br> - Gestión de citas y historiales clínicos <br> - Procesamiento de pagos y facturación <br> - Recetas electrónicas y formularios inteligentes <br> - Integración de imágenes clínicas y datos del paciente <br> - Interfaz intuitiva <br> - Informes dentales y paneles de control para la gestión financiera y operativa | <img src="Img/curve-dental-logo.png" alt="Logo Curve Dental" style="margin-bottom: 5px;" width="800"/> |
