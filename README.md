@@ -48,15 +48,11 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 URL del repositorio para el reporte del proyecto: https://github.com/TFOpenSource
 
 <div align="center">
-  <img src="">
+  <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/imagen_2024-09-07_034018920.png">
 </div>
 
 <div align="center">
-  <img src="">
-</div>
-
-<div align="center">
-  <img src="">
+  <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/imagen_2024-09-07_114230789.png">
 </div>
 
 **TB1**
