@@ -37,9 +37,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | --------------------------- |
 |TB1 |06/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián| Lean UX Problem Statement, Lean UX Canvas, User Stories, Web Style Guidelines, Information System, Domain-Driven Software Architecture.  |
-|TB1 |06/09/2024 |Huanaco Huayte, Elizabeth Lucero | |
 |TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, Mock-ups del Web app, y prototype mobile y desktop del Web App |
-|TB1 |06/09/2024 |  Julca Cruz, Renzo Anthony ||
 |TB1 |06/09/2024 |Huanaco Huayta, Elizabeth Lucero | Lean UX Assumptions, Competidores, Análisis competitivo, Estrategias frente a competidores, Wireframes y Mockups de la versión desktop del landing page, y Wireframes de la versión desktop del web application. |
 |TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app|
 |TB1 |06/09/2024 |  Julca Cruz, Renso Anthony | Diseño de entrvistas, Analisis de Entrevistas, User Personas, User Task Matrix, User Journey Mapping, As-Is Scenario Mapping, Software Development Environment Configuration y Source Code Style Guide & Conventions. |
@@ -583,8 +581,81 @@ Dentistas que buscan y necesitan herramientas para optimizar su gestión de cita
     </tr>
 </table>
 
+<table>
+  <tr align="center">
+    <tr>
+      <td>
+        <b>ENTREVISTA 4</b>
+      </td>
+    </tr>
+        <td rowspan="3">
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Entrevista moises.png" alt="Imagen_Entrevista_04" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Datos Personales del Entrevistado:</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="left"> 
+        Moisés Rodrigues trabaja como personal administrativo en un consultorio dental, tiene 19 años y se encuentra cursando su 6to ciclo.
+        </td>
+    </tr>
+</table>
+
+<table>
+  <tr align="center">
+    <tr>
+      <td>
+        <b>ENTREVISTA 5</b>
+      </td>
+    </tr>
+        <td rowspan="3">
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Entrevista alejandro.png" alt="Imagen_Entrevista_05" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Datos Personales del Entrevistado:</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="left"> 
+        Alejandro Flores, es un practicante de odontología de 20 años, se encuentra realizando sus prácticas pre-profesionales.
+        </td>
+    </tr>
+</table>
+
+<table>
+  <tr align="center">
+    <tr>
+      <td>
+        <b>ENTREVISTA 6</b>
+      </td>
+    </tr>
+        <td rowspan="3">
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Entrevista jose.png" alt="Imagen_Entrevista_06" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Datos Personales del Entrevistado:</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="left"> 
+        José Luza, un practicante de odontología de 20 años, se encuentra realizando sus prácticas pre profesionales. 
+        </td>
+    </tr>
+</table>
+
 **CARPETA DE ENTREVISTAS:** 
+
 - https://drive.google.com/drive/folders/1R3qObddumASEe8bWxbsaa97e17YXjy1k?usp=sharing
+- [2024-08-31 11-56-07.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a569_upc_edu_pe/EQbw_V0FnWpDlRWALQC4PrYBW0ucHdk4ABzv7nab6Wt7PQ?e=vYewAQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [2024-08-31 12-22-56.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a569_upc_edu_pe/EXCYHr8GjYRDmE4z5v_zY30BQK5i5cM6982uem2z4RU1_w?e=Q2bzDT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [2024-09-07 00-29-20.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a569_upc_edu_pe/EW4H_F4PGuZAibzZJlCAq4sBy3_1jwO282CMaO6X5kzf7Q?e=3LNhrz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <div id='2.2.3.'><h4> 2.2.3. Analisis de Entrevistas.</h4></div>
 
@@ -618,6 +689,34 @@ Dentistas que buscan y necesitan herramientas para optimizar su gestión de cita
 **Resumen**
 - Mariluz Cruz Lucero organiza eficientemente su consultorio odontológico, asegurando que las citas y pagos se realicen sin contratiempos, gracias a una planificación detallada y un riguroso sistema de registro de tratamientos. Utiliza listas de precios estandarizadas para las conversaciones sobre costos y mantiene un seguimiento cercano de los pagos, minimizando el riesgo de deudas pendientes. Valora el feedback de los pacientes, lo que le permite ajustar y mejorar su práctica continuamente. Además, se enfoca en la rentabilidad mediante la adaptación a la demanda local y la especialización en servicios específicos, lo que contribuye a la sostenibilidad y éxito de su consultorio.
 
+
+**Datos del entrevistado #4**<br>
+**Nombre completo:** Moises Rodriguez<br>
+**Edad:** 19 años <br>
+**Distrito:** Ate<br>
+
+**Resumen**
+- Moisés Rodrigues trabaja como personal administrativo en un consultorio dental, nos habló de la gestión administrativa en la clínica. Moisés explicó cómo coordina la agenda del dentista para optimizar la programación de citas. Finalmente, habló sobre los reportes generados para mantener al dentista informado y cómo utiliza estos datos para mejorar la eficiencia operativa de la clínica.
+
+
+
+**Datos del entrevistado #5**<br>
+**Nombre completo:** Alejandro Flores<br>
+**Edad:** 20 años<br>
+**Distrito:** Ate<br>
+
+**Resumen**
+- Alejandro Flores, es un practicante de odontología de 20 años, se discutieron diversos aspectos de la gestión en un consultorio dental. Alejandro compartió cómo organiza su día para manejar eficazmente las citas de los pacientes, destacando la importancia de mantener registros actualizados de los tratamientos.En cuanto a la facturación, explicó sus métodos para abordar las conversaciones sobre pagos. Finalmente, Alejandro describió cómo evalúa el éxito de la práctica y ajusta su carga de trabajo basándose en la demanda de tiempo de los tratamientos.
+
+
+**Datos del entrevistado #6**<br>
+**Nombre completo:** Jose Luza<br>
+**Edad:** 19 años<br>
+**Distrito:** Surquillo<br>
+
+**Resumen**
+- José Luza, un practicante de odontología de 20 años, organiza su día revisando las citas desde temprano y asegura que los tratamientos de los pacientes se registren de manera precisa. Utiliza herramientas manuales para mantener al día las historias clínicas. En cuanto a la facturación, prefiere mantener conversaciones directas sobre pagos y se asegura de registrar correctamente cada transacción. Finalmente, destaca que evalúa el éxito de su práctica revisando los reportes semanales y mensuales, ajustando su carga de trabajo según la demanda.
+  
 <div id='2.3.'><h3> 2.3. NeedFinding. </h3></div>
 
 <div id='2.3.1.'><h4> 2.3.1. User Personas.</h4></div>
@@ -1282,6 +1381,19 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <img src="Img/product-design/landing-page/Contactanos.png" alt="Contactanos">
 <img src="Img/product-design/landing-page/Contactanos2.png" alt="Contactanos">
 
+**Mobile** <br>
+**Nosotros** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_nosotros.png" alt="Nosotros" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_nosotros2.png" alt="Nosotros2" style="margin-bottom: 5px;" width="250">
+
+**Servicios** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_servicios.png" alt="Servicios" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_servicios2.png" alt="Servicios2" style="margin-bottom: 5px;" width="250">
+
+**Contactenos** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_contactenos.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_contactenos2.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
+
 <div id= '4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>
 
 **Nosotros**
@@ -1297,6 +1409,20 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 
 <img src="Img/product-design/landing-page/m-Contactanos.png" alt="Contactanos">
 <img src="Img/product-design/landing-page/m-Contactanos2.png" alt="Contactanos">
+
+**Mobile** <br>
+**Nosotros** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_nosotros.png" alt="Nosotros" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_nosotros2.png" alt="Nosotros2" style="margin-bottom: 5px;" width="250">
+
+**Servicios** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_servicios.png" alt="Servicios" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_servicios2.png" alt="Servicios2" style="margin-bottom: 5px;" width="250">
+
+**Contactenos** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_contactenos.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_contactenos2.png" alt="Contactenos2" style="margin-bottom: 5px;" width="250">
+
 
 <div id= '4.4.'><h3>4.4. Web Applications UX/UI Design.</h3></div>
 
@@ -1367,7 +1493,67 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <img src="Img/product-design/web-application/w-Perfil_ Cambiar contrasenia.png" alt="Perfil">
 <img src="Img/product-design/web-application/w-Perfil_ Editar información personal.png" alt="Perfil">
 
+**Mobile** <br>
+**Register** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/register_wm.png" alt="Register" style="margin-bottom: 5px;" width="250">
+
+**Login** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/login_wm.png" alt="Login" style="margin-bottom: 5px;" width="250">
+
+**Perfil** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/perfil_wm.png" alt="Perfil" style="margin-bottom: 5px;" width="250">
+
+**Aplicacion** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/notificaciones_wm.png" alt="Notificaciones" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/esoecialista_wm.png" alt="Especialista" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/facutra_wm.png" alt="Factura" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/fichaseguimiento_wm.png" alt="FichaSeguimiento" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/historialcitas_wm.png" alt="Historial de citas" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/historialclinico_wm.png" alt="Historial clinico" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/inventario_wm.png" alt="Inventario" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/metricas_wm.png" alt="Metricas" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/nuevopaciente_wm.png" alt="Nuevo Paciente" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/nuevopro_wm.png" alt="Nuevo Productos" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/pagos_wm.png" alt="Pagos" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/soporte_wm.png" alt="Soporte" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/reservacita_wm.png" alt="Reserva cita" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/registrarpago_wm.png" alt="Registrar Pagos" style="margin-bottom: 5px;" width="250">
+
 <div id= '4.4.2'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
+
+Enlace Figma: https://www.figma.com/design/6fL6lP76J7kZqHFRPzoKLR/Landing-page-%2F-Desarrollo-de-aplicaciones-web?node-id=0-1&node-type=CANVAS&t=MfzOZR4gVNwmIWD6-0 <br>
+
+User Goal: Registrar usuario <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 1.png" alt="Diagrama 1"> <br>
+User Goal: Gestionar citas  <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 2.png" alt="Diagrama 2"> <br>
+User Goal: Gestionar pagos <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 3.png" alt="Diagrama 3"> <br>
+User Goal: Gestionar historial clinico  <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 4.png" alt="Diagrama 4"> <br>
+User Goal: Gestionar Perfil <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 5.png" alt="Diagrama 5"> <br>
+User Goal: Gestionar inventario  <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 6.png" alt="Diagrama 6"> <br>
+User Goal: Gestionar informes <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 7.png" alt="Diagrama 7"> <br>
+User Goal: Observar métricas <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 8.png" alt="Diagrama 8"> <br>
+User Goal: Ver especialistas <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 9.png" alt="Diagrama 9"> <br>
 
 <div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups</h4></div>
 
@@ -1436,16 +1622,16 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Perfil_ Editar información personal.png" alt="Perfil">
 
 **Mobile** <br>
-**Register**
+**Register** <br>
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_register.png" alt="Register" style="margin-bottom: 5px;" width="250">
 
-**Login**
+**Login** <br>
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_login.png" alt="Login" style="margin-bottom: 5px;" width="250">
 
-**Perfil**
+**Perfil** <br>
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_perfil.png" alt="Perfil" style="margin-bottom: 5px;" width="250">
 
-**Aplicacion**
+**Aplicacion** <br>
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_notificaciones.png" alt="Notificaciones" style="margin-bottom: 5px;" width="250">
 
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_especialista.png" alt="Especialista" style="margin-bottom: 5px;" width="250">
@@ -1498,6 +1684,19 @@ Interacción cuando un cliente gestiona los especialistas y sus métricas
 <br><br>
 
 <div id= '4.5.'><h3>4.5. Web Applications Prototyping.</h4></div>
+
+Para diseñar los prototipos de la interfaz de usuario para Desktop y Mobile Web Browser, se siguieron varios criterios clave:
+
+1. Claridad y Simplicidad: Se buscó que la navegación en la aplicación fuera intuitiva y fácil de entender, permitiendo a los usuarios comprender plenamente las funciones, como el registro de procesos y la visualización de informes estadísticos.
+   
+2. Diseño Responsivo: Se consideró esencial asegurar que la aplicación web fuera compatible con diferentes tamaños de pantalla, garantizando que los usuarios puedan acceder sin limitaciones, independientemente del dispositivo que utilicen.
+
+3. Enfoque en la Información Relevante: El diseño prioriza la presentación de la información más importante para los usuarios del segmento objetivo, evitando sobrecargar la interfaz.
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/prototype.png">
+
+Enlace del Prototype: https://www.figma.com/design/6fL6lP76J7kZqHFRPzoKLR/Landing-page-%2F-Desarrollo-de-aplicaciones-web?node-id=0-1&node-type=CANVAS&t=MfzOZR4gVNwmIWD6-0
+
 <div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
 <div id= '4.6.1.'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
  <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/context-diagram.png" alt="Diagrama Contexto" style="margin-bottom: 5px;" width="600"/>
