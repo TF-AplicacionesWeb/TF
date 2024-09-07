@@ -432,7 +432,7 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 
 | **Competidor**   |         **Descripción**                                                                                                                                 | **Características**                                                                                                                                       | **Logo** |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-|   |  |  | |
+| **Panda Dental Software**  | Solución para clínicas dentales, que facilita la gestión de pacientes, facturación y análisis de datos. Ofrece automatización de procesos y soporte técnico. | - Historia clínica digital. <br> - Programación de citas. <br> - Monitoreo y registro de tratamientos realizados. <br> - Notificaciones por SMS y correo electrónico para citas. <br> - Estadísticas y reportes detallados. | <img src="Img/panda-dental-software-logo.png" alt="Logo Panda Dental Software" style="margin-bottom: 5px;" width="800"/>  |
 | **Dentrix**                | Dentrix es un software integral para consultorios dentales que optimiza la gestión del consultorio con herramientas avanzadas.                 | - Copias de seguridad de datos automatizadas <br> - Reclamos electrónicos <br> - Procesamiento de tarjetas de pago <br> - Estados de cuenta automatizados <br> - Herramientas de desarrollo de sitios web <br> - Recordatorios de citas <br> - Software de reconocimiento de voz | <img src="Img/dentrix-logo.png" alt="Logo Dentrix" style="margin-bottom: 5px;" width="800"/> |
 | **Curve Dental**           | Curve Dental es una plataforma basada en la nube para la gestión de clínicas dentales que proporciona una solución integral.                    | - Plataforma basada en la nube <br> - Gestión de citas y historiales clínicos <br> - Procesamiento de pagos y facturación <br> - Recetas electrónicas y formularios inteligentes <br> - Integración de imágenes clínicas y datos del paciente <br> - Interfaz intuitiva <br> - Informes dentales y paneles de control para la gestión financiera y operativa | <img src="Img/curve-dental-logo.png" alt="Logo Curve Dental" style="margin-bottom: 5px;" width="800"/> |
 
@@ -452,13 +452,42 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 | **Oportunidades**       | Expansión a nuevos mercados, desarrollo de funcionalidades como inteligencia artificial para diagnósticos predictivos. | Expansión a nuevos mercados, innovación tecnológica, formación de alianzas estratégicas. | Innovación tecnológica y colaboraciones estratégicas. | Innovación tecnológica y colaboraciones estratégicas.  |
 | **Amenazas**            | Fuerte competencia en el mercado de software dental, posibles cambios en las regulaciones de datos y privacidad. | Competencia intensa, cambios regulatorios, rápida evolución tecnológica, riesgos de seguridad de datos. | Competencia creciente, cambios en la regulación y resistencia al cambio. | Competencia creciente, cambios en la regulación y resistencia al cambio. |
 
-<div id='2.1.2.'><h4> 2.1.2 Estrategias y tácticas frente a competidores</h4></div>
+<div id='2.1.2.'><h4> 2.1.2. Estrategias y tácticas frente a competidores</h4></div>
 
 - Ofreceremos nuestra interfaz intuitiva, que simplificará el uso del software, con una navegación fácil y rápida, y soporte personalizado para asegurar una adopción ágil y una alta satisfacción del cliente.
 
 - Ofreceremos planes de suscripción escalonados para adaptarnos a diversos presupuestos y necesidades. Desde opciones básicas hasta avanzadas, cada plan estará diseñado para diferentes tipos de consultorios.
 
 - Utilizaremos testimonios de clientes satisfechos en nuestro marketing para construir credibilidad. Los testimonios se destacarán en nuestro sitio web y materiales promocionales. Este enfoque ayudará a atraer nuevos clientes y fortalecer la confianza en nuestra plataforma.
+
+
+<div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
+
+- Allison: Asistente administrativa en un centro odontológico donde el odontólogo sólo atiende a los pacientes.
+- Mariluz: Odontóloga que también gestiona y administra el centro odontológico, además de atender a los pacientes.
+  
+| **Tareas / Allison - Asistente administrativa** | **Frecuencia** | **Importancia** |
+|----------------------------------------------|----------------|-----------------|
+| Recepción y registro de pacientes            | Alta           | Alta            |
+| Coordinación de citas y agendas              | Alta           | Alta            |
+| Gestión de cancelaciones y reprogramaciones  | Media          | Alta            |
+| Facturación y procesamiento de pagos         | Alta           | Alta            |
+| Coordinación con proveedores y gestión de inventarios | Media      | Media           |
+| Comunicación y coordinación con el equipo    | Alta           | Alta            |
+| Seguimiento de programas de fidelización     | Baja           | Media           |
+| Generación de reportes para el dentista      | Mensual        | Alta            |
+
+| Tareas Maryluz - Odontologa Independediente | Frecuencia | Importancia |
+|--------------------------------|------------|-------------|
+| Agendar citas                   | Alta       | Alta        |
+| Gestionar historiales médicos   | Alta       | Alta        |
+| Procesar pagos                  | Media      | Media       |
+| Enviar recordatorios            | Media      | Media       |
+| Preparar informes               | Alta       | Alta        |
+| Realizar tratamientos dentales  | Alta       | Alta        |
+| Atender consultas de pacientes  | Alta       | Alta        |
+| Revisar y gestionar inventario  | Media      | Media       |
+| Coordinar con proveedores       | Media      | Media       |
 
   
 
