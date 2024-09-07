@@ -967,6 +967,19 @@ El "Product Backlog" es una herramienta esencial en la metodología ágil de des
 
 <div id='4.'><h2> CAPÍTULO IV: PRODUCT DESIGN</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
+
+**Lenguaje aplicado:**<br>
+Para la realización de la aplicación web “Dentify” y su respectiva Landing Page hemos tomado un lenguaje formal, serio y respetuoso, ya que va acorde con el propósito de y la finalidad de este producto.
+
+Para la realización de la Aplicación Web y Landing Page, hemos aplicado los principios de elementos de diseño.
+
+**Consistencia:**<br> Mantenemos una estructura y apariencia coherentes en todas las partes del producto digital. Esto implica utilizar elementos de diseño consistentes como distintos tipos de tipografía, tamaño de fuente, colores y distintos estilos de interacción para que el usuario pueda familiarizarse rápidamente con la interfaz, lo cual, facilita la navegación del usuario.
+
+**Simplicidad:**<br> eliminamos cualquier elemento innecesario o complicado en la interfaz para que los usuarios puedan realizar sus tareas de forma rápida y sencilla. 
+
+**Comunicación:**<br> hemos considerado que los usuarios reciban confirmaciones visuales cuando realizan una acción. Esta retroalimentación ayuda a los usuarios a saber y comprender el punto en el que están y principalmente para confirmar que sus acciones han sido ejecutadas de manera exitosa.
+
+Jerarquía Visual: Mediante los tipos y tamaños de fuente, colores y contrastes, hemos jerarquizado los elementos de la aplicación web de manera que guíe la atención del usuario y resalte la información más importante.
 <div id ='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
 <div id ='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
 <div id ='4.2.'><h3> 4.2. Information Architecture</h4></div>
