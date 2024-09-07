@@ -1098,8 +1098,11 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <div id= '4.5.'><h3>4.5. Web Applications Prototyping.</h4></div>
 <div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
 <div id= '4.6.1'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/context-diagram.png" alt="Diagrama Contexto" style="margin-bottom: 5px;" width="600"/>
 <div id= '4.6.2'><h4>4.6.2. Software Architecture Container Diagrams.</h4></div>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/container-diagram.png" alt="Diagrama contenedores" style="margin-bottom: 5px;" width="600"/>
 <div id= '4.6.3.'><h4>4.6.3. Software Architecture Components Diagrams.</h4></div>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/componente-diagram.png" alt="Diagrama de componentes" style="margin-bottom: 5px;" width="600"/>
 <div id= '4.7.'><h3>4.7. Software Object-Oriented Design.</h4></div>
 <div id= '4.7.1.'><h4>4.7.1. Class Diagrams.</h4></div>
 <img src = "https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Class.png" alt="class diagram">
