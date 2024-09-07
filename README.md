@@ -37,7 +37,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | --------------------------- |
 |TB1 |06/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián| Lean UX Problem Statement, Lean UX Canvas, User Stories, Web Style Guidelines, Information System, Domain-Driven Software Architecture.  |
-|TB1 |06/09/2024 |Huanaco Huayte, Elizabeth Lucero | |
+|TB1 |06/09/2024 |Huanaco Huayte, Elizabeth Lucero | Lean UX Assumptions, Competidores, Análisis competitivo, Estrategias frente a competidores, Wireframes y Mockups de la versión desktop del landing page, y Wireframes de la versión desktop del web application. |
 |TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app|
 |TB1 |06/09/2024 |  Julca Cruz, Renso Anthony | Diseño de entrvistas, Analisis de Entrevistas, User Personas, User Task Matrix, User Journey Mapping, As-Is Scenario Mapping, Software Development Environment Configuration y Source Code Style Guide & Conventions. |
 |TB1 |06/09/2024 |Uribe Quispe, Jesús Guillermo | Descripción de la Startup, Antecedentes y Problemática, Estrategias y tácticas frente a competidores, Segmentos objetivos, Diseño de Base de Datos, Diagrama de clases, Wireframe y Mockup Landing Page|
@@ -65,7 +65,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 | Integrante | Tareas Asignadas |
 | ---------- | ---------------- |
 | Bohórquez Lerzundi, Gerardo Sebastián| Lean UX Problem Statement, Lean UX Canvas, User Stories, Web Style Guidelines, Information System, Domain-Driven Software Architecture.  |
- |Huanaco Huayte, Elizabeth Lucero | |
+ |Huanaco Huayte, Elizabeth Lucero | Lean UX Assumptions, Competidores, Análisis competitivo, Estrategias frente a competidores, Wireframes y Mockups de la versión desktop del landing page, y Wireframes de la versión desktop del web application.|
 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app |
 |  Julca Cruz, Renso Anthony | Diseño de entrvistas, Analisis de Entrevistas, User Personas, User Task Matrix, User Journey Mapping, As-Is Scenario Mapping, Software Development Environment Configuration y Source Code Style Guide & Conventions. |
 |Uribe Quispe, Jesús Guillermo | Descripción de la Startup, Antecedentes y Problemática, Estrategias y tácticas frente a competidores, Segmentos objetivos, Diseño de Base de Datos, Diagrama de clases, Wireframe y Mockup Landing Page|
@@ -79,7 +79,7 @@ Los integrantes son:
 - Huanaco Huayta, Elizabeth Lucero(lucerohh)
 - Jimenez Melgar, Daniel Luciano(Gatetogod)
 - Julca Cruz, Renzo Anthony(racj02)
-- Uribe Quispe, Jesús Guillermo()
+- Uribe Quispe, Jesús Guillermo(JesusU27)
 
 ## STUDENT OUTCOME
 ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
@@ -87,8 +87,8 @@ ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miemb
 
 | Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta      | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br>  Desarrollé el Lean UX Problem Statement, Lean UX Canvas y User Stories, y participé en la definición de la arquitectura de software orientada al dominio. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Realicé un análisis de competidores, llevé a cabo entrevistas, y elaboré un User Task Matrix para identificar las tareas críticas de la aplicación. También creé un glosario de Ubiquitous Language y diseñé wireframes y mock-ups para la versión móvil del landing page, así como para la aplicación web, asegurando una experiencia de usuario eficiente y funcional. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (tb1) <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> El liderazgo conjunto permitió tomar decisiones alineadas y enfocadas en resolver problemas clave del proyecto. El trabajo en equipo mejoró la definición de requisitos y la calidad de nuestras soluciones. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> La colaboración entre los miembros del equipo fue clave para alinear los objetivos del producto y diseñar soluciones efectivas que respondan a las necesidades de nustros futuros usuarios. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Con el trabajo aprendimos la colaboración en equipo sacando adelante mediante lluvia de ideas, para poder mejorar e impulsar el desarrollo del mismo. Tnemos una visión excelente para el desarrollo de nuestro trabajo para poder cubrir esa necesidad a nuestro publico objetivo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable                                                                                      |
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (tb1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Elaboré las Web Style Guidelines, diseñé el Information System, y planifiqué tareas usando Lean UX, manteniendo un enfoque centrado en el usuario. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Investigué los Competidores y realicé un Análisis de Competidores detallado para identificar sus características, ventajas y debilidades. Conduje Entrevistas con posibles usuarios. Además, elaboré un User Task Matrix para definir las tareas prioritarias que los usuarios deben completar en la plataforma. Creé un glosario de Ubiquitous Language para asegurar una comunicación clara y sin ambigüedades. Finalmente, diseñé Wireframes y Mock-ups para la versión móvil del landing page y Web App. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe Jesús Guillermo** <br> **TB1:** <br> A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimineto de varios objetivos. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (tb1) <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> Un entorno inclusivo facilitó la planificación efectiva y el cumplimiento de objetivos. La colaboración constante ayudó a integrar ideas diversas y a lograr una experiencia de usuario coherente. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Fomentar la colaboración y establecer un ambiente inclusivo permitió que el equipo se alineara en torno a metas comunes, mejorando la productividad y alcanzando los objetivos planificados de manera satisfactoria. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Se fomento el trabajo en equipo uniendo ideas mediante llucias de iseas y plasmando en ellas un mejor camino para nuestro trabajo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Fomentamos la colaboración, el trabajo en equipo y la designación de tareas del informe para poder entregar el proyecto exitosamente. <br>  <br>
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Participé activamente en las reuniones de coordinación para definir nuestro caso de negocio. A partir de estas reuniones, desarrollé los Lean UX Assumptions, investigué sobre los competidores actuales en el mercado, y con esa información realicé un análisis competitivo, así como la redacción de estrategias a aplicar frente a nuestros competidores. Además, coordiné con los miembros del equipo asignados para establecer los parámetros que debíamos seguir en la elaboración de los wireframes y mockups. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br>  Desarrollé el Lean UX Problem Statement, Lean UX Canvas y User Stories, y participé en la definición de la arquitectura de software orientada al dominio. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Realicé un análisis de competidores, llevé a cabo entrevistas, y elaboré un User Task Matrix para identificar las tareas críticas de la aplicación. También creé un glosario de Ubiquitous Language y diseñé wireframes y mock-ups para la versión móvil del landing page, así como para la aplicación web, asegurando una experiencia de usuario eficiente y funcional. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Esta fase del proyecto no solo nos permitió mejorar nuestras habilidades de trabajo en equipo, también nos ayudó a cumplir eficientemente con las actividades asignadas y alcanzar los objetivos establecidos en relación con el caso de negocio. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> El liderazgo conjunto permitió tomar decisiones alineadas y enfocadas en resolver problemas clave del proyecto. El trabajo en equipo mejoró la definición de requisitos y la calidad de nuestras soluciones. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> La colaboración entre los miembros del equipo fue clave para alinear los objetivos del producto y diseñar soluciones efectivas que respondan a las necesidades de nustros futuros usuarios. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Con el trabajo aprendimos la colaboración en equipo sacando adelante mediante lluvia de ideas, para poder mejorar e impulsar el desarrollo del mismo. Tnemos una visión excelente para el desarrollo de nuestro trabajo para poder cubrir esa necesidad a nuestro publico objetivo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable                                                                                      |
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Coordinamos como equipo para elaborar de manera conjunta los wireframes y mockups del landing page, así como los wireframes y mock-ups de la web application. Para lograrlo, establecimos un entorno colaborativo y planificamos las tareas de forma estructurada, asegurando que se cumpliera con el diseño del producto en los plazos acordados. Además, participé en las reuniones de planificación para desarrollar el Lean UX Assumptions, lo que nos permitió tener claros los objetivos del proyecto desde el inicio. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Elaboré las Web Style Guidelines, diseñé el Information System, y planifiqué tareas usando Lean UX, manteniendo un enfoque centrado en el usuario. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Investigué los Competidores y realicé un Análisis de Competidores detallado para identificar sus características, ventajas y debilidades. Conduje Entrevistas con posibles usuarios. Además, elaboré un User Task Matrix para definir las tareas prioritarias que los usuarios deben completar en la plataforma. Creé un glosario de Ubiquitous Language para asegurar una comunicación clara y sin ambigüedades. Finalmente, diseñé Wireframes y Mock-ups para la versión móvil del landing page y Web App. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe Jesús Guillermo** <br> **TB1:** <br> A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimineto de varios objetivos. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Promover la colaboración permitió que el equipo se enfocara en metas compartidas, lo que mejoró la eficiencia y nos ayudó a cumplir los objetivos planificados de manera exitosa. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> Un entorno inclusivo facilitó la planificación efectiva y el cumplimiento de objetivos. La colaboración constante ayudó a integrar ideas diversas y a lograr una experiencia de usuario coherente. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Fomentar la colaboración y establecer un ambiente inclusivo permitió que el equipo se alineara en torno a metas comunes, mejorando la productividad y alcanzando los objetivos planificados de manera satisfactoria. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Se fomento el trabajo en equipo uniendo ideas mediante llucias de iseas y plasmando en ellas un mejor camino para nuestro trabajo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Fomentamos la colaboración, el trabajo en equipo y la designación de tareas del informe para poder entregar el proyecto exitosamente. <br>  <br>
 
 ## Contenido
 
@@ -1268,7 +1268,72 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <div id= '4.4.'><h3>4.4. Web Applications UX/UI Design.</h3></div>
 <div id= '4.4.1'><h4>4.4.1. Web Applications Wireframes.</h4></div>
 <div id= '4.4.2'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
-<div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups.</h4></div>
+<div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups</h4></div>
+
+**Registro**
+<img src="Img/product-design/web-application/Registro.png" alt="Registro">
+
+**Iniciar sesión**
+
+<img src="Img/product-design/web-application/Inicio de sesión.png" alt="Inicio de sesión">
+
+**Dashboard**
+
+<img src="Img/product-design/web-application/Dashboard.png" alt="Dashboard">
+
+**Citas**
+
+<img src="Img/product-design/web-application/Opciones citas.png" alt="Operaciones citas">
+<img src="Img/product-design/web-application/Reserva de citas.png" alt="Reserva de citas">
+<img src="Img/product-design/web-application/Eliminar citas.png" alt="Eliminar citas">
+<img src="Img/product-design/web-application/Modificar citas.png" alt="Modificar citas">
+
+**Pagos**
+
+<img src="Img/product-design/web-application/Pagos_ Citas a pagar.png" alt="Pagos">
+<img src="Img/product-design/web-application/Pagos_ Filtros para buscar facturas.png" alt="Pagos">
+<img src="Img/product-design/web-application/Pagos_ pagar cita.png" alt="Pagos">
+<img src="Img/product-design/web-application/Pagos_ pago exitoso.png" alt="Pagos">
+<img src="Img/product-design/web-application/Pagos_ Vista de una factura.png" alt="Pagos">
+
+**Pacientes**
+
+<img src="Img/product-design/web-application/Historial clinico.png" alt="Historial clinico">
+<img src="Img/product-design/web-application/Paciente Editar ficha de seguimiento.png" alt="Historial clinico">
+<img src="Img/product-design/web-application/Paciente Editar ficha personal.png" alt="Historial clinico">
+
+**Especialistas**
+
+<img src="Img/product-design/web-application/Especialistas.png" alt="Especialistas">
+<img src="Img/product-design/web-application/Especialistas_ Nuevo especialista.png" alt="Especialistas">
+<img src="Img/product-design/web-application/Especialistas_ confirmar eliminar.png" alt="Especialistas">
+<img src="Img/product-design/web-application/Especialistas_ Horarios disponibles.png" alt="Especialistas">
+
+**Soporte**
+
+<img src="Img/product-design/web-application/Soporte.png" alt="Soporte">
+
+**Inventario**
+
+<img src="Img/product-design/web-application/Inventario.png" alt="Inventario">
+<img src="Img/product-design/web-application/Inventario_ Nuevo producto.png" alt="Inventario">
+<img src="Img/product-design/web-application/Inventario_ Eliminar producto.png" alt="Inventario">
+
+**Informes**
+
+<img src="Img/product-design/web-application/Informes_ Generar informe.png" alt="Informes">
+
+**Métricas**
+
+<img src="Img/product-design/web-application/Métricas_ Gráficos.png" alt="Métricas">
+
+**Notificaciones**
+<img src="Img/product-design/web-application/Notificaciones.png" alt="Notificaciones">
+
+**Perfil**
+<img src="Img/product-design/web-application/Perfil_ Cambiar contrasenia.png" alt="Perfil">
+<img src="Img/product-design/web-application/Perfil_ Editar información personal.png" alt="Perfil">
+
 <div id= '4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
 <div id= '4.5.'><h3>4.5. Web Applications Prototyping.</h4></div>
 <div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
