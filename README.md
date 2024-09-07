@@ -75,7 +75,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
 
 Los integrantes son:
-- Bohórquez Lerzundi, Gerardo Sebastián()
+- Bohórquez Lerzundi, Gerardo Sebastián(Sebasbl562)
 - Huanaco Huayta, Elizabeth Lucero(lucerohh)
 - Jimenez Melgar, Daniel Luciano(Gatetogod)
 - Julca Cruz, Renzo Anthony()
@@ -425,6 +425,9 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 - Creemos que al integrar opciones de pago en línea y generar facturas automáticas, simplificamos el proceso de facturación para los dentistas y pacientes. Sabemos que estamos logrando este objetivo cuando más del 80% de los pagos se procesan en línea sin problemas y se reduce el tiempo de emisión de facturas.
 
 - Creemos que al proporcionar recursos educativos sobre cuidados dentales y consejos de higiene, mejoraremos la educación del paciente y su compromiso con el tratamiento. Sabemos que estamos educando a los pacientes cuando más del 60% de ellos interactúan regularmente con estos recursos y se registra un incremento en la satisfacción del paciente.
+
+<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas </h5></div>
+<img src="https://github.com/TFOpenSource/Documentation-TF/blob/main/Img/canvas.jpg" alt="Lean Ux Canvas" style="margin-bottom: 5px;" width="800"/>
 
 <div id='2.'><h2>Capítulo II: Requirements Elicitation & Analysis</h2></div>
 
