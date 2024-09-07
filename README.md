@@ -1636,6 +1636,19 @@ Interacción cuando un cliente gestiona los especialistas y sus métricas
 <br><br>
 
 <div id= '4.5.'><h3>4.5. Web Applications Prototyping.</h4></div>
+
+Para diseñar los prototipos de la interfaz de usuario para Desktop y Mobile Web Browser, se siguieron varios criterios clave:
+
+1. Claridad y Simplicidad: Se buscó que la navegación en la aplicación fuera intuitiva y fácil de entender, permitiendo a los usuarios comprender plenamente las funciones, como el registro de procesos y la visualización de informes estadísticos.
+   
+2. Diseño Responsivo: Se consideró esencial asegurar que la aplicación web fuera compatible con diferentes tamaños de pantalla, garantizando que los usuarios puedan acceder sin limitaciones, independientemente del dispositivo que utilicen.
+
+3. Enfoque en la Información Relevante: El diseño prioriza la presentación de la información más importante para los usuarios del segmento objetivo, evitando sobrecargar la interfaz.
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/prototype.png">
+
+Enlace del Prototype: https://www.figma.com/design/6fL6lP76J7kZqHFRPzoKLR/Landing-page-%2F-Desarrollo-de-aplicaciones-web?node-id=0-1&node-type=CANVAS&t=MfzOZR4gVNwmIWD6-0
+
 <div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
 <div id= '4.6.1.'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
  <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/context-diagram.png" alt="Diagrama Contexto" style="margin-bottom: 5px;" width="600"/>
