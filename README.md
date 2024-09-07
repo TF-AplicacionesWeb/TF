@@ -320,6 +320,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
 </table>
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
+
 **Antecedentes:**
 
 La gestión de pacientes en consultorios dentales ha evolucionado significativamente con la incorporación de tecnologías digitales, facilitando procesos como la programación de citas, la actualización de historiales médicos y la comunicación entre el personal médico y los pacientes. Cabe resaltar que el desarrollo de salud digital en Perú no está del todo consolidado, pero si en un crecimiento moderado. Según (INEI, 2022), menciona que el porcentaje total de personas que tienen acceso a internet es de un 72.7% en 2022, con respecto al 2020 en la cual solo abarcaba el 64.5%. Por tanto, al ver dicho crecimiento, nos proponemos brindar e impulsar la digitalización en consultorios dentales para abarcar a más personas que necesiten una gestión optimizada y eficaz de sus pacientes.
@@ -429,6 +430,23 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas </h5></div>
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/canvas.jpg.png" alt="Lean Ux Canvas" style="margin-bottom: 5px;" width="800"/>
 
+<div id='1.3.'><h3> 1.3 Segmentos Objetivos</h3></div>
+
+En esta sección, definiremos los perfiles específicos del público objetivo para un producto o servicio. Estos grupos comparten características demográficas, comportamientos o necesidades similares, lo que les diferencia de otros segmentos del mercado y permite ajustar estrategias para satisfacer sus expectativas de manera más efectiva.
+
+- **Segmento demográfico:**
+Dentistas que poseen un ingreso medio y que tienen la capacidad de hacer una inversión en herramientas y sistemas que mejoren su gestión de pacientes.
+
+- **Segmento geográfico:**
+Dentistas en áreas urbanas con una base de pacientes significativa.
+
+- **Segmento psicográfico:**
+Profesionales que buscan optimizar sus prácticas y ofrecer un mejor servicio a sus pacientes.
+
+- **Segmento Conductual:**
+Dentistas que buscan y necesitan herramientas para optimizar su gestión de citas.
+
+
 <div id='2.'><h2>Capítulo II: Requirements Elicitation & Analysis</h2></div>
 
 <div id='2.1.'><h3> 2.1 Competidores</h3></div>
@@ -489,6 +507,9 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 7. ¿Qué haces para asegurarte de que los pacientes regresen para sus revisiones periódicas?
 8. ¿Cómo evalúas el éxito de tu práctica y qué tipo de información revisas para decidir si necesitas ajustar tu carga de trabajo o tarifas?
 9. ¿Cómo determinar qué tratamientos y servicios son más rentables para tu práctica, y si tomas decisiones sobre la expansión o reducción de ciertos servicios basándote en la demanda de los pacientes?
+
+
+<div id='2.2.2.'><h3> 2.2.2. Entrevistas</h3></div>
 
 <table>
   <tr align="center">
@@ -594,6 +615,7 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 **Resumen**
 - Mariluz Cruz Lucero organiza eficientemente su consultorio odontológico, asegurando que las citas y pagos se realicen sin contratiempos, gracias a una planificación detallada y un riguroso sistema de registro de tratamientos. Utiliza listas de precios estandarizadas para las conversaciones sobre costos y mantiene un seguimiento cercano de los pagos, minimizando el riesgo de deudas pendientes. Valora el feedback de los pacientes, lo que le permite ajustar y mejorar su práctica continuamente. Además, se enfoca en la rentabilidad mediante la adaptación a la demanda local y la especialización en servicios específicos, lo que contribuye a la sostenibilidad y éxito de su consultorio.
 
+<div id='2.3.'><h3> 2.3. NeedFinding. </h3></div>
 
 <div id='2.3.1.'><h4> 2.3.1. User Personas.</h4></div>
 
@@ -1250,9 +1272,9 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <div id= '4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
 <div id= '4.5.'><h3>4.5. Web Applications Prototyping.</h4></div>
 <div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
-<div id= '4.6.1'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
+<div id= '4.6.1.'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
  <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/context-diagram.png" alt="Diagrama Contexto" style="margin-bottom: 5px;" width="600"/>
-<div id= '4.6.2'><h4>4.6.2. Software Architecture Container Diagrams.</h4></div>
+<div id= '4.6.2.'><h4>4.6.2. Software Architecture Container Diagrams.</h4></div>
  <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/container-diagram.png" alt="Diagrama contenedores" style="margin-bottom: 5px;" width="600"/>
 <div id= '4.6.3.'><h4>4.6.3. Software Architecture Components Diagrams.</h4></div>
  <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/componente-diagram.png" alt="Diagrama de componentes" style="margin-bottom: 5px;" width="600"/>
@@ -1749,7 +1771,7 @@ En este primer Sprint, solo una persona subió los archivos con extensión ".fea
     <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
   
-  </tbody></table
+  </tbody></table>
 
 <div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review. </h5></div>
 La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la landing page, destacando el avance por secciones clave como el menú principal, la presentación de la empresa, los servicios ofrecidos, y la interacción con los usuarios a través del formulario de contacto. Cada tarea aborda un componente fundamental de la página, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con los objetivos específicos de informar y atraer a los visitantes. Además, la implementación de un formulario de contacto facilita la interacción directa con los usuarios, una funcionalidad esencial para una landing page exitosa.
