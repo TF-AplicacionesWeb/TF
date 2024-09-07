@@ -1280,6 +1280,21 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <img src="Img/product-design/landing-page/Contactanos2.png" alt="Contactanos">
 
 <div id= '4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>
+
+**Nosotros**
+
+<img src="Img/product-design/landing-page/m-Nosotros.png" alt="Nosotros">
+
+**Servicios**
+
+<img src="Img/product-design/landing-page/m-Servicios.png" alt="Servicios">
+
+
+**Contáctanos**
+
+<img src="Img/product-design/landing-page/m-Contactanos.png" alt="Contactanos">
+<img src="Img/product-design/landing-page/m-Contactanos2.png" alt="Contactanos">
+
 <div id= '4.4.'><h3>4.4. Web Applications UX/UI Design.</h3></div>
 <div id= '4.4.1'><h4>4.4.1. Web Applications Wireframes.</h4></div>
 
