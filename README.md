@@ -1466,6 +1466,45 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <img src="Img/product-design/web-application/w-Perfil_ Cambiar contrasenia.png" alt="Perfil">
 <img src="Img/product-design/web-application/w-Perfil_ Editar información personal.png" alt="Perfil">
 
+**Mobile** <br>
+**Register** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/register_wm.png" alt="Register" style="margin-bottom: 5px;" width="250">
+
+**Login** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/login_wm.png" alt="Login" style="margin-bottom: 5px;" width="250">
+
+**Perfil** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/perfil_wm.png" alt="Perfil" style="margin-bottom: 5px;" width="250">
+
+**Aplicacion** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/notificaciones_wm.png" alt="Notificaciones" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/esoecialista_wm.png" alt="Especialista" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/facutra_wm.png" alt="Factura" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/fichaseguimiento_wm.png" alt="FichaSeguimiento" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/historialcitas_wm.png" alt="Historial de citas" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/historialclinico_wm.png" alt="Historial clinico" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/inventario_wm.png" alt="Inventario" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/metricas_wm.png" alt="Metricas" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/nuevopaciente_wm.png" alt="Nuevo Paciente" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/nuevopro_wm.png" alt="Nuevo Productos" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/pagos_wm.png" alt="Pagos" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/soporte_wm.png" alt="Soporte" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/reservacita_wm.png" alt="Reserva cita" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/registrarpago_wm.png" alt="Registrar Pagos" style="margin-bottom: 5px;" width="250">
+
 <div id= '4.4.2'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
 
 <div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups</h4></div>
@@ -1535,16 +1574,16 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Perfil_ Editar información personal.png" alt="Perfil">
 
 **Mobile** <br>
-**Register**
+**Register** <br>
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_register.png" alt="Register" style="margin-bottom: 5px;" width="250">
 
-**Login**
+**Login** <br>
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_login.png" alt="Login" style="margin-bottom: 5px;" width="250">
 
-**Perfil**
+**Perfil** <br>
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_perfil.png" alt="Perfil" style="margin-bottom: 5px;" width="250">
 
-**Aplicacion**
+**Aplicacion** <br>
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_notificaciones.png" alt="Notificaciones" style="margin-bottom: 5px;" width="250">
 
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_especialista.png" alt="Especialista" style="margin-bottom: 5px;" width="250">
