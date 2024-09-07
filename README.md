@@ -1534,6 +1534,27 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 
 <div id= '4.4.2'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
 
+Enlace Figma: https://www.figma.com/design/6fL6lP76J7kZqHFRPzoKLR/Landing-page-%2F-Desarrollo-de-aplicaciones-web?node-id=0-1&node-type=CANVAS&t=MfzOZR4gVNwmIWD6-0 <br>
+
+User Goal: Registrar usuario <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 1.png" alt="Diagrama 1"> <br>
+User Goal: Gestionar citas  <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 2.png" alt="Diagrama 2"> <br>
+User Goal: Gestionar pagos <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 3.png" alt="Diagrama 3"> <br>
+User Goal: Gestionar historial clinico  <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 4.png" alt="Diagrama 4"> <br>
+User Goal: Gestionar Perfil <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 5.png" alt="Diagrama 5"> <br>
+User Goal: Gestionar inventario  <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 6.png" alt="Diagrama 6"> <br>
+User Goal: Gestionar informes <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 7.png" alt="Diagrama 7"> <br>
+User Goal: Observar métricas <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 8.png" alt="Diagrama 8"> <br>
+User Goal: Ver especialistas <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 9.png" alt="Diagrama 9"> <br>
+
 <div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups</h4></div>
 
 **Registro**
