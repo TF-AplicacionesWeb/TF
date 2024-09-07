@@ -1805,6 +1805,20 @@ Evidencia de despliegue en github Pages:
 | Julca Cruz, Renso Anthony | Implementación de la sección contacto.|
 | Uribe Quispe, Jesús Guillermo | Implementación de la sección de modales de Login e información de servicios.|
 
+<div id='6.'><h2>6. Conclusiones</h2></div>
+
+La aplicación web desarrollada para la gestión de odontologías ha logrado cumplir con los objetivos establecidos relacionados a este entregable, proporcionando una landing page intuitiva y eficiente para dar a conocer la aplicación web de administración de clínicas. El enfoque utilizado permitió priorizar las funcionalidades clave, optimizar la experiencia de usuario y garantizar un rendimiento adecuado en su entorno de implementación tanto como para la Landing page, así como también para la aplicación web. Como resultado, el producto resultado de esta primera entrega es una herramienta que da a conocer "MediTech" y su producto llamado "Dentify" gracias a la fácil interacción con el público.
+
+
+<div id='7.'><h2>7. Bibliografía</h2></div>
+
+Elmasri, R., & Navathe, S. B. (2016). Fundamentals of database systems (7th ed.). Pearson.
+Booch, G., Rumbaugh, J., & Jacobson, I. (2005). The unified modeling language user guide (2nd ed.). Addison-Wesley.
+Driessen, V. (2010). A successful Git branching model. nvie.com. https://nvie.com/posts/a-successful-git-branching-model/
+Otto, M., & Thornton, J. (2011). Bootstrap. Bootstrap Documentation. Twitter. https://getbootstrap.com
+GitHub. (2023). GitHub Pages documentation. GitHub. https://docs.github.com/en/pages
+
+
 
 
 
