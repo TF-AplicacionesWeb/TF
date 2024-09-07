@@ -1381,6 +1381,19 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <img src="Img/product-design/landing-page/Contactanos.png" alt="Contactanos">
 <img src="Img/product-design/landing-page/Contactanos2.png" alt="Contactanos">
 
+**Mobile** <br>
+**Nosotros** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_nosotros.png" alt="Nosotros" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_nosotros2.png" alt="Nosotros2" style="margin-bottom: 5px;" width="250">
+
+**Servicios** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_servicios.png" alt="Servicios" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_servicios2.png" alt="Servicios2" style="margin-bottom: 5px;" width="250">
+
+**Contactenos** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_contactenos.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_contactenos2.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
+
 <div id= '4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>
 
 **Nosotros**
@@ -1397,7 +1410,22 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <img src="Img/product-design/landing-page/m-Contactanos.png" alt="Contactanos">
 <img src="Img/product-design/landing-page/m-Contactanos2.png" alt="Contactanos">
 
+**Mobile** <br>
+**Nosotros** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_nosotros.png" alt="Nosotros" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_nosotros2.png" alt="Nosotros2" style="margin-bottom: 5px;" width="250">
+
+**Servicios** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_servicios.png" alt="Servicios" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_servicios2.png" alt="Servicios2" style="margin-bottom: 5px;" width="250">
+
+**Contactenos** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_contactenos.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_contactenos2.png" alt="Contactenos2" style="margin-bottom: 5px;" width="250">
+
+
 <div id= '4.4.'><h3>4.4. Web Applications UX/UI Design.</h3></div>
+
 <div id= '4.4.1'><h4>4.4.1. Web Applications Wireframes.</h4></div>
 
 **Registro**
@@ -1464,6 +1492,45 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 
 <img src="Img/product-design/web-application/w-Perfil_ Cambiar contrasenia.png" alt="Perfil">
 <img src="Img/product-design/web-application/w-Perfil_ Editar información personal.png" alt="Perfil">
+
+**Mobile** <br>
+**Register** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/register_wm.png" alt="Register" style="margin-bottom: 5px;" width="250">
+
+**Login** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/login_wm.png" alt="Login" style="margin-bottom: 5px;" width="250">
+
+**Perfil** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/perfil_wm.png" alt="Perfil" style="margin-bottom: 5px;" width="250">
+
+**Aplicacion** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/notificaciones_wm.png" alt="Notificaciones" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/esoecialista_wm.png" alt="Especialista" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/facutra_wm.png" alt="Factura" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/fichaseguimiento_wm.png" alt="FichaSeguimiento" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/historialcitas_wm.png" alt="Historial de citas" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/historialclinico_wm.png" alt="Historial clinico" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/inventario_wm.png" alt="Inventario" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/metricas_wm.png" alt="Metricas" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/nuevopaciente_wm.png" alt="Nuevo Paciente" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/nuevopro_wm.png" alt="Nuevo Productos" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/pagos_wm.png" alt="Pagos" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/soporte_wm.png" alt="Soporte" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/reservacita_wm.png" alt="Reserva cita" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/registrarpago_wm.png" alt="Registrar Pagos" style="margin-bottom: 5px;" width="250">
 
 <div id= '4.4.2'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
 
@@ -1554,7 +1621,68 @@ User Goal: Ver especialistas <br>
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Perfil_ Cambiar contrasenia.png" alt="Perfil">
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Perfil_ Editar información personal.png" alt="Perfil">
 
+**Mobile** <br>
+**Register** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_register.png" alt="Register" style="margin-bottom: 5px;" width="250">
+
+**Login** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_login.png" alt="Login" style="margin-bottom: 5px;" width="250">
+
+**Perfil** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_perfil.png" alt="Perfil" style="margin-bottom: 5px;" width="250">
+
+**Aplicacion** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_notificaciones.png" alt="Notificaciones" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_especialista.png" alt="Especialista" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_pagos.png" alt="Pagos" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_ficha%20seguimiento.png" alt="FichaSeguimiento" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_historialcitas.png" alt="Historial de citas" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_historialclinico.png" alt="Historial clinico" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_iventario.png" alt="Inventario" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_metricas.png" alt="Metricas" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_soporte.png" alt="Soporte" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_reservacitas.png" alt="Reserva cita" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_dashboard.png" alt="Dashboard" style="margin-bottom: 5px;" width="250">
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_buevopaciente.png" alt="Nuevo Paciente" style="margin-bottom: 5px;" width="250">
+
 <div id= '4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
+
+Interacción cuando un cliente se registra y procede a gestionar una cita médica
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20251.png">
+<br><br>
+Interacción cuando un cliente realiza y gestiona los pagos
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20252.png">
+<br><br>
+Interacción cuando un cliente registra un paciente con su historial clinico
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20253.png">
+<br><br>
+Interacción cuando un cliente gestiona su perfil
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20254.png">
+<br><br>
+Interacción cuando un cliente gestiona el inventariado de la clínica
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20255.png">
+<br><br>
+Interacción cuando un cliente genera un informe
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20256.png">
+<br><br>
+Interacción cuando un cliente genera el Dashboard
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20257.png">
+<br><br>
+Interacción cuando un cliente gestiona los especialistas y sus métricas
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20252.png">
+<br><br>
+
 <div id= '4.5.'><h3>4.5. Web Applications Prototyping.</h4></div>
 
 Para diseñar los prototipos de la interfaz de usuario para Desktop y Mobile Web Browser, se siguieron varios criterios clave:
