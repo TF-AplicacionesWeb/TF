@@ -79,7 +79,7 @@ Los integrantes son:
 - Huanaco Huayta, Elizabeth Lucero(lucerohh)
 - Jimenez Melgar, Daniel Luciano(Gatetogod)
 - Julca Cruz, Renzo Anthony(racj02)
-- Uribe Quispe, Jesús Guillermo()
+- Uribe Quispe, Jesús Guillermo(JesusU27)
 
 ## STUDENT OUTCOME
 ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
