@@ -913,10 +913,10 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
   </tr>
 </tbody></table>
 
-
 <div id='3.3.'><h3>3.3. Impact Mapping</h3></div>
 
-<div id='3.3.'><h3> 3.3 Impact Mapping.</h4></div>
+<img src="Img/imagen_2024-09-06_194915409.png" alt="Impact Mapping">
+
 <div id='3.4.'><h3> 3.4 Product Backlog.</h4></div>
 El "Product Backlog" es una herramienta esencial en la metodología ágil de desarrollo de software. Consiste en una lista priorizada de todas las tareas, user stories, y epics que deben ser completadas para llevar a cabo el desarrollo del producto final. Este backlog es dinámico y evoluciona constantemente en respuesta a las necesidades del negocio, los comentarios de los usuarios y los cambios en el mercado
 
