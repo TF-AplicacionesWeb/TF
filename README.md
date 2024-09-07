@@ -40,6 +40,9 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 |TB1 |06/09/2024 |Huanaco Huayte, Elizabeth Lucero | |
 |TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, Mock-ups del Web app, y prototype mobile y desktop del Web App |
 |TB1 |06/09/2024 |  Julca Cruz, Renzo Anthony ||
+|TB1 |06/09/2024 |Huanaco Huayta, Elizabeth Lucero | Lean UX Assumptions, Competidores, Análisis competitivo, Estrategias frente a competidores, Wireframes y Mockups de la versión desktop del landing page, y Wireframes de la versión desktop del web application. |
+|TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app|
+|TB1 |06/09/2024 |  Julca Cruz, Renso Anthony | Diseño de entrvistas, Analisis de Entrevistas, User Personas, User Task Matrix, User Journey Mapping, As-Is Scenario Mapping, Software Development Environment Configuration y Source Code Style Guide & Conventions. |
 |TB1 |06/09/2024 |Uribe Quispe, Jesús Guillermo | Descripción de la Startup, Antecedentes y Problemática, Estrategias y tácticas frente a competidores, Segmentos objetivos, Diseño de Base de Datos, Diagrama de clases, Wireframe y Mockup Landing Page|
 
 ## Project Report Collaboration Insights
@@ -65,9 +68,9 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 | Integrante | Tareas Asignadas |
 | ---------- | ---------------- |
 | Bohórquez Lerzundi, Gerardo Sebastián| Lean UX Problem Statement, Lean UX Canvas, User Stories, Web Style Guidelines, Information System, Domain-Driven Software Architecture.  |
- |Huanaco Huayte, Elizabeth Lucero | |
+ |Huanaco Huayta, Elizabeth Lucero | Lean UX Assumptions, Competidores, Análisis competitivo, Estrategias frente a competidores, Wireframes y Mockups de la versión desktop del landing page, y Wireframes de la versión desktop del web application.|
 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app |
-|  Julca Cruz, Renzo Anthony ||
+|  Julca Cruz, Renso Anthony | Diseño de entrvistas, Analisis de Entrevistas, User Personas, User Task Matrix, User Journey Mapping, As-Is Scenario Mapping, Software Development Environment Configuration y Source Code Style Guide & Conventions. |
 |Uribe Quispe, Jesús Guillermo | Descripción de la Startup, Antecedentes y Problemática, Estrategias y tácticas frente a competidores, Segmentos objetivos, Diseño de Base de Datos, Diagrama de clases, Wireframe y Mockup Landing Page|
 
 **Github Collaboration Insights**
@@ -75,11 +78,11 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
 
 Los integrantes son:
-- Bohórquez Lerzundi, Gerardo Sebastián()
+- Bohórquez Lerzundi, Gerardo Sebastián(Sebasbl562)
 - Huanaco Huayta, Elizabeth Lucero(lucerohh)
 - Jimenez Melgar, Daniel Luciano(Gatetogod)
-- Julca Cruz, Renzo Anthony()
-- Uribe Quispe, Jesús Guillermo()
+- Julca Cruz, Renzo Anthony(racj02)
+- Uribe Quispe, Jesús Guillermo(JesusU27)
 
 ## STUDENT OUTCOME
 ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
@@ -87,8 +90,8 @@ ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miemb
 
 | Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta      | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> (tb1) <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Realicé un análisis de competidores, llevé a cabo entrevistas, y elaboré un User Task Matrix para identificar las tareas críticas de la aplicación. También creé un glosario de Ubiquitous Language y diseñé wireframes y mock-ups para la versión móvil del landing page, así como para la aplicación web, asegurando una experiencia de usuario eficiente y funcional. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> (tb1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. | **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> (tb1) <br> <br> <br> **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (tb1) <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> La colaboración entre los miembros del equipo fue clave para alinear los objetivos del producto y diseñar soluciones efectivas que respondan a las necesidades de nustros futuros usuarios. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br>  <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable                                                                                      |
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (tb1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> (tb1) <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Investigué los Competidores y realicé un Análisis de Competidores detallado para identificar sus características, ventajas y debilidades. Conduje Entrevistas con posibles usuarios. Además, elaboré un User Task Matrix para definir las tareas prioritarias que los usuarios deben completar en la plataforma. Creé un glosario de Ubiquitous Language para asegurar una comunicación clara y sin ambigüedades. Finalmente, diseñé Wireframes y Mock-ups para la versión móvil del landing page y Web App. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> (tb1) <br> <br> <br> **Uribe Quispe Jesús Guillermo** <br> **TB1:** <br> A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimineto de varios objetivos. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (tb1) <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> (tb1) <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Fomentar la colaboración y establecer un ambiente inclusivo permitió que el equipo se alineara en torno a metas comunes, mejorando la productividad y alcanzando los objetivos planificados de manera satisfactoria. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> (tb1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Fomentamos la colaboración, el trabajo en equipo y la designación de tareas del informe para poder entregar el proyecto exitosamente. <br>  <br>
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Participé activamente en las reuniones de coordinación para definir nuestro caso de negocio. A partir de estas reuniones, desarrollé los Lean UX Assumptions, investigué sobre los competidores actuales en el mercado, y con esa información realicé un análisis competitivo, así como la redacción de estrategias a aplicar frente a nuestros competidores. Además, coordiné con los miembros del equipo asignados para establecer los parámetros que debíamos seguir en la elaboración de los wireframes y mockups. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br>  Desarrollé el Lean UX Problem Statement, Lean UX Canvas y User Stories, y participé en la definición de la arquitectura de software orientada al dominio. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Realicé un análisis de competidores, llevé a cabo entrevistas, y elaboré un User Task Matrix para identificar las tareas críticas de la aplicación. También creé un glosario de Ubiquitous Language y diseñé wireframes y mock-ups para la versión móvil del landing page, así como para la aplicación web, asegurando una experiencia de usuario eficiente y funcional. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Esta fase del proyecto no solo nos permitió mejorar nuestras habilidades de trabajo en equipo, también nos ayudó a cumplir eficientemente con las actividades asignadas y alcanzar los objetivos establecidos en relación con el caso de negocio. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> El liderazgo conjunto permitió tomar decisiones alineadas y enfocadas en resolver problemas clave del proyecto. El trabajo en equipo mejoró la definición de requisitos y la calidad de nuestras soluciones. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> La colaboración entre los miembros del equipo fue clave para alinear los objetivos del producto y diseñar soluciones efectivas que respondan a las necesidades de nustros futuros usuarios. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Con el trabajo aprendimos la colaboración en equipo sacando adelante mediante lluvia de ideas, para poder mejorar e impulsar el desarrollo del mismo. Tnemos una visión excelente para el desarrollo de nuestro trabajo para poder cubrir esa necesidad a nuestro publico objetivo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable                                                                                      |
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Coordinamos como equipo para elaborar de manera conjunta los wireframes y mockups del landing page, así como los wireframes y mock-ups de la web application. Para lograrlo, establecimos un entorno colaborativo y planificamos las tareas de forma estructurada, asegurando que se cumpliera con el diseño del producto en los plazos acordados. Además, participé en las reuniones de planificación para desarrollar el Lean UX Assumptions, lo que nos permitió tener claros los objetivos del proyecto desde el inicio. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Elaboré las Web Style Guidelines, diseñé el Information System, y planifiqué tareas usando Lean UX, manteniendo un enfoque centrado en el usuario. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Investigué los Competidores y realicé un Análisis de Competidores detallado para identificar sus características, ventajas y debilidades. Conduje Entrevistas con posibles usuarios. Además, elaboré un User Task Matrix para definir las tareas prioritarias que los usuarios deben completar en la plataforma. Creé un glosario de Ubiquitous Language para asegurar una comunicación clara y sin ambigüedades. Finalmente, diseñé Wireframes y Mock-ups para la versión móvil del landing page y Web App. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe Jesús Guillermo** <br> **TB1:** <br> A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimineto de varios objetivos. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Promover la colaboración permitió que el equipo se enfocara en metas compartidas, lo que mejoró la eficiencia y nos ayudó a cumplir los objetivos planificados de manera exitosa. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> Un entorno inclusivo facilitó la planificación efectiva y el cumplimiento de objetivos. La colaboración constante ayudó a integrar ideas diversas y a lograr una experiencia de usuario coherente. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Fomentar la colaboración y establecer un ambiente inclusivo permitió que el equipo se alineara en torno a metas comunes, mejorando la productividad y alcanzando los objetivos planificados de manera satisfactoria. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Se fomento el trabajo en equipo uniendo ideas mediante llucias de iseas y plasmando en ellas un mejor camino para nuestro trabajo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Fomentamos la colaboración, el trabajo en equipo y la designación de tareas del informe para poder entregar el proyecto exitosamente. <br>  <br>
 
 ## Contenido
 
@@ -197,7 +200,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="Img/Bohorquez.jpg" alt="Bohorquez Lerzundi, Gerardo Sebastián" style="margin-bottom: 5px;" width="800"/> 
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Bohorquez.jpg" alt="Bohorquez Lerzundi, Gerardo Sebastián" style="margin-bottom: 5px;" width="800"/> 
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -221,7 +224,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="Img/Elizabeth-Huanaco.jpg" alt="Huanaco Huayta, Elizabeth Lucero" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Elizabeth-Huanaco.jpg" alt="Huanaco Huayta, Elizabeth Lucero" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -245,7 +248,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="Img/Daniel-foto.png" alt="Jimenez Melgar, Daniel Luciano" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Daniel-foto.png" alt="Jimenez Melgar, Daniel Luciano" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -269,7 +272,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="Img/imagen_2024-09-05_144636355.png" alt="Silva Tirado, Sebastián Valentino"  style="margin-bottom: 5px;" width="800"/>
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Julca-Cruz.jpg" alt="Julca Cruz, Renso Anthony"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido: </b>
@@ -281,14 +284,14 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
         <td align="left">
         <b>Carrera:</b>
         <br>
-        ---
+        Ingenieria de Software
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-         ---
+         Estudiante de Ingenieria de Software, actualmente curso el 5to ciclo de esta carrera. Me apasiona programar y ser autodidacta para poder mejorar mis habilidades en el desarrollo de software, quisiera dedicarme a la parte de gestion bancaria.
         </td>
     </tr>
     <tr align="center">
@@ -320,6 +323,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
 </table>
 <div id='1.2.'><h3> 1.2. Solution Profile</h3></div>
 <div id='1.2.1.'><h4> 1.2.1. Antecedentes y Problemática</h4></div>
+
 **Antecedentes:**
 
 La gestión de pacientes en consultorios dentales ha evolucionado significativamente con la incorporación de tecnologías digitales, facilitando procesos como la programación de citas, la actualización de historiales médicos y la comunicación entre el personal médico y los pacientes. Cabe resaltar que el desarrollo de salud digital en Perú no está del todo consolidado, pero si en un crecimiento moderado. Según (INEI, 2022), menciona que el porcentaje total de personas que tienen acceso a internet es de un 72.7% en 2022, con respecto al 2020 en la cual solo abarcaba el 64.5%. Por tanto, al ver dicho crecimiento, nos proponemos brindar e impulsar la digitalización en consultorios dentales para abarcar a más personas que necesiten una gestión optimizada y eficaz de sus pacientes.
@@ -426,19 +430,39 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 
 - Creemos que al proporcionar recursos educativos sobre cuidados dentales y consejos de higiene, mejoraremos la educación del paciente y su compromiso con el tratamiento. Sabemos que estamos educando a los pacientes cuando más del 60% de ellos interactúan regularmente con estos recursos y se registra un incremento en la satisfacción del paciente.
 
+<div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas </h5></div>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/canvas.jpg.png" alt="Lean Ux Canvas" style="margin-bottom: 5px;" width="800"/>
+
+<div id='1.3.'><h3> 1.3 Segmentos Objetivos</h3></div>
+
+En esta sección, definiremos los perfiles específicos del público objetivo para un producto o servicio. Estos grupos comparten características demográficas, comportamientos o necesidades similares, lo que les diferencia de otros segmentos del mercado y permite ajustar estrategias para satisfacer sus expectativas de manera más efectiva.
+
+- **Segmento demográfico:**
+Dentistas que poseen un ingreso medio y que tienen la capacidad de hacer una inversión en herramientas y sistemas que mejoren su gestión de pacientes.
+
+- **Segmento geográfico:**
+Dentistas en áreas urbanas con una base de pacientes significativa.
+
+- **Segmento psicográfico:**
+Profesionales que buscan optimizar sus prácticas y ofrecer un mejor servicio a sus pacientes.
+
+- **Segmento Conductual:**
+Dentistas que buscan y necesitan herramientas para optimizar su gestión de citas.
+
+
 <div id='2.'><h2>Capítulo II: Requirements Elicitation & Analysis</h2></div>
 
 <div id='2.1.'><h3> 2.1 Competidores</h3></div>
 
 | **Competidor**   |         **Descripción**                                                                                                                                 | **Características**                                                                                                                                       | **Logo** |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| **Panda Dental Software**  | Solución para clínicas dentales, que facilita la gestión de pacientes, facturación y análisis de datos. Ofrece automatización de procesos y soporte técnico. | - Historia clínica digital. <br> - Programación de citas. <br> - Monitoreo y registro de tratamientos realizados. <br> - Notificaciones por SMS y correo electrónico para citas. <br> - Estadísticas y reportes detallados. | <img src="Img/panda-dental-software-logo.png" alt="Logo Panda Dental Software" style="margin-bottom: 5px;" width="800"/>  |
-| **Dentrix**                | Dentrix es un software integral para consultorios dentales que optimiza la gestión del consultorio con herramientas avanzadas.                 | - Copias de seguridad de datos automatizadas <br> - Reclamos electrónicos <br> - Procesamiento de tarjetas de pago <br> - Estados de cuenta automatizados <br> - Herramientas de desarrollo de sitios web <br> - Recordatorios de citas <br> - Software de reconocimiento de voz | <img src="Img/dentrix-logo.png" alt="Logo Dentrix" style="margin-bottom: 5px;" width="800"/> |
-| **Curve Dental**           | Curve Dental es una plataforma basada en la nube para la gestión de clínicas dentales que proporciona una solución integral.                    | - Plataforma basada en la nube <br> - Gestión de citas y historiales clínicos <br> - Procesamiento de pagos y facturación <br> - Recetas electrónicas y formularios inteligentes <br> - Integración de imágenes clínicas y datos del paciente <br> - Interfaz intuitiva <br> - Informes dentales y paneles de control para la gestión financiera y operativa | <img src="Img/curve-dental-logo.png" alt="Logo Curve Dental" style="margin-bottom: 5px;" width="800"/> |
+| **Panda Dental Software**  | Solución para clínicas dentales, que facilita la gestión de pacientes, facturación y análisis de datos. Ofrece automatización de procesos y soporte técnico. | - Historia clínica digital. <br> - Programación de citas. <br> - Monitoreo y registro de tratamientos realizados. <br> - Notificaciones por SMS y correo electrónico para citas. <br> - Estadísticas y reportes detallados. | <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/panda-dental-software-logo.png" alt="Logo Panda Dental Software" style="margin-bottom: 5px;" width="800"/>  |
+| **Dentrix**                | Dentrix es un software integral para consultorios dentales que optimiza la gestión del consultorio con herramientas avanzadas.                 | - Copias de seguridad de datos automatizadas <br> - Reclamos electrónicos <br> - Procesamiento de tarjetas de pago <br> - Estados de cuenta automatizados <br> - Herramientas de desarrollo de sitios web <br> - Recordatorios de citas <br> - Software de reconocimiento de voz | <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/dentrix-logo.png" alt="Logo Dentrix" style="margin-bottom: 5px;" width="800"/> |
+| **Curve Dental**           | Curve Dental es una plataforma basada en la nube para la gestión de clínicas dentales que proporciona una solución integral.                    | - Plataforma basada en la nube <br> - Gestión de citas y historiales clínicos <br> - Procesamiento de pagos y facturación <br> - Recetas electrónicas y formularios inteligentes <br> - Integración de imágenes clínicas y datos del paciente <br> - Interfaz intuitiva <br> - Informes dentales y paneles de control para la gestión financiera y operativa | <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/curve-dental-logo.png" alt="Logo Curve Dental" style="margin-bottom: 5px;" width="800"/> |
 
 <div id='2.1.1.'><h4> 2.1.1 Análisis competitivo</h4></div>
 
-| **Competidor**   | **Dentify** <br> <img src="Img/Dentify-logo.png" alt="Logo Dentify" style="width:60px;">  | **Panda Dental Software** <br> <img src="Img/panda-dental-software-logo.png" alt="Logo Panda Dental Software" style="width:100px;"> | **Dentrix** <br> <img src="Img/dentrix-logo.png" alt="Logo Dentrix" style="width:100px;"> | **Curve Dental** <br> <img src="Img/curve-dental-logo.png" alt="Logo Curve Dental" style="width:100px;">  |
+| **Competidor**   | **Dentify** <br> <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Dentify-logo.png" alt="Logo Dentify" style="width:60px;">  | **Panda Dental Software** <br> <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/panda-dental-software-logo.png" alt="Logo Panda Dental Software" style="width:100px;"> | **Dentrix** <br> <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/dentrix-logo.png" alt="Logo Dentrix" style="width:100px;"> | **Curve Dental** <br> <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/curve-dental-logo.png" alt="Logo Curve Dental" style="width:100px;">  |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Perfil Overview**     | Aplicación web diseñada para optimizar la gestión de clínicas dentales mediante funcionalidades, como la gestión de pacientes, la programación de citas, la facturación y los pagos. Además, incluye herramientas de análisis y reportes para mejorar la toma de decisiones.  | Aplicación web diseñada para mejorar la gestión en consultorios dentales. Ofrece documentación automatizada, planificación de tratamientos, integración con historiales médicos electrónicos (EMR), y herramientas educativas para pacientes.                         | Software que ofrece soluciones diseñadas para mejorar la experiencia en el consultorio dental, como copias de seguridad de datos automatizadas, reclamos electrónicos, procesamiento de tarjetas de pago, estados de cuenta automatizados y recordatorios de citas.  | Plataforma basada en la nube para la gestión de clínicas dentales, ofreciendo herramientas para la administración de citas, historiales clínicos, procesamiento de pago, facturación, recetas electrónicas y formularios inteligentes.  |
 | **Ventaja Competitiva** | Integración de múltiples funciones en una sola plataforma, desde la gestión de citas hasta la facturación y los pagos, con un enfoque en la personalización y automatización de procesos para mejorar la eficiencia y la experiencia del paciente. | Automatiza la toma de notas y la generación de reportes en consultorios periodontales, optimizando la eficiencia clínica. Además, integra herramientas para la planificación de tratamientos y la gestión de historiales médicos electrónicos.                        | Utiliza inteligencia artificial para mejorar automáticamente las exploraciones de rayos X con detecciones de caries y mediciones del nivel óseo radiográfico interproximal (RBL). Además, ofrece una versión de prueba limitada gratis para estudiantes.   | Solución basada en la nube con integración de imágenes clínicas, gráficos y datos que mejoran la gestión centralizada. Combina informes dentales y paneles de control myPractice para brindar información útil sobre los aspectos financieros y operativos. |
@@ -460,6 +484,151 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 
 - Utilizaremos testimonios de clientes satisfechos en nuestro marketing para construir credibilidad. Los testimonios se destacarán en nuestro sitio web y materiales promocionales. Este enfoque ayudará a atraer nuevos clientes y fortalecer la confianza en nuestra plataforma.
 
+<div id='2.2.'><h3> 2.2 Entrevistas</h3></div>
+
+<div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas.</h4></div>
+
+- Preguntas para la Asistente Dental
+1. ¿Podrías contarme un poco sobre ti?
+2. ¿Cómo describirías tu rol como asistente dental en tu clínica?
+3. ¿Qué herramientas o software utilizas actualmente para gestionar las tareas diarias en la clínica?
+4. ¿Podrías describir un día típico en tu trabajo?
+5. ¿Cuáles son los mayores desafíos que enfrentas al coordinar la agenda del dentista y manejar las citas?
+6. ¿Cómo gestionas la comunicación con los pacientes, especialmente en casos de cancelaciones o reprogramaciones?
+7. Si pudieras implementar una nueva funcionalidad en el software que usas, ¿qué sería y por qué?
+8. ¿Qué importancia le das a la experiencia del paciente en la clínica, y cómo crees que tu trabajo influye en esa experiencia?
+9. ¿Qué características personales consideras que te ayudan en tu rol como asistente dental?
+10. ¿Qué marcas, dispositivos o canales digitales prefieres para realizar tu trabajo y mantenerte actualizada?
+
+- Preguntas para la Odontologa
+1. ¿Cómo organizas tu día para asegurarte de que todas las citas de los pacientes se realicen sin contratiempos y qué situaciones suelen causar retrasos o reprogramaciones?
+2. ¿Qué tan fácil o difícil es para ti llevar un registro actualizado de los tratamientos de cada paciente y qué estrategias utilizas para mantener al día las historias clínicas?
+3. ¿Cómo prefieres manejar las conversaciones con los pacientes sobre pagos y tratamientos costosos?
+4. ¿Cómo gestionas el seguimiento de los pagos pendientes de los pacientes?
+5. ¿Cómo te aseguras de que todas las facturas y pagos estén registrados correctamente al final del día?
+6. ¿Qué tan importante es para ti recibir feedback (opinión) directo de tus pacientes y cómo te enteras de que han recomendado tus servicios a otros?
+7. ¿Qué haces para asegurarte de que los pacientes regresen para sus revisiones periódicas?
+8. ¿Cómo evalúas el éxito de tu práctica y qué tipo de información revisas para decidir si necesitas ajustar tu carga de trabajo o tarifas?
+9. ¿Cómo determinar qué tratamientos y servicios son más rentables para tu práctica, y si tomas decisiones sobre la expansión o reducción de ciertos servicios basándote en la demanda de los pacientes?
+
+
+<div id='2.2.2.'><h3> 2.2.2. Entrevistas</h3></div>
+
+<table>
+  <tr align="center">
+    <tr>
+      <td>
+        <b>ENTREVISTA 1</b>
+      </td>
+    </tr>
+        <td rowspan="3">
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Imagen_Entrevista_01.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Datos Personales del Entrevistado:</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="left"> 
+        Allison Rivera es una joven profesional de 20 años que trabaja como asistente administrativo en un centro dental. Actualmente se encuentra en el 9no ciclo de la carrera de administración de empresas. Es organizada, proactiva y siempre busca formas de mejorar la eficiencia en su trabajo.
+        </td>
+    </tr>
+</table>
+
+<table>
+  <tr align="center">
+    <tr>
+      <td>
+        <b>ENTREVISTA 2</b>
+      </td>
+    </tr>
+        <td rowspan="3">
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Imagen_Entrevista_02.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Datos Personales del Entrevistado:</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="left"> 
+        Fiorella Vilca, tiene 23 años y actualmente está en el 4º ciclo de Ingeniería de Software. Trabajo a tiempo parcial como asistente dental para equilibrar sus estudios con sus necesidades financieras.
+        </td>
+    </tr>
+</table>
+
+<table>
+  <tr align="center">
+    <tr>
+      <td>
+        <b>ENTREVISTA 3</b>
+      </td>
+    </tr>
+        <td rowspan="3">
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Imagen_Entrevista_03.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Datos Personales del Entrevistado:</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="left"> 
+        Mariluz es una odontóloga con 10 años de experiencia en el sector dental. Tiene su propio consultorio donde se especializa en ortodoncia, y su enfoque se centra en ofrecer un servicio personalizado y de alta calidad. Además de su práctica clínica, Mariluz se encarga de la administración y gestión de su consultorio, lo que le permite tener un control total sobre su negocio.
+        </td>
+    </tr>
+</table>
+
+**CARPETA DE ENTREVISTAS:** 
+- https://drive.google.com/drive/folders/1R3qObddumASEe8bWxbsaa97e17YXjy1k?usp=sharing
+
+<div id='2.2.3.'><h4> 2.2.3. Analisis de Entrevistas.</h4></div>
+
+**Datos del entrevistado #1**<br>
+**Nombre completo:** Allison Rivera<br>
+**Edad:** 20 años <br>
+**Distrito:** Los Olivos<br>
+
+**Resumen**
+- Allison Rivera, una joven profesional de 20 años y estudiante del noveno ciclo de Administración de Empresas, desempeña el rol de asistente administrativo en un centro dental. En su trabajo, se encarga de coordinar la agenda del dentista, manejar la facturación, y asegurar la eficiencia operativa de la clínica. Allison enfrenta desafíos como equilibrar la disponibilidad del dentista con la demanda de los pacientes y gestionar reprogramaciones sin afectar la agenda. Además, utiliza un sistema de gestión de citas y un software de facturación para mantener todo en orden, y se enfoca en proporcionar una experiencia positiva para los pacientes mediante la personalización de la atención y la implementación de programas de fidelización. Con su enfoque organizado y proactivo, Allison genera reportes clave que ayudan a optimizar las operaciones del consultorio y monitorea indicadores de éxito para asegurar el crecimiento continuo del centro dental.
+
+
+
+
+
+**Datos del entrevistado #2** <br>
+**Nombre completo:** Fiorella Vilca<br>
+**Edad:** 23 años <br>
+**Distrito:** San Martin de Porres<br>
+
+**Resumen**
+- Fiorella Vilca, una joven de 23 años que cursa el cuarto ciclo de Ingeniería de Software, combina sus estudios con un trabajo a tiempo parcial como asistente dental. En su rol, Fiorella asiste al dentista coordinando citas y manejando tareas administrativas, además de encargarse de la recepción y la limpieza del consultorio. Utiliza herramientas como Dentisys para la gestión de citas y complementa con Google Sheets o Excel para el manejo del inventario, aunque ve la necesidad de una mejor integración entre las herramientas. Los principales desafíos en su trabajo incluyen la coordinación eficiente de la agenda del dentista y la gestión de reprogramaciones de última hora. Fiorella valora profundamente la experiencia del paciente y se esfuerza por brindar un servicio amable y organizado, utilizando su capacidad de comunicación, organización y empatía para desempeñar su rol con eficacia. Además, se mantiene actualizada en su campo mediante el uso de dispositivos digitales y el seguimiento de profesionales en redes sociales.
+
+
+
+**Datos del entrevistado #3**<br>
+**Nombre completo:** Mariluz Cruz<br>
+**Edad:** 40 años <br>
+**Distrito:** Carabayllo<br>
+
+**Resumen**
+- Mariluz Cruz Lucero organiza eficientemente su consultorio odontológico, asegurando que las citas y pagos se realicen sin contratiempos, gracias a una planificación detallada y un riguroso sistema de registro de tratamientos. Utiliza listas de precios estandarizadas para las conversaciones sobre costos y mantiene un seguimiento cercano de los pagos, minimizando el riesgo de deudas pendientes. Valora el feedback de los pacientes, lo que le permite ajustar y mejorar su práctica continuamente. Además, se enfoca en la rentabilidad mediante la adaptación a la demanda local y la especialización en servicios específicos, lo que contribuye a la sostenibilidad y éxito de su consultorio.
+
+<div id='2.3.'><h3> 2.3. NeedFinding. </h3></div>
+
+<div id='2.3.1.'><h4> 2.3.1. User Personas.</h4></div>
+
+**a. User Persona de una Asistente Administrativa en una Clínica Dental**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/User-persona-asistente.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
+
+**b. User Persona de una Odontóloga**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/User-persona-odontologa.png" alt="User-persona-odontologa.png" style="margin-bottom: 5px;" width="800"/> 
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
 
@@ -491,9 +660,21 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
 
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/User-Journey-Mapping-1.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/User-Journey-Mapping-2.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
 
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/empathy-mapping-1.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/empathy-mapping-2.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+
 <div id='2.3.5.'><h4> 2.3.5. As-Is Scenario Mapping.</h4></div>
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/As-is-Scenario-Mapping-1.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/As-is-Scenario-Mapping-2.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
 
 <div id='2.4.'><h4> 2.4. Ubiquitous Language.</h4></div>
 
@@ -915,7 +1096,7 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 
 <div id='3.3.'><h3>3.3. Impact Mapping</h3></div>
 
-<img src="Img/imagen_2024-09-06_194915409.png" alt="Impact Mapping">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/imagen_2024-09-06_194915409.png" alt="Impact Mapping">
 
 <div id='3.4.'><h3> 3.4 Product Backlog.</h4></div>
 El "Product Backlog" es una herramienta esencial en la metodología ágil de desarrollo de software. Consiste en una lista priorizada de todas las tareas, user stories, y epics que deben ser completadas para llevar a cabo el desarrollo del producto final. Este backlog es dinámico y evoluciona constantemente en respuesta a las necesidades del negocio, los comentarios de los usuarios y los cambios en el mercado
@@ -965,29 +1146,305 @@ El "Product Backlog" es una herramienta esencial en la metodología ágil de des
 <div id='4.'><h2> CAPÍTULO IV: PRODUCT DESIGN</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
 <div id ='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
+**Lenguaje aplicado:**<br>
+Para la realización de la aplicación web “Dentify” y su respectiva Landing Page hemos tomado un lenguaje formal, serio y respetuoso, ya que va acorde con el propósito de y la finalidad de este producto.
+
+Para la realización de la Aplicación Web y Landing Page, hemos aplicado los principios de elementos de diseño.
+
+**Consistencia:**<br> Mantenemos una estructura y apariencia coherentes en todas las partes del producto digital. Esto implica utilizar elementos de diseño consistentes como distintos tipos de tipografía, tamaño de fuente, colores y distintos estilos de interacción para que el usuario pueda familiarizarse rápidamente con la interfaz, lo cual, facilita la navegación del usuario.
+
+**Simplicidad:**<br> eliminamos cualquier elemento innecesario o complicado en la interfaz para que los usuarios puedan realizar sus tareas de forma rápida y sencilla. 
+
+**Comunicación:**<br> hemos considerado que los usuarios reciban confirmaciones visuales cuando realizan una acción. Esta retroalimentación ayuda a los usuarios a saber y comprender el punto en el que están y principalmente para confirmar que sus acciones han sido ejecutadas de manera exitosa.
+
+Jerarquía Visual: Mediante los tipos y tamaños de fuente, colores y contrastes, hemos jerarquizado los elementos de la aplicación web de manera que guíe la atención del usuario y resalte la información más importante.
 <div id ='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
+**Fuentes tipograficas:**<br>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/TipoLetra.png" alt="Fuentes tipograficas" style="margin-bottom: 5px;" width="400"/>
+**Colores:**<br>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Colores.png" alt="Colores" style="margin-bottom: 5px;" width="400"/>
+**Icons**<br>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/icons.png" alt="Icons" style="margin-bottom: 5px;" width="400"/>
 <div id ='4.2.'><h3> 4.2. Information Architecture</h4></div>
 <div id ='4.2.1.'><h4> 4.2.1 Organization Systems</h4></div>
-<div id= '4.2.2.'><h4>4.2.2. Labeling Systems. </h4><div>                   
+
+- **Jerarquia Visual** <br>
+
+**Uso en Landing Page (MediTech):** <br>
+- Resalta secciones clave: “Nosotros”, “Servicios”, “Información”, y “Contáctenos” con títulos grandes y botones destacados para guiar a los visitantes de manera intuitiva.
+
+- Ejemplo: “Servicios” tendrá iconos visibles y botones que llevan a más detalles sobre las soluciones que MediTech ofrece, especialmente Dentify.
+  
+**Uso en App Web (Dentify):** <br>
+- Prioriza funcionalidades interactivas como “Reserva de Citas”, “Pagar Tratamiento”, y “Historial” con botones prominentes, accesibles desde el menú principal.
+- Ejemplo: Las funciones críticas como “Reservar Cita” estarán en la parte superior o con botones flotantes en la versión móvil para facilitar el acceso.
+
+- **Categorización de Contenidos:** <br>
+
+**Uso en Landing Page (MediTech):** <br>
+
+- Secciones categorizadas de manera clara para una navegación sencilla, como “Nosotros” que agrupa la historia de la empresa y el equipo, o “Servicios” que detalla lo que 
+  MediTech ofrece.
+
+- Ejemplo: “Información” podría incluir artículos o casos de éxito, divididos por temas relevantes como eficiencia clínica, manejo de citas, etc.
+  
+**Uso en App Web (Dentify):** <br>
+- Las funcionalidades se agrupan en categorías específicas dentro de la app, como “Citas”, “Pagos” y “Historial” para que los usuarios identifiquen fácilmente dónde 
+  encontrar lo que necesitan.
+
+- Ejemplo: “Gestión de Inventario” y “Métricas” estarán bajo una categoría administrativa para los usuarios premium.
+
+- **Secuencia de Contenidos:** <br>
+
+**Uso en Landing Page (MediTech):** <br>
+- La secuencia sigue un flujo natural desde la presentación de la empresa (“Nosotros”) hasta el contacto (“Contáctenos”), guiando al usuario paso a paso.
+- Ejemplo: El usuario primero explora los servicios, luego se dirige a más información específica y finalmente al contacto.
+  
+**Uso en App Web (Dentify):** <br>
+- En la app, la secuencia de contenidos sigue un flujo operativo: desde ingresar al perfil hasta realizar acciones como ver el historial o reservar citas.
+- Ejemplo: Después de iniciar sesión, la secuencia lleva al usuario al menú principal y luego a las funcionalidades más usadas, como “Reserva de Citas”.
+
+- **Agrupación de Funcionalidades:** <br>
+**Uso en Landing Page (MediTech):** <br>
+- Agrupaciones claras por secciones funcionales: “Servicios” agrupa lo que la empresa puede hacer, mientras que “Contáctenos” agrupa formas de comunicación y ubicación.
+- Ejemplo: Un subgrupo de “Servicios” podría enfocar específicamente a Dentify, resaltando la app como una solución destacada.
+**Uso en App Web (Dentify):** <br>
+- Funcionalidades agrupadas por relevancia y uso: “Perfil” agrupa configuraciones personales, “Citas” agrupa todo lo relacionado con la programación y recordatorios.
+- Ejemplo: Las opciones de pago y facturación están agrupadas bajo “Pagos”, mientras que “Historial” agrupa información médica de los pacientes.
+
+<div id= '4.2.2.'><h4>4.2.2. Labeling Systems. </h4><div>  
+
+- **Etiquetas Descriptivas y Consistentes:** <br>
+**Uso en Landing Page (MediTech):** <br>
+- Uso de etiquetas claras que describen directamente la acción o información disponible, como “Información” o “Servicios”.
+- Ejemplo: En la sección “Contáctenos”, las etiquetas específicas guiarán al usuario sobre cómo comunicarse, ya sea por formulario, teléfono o chat.
+**Uso en App Web (Dentify):** <br>
+- Etiquetas centradas en acciones directas, como “Reserva de Citas”, “Historial”, y “Pagos” para que los usuarios identifiquen rápidamente las funciones.
+- Ejemplo: Dentro de la sección “Perfil”, etiquetas como “Actualizar Información” o “Cambiar Contraseña” son específicas y orientadas al usuario.
+
 <div id= '4.2.3.'><h4>4.2.3. SEO Tags and Meta Tags</h4></div>
+
+**Optimización SEO para Mejor Visibilidad:** <br>
+- **Uso en Landing Page y App Web:** Aplicación de Meta Tags para ambas plataformas, asegurando que la landing page y la app web sean encontradas fácilmente por usuarios que busquen soluciones dentales digitales.
+- **Ejemplo de Title Común:** “Dentify by MediTech - Gestión Digital de Consultorios Dentales”
+- **Meta Description:** “Descubre cómo Dentify simplifica la gestión de citas y tratamientos en tu consultorio dental. Conoce más sobre nuestras soluciones en MediTech.”
+Keywords: “citas dentales en línea, gestión de consultorios, app dental, servicios de gestión dental”
+
 <div id= '4.2.4.'><h4>4.2.4. Searching Systems.</h4></div>
+
+**Búsqueda Personalizada:** <br>
+**Uso en Landing Page (MediTech):** <br>
+
+- Búsqueda simple para encontrar secciones dentro de la página, como artículos o descripciones de servicios.
+- Ejemplo: Una barra de búsqueda en la sección “Información” para filtrar artículos sobre temas específicos como gestión clínica.
+
+**Uso en App Web (Dentify):** <br>
+
+- Búsqueda avanzada que permita encontrar rápidamente citas, pacientes o tratamientos específicos dentro de la app.
+- Ejemplo: Filtrado por fecha, especialista o tipo de tratamiento dentro del historial.
+
 <div id= '4.2.5.'><h4>4.2.5. Navigation Systems.</h4></div>
+
+**Menú Principal:** <br>
+- **Uso en Landing Page (MediTech):** <br>
+
+	- Menú fijo superior con enlaces a todas las secciones importantes, diseñado para permanecer visible al desplazarse.
+	- Ejemplo: Un menú compacto en la versión móvil con íconos para “Nosotros”, “Servicios”, y el chat para asistencia inmediata.
+  
+- **Uso en App Web (Dentify):** <br>
+	- Menú dinámico con acceso rápido a funcionalidades clave como “Citas”, “Pagos” y “Historial”. En móviles, será un menú desplegable.
+	- Ejemplo: Acceso directo a soporte técnico desde cualquier pantalla para usuarios premium.
+   
+**Navegación Contextual:** <br>
+
+- **Uso en Landing Page (MediTech):** <br>
+
+	- Enlaces contextuales que llevan a detalles específicos dentro de la misma página, como leer más sobre un servicio dentro de la sección “Servicios”.
+	- Ejemplo: Dentro de “Información”, enlaces que llevan a casos de estudio o artículos relacionados.
+- **Uso en App Web (Dentify):** <br>
+	- Navegación interna que facilita moverse entre secciones relacionadas, como ir de un historial a la opción de agendar una cita directamente.
+	- Ejemplo: Botones dentro de “Historial” que permiten agendar una nueva cita con el mismo especialista.
+
 <div id= '4.3.'><h3>4.3. Landing Page UI Design.</h3></div>
 <div id= '4.3.1.'><h4>4.3.1. Landing Page Wireframe.</h4></div>
+
+**Nosotros**
+
+<img src="Img/product-design/landing-page/Nosotros.png" alt="Nosotros">
+
+**Servicios**
+
+<img src="Img/product-design/landing-page/Servicios.png" alt="Servicios">
+
+
+**Contáctanos**
+
+<img src="Img/product-design/landing-page/Contactanos.png" alt="Contactanos">
+<img src="Img/product-design/landing-page/Contactanos2.png" alt="Contactanos">
+
 <div id= '4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>
+
+**Nosotros**
+
+<img src="Img/product-design/landing-page/m-Nosotros.png" alt="Nosotros">
+
+**Servicios**
+
+<img src="Img/product-design/landing-page/m-Servicios.png" alt="Servicios">
+
+
+**Contáctanos**
+
+<img src="Img/product-design/landing-page/m-Contactanos.png" alt="Contactanos">
+<img src="Img/product-design/landing-page/m-Contactanos2.png" alt="Contactanos">
+
 <div id= '4.4.'><h3>4.4. Web Applications UX/UI Design.</h3></div>
 <div id= '4.4.1'><h4>4.4.1. Web Applications Wireframes.</h4></div>
+
+**Registro**
+<img src="Img/product-design/web-application/w-Registro.png" alt="Registro">
+
+**Iniciar sesión**
+
+<img src="Img/product-design/web-application/w-Inicio de sesión.png" alt="Inicio de sesión">
+
+**Dashboard**
+
+<img src="Img/product-design/web-application/w-Dashboard.png" alt="Dashboard">
+
+**Citas**
+
+<img src="Img/product-design/web-application/w-Opciones citas.png" alt="Operaciones citas">
+<img src="Img/product-design/web-application/w-Reserva de citas.png" alt="Reserva de citas">
+<img src="Img/product-design/web-application/w-Eliminar citas.png" alt="Eliminar citas">
+<img src="Img/product-design/web-application/w-Modificar citas.png" alt="Modificar citas">
+
+**Pagos**
+
+<img src="Img/product-design/web-application/w-Pagos_ Citas a pagar.png" alt="Pagos">
+<img src="Img/product-design/web-application/w-Pagos_ Filtros para buscar facturas.png" alt="Pagos">
+<img src="Img/product-design/web-application/w-Pagos_ pagar cita.png" alt="Pagos">
+<img src="Img/product-design/web-application/w-Pagos_ pago exitoso.png" alt="Pagos">
+<img src="Img/product-design/web-application/w-Pagos_ Vista de una factura.png" alt="Pagos">
+
+**Pacientes**
+
+<img src="Img/product-design/web-application/w-Historial clinico.png" alt="Historial clinico">
+<img src="Img/product-design/web-application/w-Editar ficha de seguimiento.png" alt="Historial clinico">
+<img src="Img/product-design/web-application/w-Editar ficha personal.png" alt="Historial clinico">
+
+**Especialistas**
+
+<img src="Img/product-design/web-application/w-Especialistas.png" alt="Especialistas">
+<img src="Img/product-design/web-application/w-Especialistas_ Nuevo especialista.png" alt="Especialistas">
+<img src="Img/product-design/web-application/w-Especialistas_ Confirmar eliminar.png" alt="Especialistas">
+<img src="Img/product-design/web-application/w-Especialistas_ Horarios disponibles.png" alt="Especialistas">
+
+**Soporte**
+
+<img src="Img/product-design/web-application/w-Soporte.png" alt="Soporte">
+
+**Inventario**
+
+<img src="Img/product-design/web-application/w-Inventario.png" alt="Inventario">
+<img src="Img/product-design/web-application/w-Inventario_ Nuevo producto.png" alt="Inventario">
+<img src="Img/product-design/web-application/w-Inventario_ Eliminar producto.png" alt="Inventario">
+
+**Informes**
+
+<img src="Img/product-design/web-application/w-Informes_ Generar informe.png" alt="Informes">
+
+**Métricas**
+
+<img src="Img/product-design/web-application/w-Métricas_ Gráficos.png" alt="Métricas">
+
+**Notificaciones**
+<img src="Img/product-design/web-application/w-Notificaciones.png" alt="Notificaciones">
+
+**Perfil**
+
+<img src="Img/product-design/web-application/w-Perfil_ Cambiar contrasenia.png" alt="Perfil">
+<img src="Img/product-design/web-application/w-Perfil_ Editar información personal.png" alt="Perfil">
+
 <div id= '4.4.2'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
-<div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups.</h4></div>
+<div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups</h4></div>
+
+**Registro**
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Registro.png" alt="Registro">
+
+**Iniciar sesión**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Inicio de sesión.png" alt="Inicio de sesión">
+
+**Dashboard**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Dashboard.png" alt="Dashboard">
+
+**Citas**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Opciones citas.png" alt="Operaciones citas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Reserva de citas.png" alt="Reserva de citas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Eliminar citas.png" alt="Eliminar citas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Modificar citas.png" alt="Modificar citas">
+
+**Pagos**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Pagos_ Citas a pagar.png" alt="Pagos">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Pagos_ Filtros para buscar facturas.png" alt="Pagos">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Pagos_ pagar cita.png" alt="Pagos">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Pagos_ pago exitoso.png" alt="Pagos">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Pagos_ Vista de una factura.png" alt="Pagos">
+
+**Pacientes**
+
+<img src="Img/product-design/web-application/Historial clinico.png" alt="Historial clinico">
+<img src="Img/product-design/web-application/Paciente Editar ficha de seguimiento.png" alt="Historial clinico">
+<img src="Img/product-design/web-application/Paciente Editar ficha personal.png" alt="Historial clinico">
+
+**Especialistas**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Especialistas.png" alt="Especialistas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Especialistas_ Nuevo especialista.png" alt="Especialistas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Especialistas_ confirmar eliminar.png" alt="Especialistas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Especialistas_ Horarios disponibles.png" alt="Especialistas">
+
+**Soporte**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Soporte.png" alt="Soporte">
+
+**Inventario**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Inventario.png" alt="Inventario">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Inventario_ Nuevo producto.png" alt="Inventario">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Inventario_ Eliminar producto.png" alt="Inventario">
+
+**Informes**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Informes_ Generar informe.png" alt="Informes">
+
+**Métricas**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Métricas_ Gráficos.png" alt="Métricas">
+
+**Notificaciones**
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Notificaciones.png" alt="Notificaciones">
+
+**Perfil**
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Perfil_ Cambiar contrasenia.png" alt="Perfil">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Perfil_ Editar información personal.png" alt="Perfil">
+
 <div id= '4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
 <div id= '4.5.'><h3>4.5. Web Applications Prototyping.</h4></div>
 <div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
-<div id= '4.6.1'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
-<div id= '4.6.2'><h4>4.6.2. Software Architecture Container Diagrams.</h4></div>
+<div id= '4.6.1.'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/context-diagram.png" alt="Diagrama Contexto" style="margin-bottom: 5px;" width="600"/>
+<div id= '4.6.2.'><h4>4.6.2. Software Architecture Container Diagrams.</h4></div>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/container-diagram.png" alt="Diagrama contenedores" style="margin-bottom: 5px;" width="600"/>
 <div id= '4.6.3.'><h4>4.6.3. Software Architecture Components Diagrams.</h4></div>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/componente-diagram.png" alt="Diagrama de componentes" style="margin-bottom: 5px;" width="600"/>
 <div id= '4.7.'><h3>4.7. Software Object-Oriented Design.</h4></div>
 <div id= '4.7.1.'><h4>4.7.1. Class Diagrams.</h4></div>
-<img src = "https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Class.png" alt="class diagram">
+<img src = "https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/uml.png" alt="class diagram">
 <div id= '4.7.2.'><h4>4.7.2. Class Dictionary.</h4></div>
 
 nombre de clase: Usuario
@@ -1096,6 +1553,57 @@ nombre de clase: Inventario
 Controlar y rastrear los cambios que se realizan en el software durante el ciclo de vida. Asegura que el software se mantiene consistente, ordenado y controlado a medida que evoluciona desde su desarrollo inicial hasta su entrega y mantenimiento.
 
 <div id='5.1.1.'><h4> 5.1.1. Software Development Environment Configuration.</h4></div>
+
+**Requirements Management** <br>
+
+**UXPressia:** Es una herramienta que utilicé para desarrollar y gestionar diversos aspectos de la experiencia del usuario en el proyecto. Con UXPressia, elaboré User Personas para definir perfiles detallados de los usuarios, creé Empathy Maps para comprender sus emociones y necesidades, desarrollé Journey Maps para mapear las etapas y puntos de contacto en su interacción con la landing page, y construí Impact Maps para alinear los objetivos del proyecto con las necesidades de los usuarios y los resultados esperados. Esta herramienta facilita una comprensión integral de los usuarios y mejoró el enfoque del diseño. **Ruta de referencia:**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/uxpressia.png" alt="uxpressia" style="margin-bottom: 5px;" width="300"/> 
+
+**Miro:** Es una plataforma en línea que facilita la colaboración en tiempo real mediante pizarras digitales. Proporciona herramientas para crear diagramas, mapas mentales, flujos de trabajo y otros tipos de representaciones visuales. En este caso, utilizamos Miro para la elaboración de As-Is y To-Be Scenarios Mapping. **Ruta de referencia:**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/miro.png" alt="miro" style="margin-bottom: 5px;" width="300"/> 
+
+**Product UX/UI Design** <br>
+**Figma:** Es una herramienta de diseño colaborativo que se utilizó para desarrollar varios aspectos del proyecto. Primero, se diseñaron los wireframes en Figma para definir la estructura básica y el flujo general de la landing page. Luego, se creó los mock-ups detallados para mostrar la apariencia final, incluyendo colores, tipografía y elementos gráficos. Finalmente, se utilizo Figma para desarrollar prototipos interactivos, permitiendo simular y probar la navegación y las interacciones del usuario antes de proceder con el desarrollo. **Ruta de referencia:** https://www.figma.com/
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/figma.png" alt="figma" style="margin-bottom: 5px;" width="300"/> 
+
+**Overflow:** Es un plugin de Figma que se usará para crear Wireflows y User Flows. Overflow nos permitirá combinar wireframes con flujos de usuario para visualizar cómo los usuarios interactúan con la interfaz, mostrando la estructura y las conexiones entre pantallas de manera clara. Además, con Overflow podemos mapear el recorrido completo del usuario, detallando cada paso y decisión en el proceso para optimizar la experiencia del usuario y garantizar que cada interacción sea fluida y eficiente. **Ruta de referencia:** https://www.figma.com/community/plugin/880782315986192393/overflow
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/overflow.png" alt="overflow" style="margin-bottom: 5px;" width="300"/> 
+
+**Software Development** <br>
+**WebStorm:** Es un entorno de desarrollo integrado (IDE) creado por JetBrains, diseñado para optimizar la experiencia de programación. En este caso, utilizamos WebStorm como nuestro entorno de desarrollo principal para escribir y editar el código HTML, CSS y JavaScript, además de integrar la biblioteca Bootstrap 5 para desarrollar la landing page de nuestro proyecto. **Ruta de referencia:** https://www.jetbrains.com/es-es/webstorm/
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/webstorm.png" alt="webstorm" style="margin-bottom: 5px;" width="300"/> 
+
+**HTML:** Es el lenguaje de marcado que se utiliza para estructurar y organizar el contenido de una página web. En este caso, empleamos HTML para definir la estructura de la landing page, como encabezados, párrafos, imágenes y botones. **Ruta de referencia:** https://html.spec.whatwg.org/multipage/#toc-introduction
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/html.png" alt="html" style="margin-bottom: 5px;" width="300"/> 
+
+**CSS:** Es el lenguaje de estilos que se utiliza para controlar la apariencia visual de la página. En este proyecto, utilizamos CSS para personalizar los colores, fuentes, márgenes y el diseño general de los elementos de la landing page. **Ruta de referencia:** https://developer.mozilla.org/es/docs/Web/CSS
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/css.png" alt="css" style="margin-bottom: 5px;" width="300"/> 
+
+**JavaScript:** Es un lenguaje de programación que se usa para agregar interactividad a las páginas web. En este caso, empleamos JavaScript para manejar la interacción del usuario, como animaciones o acciones dinámicas en la landing page. **Ruta de referencia:** https://developer.mozilla.org/es/docs/Web/JavaScript
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/JS.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+
+**Bootstrap 5:** Es una biblioteca de componentes y un sistema de grillas que facilita el diseño web responsivo. Utilizamos Bootstrap 5 en esta landing page para agilizar la creación de un diseño adaptable y aprovechar sus componentes preconstruidos, como botones, formularios y barras de navegación. **Ruta de referencia:** https://getbootstrap.com/
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/bootstrap.png" alt="bootstrap" style="margin-bottom: 5px;" width="300"/> 
+
+**Software Deployment** <br>
+**Git:** Es una herramienta de control de versiones que nos permitirá rastrear cambios, colaborar de manera eficiente y mantener un historial detallado de las modificaciones en el código. **Ruta de referencia:** https://git-scm.com/
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main//Img/git.png" alt="git" style="margin-bottom: 5px;" width="300"/> 
+
+**Software Documentation and Project Management**
+**GitHub:** Como plataforma de alojamiento, facilitará la colaboración en equipo, la gestión de ramas y la integración continua, optimizando el flujo de trabajo de desarrollo y asegurando una gestión organizada del proyecto. **Ruta de referencia:** https://github.com/
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/github.png" alt="github" style="margin-bottom: 5px;" width="300"/> 
+
 <div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
 El Proyecto tanto de la Landing Page asi como el de la Aplicación web, seguirá los principios del modelo "Git Branch Model" en la cual se define como una estrategia para organizar el trabajo en un repositorio de Git mediante la creación de ramas (branches) que permiten desarrollar nuevas características, corregir errores, y gestionar versiones de manera eficiente. Uno de los modelos más conocidos es Git Flow, propuesto por Vincent Driessen, que define cómo y cuándo crear ramas para mantener el control del ciclo de vida del desarrollo de software, la cual usaremos.
 
@@ -1131,25 +1639,347 @@ La estructura a seguir será la siguiente:
 
 <div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
 
+HTML** <br>
+- Para el desarrollo en HTML, se ha seguido la Guía de Estilo HTML de Google y las Convenciones de Codificación para HTML. Los puntos más importantes aplicados son:
+1. **Uso de etiquetas semánticas:** <br>
+- Se han utilizado etiquetas como header, nav, main, footer para mejorar la accesibilidad y la comprensión del documento.
+2. **Indentación y estructura:** <br>
+- A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, se limitará al uso de minúsculas para mantener el orden y garantizar la legibilidad. 
+
+**CSS** <br>
+En el CSS, se ha implementado la convención BEM y las guías de estilo recomendadas para mantener el código claro y organizado. Aquí algunos detalles específicos de tu código CSS:
+1. **Uso de nombres de clases descriptivos y en inglés:** <br>
+- Las clases siguen un esquema claro, como custom-navbar y custom-button, lo que facilita la identificación del propósito de cada clase.
+2. **Transiciones y efectos en botones:** <br>
+- Se implementaron transiciones suaves para mejorar la experiencia de usuario cuando interactúa con botones.
+3. **Uso de fuentes personalizadas:** <br>
+- Se han utilizado varias fuentes personalizadas cargadas mediante @font-face, lo que sigue las mejores prácticas de personalización tipográfica en CSS.
+
+**JavaScript** <br>
+En el proyecto se ha utilizado Bootstrap para manejar la interactividad y los componentes dinámicos de la interfaz. Los archivos JavaScript incluidos son versiones oficiales del framework, lo que permite aprovechar funcionalidades avanzadas sin necesidad de escribir código JavaScript desde cero.
+
+**Bootstrap** <br>
+Para Bootstrap, se han seguido las mejores prácticas, como utilizar clases predefinidas para ahorrar tiempo y asegurar que el diseño sea responsive. Además, se ha personalizado el diseño sin modificar directamente las clases de Bootstrap, lo que asegura compatibilidad y facilidad de actualización.
+
 <div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
+En el caso de la Landing page, para poder hacer el despligue se tienen que seguir ciertos pasos y requisitos:
+
+
+Ve a tu cuenta en GitHub.
+Haz clic en "New repository".
+Dale un nombre al repositorio, por ejemplo, Example.
+Asegúrate de que el repositorio sea público si quieres que GitHub Pages lo publique fácilmente.
+Haz clic en "Create repository".
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030429149.png" alt="5.1.4">
+
+2. Subir la landing page al repositorio
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030441701.png" alt="5.1.4">
+
+3. Configurar GitHub Pages
+Una vez que tu código esté en GitHub, sigue estos pasos para habilitar GitHub Pages:
+
+Ve a tu repositorio en GitHub.
+Haz clic en la pestaña Settings (Configuración).
+Desplázate hacia abajo hasta la sección Pages en el menú lateral izquierdo.
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030448974.png" alt="5.1.4">
+
+En la sección Source, selecciona la rama de la que quieres desplegar (normalmente main o gh-pages).
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030455994.png" alt="5.1.4">
+
+GitHub ahora generará una URL para tu landing page, que estará disponible en algo como:
+
+https://usuario.github.io/Example
+
+4. Actualizaciones
+Cada vez que hagas un cambio en tu landing page, simplemente haz commit y push al repositorio, y GitHub Pages actualizará automáticamente la página en cuestión de minutos.
+
+Consideraciones:
+GitHub Pages solo soporta sitios estáticos (HTML, CSS, JavaScript). Si tu landing page necesita procesamiento en el servidor, necesitarás otro servicio de hospedaje.
+Este también necesita de un archivo "index.html" para poder desplegarse, de lo contrario no se podrá.
 
 <div id='5.2.'><h3> 5.2.  Landing Page, Services & Applications Implementation.</h3></div>
+En esta sección se explica y evidencia el proceso de implementación, pruebas, documentación y despliegue del Landing Page, Web Services y Frontend Web Applications. 
+
 
 <div id='5.2.1.'><h4> 5.2.1. Sprint #1.</h4></div>
 
 <div id='5.2.1.1.'><h5> 5.2.1.1. Sprint Planning #1.</h5></div>
+En la siguiente sección, se presentará el sprint #1 con la primera versión del trabajo para la entrega del proyecto. Mostrando la organización, distribución y resultados del landing page.    
+
+
+| Sprint # | Sprint 1 |
+|----------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2024-08-31|
+| **Time** | 01:30 PM |
+| **Location** | llamada por la plataforma "Discord" |
+| **Prepared By** | Uribe Quispe, Jesús Guillermo |
+| **Attendees (to planning meeting)** | Uribe Quispe Jesús Guillermo / Bohorquez Lerzundi Gerardo Sebastián / Huanaco Huayta Elizabeth Lucero / Jimenez Melgar Daniel Luciano |
+| **Sprint 1 – 1 Review Summary** | Corresponde el primer sprint, por lo que no hay otros sprint anteriores. |
+| **Sprint 1 – 1 Retrospective Summary** |Corresponde el primer sprint, por lo que no hay otros sprint anteriores.  |
+| **Sprint Goal & User Stories**| |
+| **Sprint n Goal** | Desarrollar y desplegar una landing page funcional que presente de manera clara y atractiva los principales beneficios y características del producto, optimizada para dispositivos móviles y preparada para captar leads a través de un formulario de contacto. El objetivo es tener la página lista para producción y accesible en GitHub Pages, asegurando un diseño responsivo, tiempos de carga rápidos y contenido alineado con las necesidades del usuario final. |
+| **Sprint n Velocity** | 30 story points |
+| **Sum of Story Points** | 25 |
 
 <div id='5.2.1.2.'><h5> 5.2.1.2. Sprint Backlog #1.</h5></div>
+Para el Sprint #1 nos trazamos como objetivo desarrollar y desplegar una landing page funcional, optimizada para móviles y preparada para captar leads, lista para producción en GitHub Pages con un diseño responsivo y tiempos de carga rápidos.
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br># Sprint&nbsp;&nbsp;&nbsp;</th>
+    <th colspan="7">Sprint 1</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>User Story&nbsp;&nbsp;&nbsp;</td>
+    <td colspan="6">Work Item/Task</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Id&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Title&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Id&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Title&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Estimación (Hours)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Assigned to&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Status (In&nbsp;&nbsp;&nbsp;-process / To - review / Done)&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US19&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Menu Principal&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT01&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Página principal de la Landing Page&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración del navegador y sus funcionalidades e implementación del modelo de la página-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US20&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección "Nosotros"<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT02&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección de la página llamada "Nosotros"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de la descripción de la empresa y que lo caracteriza&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Daniel Melgar&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US21&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección "Servicios"<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT03&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección de la página llamada "Servicios"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración del contenedor que contiene la información acerca de lo que ofrecemos dentro de nuestro producto &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elizabeth Huanaco&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US22&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Información&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT04&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sección de la página llamada "Más Información"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración del pie de página en donde se muestra las redes, información de la empresa y un acceso rápido&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Sebastián Bohorquez&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US23&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Visualización de formulario de contacto&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT05&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Desarrollo de  formulario de contacto&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Funcionalidad para enviar un mensaje y resolver las dudas de los posibles usuarios.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Daniel Melgar&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  
+</tbody></table>
+
 
 <div id='5.2.1.3.'><h5> 5.2.1.3. Development Evidence for Sprint Review.</h5></div>
+En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 1:
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="10"><a href="https://tf-aplicacionesweb.github.io/Landing_Page/" target="_blank" rel="noopener noreferrer">https://tf-aplicacionesweb.github.io/Landing_Page/</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature/nav&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>747b692&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"assets: added bootstrap, styles and images files"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature/nav&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>10705c4&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"html: add Html main file"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>06/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature/nav&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07c6a3f&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"html: NavBar"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Navbar Added&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>06/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature/nav-functionalities&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>d7ae364&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Update Index.html"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Update functionalities&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>06/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature/international&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>c8f857a&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“html: add page in english”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Html (english) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>06/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature/aboutus&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>be9a306&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“html: Update about us”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>about us&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>06/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature/services&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>ef86f56<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“html: update services”&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+   <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature/contact&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>6b9501e<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>“html: update index.html"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Contact container added &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature/footer-&-functions&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>a0eef5c<br>&nbsp;&nbsp;&nbsp;<br> &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"index.html: footer"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Footer &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>06/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  
+</tbody></table>
 
 <div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h5></div>
 
+En este primer Sprint, solo una persona subió los archivos con extensión ".feature" de las User Stories de la Landing Page, por lo que todos tienen la misma ID, el mismo body y el mismo commit.
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="10"><a href="https://github.com/TF-AplicacionesWeb/TF/tree/main/Features" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/TF/tree/main/Features</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>/uribe&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>242fb69&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>directory: Features Added&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US19&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
+  <tr>
+   <td>&nbsp;&nbsp;&nbsp;<br>/uribe&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>242fb69&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>directory: Features Added&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US20&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
+  <tr>
+   <td>&nbsp;&nbsp;&nbsp;<br>/uribe&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>242fb69&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>directory: Features Added&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US21&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr> 
+
+  <tr>
+   <td>&nbsp;&nbsp;&nbsp;<br>/uribe&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>242fb69&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>directory: Features Added&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US22&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
+  <tr>
+   <td>&nbsp;&nbsp;&nbsp;<br>/uribe&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>242fb69&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>directory: Features Added&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US23&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  
+  </tbody></table>
+
 <div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review. </h5></div>
+La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la landing page, destacando el avance por secciones clave como el menú principal, la presentación de la empresa, los servicios ofrecidos, y la interacción con los usuarios a través del formulario de contacto. Cada tarea aborda un componente fundamental de la página, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con los objetivos específicos de informar y atraer a los visitantes. Además, la implementación de un formulario de contacto facilita la interacción directa con los usuarios, una funcionalidad esencial para una landing page exitosa.
+
+
+A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de la Landing Page:
+
+UT01:
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030552030.png" alt="5.2.1.5">
+
+UT02:
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030558549.png" alt="5.2.1.5.2">
+
+UT03:
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030606420.png" alt="5.2.1.5.3">
+
+UT04:
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030613860.png" alt="5.2.1.5.4">
+
+UT05:
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030621158.png" alt="5.2.1.5.5">
+
+
+
+Link del vídeo: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/EeI59epIJJZChU9sjX0H2HEBr8gBe49iZbQXX8sJyo6zog?e=qD0N3P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/EeI59epIJJZChU9sjX0H2HEBr8gBe49iZbQXX8sJyo6zog?e=qD0N3P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
 <div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h5></div>
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
 
 <div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+Durante este sprint, se utilizó GitHub Pages como plataforma de despliegue para la landing page del proyecto. El proceso comenzó con la creación y configuración de un repositorio en GitHub, donde se subió el código fuente de la página y se actualizaba constantemente añadiendo las funcionalidades que se requerian. Posteriormente, se habilitó GitHub Pages en la configuración del repositorio, seleccionando la rama main como fuente de despliegue. Esto permitió que la landing page fuera accesible a través de una URL pública proporcionada por GitHub. El despliegue se automatizó de manera que, con cada commit realizado en la rama principal, GitHub Pages actualizaba la página automáticamente. Esta integración simplificó el proceso de deployment, asegurando una rápida visibilidad de los cambios en producción. Además, se verificó que la página estuviera optimizada para dispositivos móviles, asegurando un diseño responsivo y tiempos de carga eficientes.<br>
+
+Evidencia de despliegue en github Pages:
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030749034.png">
+
+
+<br>
+
+
+**Link de Landing Page:** <a href="https://tf-aplicacionesweb.github.io/Landing_Page/">https://tf-aplicacionesweb.github.io/Landing_Page/</a>
+
+
+
 
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint. </h5></div>
 
@@ -1160,6 +1990,26 @@ La estructura a seguir será la siguiente:
 | Jimenez Melgar, Daniel Luciano | Implementación de la sección nosotros. |
 | Julca Cruz, Renso Anthony | Implementación de la sección contacto.|
 | Uribe Quispe, Jesús Guillermo | Implementación de la sección de modales de Login e información de servicios.|
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_033930395.png">
+<br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_034018920.png">
+
+<div id='6.'><h2>6. Conclusiones</h2></div>
+
+La aplicación web desarrollada para la gestión de odontologías ha logrado cumplir con los objetivos establecidos relacionados a este entregable, proporcionando una landing page intuitiva y eficiente para dar a conocer la aplicación web de administración de clínicas. El enfoque utilizado permitió priorizar las funcionalidades clave, optimizar la experiencia de usuario y garantizar un rendimiento adecuado en su entorno de implementación tanto como para la Landing page, así como también para la aplicación web. Como resultado, el producto resultado de esta primera entrega es una herramienta que da a conocer "MediTech" y su producto llamado "Dentify" gracias a la fácil interacción con el público.
+
+
+<div id='7.'><h2>7. Bibliografía</h2></div>
+
+Elmasri, R., & Navathe, S. B. (2016). Fundamentals of database systems (7th ed.). Pearson.
+Booch, G., Rumbaugh, J., & Jacobson, I. (2005). The unified modeling language user guide (2nd ed.). Addison-Wesley.
+Driessen, V. (2010). A successful Git branching model. nvie.com. https://nvie.com/posts/a-successful-git-branching-model/
+Otto, M., & Thornton, J. (2011). Bootstrap. Bootstrap Documentation. Twitter. https://getbootstrap.com
+GitHub. (2023). GitHub Pages documentation. GitHub. https://docs.github.com/en/pages
+
+
+
 
 
 
