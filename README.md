@@ -45,7 +45,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 ## Project Report Collaboration Insights
 
-URL del repositorio para el reporte del proyecto: https://github.com/TFOpenSource
+URL del repositorio para el reporte del proyecto: https://github.com/TF-AplicacionesWeb
 
 <div align="center">
   <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/imagen_2024-09-07_034018920.png">
