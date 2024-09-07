@@ -1077,7 +1077,7 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 	- Menú dinámico con acceso rápido a funcionalidades clave como “Citas”, “Pagos” y “Historial”. En móviles, será un menú desplegable.
 	- Ejemplo: Acceso directo a soporte técnico desde cualquier pantalla para usuarios premium.
    
-- **Navegación Contextual:** <br>
+**Navegación Contextual:** <br>
 
 - **Uso en Landing Page (MediTech):** <br>
 
