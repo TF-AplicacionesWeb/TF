@@ -269,7 +269,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="[Img/imagen_2024-09-05_144636355.png](https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Julca-Cruz.jpg)" alt="Julca Cruz, Renso Anthony"  style="margin-bottom: 5px;" width="800"/>
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Julca-Cruz.jpg" alt="Julca Cruz, Renso Anthony"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido: </b>
