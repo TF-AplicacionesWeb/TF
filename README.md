@@ -489,7 +489,26 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 | Revisar y gestionar inventario  | Media      | Media       |
 | Coordinar con proveedores       | Media      | Media       |
 
-  
+<div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
+
+<div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
+
+<div id='2.3.5.'><h4> 2.3.5. As-Is Scenario Mapping.</h4></div>
+
+<div id='2.4.'><h4> 2.4. Ubiquitous Language.</h4></div>
+
+- **Patient Record (Historia Clínica)**: Conjunto de documentos e información relacionada con la salud de un paciente, incluyendo historial médico, diagnósticos, tratamientos, y procedimientos realizados en la clínica dental.
+- **Appointment Scheduling (Programación de Citas)**: Proceso de asignar una fecha y hora específicas para que un paciente visite la clínica dental.
+- **Dental Charting (Odontograma)**: Registro gráfico de las condiciones de los dientes y encías de un paciente.
+- **Billing (Facturación)**: Proceso de generar y enviar facturas a los pacientes o a sus aseguradoras por los servicios dentales proporcionados, detallando los costos de los tratamientos y procedimientos realizados.
+- **Electronic Health Record (EHR) (Registro Electrónico de Salud)**: Sistema digitalizado que almacena la información médica de los pacientes, permitiendo un acceso rápido y seguro a su historial médico, resultados de exámenes, y tratamientos previos.
+- **Oral Hygiene Education (Educación en Higiene Oral)**: Proceso de educar a los pacientes sobre prácticas adecuadas de higiene dental, como el cepillado y uso del hilo dental, para prevenir enfermedades dentales y mantener una buena salud oral.
+- **Radiographic Imaging (Imágenes Radiográficas)**: Uso de radiografías (rayos X) para visualizar las estructuras internas de la boca y los dientes.
+- **Patient Portal (Portal del Paciente)**: Plataforma en línea que permite a los pacientes acceder a su información de salud, programar citas, pagar facturas, y comunicarse con su dentista de manera segura.
+- **Revenue Cycle Management (RCM) (Gestión del Ciclo de Ingresos)**: Proceso de gestión financiera que abarca desde la programación de citas hasta la facturación y el cobro de pagos, optimizando los ingresos y reduciendo los costos operativos de la clínica.
+- **Compliance (Cumplimiento)**: Adherencia a las leyes, regulaciones y normas establecidas por entidades gubernamentales y profesionales que regulan la práctica dental.
+- **Dental Practice Management Software (Software de Gestión de Consultorios Dentales)**: Herramienta digital que ayuda a los consultorios dentales a gestionar sus operaciones diarias.
+- **Continuing Education (Educación Continua)**: Programas y cursos diseñados para que los profesionales de la odontología actualicen sus conocimientos y habilidades, asegurando que estén al tanto de los últimos avances en técnicas y tecnología dental.
 
 <div id='3.'><h2>CAPITULO III: REQUIREMENTS SPECIFICATIONS </h2></div>
 <div id='3.1.'><h3>3.1. To-Be Scenario Mapping</h3></div>
