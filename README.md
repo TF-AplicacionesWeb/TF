@@ -1381,6 +1381,19 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <img src="Img/product-design/landing-page/Contactanos.png" alt="Contactanos">
 <img src="Img/product-design/landing-page/Contactanos2.png" alt="Contactanos">
 
+**Mobile** <br>
+**Nosotros** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_nosotros.png" alt="Nosotros" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_nosotros2.png" alt="Nosotros2" style="margin-bottom: 5px;" width="250">
+
+**Servicios** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_servicios.png" alt="Servicios" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_servicios2.png" alt="Servicios2" style="margin-bottom: 5px;" width="250">
+
+**Contactenos** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_contactenos.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_contactenos2.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
+
 <div id= '4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>
 
 **Nosotros**
@@ -1396,6 +1409,20 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 
 <img src="Img/product-design/landing-page/m-Contactanos.png" alt="Contactanos">
 <img src="Img/product-design/landing-page/m-Contactanos2.png" alt="Contactanos">
+
+**Mobile** <br>
+**Nosotros** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_nosotros.png" alt="Nosotros" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_nosotros2.png" alt="Nosotros2" style="margin-bottom: 5px;" width="250">
+
+**Servicios** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_servicios.png" alt="Servicios" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_servicios2.png" alt="Servicios2" style="margin-bottom: 5px;" width="250">
+
+**Contactenos** <br>
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_contactenos.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_contactenos2.png" alt="Contactenos2" style="margin-bottom: 5px;" width="250">
+
 
 <div id= '4.4.'><h3>4.4. Web Applications UX/UI Design.</h3></div>
 
