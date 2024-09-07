@@ -37,7 +37,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | --------------------------- |
 |TB1 |06/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián|   |
-|TB1 |06/09/2024 |Huanaco Huayte, Elizabeth Lucero | |
+|TB1 |06/09/2024 |Huanaco Huayte, Elizabeth Lucero | Lean UX Assumptions, Competidores, Análisis competitivo, Estrategias frente a competidores, Wireframes y Mockups de la versión desktop del landing page, y Wireframes de la versión desktop del web application|
 |TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano |   |
 |TB1 |06/09/2024 |  Julca Cruz, Renzo Anthony ||
 |TB1 |06/09/2024 |Uribe Quispe, Jesús Guillermo | Descripción de la Startup, Antecedentes y Problemática, Estrategias y tácticas frente a competidores, Segmentos objetivos, Diseño de Base de Datos, Diagrama de clases, Wireframe y Mockup Landing Page|
