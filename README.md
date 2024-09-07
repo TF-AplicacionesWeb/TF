@@ -982,61 +982,111 @@ Para la realización de la Aplicación Web y Landing Page, hemos aplicado los pr
 Jerarquía Visual: Mediante los tipos y tamaños de fuente, colores y contrastes, hemos jerarquizado los elementos de la aplicación web de manera que guíe la atención del usuario y resalte la información más importante.
 <div id ='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
 **Fuentes tipograficas:**<br>
- <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/TipoLetra.png" alt="Fuentes tipograficas" style="margin-bottom: 5px;" width="800"/>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/TipoLetra.png" alt="Fuentes tipograficas" style="margin-bottom: 5px;" width="400"/>
 **Colores:**<br>
- <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Colores.png" alt="Colores" style="margin-bottom: 5px;" width="800"/>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Colores.png" alt="Colores" style="margin-bottom: 5px;" width="400"/>
 **Icons**<br>
- <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/icons.png" alt="Icons" style="margin-bottom: 5px;" width="800"/>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/icons.png" alt="Icons" style="margin-bottom: 5px;" width="400"/>
 <div id ='4.2.'><h3> 4.2. Information Architecture</h4></div>
 <div id ='4.2.1.'><h4> 4.2.1 Organization Systems</h4></div>
-- **Jerarquía Visual:**<br>
 
-**Uso en Landing Page (MediTech):**<br>
+- **Jerarquia Visual** <br>
+
+**Uso en Landing Page (MediTech):** <br>
 - Resalta secciones clave: “Nosotros”, “Servicios”, “Información”, y “Contáctenos” con títulos grandes y botones destacados para guiar a los visitantes de manera intuitiva.
 
 - Ejemplo: “Servicios” tendrá iconos visibles y botones que llevan a más detalles sobre las soluciones que MediTech ofrece, especialmente Dentify.
   
-**Uso en App Web (Dentify):**<br>
+**Uso en App Web (Dentify):** <br>
 - Prioriza funcionalidades interactivas como “Reserva de Citas”, “Pagar Tratamiento”, y “Historial” con botones prominentes, accesibles desde el menú principal.
 - Ejemplo: Las funciones críticas como “Reservar Cita” estarán en la parte superior o con botones flotantes en la versión móvil para facilitar el acceso.
 
-- **Categorización de Contenidos:**<br>
+- **Categorización de Contenidos:** <br>
 
-**Uso en Landing Page (MediTech):**<br>
+**Uso en Landing Page (MediTech):** <br>
 
 - Secciones categorizadas de manera clara para una navegación sencilla, como “Nosotros” que agrupa la historia de la empresa y el equipo, o “Servicios” que detalla lo que 
   MediTech ofrece.
 
 - Ejemplo: “Información” podría incluir artículos o casos de éxito, divididos por temas relevantes como eficiencia clínica, manejo de citas, etc.
   
-**Uso en App Web (Dentify):**<br>
+**Uso en App Web (Dentify):** <br>
 - Las funcionalidades se agrupan en categorías específicas dentro de la app, como “Citas”, “Pagos” y “Historial” para que los usuarios identifiquen fácilmente dónde 
   encontrar lo que necesitan.
 
 - Ejemplo: “Gestión de Inventario” y “Métricas” estarán bajo una categoría administrativa para los usuarios premium.
 
-- **Secuencia de Contenidos:**<br>
+- **Secuencia de Contenidos:** <br>
 
-**Uso en Landing Page (MediTech):**<br>
+**Uso en Landing Page (MediTech):** <br>
 - La secuencia sigue un flujo natural desde la presentación de la empresa (“Nosotros”) hasta el contacto (“Contáctenos”), guiando al usuario paso a paso.
 - Ejemplo: El usuario primero explora los servicios, luego se dirige a más información específica y finalmente al contacto.
   
-**Uso en App Web (Dentify):**<br>
+**Uso en App Web (Dentify):** <br>
 - En la app, la secuencia de contenidos sigue un flujo operativo: desde ingresar al perfil hasta realizar acciones como ver el historial o reservar citas.
 - Ejemplo: Después de iniciar sesión, la secuencia lleva al usuario al menú principal y luego a las funcionalidades más usadas, como “Reserva de Citas”.
 
-- **Agrupación de Funcionalidades:**<br>
-**Uso en Landing Page (MediTech):**<br>
+- **Agrupación de Funcionalidades:** <br>
+**Uso en Landing Page (MediTech):** <br>
 - Agrupaciones claras por secciones funcionales: “Servicios” agrupa lo que la empresa puede hacer, mientras que “Contáctenos” agrupa formas de comunicación y ubicación.
 - Ejemplo: Un subgrupo de “Servicios” podría enfocar específicamente a Dentify, resaltando la app como una solución destacada.
-**Uso en App Web (Dentify):**<br>
+**Uso en App Web (Dentify):** <br>
 - Funcionalidades agrupadas por relevancia y uso: “Perfil” agrupa configuraciones personales, “Citas” agrupa todo lo relacionado con la programación y recordatorios.
 - Ejemplo: Las opciones de pago y facturación están agrupadas bajo “Pagos”, mientras que “Historial” agrupa información médica de los pacientes.
 
-<div id= '4.2.2.'><h4>4.2.2. Labeling Systems. </h4><div>                   
+<div id= '4.2.2.'><h4>4.2.2. Labeling Systems. </h4><div>  
+
+- **Etiquetas Descriptivas y Consistentes:** <br>
+**Uso en Landing Page (MediTech):** <br>
+- Uso de etiquetas claras que describen directamente la acción o información disponible, como “Información” o “Servicios”.
+- Ejemplo: En la sección “Contáctenos”, las etiquetas específicas guiarán al usuario sobre cómo comunicarse, ya sea por formulario, teléfono o chat.
+**Uso en App Web (Dentify):** <br>
+- Etiquetas centradas en acciones directas, como “Reserva de Citas”, “Historial”, y “Pagos” para que los usuarios identifiquen rápidamente las funciones.
+- Ejemplo: Dentro de la sección “Perfil”, etiquetas como “Actualizar Información” o “Cambiar Contraseña” son específicas y orientadas al usuario.
+
 <div id= '4.2.3.'><h4>4.2.3. SEO Tags and Meta Tags</h4></div>
+
+**Optimización SEO para Mejor Visibilidad:** <br>
+- **Uso en Landing Page y App Web:** Aplicación de Meta Tags para ambas plataformas, asegurando que la landing page y la app web sean encontradas fácilmente por usuarios que busquen soluciones dentales digitales.
+- **Ejemplo de Title Común:** “Dentify by MediTech - Gestión Digital de Consultorios Dentales”
+- **Meta Description:** “Descubre cómo Dentify simplifica la gestión de citas y tratamientos en tu consultorio dental. Conoce más sobre nuestras soluciones en MediTech.”
+Keywords: “citas dentales en línea, gestión de consultorios, app dental, servicios de gestión dental”
+
 <div id= '4.2.4.'><h4>4.2.4. Searching Systems.</h4></div>
+
+**Búsqueda Personalizada:** <br>
+- **Uso en Landing Page (MediTech):** <br>
+
+- Búsqueda simple para encontrar secciones dentro de la página, como artículos o descripciones de servicios.
+- Ejemplo: Una barra de búsqueda en la sección “Información” para filtrar artículos sobre temas específicos como gestión clínica.
+
+- **Uso en App Web (Dentify):** <br>
+
+- Búsqueda avanzada que permita encontrar rápidamente citas, pacientes o tratamientos específicos dentro de la app.
+- Ejemplo: Filtrado por fecha, especialista o tipo de tratamiento dentro del historial.
+
 <div id= '4.2.5.'><h4>4.2.5. Navigation Systems.</h4></div>
+
+**Menú Principal:** <br>
+- **Uso en Landing Page (MediTech):** <br>
+
+	- Menú fijo superior con enlaces a todas las secciones importantes, diseñado para permanecer visible al desplazarse.
+	- Ejemplo: Un menú compacto en la versión móvil con íconos para “Nosotros”, “Servicios”, y el chat para asistencia inmediata.
+  
+- **Uso en App Web (Dentify):** <br>
+	- Menú dinámico con acceso rápido a funcionalidades clave como “Citas”, “Pagos” y “Historial”. En móviles, será un menú desplegable.
+	- Ejemplo: Acceso directo a soporte técnico desde cualquier pantalla para usuarios premium.
+   
+- **Navegación Contextual:** <br>
+
+- **Uso en Landing Page (MediTech):** <br>
+
+	- Enlaces contextuales que llevan a detalles específicos dentro de la misma página, como leer más sobre un servicio dentro de la sección “Servicios”.
+	- Ejemplo: Dentro de “Información”, enlaces que llevan a casos de estudio o artículos relacionados.
+- **Uso en App Web (Dentify):** <br>
+	- Navegación interna que facilita moverse entre secciones relacionadas, como ir de un historial a la opción de agendar una cita directamente.
+	- Ejemplo: Botones dentro de “Historial” que permiten agendar una nueva cita con el mismo especialista.
+
 <div id= '4.3.'><h3>4.3. Landing Page UI Design.</h3></div>
 <div id= '4.3.1.'><h4>4.3.1. Landing Page Wireframe.</h4></div>
 <div id= '4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>
