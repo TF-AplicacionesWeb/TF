@@ -1689,9 +1689,15 @@ Para diseñar los prototipos de la interfaz de usuario para Desktop y Mobile Web
 
 3. Enfoque en la Información Relevante: El diseño prioriza la presentación de la información más importante para los usuarios del segmento objetivo, evitando sobrecargar la interfaz.
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/prototype.png">
-
 Enlace del Prototype: https://www.figma.com/design/6fL6lP76J7kZqHFRPzoKLR/Landing-page-%2F-Desarrollo-de-aplicaciones-web?node-id=0-1&node-type=CANVAS&t=MfzOZR4gVNwmIWD6-0
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/prototype.png" alt="Prototype desktop">
+
+Enlace del video Prototype-desktop: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a569_upc_edu_pe/ETs6kjG9PWhNhOMDCNojTY4B_JJAt42YKipQ_-RJbqo_4A?e=DxZYqM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Video-prototype-mobile.png" alt="Prototype mobile">
+
+Enlace del video Prototype-mobile: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a569_upc_edu_pe/EeaRkQosNhxLovfVir357N8BPz-WtzxkOWIIrzJzC2pKfw?e=joqPJg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 <div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
 <div id= '4.6.1.'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
