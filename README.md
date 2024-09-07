@@ -1055,12 +1055,12 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <div id= '4.2.4.'><h4>4.2.4. Searching Systems.</h4></div>
 
 **Búsqueda Personalizada:** <br>
-- **Uso en Landing Page (MediTech):** <br>
+**Uso en Landing Page (MediTech):** <br>
 
 - Búsqueda simple para encontrar secciones dentro de la página, como artículos o descripciones de servicios.
 - Ejemplo: Una barra de búsqueda en la sección “Información” para filtrar artículos sobre temas específicos como gestión clínica.
 
-- **Uso en App Web (Dentify):** <br>
+**Uso en App Web (Dentify):** <br>
 
 - Búsqueda avanzada que permita encontrar rápidamente citas, pacientes o tratamientos específicos dentro de la app.
 - Ejemplo: Filtrado por fecha, especialista o tipo de tratamiento dentro del historial.
