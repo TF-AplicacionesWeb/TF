@@ -1308,11 +1308,93 @@ En este punto abarcaremos las funcionalidades y la evidencia de que pudimos comp
 
 <div id='5.2.1.4.'><h5> 5.2.1.4. Testing Suite Evidence for Sprint Review. </h5></div>
 
+En este primer Sprint, solo una persona subió los archivos con extensión ".feature" de las User Stories de la Landing Page, por lo que todos tienen la misma ID, el mismo body y el mismo commit.
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="10"><a href="https://github.com/TF-AplicacionesWeb/TF/tree/main/Features" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/TF/tree/main/Features</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>/uribe&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>242fb69&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>directory: Features Added&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US19&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
+  <tr>
+   <td>&nbsp;&nbsp;&nbsp;<br>/uribe&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>242fb69&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>directory: Features Added&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US20&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
+  <tr>
+   <td>&nbsp;&nbsp;&nbsp;<br>/uribe&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>242fb69&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>directory: Features Added&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US21&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr> 
+
+  <tr>
+   <td>&nbsp;&nbsp;&nbsp;<br>/uribe&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>242fb69&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>directory: Features Added&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US22&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
+  <tr>
+   <td>&nbsp;&nbsp;&nbsp;<br>/uribe&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>242fb69&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>directory: Features Added&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>US23&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  
+  </tbody></table
+
 <div id='5.2.1.5.'><h5> 5.2.1.5. Execution Evidence for Sprint Review. </h5></div>
+La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la landing page, destacando el avance por secciones clave como el menú principal, la presentación de la empresa, los servicios ofrecidos, y la interacción con los usuarios a través del formulario de contacto. Cada tarea aborda un componente fundamental de la página, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con los objetivos específicos de informar y atraer a los visitantes. Además, la implementación de un formulario de contacto facilita la interacción directa con los usuarios, una funcionalidad esencial para una landing page exitosa.
+
+
+A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de la Landing Page:
+
+UT01:
+<img alt="5.2.1.5">
+
+UT02:
+<img alt="5.2.1.5.2">
+
+UT03:
+<img alt="5.2.1.5.3">
+
+UT04:
+<img alt="5.2.1.5.4">
+
+UT05:
+<img alt="5.2.1.5.5">
+
+
+
+Link del vídeo: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/EeI59epIJJZChU9sjX0H2HEBr8gBe49iZbQXX8sJyo6zog?e=qD0N3P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/EeI59epIJJZChU9sjX0H2HEBr8gBe49iZbQXX8sJyo6zog?e=qD0N3P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
 <div id='5.2.1.6.'><h5> 5.2.1.6. Services Documentation Evidence for Sprint Review. </h5></div>
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
 
 <div id='5.2.1.7.'><h5> 5.2.1.7. Software Deployment Evidence for Sprint Review.</h5></div>
+Durante este sprint, se utilizó GitHub Pages como plataforma de despliegue para la landing page del proyecto. El proceso comenzó con la creación y configuración de un repositorio en GitHub, donde se subió el código fuente de la página y se actualizaba constantemente añadiendo las funcionalidades que se requerian. Posteriormente, se habilitó GitHub Pages en la configuración del repositorio, seleccionando la rama main como fuente de despliegue. Esto permitió que la landing page fuera accesible a través de una URL pública proporcionada por GitHub. El despliegue se automatizó de manera que, con cada commit realizado en la rama principal, GitHub Pages actualizaba la página automáticamente. Esta integración simplificó el proceso de deployment, asegurando una rápida visibilidad de los cambios en producción. Además, se verificó que la página estuviera optimizada para dispositivos móviles, asegurando un diseño responsivo y tiempos de carga eficientes.
+
+
 
 <div id='5.2.1.8.'><h5> 5.2.1.8. Team Collaboration Insights during Sprint. </h5></div>
 
@@ -1323,6 +1405,8 @@ En este punto abarcaremos las funcionalidades y la evidencia de que pudimos comp
 | Jimenez Melgar, Daniel Luciano | Implementación de la sección nosotros. |
 | Julca Cruz, Renso Anthony | Implementación de la sección contacto.|
 | Uribe Quispe, Jesús Guillermo | Implementación de la sección de modales de Login e información de servicios.|
+
+
 
 
 
