@@ -967,7 +967,7 @@ El "Product Backlog" es una herramienta esencial en la metodología ágil de des
 
 <div id='4.'><h2> CAPÍTULO IV: PRODUCT DESIGN</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
-
+<div id ='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
 **Lenguaje aplicado:**<br>
 Para la realización de la aplicación web “Dentify” y su respectiva Landing Page hemos tomado un lenguaje formal, serio y respetuoso, ya que va acorde con el propósito de y la finalidad de este producto.
 
@@ -980,10 +980,59 @@ Para la realización de la Aplicación Web y Landing Page, hemos aplicado los pr
 **Comunicación:**<br> hemos considerado que los usuarios reciban confirmaciones visuales cuando realizan una acción. Esta retroalimentación ayuda a los usuarios a saber y comprender el punto en el que están y principalmente para confirmar que sus acciones han sido ejecutadas de manera exitosa.
 
 Jerarquía Visual: Mediante los tipos y tamaños de fuente, colores y contrastes, hemos jerarquizado los elementos de la aplicación web de manera que guíe la atención del usuario y resalte la información más importante.
-<div id ='4.1.1.'><h4> 4.1.1. General Style Guidelines</h4></div>
 <div id ='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
+**Fuentes tipograficas:**<br>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/TipoLetra.png" alt="Fuentes tipograficas" style="margin-bottom: 5px;" width="800"/>
+**Colores:**<br>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Colores.png" alt="Colores" style="margin-bottom: 5px;" width="800"/>
+**Icons**<br>
+ <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/icons.png" alt="Icons" style="margin-bottom: 5px;" width="800"/>
 <div id ='4.2.'><h3> 4.2. Information Architecture</h4></div>
 <div id ='4.2.1.'><h4> 4.2.1 Organization Systems</h4></div>
+- **Jerarquía Visual:**<br>
+
+**Uso en Landing Page (MediTech):**<br>
+- Resalta secciones clave: “Nosotros”, “Servicios”, “Información”, y “Contáctenos” con títulos grandes y botones destacados para guiar a los visitantes de manera intuitiva.
+
+- Ejemplo: “Servicios” tendrá iconos visibles y botones que llevan a más detalles sobre las soluciones que MediTech ofrece, especialmente Dentify.
+  
+**Uso en App Web (Dentify):**<br>
+- Prioriza funcionalidades interactivas como “Reserva de Citas”, “Pagar Tratamiento”, y “Historial” con botones prominentes, accesibles desde el menú principal.
+- Ejemplo: Las funciones críticas como “Reservar Cita” estarán en la parte superior o con botones flotantes en la versión móvil para facilitar el acceso.
+
+- **Categorización de Contenidos:**<br>
+
+**Uso en Landing Page (MediTech):**<br>
+
+- Secciones categorizadas de manera clara para una navegación sencilla, como “Nosotros” que agrupa la historia de la empresa y el equipo, o “Servicios” que detalla lo que 
+  MediTech ofrece.
+
+- Ejemplo: “Información” podría incluir artículos o casos de éxito, divididos por temas relevantes como eficiencia clínica, manejo de citas, etc.
+  
+**Uso en App Web (Dentify):**<br>
+- Las funcionalidades se agrupan en categorías específicas dentro de la app, como “Citas”, “Pagos” y “Historial” para que los usuarios identifiquen fácilmente dónde 
+  encontrar lo que necesitan.
+
+- Ejemplo: “Gestión de Inventario” y “Métricas” estarán bajo una categoría administrativa para los usuarios premium.
+
+- **Secuencia de Contenidos:**<br>
+
+**Uso en Landing Page (MediTech):**<br>
+- La secuencia sigue un flujo natural desde la presentación de la empresa (“Nosotros”) hasta el contacto (“Contáctenos”), guiando al usuario paso a paso.
+- Ejemplo: El usuario primero explora los servicios, luego se dirige a más información específica y finalmente al contacto.
+  
+**Uso en App Web (Dentify):**<br>
+- En la app, la secuencia de contenidos sigue un flujo operativo: desde ingresar al perfil hasta realizar acciones como ver el historial o reservar citas.
+- Ejemplo: Después de iniciar sesión, la secuencia lleva al usuario al menú principal y luego a las funcionalidades más usadas, como “Reserva de Citas”.
+
+- **Agrupación de Funcionalidades:**<br>
+**Uso en Landing Page (MediTech):**<br>
+- Agrupaciones claras por secciones funcionales: “Servicios” agrupa lo que la empresa puede hacer, mientras que “Contáctenos” agrupa formas de comunicación y ubicación.
+- Ejemplo: Un subgrupo de “Servicios” podría enfocar específicamente a Dentify, resaltando la app como una solución destacada.
+**Uso en App Web (Dentify):**<br>
+- Funcionalidades agrupadas por relevancia y uso: “Perfil” agrupa configuraciones personales, “Citas” agrupa todo lo relacionado con la programación y recordatorios.
+- Ejemplo: Las opciones de pago y facturación están agrupadas bajo “Pagos”, mientras que “Historial” agrupa información médica de los pacientes.
+
 <div id= '4.2.2.'><h4>4.2.2. Labeling Systems. </h4><div>                   
 <div id= '4.2.3.'><h4>4.2.3. SEO Tags and Meta Tags</h4></div>
 <div id= '4.2.4.'><h4>4.2.4. Searching Systems.</h4></div>
