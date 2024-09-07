@@ -39,7 +39,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 |TB1 |06/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián| Lean UX Problem Statement, Lean UX Canvas, User Stories, Web Style Guidelines, Information System, Domain-Driven Software Architecture.  |
 |TB1 |06/09/2024 |Huanaco Huayte, Elizabeth Lucero | |
 |TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app|
-|TB1 |06/09/2024 |  Julca Cruz, Renzo Anthony ||
+|TB1 |06/09/2024 |  Julca Cruz, Renso Anthony | Diseño de entrvistas, Analisis de Entrevistas, User Personas, User Task Matrix, User Journey Mapping, As-Is Scenario Mapping, Software Development Environment Configuration y Source Code Style Guide & Conventions. |
 |TB1 |06/09/2024 |Uribe Quispe, Jesús Guillermo | Descripción de la Startup, Antecedentes y Problemática, Estrategias y tácticas frente a competidores, Segmentos objetivos, Diseño de Base de Datos, Diagrama de clases, Wireframe y Mockup Landing Page|
 
 ## Project Report Collaboration Insights
@@ -67,7 +67,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 | Bohórquez Lerzundi, Gerardo Sebastián| Lean UX Problem Statement, Lean UX Canvas, User Stories, Web Style Guidelines, Information System, Domain-Driven Software Architecture.  |
  |Huanaco Huayte, Elizabeth Lucero | |
 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app |
-|  Julca Cruz, Renzo Anthony ||
+|  Julca Cruz, Renso Anthony | Diseño de entrvistas, Analisis de Entrevistas, User Personas, User Task Matrix, User Journey Mapping, As-Is Scenario Mapping, Software Development Environment Configuration y Source Code Style Guide & Conventions. |
 |Uribe Quispe, Jesús Guillermo | Descripción de la Startup, Antecedentes y Problemática, Estrategias y tácticas frente a competidores, Segmentos objetivos, Diseño de Base de Datos, Diagrama de clases, Wireframe y Mockup Landing Page|
 
 **Github Collaboration Insights**
@@ -78,7 +78,7 @@ Los integrantes son:
 - Bohórquez Lerzundi, Gerardo Sebastián(Sebasbl562)
 - Huanaco Huayta, Elizabeth Lucero(lucerohh)
 - Jimenez Melgar, Daniel Luciano(Gatetogod)
-- Julca Cruz, Renzo Anthony()
+- Julca Cruz, Renzo Anthony(racj02)
 - Uribe Quispe, Jesús Guillermo()
 
 ## STUDENT OUTCOME
@@ -87,8 +87,8 @@ ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miemb
 
 | Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta      | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br>  Desarrollé el Lean UX Problem Statement, Lean UX Canvas y User Stories, y participé en la definición de la arquitectura de software orientada al dominio. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Realicé un análisis de competidores, llevé a cabo entrevistas, y elaboré un User Task Matrix para identificar las tareas críticas de la aplicación. También creé un glosario de Ubiquitous Language y diseñé wireframes y mock-ups para la versión móvil del landing page, así como para la aplicación web, asegurando una experiencia de usuario eficiente y funcional. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> (tb1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (tb1) <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> El liderazgo conjunto permitió tomar decisiones alineadas y enfocadas en resolver problemas clave del proyecto. El trabajo en equipo mejoró la definición de requisitos y la calidad de nuestras soluciones. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> La colaboración entre los miembros del equipo fue clave para alinear los objetivos del producto y diseñar soluciones efectivas que respondan a las necesidades de nustros futuros usuarios. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br>  <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable                                                                                      |
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (tb1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Elaboré las Web Style Guidelines, diseñé el Information System, y planifiqué tareas usando Lean UX, manteniendo un enfoque centrado en el usuario. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Investigué los Competidores y realicé un Análisis de Competidores detallado para identificar sus características, ventajas y debilidades. Conduje Entrevistas con posibles usuarios. Además, elaboré un User Task Matrix para definir las tareas prioritarias que los usuarios deben completar en la plataforma. Creé un glosario de Ubiquitous Language para asegurar una comunicación clara y sin ambigüedades. Finalmente, diseñé Wireframes y Mock-ups para la versión móvil del landing page y Web App. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> (tb1) <br> <br> <br> **Uribe Quispe Jesús Guillermo** <br> **TB1:** <br> A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimineto de varios objetivos. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (tb1) <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> Un entorno inclusivo facilitó la planificación efectiva y el cumplimiento de objetivos. La colaboración constante ayudó a integrar ideas diversas y a lograr una experiencia de usuario coherente. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Fomentar la colaboración y establecer un ambiente inclusivo permitió que el equipo se alineara en torno a metas comunes, mejorando la productividad y alcanzando los objetivos planificados de manera satisfactoria. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> (tb1) <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Fomentamos la colaboración, el trabajo en equipo y la designación de tareas del informe para poder entregar el proyecto exitosamente. <br>  <br>
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta      | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (TB1) <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br>  Desarrollé el Lean UX Problem Statement, Lean UX Canvas y User Stories, y participé en la definición de la arquitectura de software orientada al dominio. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Realicé un análisis de competidores, llevé a cabo entrevistas, y elaboré un User Task Matrix para identificar las tareas críticas de la aplicación. También creé un glosario de Ubiquitous Language y diseñé wireframes y mock-ups para la versión móvil del landing page, así como para la aplicación web, asegurando una experiencia de usuario eficiente y funcional. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (tb1) <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> El liderazgo conjunto permitió tomar decisiones alineadas y enfocadas en resolver problemas clave del proyecto. El trabajo en equipo mejoró la definición de requisitos y la calidad de nuestras soluciones. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> La colaboración entre los miembros del equipo fue clave para alinear los objetivos del producto y diseñar soluciones efectivas que respondan a las necesidades de nustros futuros usuarios. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Con el trabajo aprendimos la colaboración en equipo sacando adelante mediante lluvia de ideas, para poder mejorar e impulsar el desarrollo del mismo. Tnemos una visión excelente para el desarrollo de nuestro trabajo para poder cubrir esa necesidad a nuestro publico objetivo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable                                                                                      |
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (tb1) <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Elaboré las Web Style Guidelines, diseñé el Information System, y planifiqué tareas usando Lean UX, manteniendo un enfoque centrado en el usuario. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Investigué los Competidores y realicé un Análisis de Competidores detallado para identificar sus características, ventajas y debilidades. Conduje Entrevistas con posibles usuarios. Además, elaboré un User Task Matrix para definir las tareas prioritarias que los usuarios deben completar en la plataforma. Creé un glosario de Ubiquitous Language para asegurar una comunicación clara y sin ambigüedades. Finalmente, diseñé Wireframes y Mock-ups para la versión móvil del landing page y Web App. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe Jesús Guillermo** <br> **TB1:** <br> A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimineto de varios objetivos. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> (tb1) <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> Un entorno inclusivo facilitó la planificación efectiva y el cumplimiento de objetivos. La colaboración constante ayudó a integrar ideas diversas y a lograr una experiencia de usuario coherente. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Fomentar la colaboración y establecer un ambiente inclusivo permitió que el equipo se alineara en torno a metas comunes, mejorando la productividad y alcanzando los objetivos planificados de manera satisfactoria. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Se fomento el trabajo en equipo uniendo ideas mediante llucias de iseas y plasmando en ellas un mejor camino para nuestro trabajo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Fomentamos la colaboración, el trabajo en equipo y la designación de tareas del informe para poder entregar el proyecto exitosamente. <br>  <br>
 
 ## Contenido
 
@@ -269,7 +269,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="Img/imagen_2024-09-05_144636355.png" alt="Silva Tirado, Sebastián Valentino"  style="margin-bottom: 5px;" width="800"/>
+            <img src="[Img/imagen_2024-09-05_144636355.png](https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Julca-Cruz.jpg)" alt="Julca Cruz, Renso Anthony"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido: </b>
@@ -281,14 +281,14 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
         <td align="left">
         <b>Carrera:</b>
         <br>
-        ---
+        Ingenieria de Software
         </td>
     </tr>
     <tr>
         <td align="left">
         <b>Acerca de:</b>
         <br>
-         ---
+         Estudiante de Ingenieria de Software, actualmente curso el 5to ciclo de esta carrera. Me apasiona programar y ser autodidacta para poder mejorar mis habilidades en el desarrollo de software, quisiera dedicarme a la parte de gestion bancaria.
         </td>
     </tr>
     <tr align="center">
@@ -463,6 +463,147 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 
 - Utilizaremos testimonios de clientes satisfechos en nuestro marketing para construir credibilidad. Los testimonios se destacarán en nuestro sitio web y materiales promocionales. Este enfoque ayudará a atraer nuevos clientes y fortalecer la confianza en nuestra plataforma.
 
+<div id='2.2.'><h3> 2.2 Entrevistas</h3></div>
+
+<div id='2.2.1.'><h4> 2.2.1. Diseño de entrevistas.</h4></div>
+
+- Preguntas para la Asistente Dental
+1. ¿Podrías contarme un poco sobre ti?
+2. ¿Cómo describirías tu rol como asistente dental en tu clínica?
+3. ¿Qué herramientas o software utilizas actualmente para gestionar las tareas diarias en la clínica?
+4. ¿Podrías describir un día típico en tu trabajo?
+5. ¿Cuáles son los mayores desafíos que enfrentas al coordinar la agenda del dentista y manejar las citas?
+6. ¿Cómo gestionas la comunicación con los pacientes, especialmente en casos de cancelaciones o reprogramaciones?
+7. Si pudieras implementar una nueva funcionalidad en el software que usas, ¿qué sería y por qué?
+8. ¿Qué importancia le das a la experiencia del paciente en la clínica, y cómo crees que tu trabajo influye en esa experiencia?
+9. ¿Qué características personales consideras que te ayudan en tu rol como asistente dental?
+10. ¿Qué marcas, dispositivos o canales digitales prefieres para realizar tu trabajo y mantenerte actualizada?
+
+- Preguntas para la Odontologa
+1. ¿Cómo organizas tu día para asegurarte de que todas las citas de los pacientes se realicen sin contratiempos y qué situaciones suelen causar retrasos o reprogramaciones?
+2. ¿Qué tan fácil o difícil es para ti llevar un registro actualizado de los tratamientos de cada paciente y qué estrategias utilizas para mantener al día las historias clínicas?
+3. ¿Cómo prefieres manejar las conversaciones con los pacientes sobre pagos y tratamientos costosos?
+4. ¿Cómo gestionas el seguimiento de los pagos pendientes de los pacientes?
+5. ¿Cómo te aseguras de que todas las facturas y pagos estén registrados correctamente al final del día?
+6. ¿Qué tan importante es para ti recibir feedback (opinión) directo de tus pacientes y cómo te enteras de que han recomendado tus servicios a otros?
+7. ¿Qué haces para asegurarte de que los pacientes regresen para sus revisiones periódicas?
+8. ¿Cómo evalúas el éxito de tu práctica y qué tipo de información revisas para decidir si necesitas ajustar tu carga de trabajo o tarifas?
+9. ¿Cómo determinar qué tratamientos y servicios son más rentables para tu práctica, y si tomas decisiones sobre la expansión o reducción de ciertos servicios basándote en la demanda de los pacientes?
+
+<table>
+  <tr align="center">
+    <tr>
+      <td>
+        <b>ENTREVISTA 1</b>
+      </td>
+    </tr>
+        <td rowspan="3">
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Imagen_Entrevista_01.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Datos Personales del Entrevistado:</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="left"> 
+        Allison Rivera es una joven profesional de 20 años que trabaja como asistente administrativo en un centro dental. Actualmente se encuentra en el 9no ciclo de la carrera de administración de empresas. Es organizada, proactiva y siempre busca formas de mejorar la eficiencia en su trabajo.
+        </td>
+    </tr>
+</table>
+
+<table>
+  <tr align="center">
+    <tr>
+      <td>
+        <b>ENTREVISTA 2</b>
+      </td>
+    </tr>
+        <td rowspan="3">
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Imagen_Entrevista_02.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Datos Personales del Entrevistado:</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="left"> 
+        Fiorella Vilca, tiene 23 años y actualmente está en el 4º ciclo de Ingeniería de Software. Trabajo a tiempo parcial como asistente dental para equilibrar sus estudios con sus necesidades financieras.
+        </td>
+    </tr>
+</table>
+
+<table>
+  <tr align="center">
+    <tr>
+      <td>
+        <b>ENTREVISTA 3</b>
+      </td>
+    </tr>
+        <td rowspan="3">
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Imagen_Entrevista_03.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Datos Personales del Entrevistado:</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="left"> 
+        Mariluz es una odontóloga con 10 años de experiencia en el sector dental. Tiene su propio consultorio donde se especializa en ortodoncia, y su enfoque se centra en ofrecer un servicio personalizado y de alta calidad. Además de su práctica clínica, Mariluz se encarga de la administración y gestión de su consultorio, lo que le permite tener un control total sobre su negocio.
+        </td>
+    </tr>
+</table>
+
+**CARPETA DE ENTREVISTAS:** 
+- https://drive.google.com/drive/folders/1R3qObddumASEe8bWxbsaa97e17YXjy1k?usp=sharing
+
+<div id='2.2.3.'><h4> 2.2.3. Analisis de Entrevistas.</h4></div>
+
+**Datos del entrevistado #1**<br>
+**Nombre completo:** Allison Rivera<br>
+**Edad:** 20 años <br>
+**Distrito:** Los Olivos<br>
+
+**Resumen**
+- Allison Rivera, una joven profesional de 20 años y estudiante del noveno ciclo de Administración de Empresas, desempeña el rol de asistente administrativo en un centro dental. En su trabajo, se encarga de coordinar la agenda del dentista, manejar la facturación, y asegurar la eficiencia operativa de la clínica. Allison enfrenta desafíos como equilibrar la disponibilidad del dentista con la demanda de los pacientes y gestionar reprogramaciones sin afectar la agenda. Además, utiliza un sistema de gestión de citas y un software de facturación para mantener todo en orden, y se enfoca en proporcionar una experiencia positiva para los pacientes mediante la personalización de la atención y la implementación de programas de fidelización. Con su enfoque organizado y proactivo, Allison genera reportes clave que ayudan a optimizar las operaciones del consultorio y monitorea indicadores de éxito para asegurar el crecimiento continuo del centro dental.
+
+
+
+
+
+**Datos del entrevistado #2** <br>
+**Nombre completo:** Fiorella Vilca<br>
+**Edad:** 23 años <br>
+**Distrito:** San Martin de Porres<br>
+
+**Resumen**
+- Fiorella Vilca, una joven de 23 años que cursa el cuarto ciclo de Ingeniería de Software, combina sus estudios con un trabajo a tiempo parcial como asistente dental. En su rol, Fiorella asiste al dentista coordinando citas y manejando tareas administrativas, además de encargarse de la recepción y la limpieza del consultorio. Utiliza herramientas como Dentisys para la gestión de citas y complementa con Google Sheets o Excel para el manejo del inventario, aunque ve la necesidad de una mejor integración entre las herramientas. Los principales desafíos en su trabajo incluyen la coordinación eficiente de la agenda del dentista y la gestión de reprogramaciones de última hora. Fiorella valora profundamente la experiencia del paciente y se esfuerza por brindar un servicio amable y organizado, utilizando su capacidad de comunicación, organización y empatía para desempeñar su rol con eficacia. Además, se mantiene actualizada en su campo mediante el uso de dispositivos digitales y el seguimiento de profesionales en redes sociales.
+
+
+
+**Datos del entrevistado #3**<br>
+**Nombre completo:** Mariluz Cruz<br>
+**Edad:** 40 años <br>
+**Distrito:** Carabayllo<br>
+
+**Resumen**
+- Mariluz Cruz Lucero organiza eficientemente su consultorio odontológico, asegurando que las citas y pagos se realicen sin contratiempos, gracias a una planificación detallada y un riguroso sistema de registro de tratamientos. Utiliza listas de precios estandarizadas para las conversaciones sobre costos y mantiene un seguimiento cercano de los pagos, minimizando el riesgo de deudas pendientes. Valora el feedback de los pacientes, lo que le permite ajustar y mejorar su práctica continuamente. Además, se enfoca en la rentabilidad mediante la adaptación a la demanda local y la especialización en servicios específicos, lo que contribuye a la sostenibilidad y éxito de su consultorio.
+
+
+<div id='2.3.1.'><h4> 2.3.1. User Personas.</h4></div>
+
+**a. User Persona de una Asistente Administrativa en una Clínica Dental**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/User-persona-asistente.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
+
+**b. User Persona de una Odontóloga**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/User-persona-odontologa.png" alt="User-persona-odontologa.png" style="margin-bottom: 5px;" width="800"/> 
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
 
@@ -1214,6 +1355,57 @@ nombre de clase: Inventario
 Controlar y rastrear los cambios que se realizan en el software durante el ciclo de vida. Asegura que el software se mantiene consistente, ordenado y controlado a medida que evoluciona desde su desarrollo inicial hasta su entrega y mantenimiento.
 
 <div id='5.1.1.'><h4> 5.1.1. Software Development Environment Configuration.</h4></div>
+
+**Requirements Management** <br>
+
+**UXPressia:** Es una herramienta que utilicé para desarrollar y gestionar diversos aspectos de la experiencia del usuario en el proyecto. Con UXPressia, elaboré User Personas para definir perfiles detallados de los usuarios, creé Empathy Maps para comprender sus emociones y necesidades, desarrollé Journey Maps para mapear las etapas y puntos de contacto en su interacción con la landing page, y construí Impact Maps para alinear los objetivos del proyecto con las necesidades de los usuarios y los resultados esperados. Esta herramienta facilita una comprensión integral de los usuarios y mejoró el enfoque del diseño. **Ruta de referencia:**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/uxpressia.png" alt="uxpressia" style="margin-bottom: 5px;" width="300"/> 
+
+**Miro:** Es una plataforma en línea que facilita la colaboración en tiempo real mediante pizarras digitales. Proporciona herramientas para crear diagramas, mapas mentales, flujos de trabajo y otros tipos de representaciones visuales. En este caso, utilizamos Miro para la elaboración de As-Is y To-Be Scenarios Mapping. **Ruta de referencia:**
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/miro.png" alt="miro" style="margin-bottom: 5px;" width="300"/> 
+
+**Product UX/UI Design** <br>
+**Figma:** Es una herramienta de diseño colaborativo que se utilizó para desarrollar varios aspectos del proyecto. Primero, se diseñaron los wireframes en Figma para definir la estructura básica y el flujo general de la landing page. Luego, se creó los mock-ups detallados para mostrar la apariencia final, incluyendo colores, tipografía y elementos gráficos. Finalmente, se utilizo Figma para desarrollar prototipos interactivos, permitiendo simular y probar la navegación y las interacciones del usuario antes de proceder con el desarrollo. **Ruta de referencia:** https://www.figma.com/
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/figma.png" alt="figma" style="margin-bottom: 5px;" width="300"/> 
+
+**Overflow:** Es un plugin de Figma que se usará para crear Wireflows y User Flows. Overflow nos permitirá combinar wireframes con flujos de usuario para visualizar cómo los usuarios interactúan con la interfaz, mostrando la estructura y las conexiones entre pantallas de manera clara. Además, con Overflow podemos mapear el recorrido completo del usuario, detallando cada paso y decisión en el proceso para optimizar la experiencia del usuario y garantizar que cada interacción sea fluida y eficiente. **Ruta de referencia:** https://www.figma.com/community/plugin/880782315986192393/overflow
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/overflow.png" alt="overflow" style="margin-bottom: 5px;" width="300"/> 
+
+**Software Development** <br>
+**WebStorm:** Es un entorno de desarrollo integrado (IDE) creado por JetBrains, diseñado para optimizar la experiencia de programación. En este caso, utilizamos WebStorm como nuestro entorno de desarrollo principal para escribir y editar el código HTML, CSS y JavaScript, además de integrar la biblioteca Bootstrap 5 para desarrollar la landing page de nuestro proyecto. **Ruta de referencia:** https://www.jetbrains.com/es-es/webstorm/
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/webstorm.png" alt="webstorm" style="margin-bottom: 5px;" width="300"/> 
+
+**HTML:** Es el lenguaje de marcado que se utiliza para estructurar y organizar el contenido de una página web. En este caso, empleamos HTML para definir la estructura de la landing page, como encabezados, párrafos, imágenes y botones. **Ruta de referencia:** https://html.spec.whatwg.org/multipage/#toc-introduction
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/html.png" alt="html" style="margin-bottom: 5px;" width="300"/> 
+
+**CSS:** Es el lenguaje de estilos que se utiliza para controlar la apariencia visual de la página. En este proyecto, utilizamos CSS para personalizar los colores, fuentes, márgenes y el diseño general de los elementos de la landing page. **Ruta de referencia:** https://developer.mozilla.org/es/docs/Web/CSS
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/css.png" alt="css" style="margin-bottom: 5px;" width="300"/> 
+
+**JavaScript:** Es un lenguaje de programación que se usa para agregar interactividad a las páginas web. En este caso, empleamos JavaScript para manejar la interacción del usuario, como animaciones o acciones dinámicas en la landing page. **Ruta de referencia:** https://developer.mozilla.org/es/docs/Web/JavaScript
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/JS.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+
+**Bootstrap 5:** Es una biblioteca de componentes y un sistema de grillas que facilita el diseño web responsivo. Utilizamos Bootstrap 5 en esta landing page para agilizar la creación de un diseño adaptable y aprovechar sus componentes preconstruidos, como botones, formularios y barras de navegación. **Ruta de referencia:** https://getbootstrap.com/
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/bootstrap.png" alt="bootstrap" style="margin-bottom: 5px;" width="300"/> 
+
+**Software Deployment** <br>
+**Git:** Es una herramienta de control de versiones que nos permitirá rastrear cambios, colaborar de manera eficiente y mantener un historial detallado de las modificaciones en el código. **Ruta de referencia:** https://git-scm.com/
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main//Img/git.png" alt="git" style="margin-bottom: 5px;" width="300"/> 
+
+**Software Documentation and Project Management**
+**GitHub:** Como plataforma de alojamiento, facilitará la colaboración en equipo, la gestión de ramas y la integración continua, optimizando el flujo de trabajo de desarrollo y asegurando una gestión organizada del proyecto. **Ruta de referencia:** https://github.com/
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/github.png" alt="github" style="margin-bottom: 5px;" width="300"/> 
+
 <div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
 El Proyecto tanto de la Landing Page asi como el de la Aplicación web, seguirá los principios del modelo "Git Branch Model" en la cual se define como una estrategia para organizar el trabajo en un repositorio de Git mediante la creación de ramas (branches) que permiten desarrollar nuevas características, corregir errores, y gestionar versiones de manera eficiente. Uno de los modelos más conocidos es Git Flow, propuesto por Vincent Driessen, que define cómo y cuándo crear ramas para mantener el control del ciclo de vida del desarrollo de software, la cual usaremos.
 
@@ -1248,6 +1440,28 @@ La estructura a seguir será la siguiente:
 "(tipo):(titulo)" y "(descripcion)"
 
 <div id='5.1.3.'><h4> 5.1.3. Source Code Style Guide & Conventions.</h4></div>
+
+HTML** <br>
+- Para el desarrollo en HTML, se ha seguido la Guía de Estilo HTML de Google y las Convenciones de Codificación para HTML. Los puntos más importantes aplicados son:
+1. **Uso de etiquetas semánticas:** <br>
+- Se han utilizado etiquetas como header, nav, main, footer para mejorar la accesibilidad y la comprensión del documento.
+2. **Indentación y estructura:** <br>
+- A pesar de que HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, se limitará al uso de minúsculas para mantener el orden y garantizar la legibilidad. 
+
+**CSS** <br>
+En el CSS, se ha implementado la convención BEM y las guías de estilo recomendadas para mantener el código claro y organizado. Aquí algunos detalles específicos de tu código CSS:
+1. **Uso de nombres de clases descriptivos y en inglés:** <br>
+- Las clases siguen un esquema claro, como custom-navbar y custom-button, lo que facilita la identificación del propósito de cada clase.
+2. **Transiciones y efectos en botones:** <br>
+- Se implementaron transiciones suaves para mejorar la experiencia de usuario cuando interactúa con botones.
+3. **Uso de fuentes personalizadas:** <br>
+- Se han utilizado varias fuentes personalizadas cargadas mediante @font-face, lo que sigue las mejores prácticas de personalización tipográfica en CSS.
+
+**JavaScript** <br>
+En el proyecto se ha utilizado Bootstrap para manejar la interactividad y los componentes dinámicos de la interfaz. Los archivos JavaScript incluidos son versiones oficiales del framework, lo que permite aprovechar funcionalidades avanzadas sin necesidad de escribir código JavaScript desde cero.
+
+**Bootstrap** <br>
+Para Bootstrap, se han seguido las mejores prácticas, como utilizar clases predefinidas para ahorrar tiempo y asegurar que el diseño sea responsive. Además, se ha personalizado el diseño sin modificar directamente las clases de Bootstrap, lo que asegura compatibilidad y facilidad de actualización.
 
 <div id='5.1.4.'><h4> 5.1.4. Software Deployment Configuration.</h4></div>
 
