@@ -1280,7 +1280,7 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
  <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/componente-diagram.png" alt="Diagrama de componentes" style="margin-bottom: 5px;" width="600"/>
 <div id= '4.7.'><h3>4.7. Software Object-Oriented Design.</h4></div>
 <div id= '4.7.1.'><h4>4.7.1. Class Diagrams.</h4></div>
-<img src = "https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Class.png" alt="class diagram">
+<img src = "https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/uml.png" alt="class diagram">
 <div id= '4.7.2.'><h4>4.7.2. Class Dictionary.</h4></div>
 
 nombre de clase: Usuario
