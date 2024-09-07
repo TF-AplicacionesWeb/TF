@@ -1365,17 +1365,17 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 
 **Nosotros**
 
-<img src="Img/product-design/landing-page/Nosotros.png" alt="Nosotros">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/landing-page/Nosotros.png" alt="Nosotros">
 
 **Servicios**
 
-<img src="Img/product-design/landing-page/Servicios.png" alt="Servicios">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/landing-page/Servicios.png" alt="Servicios">
 
 
 **Contáctanos**
 
-<img src="Img/product-design/landing-page/Contactanos.png" alt="Contactanos">
-<img src="Img/product-design/landing-page/Contactanos2.png" alt="Contactanos">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/landing-page/Contactanos.png" alt="Contactanos">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/landing-page/Contactanos2.png" alt="Contactanos">
 
 **Mobile** <br>
 **Nosotros** <br>
@@ -1394,17 +1394,17 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 
 **Nosotros**
 
-<img src="Img/product-design/landing-page/m-Nosotros.png" alt="Nosotros">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/landing-page/m-Nosotros.png" alt="Nosotros">
 
 **Servicios**
 
-<img src="Img/product-design/landing-page/m-Servicios.png" alt="Servicios">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/landing-page/m-Servicios.png" alt="Servicios">
 
 
 **Contáctanos**
 
-<img src="Img/product-design/landing-page/m-Contactanos.png" alt="Contactanos">
-<img src="Img/product-design/landing-page/m-Contactanos2.png" alt="Contactanos">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/landing-page/m-Contactanos.png" alt="Contactanos">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/landing-page/m-Contactanos2.png" alt="Contactanos">
 
 **Mobile** <br>
 **Nosotros** <br>
@@ -1425,69 +1425,69 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <div id= '4.4.1'><h4>4.4.1. Web Applications Wireframes.</h4></div>
 
 **Registro**
-<img src="Img/product-design/web-application/w-Registro.png" alt="Registro">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Registro.png" alt="Registro">
 
 **Iniciar sesión**
 
-<img src="Img/product-design/web-application/w-Inicio de sesión.png" alt="Inicio de sesión">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Inicio de sesión.png" alt="Inicio de sesión">
 
 **Dashboard**
 
-<img src="Img/product-design/web-application/w-Dashboard.png" alt="Dashboard">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Dashboard.png" alt="Dashboard">
 
 **Citas**
 
-<img src="Img/product-design/web-application/w-Opciones citas.png" alt="Operaciones citas">
-<img src="Img/product-design/web-application/w-Reserva de citas.png" alt="Reserva de citas">
-<img src="Img/product-design/web-application/w-Eliminar citas.png" alt="Eliminar citas">
-<img src="Img/product-design/web-application/w-Modificar citas.png" alt="Modificar citas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Opciones citas.png" alt="Operaciones citas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Reserva de citas.png" alt="Reserva de citas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Eliminar citas.png" alt="Eliminar citas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Modificar citas.png" alt="Modificar citas">
 
 **Pagos**
 
-<img src="Img/product-design/web-application/w-Pagos_ Citas a pagar.png" alt="Pagos">
-<img src="Img/product-design/web-application/w-Pagos_ Filtros para buscar facturas.png" alt="Pagos">
-<img src="Img/product-design/web-application/w-Pagos_ pagar cita.png" alt="Pagos">
-<img src="Img/product-design/web-application/w-Pagos_ pago exitoso.png" alt="Pagos">
-<img src="Img/product-design/web-application/w-Pagos_ Vista de una factura.png" alt="Pagos">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Pagos_ Citas a pagar.png" alt="Pagos">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Pagos_ Filtros para buscar facturas.png" alt="Pagos">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Pagos_ pagar cita.png" alt="Pagos">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Pagos_ pago exitoso.png" alt="Pagos">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Pagos_ Vista de una factura.png" alt="Pagos">
 
 **Pacientes**
 
-<img src="Img/product-design/web-application/w-Historial clinico.png" alt="Historial clinico">
-<img src="Img/product-design/web-application/w-Editar ficha de seguimiento.png" alt="Historial clinico">
-<img src="Img/product-design/web-application/w-Editar ficha personal.png" alt="Historial clinico">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Historial clinico.png" alt="Historial clinico">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Editar ficha de seguimiento.png" alt="Historial clinico">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Editar ficha personal.png" alt="Historial clinico">
 
 **Especialistas**
 
-<img src="Img/product-design/web-application/w-Especialistas.png" alt="Especialistas">
-<img src="Img/product-design/web-application/w-Especialistas_ Nuevo especialista.png" alt="Especialistas">
-<img src="Img/product-design/web-application/w-Especialistas_ Confirmar eliminar.png" alt="Especialistas">
-<img src="Img/product-design/web-application/w-Especialistas_ Horarios disponibles.png" alt="Especialistas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Especialistas.png" alt="Especialistas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Especialistas_ Nuevo especialista.png" alt="Especialistas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Especialistas_ Confirmar eliminar.png" alt="Especialistas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Especialistas_ Horarios disponibles.png" alt="Especialistas">
 
 **Soporte**
 
-<img src="Img/product-design/web-application/w-Soporte.png" alt="Soporte">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Soporte.png" alt="Soporte">
 
 **Inventario**
 
-<img src="Img/product-design/web-application/w-Inventario.png" alt="Inventario">
-<img src="Img/product-design/web-application/w-Inventario_ Nuevo producto.png" alt="Inventario">
-<img src="Img/product-design/web-application/w-Inventario_ Eliminar producto.png" alt="Inventario">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Inventario.png" alt="Inventario">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Inventario_ Nuevo producto.png" alt="Inventario">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Inventario_ Eliminar producto.png" alt="Inventario">
 
 **Informes**
 
-<img src="Img/product-design/web-application/w-Informes_ Generar informe.png" alt="Informes">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Informes_ Generar informe.png" alt="Informes">
 
 **Métricas**
 
-<img src="Img/product-design/web-application/w-Métricas_ Gráficos.png" alt="Métricas">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Métricas_ Gráficos.png" alt="Métricas">
 
 **Notificaciones**
-<img src="Img/product-design/web-application/w-Notificaciones.png" alt="Notificaciones">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Notificaciones.png" alt="Notificaciones">
 
 **Perfil**
 
-<img src="Img/product-design/web-application/w-Perfil_ Cambiar contrasenia.png" alt="Perfil">
-<img src="Img/product-design/web-application/w-Perfil_ Editar información personal.png" alt="Perfil">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Perfil_ Cambiar contrasenia.png" alt="Perfil">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/w-Perfil_ Editar información personal.png" alt="Perfil">
 
 **Mobile** <br>
 **Register** <br>
@@ -1581,9 +1581,9 @@ User Goal: Ver especialistas <br>
 
 **Pacientes**
 
-<img src="Img/product-design/web-application/Historial clinico.png" alt="Historial clinico">
-<img src="Img/product-design/web-application/Paciente Editar ficha de seguimiento.png" alt="Historial clinico">
-<img src="Img/product-design/web-application/Paciente Editar ficha personal.png" alt="Historial clinico">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Historial clinico.png" alt="Historial clinico">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Paciente Editar ficha de seguimiento.png" alt="Historial clinico">
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Paciente Editar ficha personal.png" alt="Historial clinico">
 
 **Especialistas**
 
