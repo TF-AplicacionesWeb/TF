@@ -36,7 +36,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | --------------------------- |
-|TB1 |06/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián|   |
+|TB1 |06/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián| Lean UX Problem Statement, Lean UX Canvas, User Stories, Web Style Guidelines, Information System, Domain-Driven Software Architecture.  |
 |TB1 |06/09/2024 |Huanaco Huayte, Elizabeth Lucero | |
 |TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app|
 |TB1 |06/09/2024 |  Julca Cruz, Renzo Anthony ||
@@ -64,7 +64,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 | Integrante | Tareas Asignadas |
 | ---------- | ---------------- |
-| Bohórquez Lerzundi, Gerardo Sebastián|   |
+| Bohórquez Lerzundi, Gerardo Sebastián| Lean UX Problem Statement, Lean UX Canvas, User Stories, Web Style Guidelines, Information System, Domain-Driven Software Architecture.  |
  |Huanaco Huayte, Elizabeth Lucero | |
 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app |
 |  Julca Cruz, Renzo Anthony ||
