@@ -1268,7 +1268,72 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <div id= '4.4.'><h3>4.4. Web Applications UX/UI Design.</h3></div>
 <div id= '4.4.1'><h4>4.4.1. Web Applications Wireframes.</h4></div>
 <div id= '4.4.2'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
-<div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups.</h4></div>
+<div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups</h4></div>
+
+**Registro**
+<img src="Img/product-design/web-application/Registro.png" alt="Registro">
+
+**Iniciar sesión**
+
+<img src="Img/product-design/web-application/Inicio de sesión.png" alt="Inicio de sesión">
+
+**Dashboard**
+
+<img src="Img/product-design/web-application/Dashboard.png" alt="Dashboard">
+
+**Citas**
+
+<img src="Img/product-design/web-application/Opciones citas.png" alt="Operaciones citas">
+<img src="Img/product-design/web-application/Reserva de citas.png" alt="Reserva de citas">
+<img src="Img/product-design/web-application/Eliminar citas.png" alt="Eliminar citas">
+<img src="Img/product-design/web-application/Modificar citas.png" alt="Modificar citas">
+
+**Pagos**
+
+<img src="Img/product-design/web-application/Pagos_ Citas a pagar.png" alt="Pagos">
+<img src="Img/product-design/web-application/Pagos_ Filtros para buscar facturas.png" alt="Pagos">
+<img src="Img/product-design/web-application/Pagos_ pagar cita.png" alt="Pagos">
+<img src="Img/product-design/web-application/Pagos_ pago exitoso.png" alt="Pagos">
+<img src="Img/product-design/web-application/Pagos_ Vista de una factura.png" alt="Pagos">
+
+**Pacientes**
+
+<img src="Img/product-design/web-application/Historial clinico.png" alt="Historial clinico">
+<img src="Img/product-design/web-application/Paciente Editar ficha de seguimiento.png" alt="Historial clinico">
+<img src="Img/product-design/web-application/Paciente Editar ficha personal.png" alt="Historial clinico">
+
+**Especialistas**
+
+<img src="Img/product-design/web-application/Especialistas.png" alt="Especialistas">
+<img src="Img/product-design/web-application/Especialistas_ Nuevo especialista.png" alt="Especialistas">
+<img src="Img/product-design/web-application/Especialistas_ confirmar eliminar.png" alt="Especialistas">
+<img src="Img/product-design/web-application/Especialistas_ Horarios disponibles.png" alt="Especialistas">
+
+**Soporte**
+
+<img src="Img/product-design/web-application/Soporte.png" alt="Soporte">
+
+**Inventario**
+
+<img src="Img/product-design/web-application/Inventario.png" alt="Inventario">
+<img src="Img/product-design/web-application/Inventario_ Nuevo producto.png" alt="Inventario">
+<img src="Img/product-design/web-application/Inventario_ Eliminar producto.png" alt="Inventario">
+
+**Informes**
+
+<img src="Img/product-design/web-application/Informes_ Generar informe.png" alt="Informes">
+
+**Métricas**
+
+<img src="Img/product-design/web-application/Métricas_ Gráficos.png" alt="Métricas">
+
+**Notificaciones**
+<img src="Img/product-design/web-application/Notificaciones.png" alt="Notificaciones">
+
+**Perfil**
+<img src="Img/product-design/web-application/Perfil_ Cambiar contrasenia.png" alt="Perfil">
+<img src="Img/product-design/web-application/Perfil_ Editar información personal.png" alt="Perfil">
+
 <div id= '4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
 <div id= '4.5.'><h3>4.5. Web Applications Prototyping.</h4></div>
 <div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
