@@ -1266,8 +1266,8 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <div id= '4.3.1.'><h4>4.3.1. Landing Page Wireframe.</h4></div>
 <div id= '4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>
 <div id= '4.4.'><h3>4.4. Web Applications UX/UI Design.</h3></div>
-<div id= '4.4.1'><h4>4.4.1. Web Applications Wireframes.</h4></div>
-<div id= '4.4.2'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
+<div id= '4.4.1.'><h4>4.4.1. Web Applications Wireframes.</h4></div>
+<div id= '4.4.2.'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
 <div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups</h4></div>
 
 **Registro**
@@ -1335,6 +1335,32 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Perfil_ Editar información personal.png" alt="Perfil">
 
 <div id= '4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
+
+Interacción cuando un cliente se registra y procede a gestionar una cita médica
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20251.png">
+<br><br>
+Interacción cuando un cliente realiza y gestiona los pagos
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20252.png">
+<br><br>
+Interacción cuando un cliente registra un paciente con su historial clinico
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20253.png">
+<br><br>
+Interacción cuando un cliente gestiona su perfil
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20254.png">
+<br><br>
+Interacción cuando un cliente gestiona el inventariado de la clínica
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20255.png">
+<br><br>
+Interacción cuando un cliente genera un informe
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20256.png">
+<br><br>
+Interacción cuando un cliente genera el Dashboard
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20257.png">
+<br><br>
+Interacción cuando un cliente gestiona los especialistas y sus métricas
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20252.png">
+<br><br>
+
 <div id= '4.5.'><h3>4.5. Web Applications Prototyping.</h4></div>
 <div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
 <div id= '4.6.1.'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
