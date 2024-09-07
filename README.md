@@ -635,6 +635,10 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
 
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/User-Journey-Mapping-1.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+
+<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/User-Journey-Mapping-2.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
 
 <div id='2.3.5.'><h4> 2.3.5. As-Is Scenario Mapping.</h4></div>
