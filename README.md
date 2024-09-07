@@ -37,9 +37,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | --------------------------- |
 |TB1 |06/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián| Lean UX Problem Statement, Lean UX Canvas, User Stories, Web Style Guidelines, Information System, Domain-Driven Software Architecture.  |
-|TB1 |06/09/2024 |Huanaco Huayte, Elizabeth Lucero | |
 |TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, Mock-ups del Web app, y prototype mobile y desktop del Web App |
-|TB1 |06/09/2024 |  Julca Cruz, Renzo Anthony ||
 |TB1 |06/09/2024 |Huanaco Huayta, Elizabeth Lucero | Lean UX Assumptions, Competidores, Análisis competitivo, Estrategias frente a competidores, Wireframes y Mockups de la versión desktop del landing page, y Wireframes de la versión desktop del web application. |
 |TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app|
 |TB1 |06/09/2024 |  Julca Cruz, Renso Anthony | Diseño de entrvistas, Analisis de Entrevistas, User Personas, User Task Matrix, User Journey Mapping, As-Is Scenario Mapping, Software Development Environment Configuration y Source Code Style Guide & Conventions. |
@@ -583,8 +581,81 @@ Dentistas que buscan y necesitan herramientas para optimizar su gestión de cita
     </tr>
 </table>
 
+<table>
+  <tr align="center">
+    <tr>
+      <td>
+        <b>ENTREVISTA 4</b>
+      </td>
+    </tr>
+        <td rowspan="3">
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Entrevista moises.png" alt="Imagen_Entrevista_04" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Datos Personales del Entrevistado:</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="left"> 
+        Moisés Rodrigues trabaja como personal administrativo en un consultorio dental, tiene 19 años y se encuentra cursando su 6to ciclo.
+        </td>
+    </tr>
+</table>
+
+<table>
+  <tr align="center">
+    <tr>
+      <td>
+        <b>ENTREVISTA 5</b>
+      </td>
+    </tr>
+        <td rowspan="3">
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Entrevista alejandro.png" alt="Imagen_Entrevista_05" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Datos Personales del Entrevistado:</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="left"> 
+        Alejandro Flores, es un practicante de odontología de 20 años, se encuentra realizando sus prácticas pre-profesionales.
+        </td>
+    </tr>
+</table>
+
+<table>
+  <tr align="center">
+    <tr>
+      <td>
+        <b>ENTREVISTA 6</b>
+      </td>
+    </tr>
+        <td rowspan="3">
+            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Entrevista jose.png" alt="Imagen_Entrevista_06" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Datos Personales del Entrevistado:</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="left"> 
+        José Luza, un practicante de odontología de 20 años, se encuentra realizando sus prácticas pre profesionales. 
+        </td>
+    </tr>
+</table>
+
 **CARPETA DE ENTREVISTAS:** 
+
 - https://drive.google.com/drive/folders/1R3qObddumASEe8bWxbsaa97e17YXjy1k?usp=sharing
+- [2024-08-31 11-56-07.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a569_upc_edu_pe/EQbw_V0FnWpDlRWALQC4PrYBW0ucHdk4ABzv7nab6Wt7PQ?e=vYewAQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [2024-08-31 12-22-56.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a569_upc_edu_pe/EXCYHr8GjYRDmE4z5v_zY30BQK5i5cM6982uem2z4RU1_w?e=Q2bzDT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+- [2024-09-07 00-29-20.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a569_upc_edu_pe/EW4H_F4PGuZAibzZJlCAq4sBy3_1jwO282CMaO6X5kzf7Q?e=3LNhrz&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 <div id='2.2.3.'><h4> 2.2.3. Analisis de Entrevistas.</h4></div>
 
@@ -618,6 +689,34 @@ Dentistas que buscan y necesitan herramientas para optimizar su gestión de cita
 **Resumen**
 - Mariluz Cruz Lucero organiza eficientemente su consultorio odontológico, asegurando que las citas y pagos se realicen sin contratiempos, gracias a una planificación detallada y un riguroso sistema de registro de tratamientos. Utiliza listas de precios estandarizadas para las conversaciones sobre costos y mantiene un seguimiento cercano de los pagos, minimizando el riesgo de deudas pendientes. Valora el feedback de los pacientes, lo que le permite ajustar y mejorar su práctica continuamente. Además, se enfoca en la rentabilidad mediante la adaptación a la demanda local y la especialización en servicios específicos, lo que contribuye a la sostenibilidad y éxito de su consultorio.
 
+
+**Datos del entrevistado #4**<br>
+**Nombre completo:** Moises Rodriguez<br>
+**Edad:** 19 años <br>
+**Distrito:** Ate<br>
+
+**Resumen**
+- Moisés Rodrigues trabaja como personal administrativo en un consultorio dental, nos habló de la gestión administrativa en la clínica. Moisés explicó cómo coordina la agenda del dentista para optimizar la programación de citas. Finalmente, habló sobre los reportes generados para mantener al dentista informado y cómo utiliza estos datos para mejorar la eficiencia operativa de la clínica.
+
+
+
+**Datos del entrevistado #5**<br>
+**Nombre completo:** Alejandro Flores<br>
+**Edad:** 20 años<br>
+**Distrito:** Ate<br>
+
+**Resumen**
+- Alejandro Flores, es un practicante de odontología de 20 años, se discutieron diversos aspectos de la gestión en un consultorio dental. Alejandro compartió cómo organiza su día para manejar eficazmente las citas de los pacientes, destacando la importancia de mantener registros actualizados de los tratamientos.En cuanto a la facturación, explicó sus métodos para abordar las conversaciones sobre pagos. Finalmente, Alejandro describió cómo evalúa el éxito de la práctica y ajusta su carga de trabajo basándose en la demanda de tiempo de los tratamientos.
+
+
+**Datos del entrevistado #6**<br>
+**Nombre completo:** Jose Luza<br>
+**Edad:** 19 años<br>
+**Distrito:** Surquillo<br>
+
+**Resumen**
+- José Luza, un practicante de odontología de 20 años, organiza su día revisando las citas desde temprano y asegura que los tratamientos de los pacientes se registren de manera precisa. Utiliza herramientas manuales para mantener al día las historias clínicas. En cuanto a la facturación, prefiere mantener conversaciones directas sobre pagos y se asegura de registrar correctamente cada transacción. Finalmente, destaca que evalúa el éxito de su práctica revisando los reportes semanales y mensuales, ajustando su carga de trabajo según la demanda.
+  
 <div id='2.3.'><h3> 2.3. NeedFinding. </h3></div>
 
 <div id='2.3.1.'><h4> 2.3.1. User Personas.</h4></div>
