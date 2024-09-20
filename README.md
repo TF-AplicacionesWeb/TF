@@ -1236,7 +1236,7 @@ El "Product Backlog" es una herramienta esencial en la metodología ágil de des
 |35|TS012|	Métricas e Informes	| Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API para generar métricas e informes de rendimiento de los odontólogos y citas.|5|
 |36|TS013|	Dashboard	|Como desarrollador que trabaja en la aplicación de Meditech, quiero crear un dashboard que muestre un resumen de citas, pagos y métricas.|5|
 |37|TS014|	Gestión de Odontólogos	|Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una funcionalidad para gestionar la información de los odontólogos.|5|
-|38|TS015|	Gestión de Horarios|	Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una funcionalidad que permita gestionar los horarios de los odontólogos.|8|
+|38|TS015|	Gestión de Horarios|	Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una funcionalidad que permita gestionar los horarios de los odontólogos.|5|
 
 <div id='4.'><h2> CAPÍTULO IV: PRODUCT DESIGN</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
