@@ -166,8 +166,8 @@ ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miemb
    5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
    5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
    5.2.2. [Sprint 2.](#5.2.2.)<br>
-   5.2.2.1. [Sprint Planning 1.](#5.2.2.1.)<br>
-   5.2.2.2. [Sprint Backlog 1.](#5.2.2.2.)<br>
+   5.2.2.1. [Sprint Planning 2.](#5.2.2.1.)<br>
+   5.2.2.2. [Sprint Backlog 2.](#5.2.2.2.)<br>
    5.2.2.3. [Development Evidence for Sprint Review.](#5.2.2.3.)<br>
    5.2.2.4. [Testing Suite Evidence for Sprint Review.](#5.2.2.4.)<br>
    5.2.2.5. [Execution Evidence for Sprint Review.](#5.2.2.5.)<br>
