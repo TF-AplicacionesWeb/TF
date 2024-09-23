@@ -165,6 +165,15 @@ ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miemb
    5.2.1.6. [Services Documentation Evidence for Sprint Review.](#5.2.1.6.)<br>
    5.2.1.7. [Software Deployment Evidence for Sprint Review.](#5.2.1.7.)<br>
    5.2.1.8. [Team Collaboration Insights during Sprint.](#5.2.1.8.)<br>
+   5.2.2. [Sprint 2.](#5.2.2.)<br>
+   5.2.2.1. [Sprint Planning 1.](#5.2.2.1.)<br>
+   5.2.2.2. [Sprint Backlog 1.](#5.2.2.2.)<br>
+   5.2.2.3. [Development Evidence for Sprint Review.](#5.2.2.3.)<br>
+   5.2.2.4. [Testing Suite Evidence for Sprint Review.](#5.2.2.4.)<br>
+   5.2.2.5. [Execution Evidence for Sprint Review.](#5.2.2.5.)<br>
+   5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
+   5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
+   5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
 6. [**Conclusiones.**](#6.)<br>
 6.1. [Conclusiones y recomendaciones](#6.1.)<br>
 6.2. [Video About-The-Team](#6.2.)<br>
@@ -1422,7 +1431,7 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 
 <div id= '4.4.'><h3>4.4. Web Applications UX/UI Design.</h3></div>
 
-<div id= '4.4.1'><h4>4.4.1. Web Applications Wireframes.</h4></div>
+<div id= '4.4.1.'><h4>4.4.1. Web Applications Wireframes.</h4></div>
 
 **Registro**
 <img src="Img/product-design/web-application/w-Registro.png" alt="Registro">
@@ -1528,7 +1537,7 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 
 <img src="Img/registrarpago_wm.png" alt="Registrar Pagos" style="margin-bottom: 5px;" width="250">
 
-<div id= '4.4.2'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
+<div id= '4.4.2.'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
 
 Enlace Figma: https://www.figma.com/design/6fL6lP76J7kZqHFRPzoKLR/Landing-page-%2F-Desarrollo-de-aplicaciones-web?node-id=0-1&node-type=CANVAS&t=MfzOZR4gVNwmIWD6-0 <br>
 
@@ -2255,9 +2264,149 @@ Evidencia de despliegue en github Pages:
 | Julca Cruz, Renso Anthony | Implementación de la sección contacto.|
 | Uribe Quispe, Jesús Guillermo | Implementación de la sección de modales de Login e información de servicios.|
 
-<img src="Uribe/Img/imagen_2024-09-07_033930395.png">
+<img src="Img/imagen_2024-09-07_033930395.png">
 <br>
-<img src="Uribe/Img/imagen_2024-09-07_034018920.png">
+<img src="Img/imagen_2024-09-07_034018920.png">
+
+<div id='5.2.2.'><h4> 5.2.2. Sprint #2.</h4></div>
+
+<div id='5.2.2.1.'><h5> 5.2.2.1. Sprint Planning #2.</h5></div>
+En la siguiente sección, se presentará el sprint #2 con la primera versión de la aplicación web y mejoras en la landing page. Mostrando la organización, distribución y resultados de la aplicación web. 
+
+
+| Sprint # | Sprint 1 |
+|----------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2024-09-21|
+| **Time** | 01:30 PM |
+| **Location** | llamada por la plataforma "Discord" |
+| **Prepared By** | Uribe Quispe, Jesús Guillermo |
+| **Attendees (to planning meeting)** | Uribe Quispe Jesús Guillermo / Bohorquez Lerzundi Gerardo Sebastián / Huanaco Huayta Elizabeth Lucero / Jimenez Melgar Daniel Luciano |
+| **Sprint 1 – 1 Review Summary** | En el primer sprint desarrollamos y lanzamos la primera versión de la Landing Page de Dentify. |
+| **Sprint 1 – 1 Retrospective Summary** | Para el primer sprint tuvimos que aprender a trabajar con el modelo GitFlow, lo que nos permitió, desarrollar satisfactoriamente dicho sprint  |
+| **Sprint Goal & User Stories**| |
+| **Sprint n Goal** | Desarrollar y desplegar la aplicación web funcional que presente de manera clara y atractiva los principales características de la aplicación web, a través del lenguaje de programación "Vue". El objetivo es tener lo máximo posible del front end para conectarlo a la backend, usaremos una Fake API para demostrar los datos y desplegarlo en FireBase. |
+| **Sprint n Velocity** |  x story points |
+| **Sum of Story Points** | x |
+
+<div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog #2.</h5></div>
+Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte del front end de la aplicación web, lista para producción en FireBase  con un diseño responsivo y tiempos de carga rápidos.
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br># Sprint&nbsp;&nbsp;&nbsp;</th>
+    <th colspan="7">Sprint 2</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>User Story&nbsp;&nbsp;&nbsp;</td>
+    <td colspan="6">Work Item/Task</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Id&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Title&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Id&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Title&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Estimación (Hours)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Assigned to&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Status (In&nbsp;&nbsp;&nbsp;-process / To - review / Done)&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US01&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Iniciar Sesión&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT01&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Inicio de sesión en la Aplicación Web&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de la funcionalidad de validación de usuario&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+ 
+  
+</tbody></table>
+
+
+<div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
+En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 2:
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="10"><a href="https://tf-aplicacionesweb.github.io/Landing_Page/" target="_blank" rel="noopener noreferrer">https://tf-aplicacionesweb.github.io/Landing_Page/</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature/nav&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>747b692&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"assets: added bootstrap, styles and images files"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  
+</tbody></table>
+
+<div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review. </h5></div>
+
+En este segundo Sprint,
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+	
+</tbody>
+
+<div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review. </h5></div>
+La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades que brinda Dentify.
+
+
+A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de la Landing Page:
+
+
+Link del vídeo: <a></a>
+
+<div id='5.2.2.6.'><h5> 5.2.2.6. Services Documentation Evidence for Sprint Review. </h5></div>
+Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
+
+<div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review.</h5></div>
+Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web de Dentify. 
+
+Evidencia de despliegue en github Pages:
+
+<img src="" alt="deploy">
+
+
+<br>
+
+
+**Link de Landing Page:** <a>link</a>
+
+
+
+
+<div id='5.2.1.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint. </h5></div>
+
+| Alumno  | Actividad |
+| -------- | -------- |
+| Bohorquez Lerzundi Gerardo Sebastian|   |
+| Huanaco Huayta, Elizabeth Lucero | |
+| Jimenez Melgar, Daniel Luciano |  |
+| Julca Cruz, Renso Anthony | |
+| Uribe Quispe, Jesús Guillermo | |
+
+IMG COMMITS
 
 <div id='6.'><h2>6. Conclusiones</h2></div>
 
