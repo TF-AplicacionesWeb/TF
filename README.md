@@ -45,18 +45,14 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 ## Project Report Collaboration Insights
 
-URL del repositorio para el reporte del proyecto: https://github.com/TFOpenSource
+URL del repositorio para el reporte del proyecto: https://github.com/TF-AplicacionesWeb
 
 <div align="center">
-  <img src="">
+  <img src="Img/imagen_2024-09-07_034018920.png">
 </div>
 
 <div align="center">
-  <img src="">
-</div>
-
-<div align="center">
-  <img src="">
+  <img src="Img/imagen_2024-09-07_114230789.png">
 </div>
 
 **TB1**
@@ -198,7 +194,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Bohorquez.jpg" alt="Bohorquez Lerzundi, Gerardo Sebastián" style="margin-bottom: 5px;" width="800"/> 
+            <img src="Img/Bohorquez.jpg" alt="Bohorquez Lerzundi, Gerardo Sebastián" style="margin-bottom: 5px;" width="800"/> 
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -222,7 +218,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Elizabeth-Huanaco.jpg" alt="Huanaco Huayta, Elizabeth Lucero" style="margin-bottom: 5px;" width="800"/>
+            <img src="Img/Elizabeth-Huanaco.jpg" alt="Huanaco Huayta, Elizabeth Lucero" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -246,7 +242,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Daniel-foto.png" alt="Jimenez Melgar, Daniel Luciano" style="margin-bottom: 5px;" width="800"/>
+            <img src="Img/Daniel-foto.png" alt="Jimenez Melgar, Daniel Luciano" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -270,7 +266,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Julca-Cruz.jpg" alt="Julca Cruz, Renso Anthony"  style="margin-bottom: 5px;" width="800"/>
+            <img src="Img/Julca-Cruz.jpg" alt="Julca Cruz, Renso Anthony"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido: </b>
@@ -294,7 +290,7 @@ MediTech es una innovadora startup tecnológica dedicada a transformar la manera
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="https://github.com/TFOpenSource/Documentation-TF/blob/main/Img/ju.jpeg" alt="Uribe Quispe, Jesús Guillermo" style="margin-bottom: 5px;" width="800"/>
+            <img src="Img/ju.jpeg" alt="Uribe Quispe, Jesús Guillermo" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -429,7 +425,7 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 - Creemos que al proporcionar recursos educativos sobre cuidados dentales y consejos de higiene, mejoraremos la educación del paciente y su compromiso con el tratamiento. Sabemos que estamos educando a los pacientes cuando más del 60% de ellos interactúan regularmente con estos recursos y se registra un incremento en la satisfacción del paciente.
 
 <div id='1.2.2.4.'><h5> 1.2.2.4. Lean UX Canvas </h5></div>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/canvas.jpg.png" alt="Lean Ux Canvas" style="margin-bottom: 5px;" width="800"/>
+<img src="Img/canvas.jpg.png" alt="Lean Ux Canvas" style="margin-bottom: 5px;" width="800"/>
 
 <div id='1.3.'><h3> 1.3 Segmentos Objetivos</h3></div>
 
@@ -454,13 +450,13 @@ Dentistas que buscan y necesitan herramientas para optimizar su gestión de cita
 
 | **Competidor**   |         **Descripción**                                                                                                                                 | **Características**                                                                                                                                       | **Logo** |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| **Panda Dental Software**  | Solución para clínicas dentales, que facilita la gestión de pacientes, facturación y análisis de datos. Ofrece automatización de procesos y soporte técnico. | - Historia clínica digital. <br> - Programación de citas. <br> - Monitoreo y registro de tratamientos realizados. <br> - Notificaciones por SMS y correo electrónico para citas. <br> - Estadísticas y reportes detallados. | <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/panda-dental-software-logo.png" alt="Logo Panda Dental Software" style="margin-bottom: 5px;" width="800"/>  |
-| **Dentrix**                | Dentrix es un software integral para consultorios dentales que optimiza la gestión del consultorio con herramientas avanzadas.                 | - Copias de seguridad de datos automatizadas <br> - Reclamos electrónicos <br> - Procesamiento de tarjetas de pago <br> - Estados de cuenta automatizados <br> - Herramientas de desarrollo de sitios web <br> - Recordatorios de citas <br> - Software de reconocimiento de voz | <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/dentrix-logo.png" alt="Logo Dentrix" style="margin-bottom: 5px;" width="800"/> |
-| **Curve Dental**           | Curve Dental es una plataforma basada en la nube para la gestión de clínicas dentales que proporciona una solución integral.                    | - Plataforma basada en la nube <br> - Gestión de citas y historiales clínicos <br> - Procesamiento de pagos y facturación <br> - Recetas electrónicas y formularios inteligentes <br> - Integración de imágenes clínicas y datos del paciente <br> - Interfaz intuitiva <br> - Informes dentales y paneles de control para la gestión financiera y operativa | <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/curve-dental-logo.png" alt="Logo Curve Dental" style="margin-bottom: 5px;" width="800"/> |
+| **Panda Dental Software**  | Solución para clínicas dentales, que facilita la gestión de pacientes, facturación y análisis de datos. Ofrece automatización de procesos y soporte técnico. | - Historia clínica digital. <br> - Programación de citas. <br> - Monitoreo y registro de tratamientos realizados. <br> - Notificaciones por SMS y correo electrónico para citas. <br> - Estadísticas y reportes detallados. | <img src="Img/panda-dental-software-logo.png" alt="Logo Panda Dental Software" style="margin-bottom: 5px;" width="800"/>  |
+| **Dentrix**                | Dentrix es un software integral para consultorios dentales que optimiza la gestión del consultorio con herramientas avanzadas.                 | - Copias de seguridad de datos automatizadas <br> - Reclamos electrónicos <br> - Procesamiento de tarjetas de pago <br> - Estados de cuenta automatizados <br> - Herramientas de desarrollo de sitios web <br> - Recordatorios de citas <br> - Software de reconocimiento de voz | <img src="Img/dentrix-logo.png" alt="Logo Dentrix" style="margin-bottom: 5px;" width="800"/> |
+| **Curve Dental**           | Curve Dental es una plataforma basada en la nube para la gestión de clínicas dentales que proporciona una solución integral.                    | - Plataforma basada en la nube <br> - Gestión de citas y historiales clínicos <br> - Procesamiento de pagos y facturación <br> - Recetas electrónicas y formularios inteligentes <br> - Integración de imágenes clínicas y datos del paciente <br> - Interfaz intuitiva <br> - Informes dentales y paneles de control para la gestión financiera y operativa | <img src="Img/curve-dental-logo.png" alt="Logo Curve Dental" style="margin-bottom: 5px;" width="800"/> |
 
 <div id='2.1.1.'><h4> 2.1.1 Análisis competitivo</h4></div>
 
-| **Competidor**   | **Dentify** <br> <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Dentify-logo.png" alt="Logo Dentify" style="width:60px;">  | **Panda Dental Software** <br> <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/panda-dental-software-logo.png" alt="Logo Panda Dental Software" style="width:100px;"> | **Dentrix** <br> <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/dentrix-logo.png" alt="Logo Dentrix" style="width:100px;"> | **Curve Dental** <br> <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/curve-dental-logo.png" alt="Logo Curve Dental" style="width:100px;">  |
+| **Competidor**   | **Dentify** <br> <img src="Img/Dentify-logo.png" alt="Logo Dentify" style="width:60px;">  | **Panda Dental Software** <br> <img src="Img/panda-dental-software-logo.png" alt="Logo Panda Dental Software" style="width:100px;"> | **Dentrix** <br> <img src="Img/dentrix-logo.png" alt="Logo Dentrix" style="width:100px;"> | **Curve Dental** <br> <img src="Img/curve-dental-logo.png" alt="Logo Curve Dental" style="width:100px;">  |
 |------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Perfil Overview**     | Aplicación web diseñada para optimizar la gestión de clínicas dentales mediante funcionalidades, como la gestión de pacientes, la programación de citas, la facturación y los pagos. Además, incluye herramientas de análisis y reportes para mejorar la toma de decisiones.  | Aplicación web diseñada para mejorar la gestión en consultorios dentales. Ofrece documentación automatizada, planificación de tratamientos, integración con historiales médicos electrónicos (EMR), y herramientas educativas para pacientes.                         | Software que ofrece soluciones diseñadas para mejorar la experiencia en el consultorio dental, como copias de seguridad de datos automatizadas, reclamos electrónicos, procesamiento de tarjetas de pago, estados de cuenta automatizados y recordatorios de citas.  | Plataforma basada en la nube para la gestión de clínicas dentales, ofreciendo herramientas para la administración de citas, historiales clínicos, procesamiento de pago, facturación, recetas electrónicas y formularios inteligentes.  |
 | **Ventaja Competitiva** | Integración de múltiples funciones en una sola plataforma, desde la gestión de citas hasta la facturación y los pagos, con un enfoque en la personalización y automatización de procesos para mejorar la eficiencia y la experiencia del paciente. | Automatiza la toma de notas y la generación de reportes en consultorios periodontales, optimizando la eficiencia clínica. Además, integra herramientas para la planificación de tratamientos y la gestión de historiales médicos electrónicos.                        | Utiliza inteligencia artificial para mejorar automáticamente las exploraciones de rayos X con detecciones de caries y mediciones del nivel óseo radiográfico interproximal (RBL). Además, ofrece una versión de prueba limitada gratis para estudiantes.   | Solución basada en la nube con integración de imágenes clínicas, gráficos y datos que mejoran la gestión centralizada. Combina informes dentales y paneles de control myPractice para brindar información útil sobre los aspectos financieros y operativos. |
@@ -520,7 +516,7 @@ Dentistas que buscan y necesitan herramientas para optimizar su gestión de cita
       </td>
     </tr>
         <td rowspan="3">
-            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Imagen_Entrevista_01.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
+            <img src="Img/Imagen_Entrevista_01.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
         </td>
     </tr>
     <tr>
@@ -543,7 +539,7 @@ Dentistas que buscan y necesitan herramientas para optimizar su gestión de cita
       </td>
     </tr>
         <td rowspan="3">
-            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Imagen_Entrevista_02.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
+            <img src="Img/Imagen_Entrevista_02.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
         </td>
     </tr>
     <tr>
@@ -566,7 +562,7 @@ Dentistas que buscan y necesitan herramientas para optimizar su gestión de cita
       </td>
     </tr>
         <td rowspan="3">
-            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Imagen_Entrevista_03.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
+            <img src="Img/Imagen_Entrevista_03.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
         </td>
     </tr>
     <tr>
@@ -589,7 +585,7 @@ Dentistas que buscan y necesitan herramientas para optimizar su gestión de cita
       </td>
     </tr>
         <td rowspan="3">
-            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Entrevista moises.png" alt="Imagen_Entrevista_04" style="margin-bottom: 5px;" width="800"/> 
+            <img src="Img/Entrevista moises.png" alt="Imagen_Entrevista_04" style="margin-bottom: 5px;" width="800"/> 
         </td>
     </tr>
     <tr>
@@ -612,7 +608,7 @@ Dentistas que buscan y necesitan herramientas para optimizar su gestión de cita
       </td>
     </tr>
         <td rowspan="3">
-            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Entrevista alejandro.png" alt="Imagen_Entrevista_05" style="margin-bottom: 5px;" width="800"/> 
+            <img src="Img/Entrevista alejandro.png" alt="Imagen_Entrevista_05" style="margin-bottom: 5px;" width="800"/> 
         </td>
     </tr>
     <tr>
@@ -635,7 +631,7 @@ Dentistas que buscan y necesitan herramientas para optimizar su gestión de cita
       </td>
     </tr>
         <td rowspan="3">
-            <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Entrevista jose.png" alt="Imagen_Entrevista_06" style="margin-bottom: 5px;" width="800"/> 
+            <img src="Img/Entrevista jose.png" alt="Imagen_Entrevista_06" style="margin-bottom: 5px;" width="800"/> 
         </td>
     </tr>
     <tr>
@@ -723,11 +719,11 @@ Dentistas que buscan y necesitan herramientas para optimizar su gestión de cita
 
 **a. User Persona de una Asistente Administrativa en una Clínica Dental**
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/User-persona-asistente.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
+<img src="Img/User-persona-asistente.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
 
 **b. User Persona de una Odontóloga**
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/User-persona-odontologa.png" alt="User-persona-odontologa.png" style="margin-bottom: 5px;" width="800"/> 
+<img src="Img/User-persona-odontologa.png" alt="User-persona-odontologa.png" style="margin-bottom: 5px;" width="800"/> 
 
 <div id='2.3.2.'><h4> 2.3.2. User Task Matrix.</h4></div>
 
@@ -759,21 +755,21 @@ Dentistas que buscan y necesitan herramientas para optimizar su gestión de cita
 
 <div id='2.3.3.'><h4> 2.3.3. User Journey Mapping.</h4></div>
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/User-Journey-Mapping-1.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/User-Journey-Mapping-1.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/User-Journey-Mapping-2.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/User-Journey-Mapping-2.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
 
 <div id='2.3.4.'><h4> 2.3.4. Empathy Mapping.</h4></div>
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/empathy-mapping-1.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/empathy-mapping-1.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/empathy-mapping-2.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/empathy-mapping-2.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
 
 <div id='2.3.5.'><h4> 2.3.5. As-Is Scenario Mapping.</h4></div>
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/As-is-Scenario-Mapping-1.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/As-is-Scenario-Mapping-1.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/As-is-Scenario-Mapping-2.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/As-is-Scenario-Mapping-2.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
 
 <div id='2.4.'><h4> 2.4. Ubiquitous Language.</h4></div>
 
@@ -1195,7 +1191,7 @@ Dentistas que buscan y necesitan herramientas para optimizar su gestión de cita
 
 <div id='3.3.'><h3>3.3. Impact Mapping</h3></div>
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/imagen_2024-09-06_194915409.png" alt="Impact Mapping">
+<img src="Img/imagen_2024-09-06_194915409.png" alt="Impact Mapping">
 
 <div id='3.4.'><h3> 3.4 Product Backlog.</h4></div>
 El "Product Backlog" es una herramienta esencial en la metodología ágil de desarrollo de software. Consiste en una lista priorizada de todas las tareas, user stories, y epics que deben ser completadas para llevar a cabo el desarrollo del producto final. Este backlog es dinámico y evoluciona constantemente en respuesta a las necesidades del negocio, los comentarios de los usuarios y los cambios en el mercado
@@ -1240,7 +1236,7 @@ El "Product Backlog" es una herramienta esencial en la metodología ágil de des
 |35|TS012|	Métricas e Informes	| Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API para generar métricas e informes de rendimiento de los odontólogos y citas.|5|
 |36|TS013|	Dashboard	|Como desarrollador que trabaja en la aplicación de Meditech, quiero crear un dashboard que muestre un resumen de citas, pagos y métricas.|5|
 |37|TS014|	Gestión de Odontólogos	|Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una funcionalidad para gestionar la información de los odontólogos.|5|
-|38|TS015|	Gestión de Horarios|	Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una funcionalidad que permita gestionar los horarios de los odontólogos.|8|
+|38|TS015|	Gestión de Horarios|	Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una funcionalidad que permita gestionar los horarios de los odontólogos.|5|
 
 <div id='4.'><h2> CAPÍTULO IV: PRODUCT DESIGN</h2></div>
 <div id='4.1.'><h3> 4.1. Style Guidelines.</h3></div>
@@ -1259,11 +1255,11 @@ Para la realización de la Aplicación Web y Landing Page, hemos aplicado los pr
 Jerarquía Visual: Mediante los tipos y tamaños de fuente, colores y contrastes, hemos jerarquizado los elementos de la aplicación web de manera que guíe la atención del usuario y resalte la información más importante.
 <div id ='4.1.2.'><h4> 4.1.2. Web Style Guidelines</h4></div>
 **Fuentes tipograficas:**<br>
- <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/TipoLetra.png" alt="Fuentes tipograficas" style="margin-bottom: 5px;" width="400"/>
+ <img src="Img/TipoLetra.png" alt="Fuentes tipograficas" style="margin-bottom: 5px;" width="400"/>
 **Colores:**<br>
- <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Colores.png" alt="Colores" style="margin-bottom: 5px;" width="400"/>
+ <img src="Img/Colores.png" alt="Colores" style="margin-bottom: 5px;" width="400"/>
 **Icons**<br>
- <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/icons.png" alt="Icons" style="margin-bottom: 5px;" width="400"/>
+ <img src="Img/icons.png" alt="Icons" style="margin-bottom: 5px;" width="400"/>
 <div id ='4.2.'><h3> 4.2. Information Architecture</h4></div>
 <div id ='4.2.1.'><h4> 4.2.1 Organization Systems</h4></div>
 
@@ -1383,16 +1379,16 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 
 **Mobile** <br>
 **Nosotros** <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_nosotros.png" alt="Nosotros" style="margin-bottom: 5px;" width="250">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_nosotros2.png" alt="Nosotros2" style="margin-bottom: 5px;" width="250">
+<img src="Img/wlm_nosotros.png" alt="Nosotros" style="margin-bottom: 5px;" width="250">
+<img src="Img/wlm_nosotros2.png" alt="Nosotros2" style="margin-bottom: 5px;" width="250">
 
 **Servicios** <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_servicios.png" alt="Servicios" style="margin-bottom: 5px;" width="250">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_servicios2.png" alt="Servicios2" style="margin-bottom: 5px;" width="250">
+<img src="Img/wlm_servicios.png" alt="Servicios" style="margin-bottom: 5px;" width="250">
+<img src="Img/wlm_servicios2.png" alt="Servicios2" style="margin-bottom: 5px;" width="250">
 
 **Contactenos** <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_contactenos.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/wlm_contactenos2.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
+<img src="Img/wlm_contactenos.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
+<img src="Img/wlm_contactenos2.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
 
 <div id= '4.3.2.'><h4>4.3.2. Landing Page Mock-up.</h4></div>
 
@@ -1412,16 +1408,16 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 
 **Mobile** <br>
 **Nosotros** <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_nosotros.png" alt="Nosotros" style="margin-bottom: 5px;" width="250">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_nosotros2.png" alt="Nosotros2" style="margin-bottom: 5px;" width="250">
+<img src="Img/mlm_nosotros.png" alt="Nosotros" style="margin-bottom: 5px;" width="250">
+<img src="Img/mlm_nosotros2.png" alt="Nosotros2" style="margin-bottom: 5px;" width="250">
 
 **Servicios** <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_servicios.png" alt="Servicios" style="margin-bottom: 5px;" width="250">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_servicios2.png" alt="Servicios2" style="margin-bottom: 5px;" width="250">
+<img src="Img/mlm_servicios.png" alt="Servicios" style="margin-bottom: 5px;" width="250">
+<img src="Img/mlm_servicios2.png" alt="Servicios2" style="margin-bottom: 5px;" width="250">
 
 **Contactenos** <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_contactenos.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mlm_contactenos2.png" alt="Contactenos2" style="margin-bottom: 5px;" width="250">
+<img src="Img/mlm_contactenos.png" alt="Contactenos" style="margin-bottom: 5px;" width="250">
+<img src="Img/mlm_contactenos2.png" alt="Contactenos2" style="margin-bottom: 5px;" width="250">
 
 
 <div id= '4.4.'><h3>4.4. Web Applications UX/UI Design.</h3></div>
@@ -1495,93 +1491,93 @@ Keywords: “citas dentales en línea, gestión de consultorios, app dental, ser
 
 **Mobile** <br>
 **Register** <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/register_wm.png" alt="Register" style="margin-bottom: 5px;" width="250">
+<img src="Img/register_wm.png" alt="Register" style="margin-bottom: 5px;" width="250">
 
 **Login** <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/login_wm.png" alt="Login" style="margin-bottom: 5px;" width="250">
+<img src="Img/login_wm.png" alt="Login" style="margin-bottom: 5px;" width="250">
 
 **Perfil** <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/perfil_wm.png" alt="Perfil" style="margin-bottom: 5px;" width="250">
+<img src="Img/perfil_wm.png" alt="Perfil" style="margin-bottom: 5px;" width="250">
 
 **Aplicacion** <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/notificaciones_wm.png" alt="Notificaciones" style="margin-bottom: 5px;" width="250">
+<img src="Img/notificaciones_wm.png" alt="Notificaciones" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/esoecialista_wm.png" alt="Especialista" style="margin-bottom: 5px;" width="250">
+<img src="Img/esoecialista_wm.png" alt="Especialista" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/facutra_wm.png" alt="Factura" style="margin-bottom: 5px;" width="250">
+<img src="Img/facutra_wm.png" alt="Factura" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/fichaseguimiento_wm.png" alt="FichaSeguimiento" style="margin-bottom: 5px;" width="250">
+<img src="Img/fichaseguimiento_wm.png" alt="FichaSeguimiento" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/historialcitas_wm.png" alt="Historial de citas" style="margin-bottom: 5px;" width="250">
+<img src="Img/historialcitas_wm.png" alt="Historial de citas" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/historialclinico_wm.png" alt="Historial clinico" style="margin-bottom: 5px;" width="250">
+<img src="Img/historialclinico_wm.png" alt="Historial clinico" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/inventario_wm.png" alt="Inventario" style="margin-bottom: 5px;" width="250">
+<img src="Img/inventario_wm.png" alt="Inventario" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/metricas_wm.png" alt="Metricas" style="margin-bottom: 5px;" width="250">
+<img src="Img/metricas_wm.png" alt="Metricas" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/nuevopaciente_wm.png" alt="Nuevo Paciente" style="margin-bottom: 5px;" width="250">
+<img src="Img/nuevopaciente_wm.png" alt="Nuevo Paciente" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/nuevopro_wm.png" alt="Nuevo Productos" style="margin-bottom: 5px;" width="250">
+<img src="Img/nuevopro_wm.png" alt="Nuevo Productos" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/pagos_wm.png" alt="Pagos" style="margin-bottom: 5px;" width="250">
+<img src="Img/pagos_wm.png" alt="Pagos" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/soporte_wm.png" alt="Soporte" style="margin-bottom: 5px;" width="250">
+<img src="Img/soporte_wm.png" alt="Soporte" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/reservacita_wm.png" alt="Reserva cita" style="margin-bottom: 5px;" width="250">
+<img src="Img/reservacita_wm.png" alt="Reserva cita" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/registrarpago_wm.png" alt="Registrar Pagos" style="margin-bottom: 5px;" width="250">
+<img src="Img/registrarpago_wm.png" alt="Registrar Pagos" style="margin-bottom: 5px;" width="250">
 
 <div id= '4.4.2'><h4>4.4.2. Web Applications Wireflow Diagrams.</h4></div>
 
 Enlace Figma: https://www.figma.com/design/6fL6lP76J7kZqHFRPzoKLR/Landing-page-%2F-Desarrollo-de-aplicaciones-web?node-id=0-1&node-type=CANVAS&t=MfzOZR4gVNwmIWD6-0 <br>
 
 User Goal: Registrar usuario <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 1.png" alt="Diagrama 1"> <br>
+<img src="Img/Diagrama 1.png" alt="Diagrama 1"> <br>
 User Goal: Gestionar citas  <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 2.png" alt="Diagrama 2"> <br>
+<img src="Img/Diagrama 2.png" alt="Diagrama 2"> <br>
 User Goal: Gestionar pagos <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 3.png" alt="Diagrama 3"> <br>
+<img src="Img/Diagrama 3.png" alt="Diagrama 3"> <br>
 User Goal: Gestionar historial clinico  <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 4.png" alt="Diagrama 4"> <br>
+<img src="Img/Diagrama 4.png" alt="Diagrama 4"> <br>
 User Goal: Gestionar Perfil <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 5.png" alt="Diagrama 5"> <br>
+<img src="Img/Diagrama 5.png" alt="Diagrama 5"> <br>
 User Goal: Gestionar inventario  <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 6.png" alt="Diagrama 6"> <br>
+<img src="Img/Diagrama 6.png" alt="Diagrama 6"> <br>
 User Goal: Gestionar informes <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 7.png" alt="Diagrama 7"> <br>
+<img src="Img/Diagrama 7.png" alt="Diagrama 7"> <br>
 User Goal: Observar métricas <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 8.png" alt="Diagrama 8"> <br>
+<img src="Img/Diagrama 8.png" alt="Diagrama 8"> <br>
 User Goal: Ver especialistas <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/Diagrama 9.png" alt="Diagrama 9"> <br>
+<img src="Img/Diagrama 9.png" alt="Diagrama 9"> <br>
 
 <div id= '4.4.3.'><h4>4.4.3. Web Applications Mock-ups</h4></div>
 
 **Registro**
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Registro.png" alt="Registro">
+<img src="Img/product-design/web-application/Registro.png" alt="Registro">
 
 **Iniciar sesión**
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Inicio de sesión.png" alt="Inicio de sesión">
+<img src="Img/product-design/web-application/Inicio de sesión.png" alt="Inicio de sesión">
 
 **Dashboard**
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Dashboard.png" alt="Dashboard">
+<img src="Img/product-design/web-application/Dashboard.png" alt="Dashboard">
 
 **Citas**
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Opciones citas.png" alt="Operaciones citas">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Reserva de citas.png" alt="Reserva de citas">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Eliminar citas.png" alt="Eliminar citas">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Modificar citas.png" alt="Modificar citas">
+<img src="Img/product-design/web-application/Opciones citas.png" alt="Operaciones citas">
+<img src="Img/product-design/web-application/Reserva de citas.png" alt="Reserva de citas">
+<img src="Img/product-design/web-application/Eliminar citas.png" alt="Eliminar citas">
+<img src="Img/product-design/web-application/Modificar citas.png" alt="Modificar citas">
 
 **Pagos**
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Pagos_ Citas a pagar.png" alt="Pagos">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Pagos_ Filtros para buscar facturas.png" alt="Pagos">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Pagos_ pagar cita.png" alt="Pagos">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Pagos_ pago exitoso.png" alt="Pagos">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Pagos_ Vista de una factura.png" alt="Pagos">
+<img src="Img/product-design/web-application/Pagos_ Citas a pagar.png" alt="Pagos">
+<img src="Img/product-design/web-application/Pagos_ Filtros para buscar facturas.png" alt="Pagos">
+<img src="Img/product-design/web-application/Pagos_ pagar cita.png" alt="Pagos">
+<img src="Img/product-design/web-application/Pagos_ pago exitoso.png" alt="Pagos">
+<img src="Img/product-design/web-application/Pagos_ Vista de una factura.png" alt="Pagos">
 
 **Pacientes**
 
@@ -1591,96 +1587,96 @@ User Goal: Ver especialistas <br>
 
 **Especialistas**
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Especialistas.png" alt="Especialistas">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Especialistas_ Nuevo especialista.png" alt="Especialistas">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Especialistas_ confirmar eliminar.png" alt="Especialistas">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Especialistas_ Horarios disponibles.png" alt="Especialistas">
+<img src="Img/product-design/web-application/Especialistas.png" alt="Especialistas">
+<img src="Img/product-design/web-application/Especialistas_ Nuevo especialista.png" alt="Especialistas">
+<img src="Img/product-design/web-application/Especialistas_ confirmar eliminar.png" alt="Especialistas">
+<img src="Img/product-design/web-application/Especialistas_ Horarios disponibles.png" alt="Especialistas">
 
 **Soporte**
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Soporte.png" alt="Soporte">
+<img src="Img/product-design/web-application/Soporte.png" alt="Soporte">
 
 **Inventario**
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Inventario.png" alt="Inventario">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Inventario_ Nuevo producto.png" alt="Inventario">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Inventario_ Eliminar producto.png" alt="Inventario">
+<img src="Img/product-design/web-application/Inventario.png" alt="Inventario">
+<img src="Img/product-design/web-application/Inventario_ Nuevo producto.png" alt="Inventario">
+<img src="Img/product-design/web-application/Inventario_ Eliminar producto.png" alt="Inventario">
 
 **Informes**
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Informes_ Generar informe.png" alt="Informes">
+<img src="Img/product-design/web-application/Informes_ Generar informe.png" alt="Informes">
 
 **Métricas**
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Métricas_ Gráficos.png" alt="Métricas">
+<img src="Img/product-design/web-application/Métricas_ Gráficos.png" alt="Métricas">
 
 **Notificaciones**
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Notificaciones.png" alt="Notificaciones">
+<img src="Img/product-design/web-application/Notificaciones.png" alt="Notificaciones">
 
 **Perfil**
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Perfil_ Cambiar contrasenia.png" alt="Perfil">
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/product-design/web-application/Perfil_ Editar información personal.png" alt="Perfil">
+<img src="Img/product-design/web-application/Perfil_ Cambiar contrasenia.png" alt="Perfil">
+<img src="Img/product-design/web-application/Perfil_ Editar información personal.png" alt="Perfil">
 
 **Mobile** <br>
 **Register** <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_register.png" alt="Register" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_register.png" alt="Register" style="margin-bottom: 5px;" width="250">
 
 **Login** <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_login.png" alt="Login" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_login.png" alt="Login" style="margin-bottom: 5px;" width="250">
 
 **Perfil** <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_perfil.png" alt="Perfil" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_perfil.png" alt="Perfil" style="margin-bottom: 5px;" width="250">
 
 **Aplicacion** <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_notificaciones.png" alt="Notificaciones" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_notificaciones.png" alt="Notificaciones" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_especialista.png" alt="Especialista" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_especialista.png" alt="Especialista" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_pagos.png" alt="Pagos" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_pagos.png" alt="Pagos" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_ficha%20seguimiento.png" alt="FichaSeguimiento" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_ficha%20seguimiento.png" alt="FichaSeguimiento" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_historialcitas.png" alt="Historial de citas" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_historialcitas.png" alt="Historial de citas" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_historialclinico.png" alt="Historial clinico" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_historialclinico.png" alt="Historial clinico" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_iventario.png" alt="Inventario" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_iventario.png" alt="Inventario" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_metricas.png" alt="Metricas" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_metricas.png" alt="Metricas" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_soporte.png" alt="Soporte" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_soporte.png" alt="Soporte" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_reservacitas.png" alt="Reserva cita" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_reservacitas.png" alt="Reserva cita" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_dashboard.png" alt="Dashboard" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_dashboard.png" alt="Dashboard" style="margin-bottom: 5px;" width="250">
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/mm_buevopaciente.png" alt="Nuevo Paciente" style="margin-bottom: 5px;" width="250">
+<img src="Img/mm_buevopaciente.png" alt="Nuevo Paciente" style="margin-bottom: 5px;" width="250">
 
 <div id= '4.4.4.'><h4>4.4.4. Web Applications User Flow Diagrams.</h4></div>
 
 Interacción cuando un cliente se registra y procede a gestionar una cita médica
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20251.png">
+<img src="Img/image%20251.png">
 <br><br>
 Interacción cuando un cliente realiza y gestiona los pagos
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20252.png">
+<img src="Img/image%20252.png">
 <br><br>
 Interacción cuando un cliente registra un paciente con su historial clinico
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20253.png">
+<img src="hImg/image%20253.png">
 <br><br>
 Interacción cuando un cliente gestiona su perfil
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20254.png">
+<img src="Uribe/Img/image%20254.png">
 <br><br>
 Interacción cuando un cliente gestiona el inventariado de la clínica
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20255.png">
+<img src="Img/image%20255.png">
 <br><br>
 Interacción cuando un cliente genera un informe
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20256.png">
+<img src="Img/image%20256.png">
 <br><br>
 Interacción cuando un cliente genera el Dashboard
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20257.png">
+<img src="Img/image%20257.png">
 <br><br>
 Interacción cuando un cliente gestiona los especialistas y sus métricas
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/image%20252.png">
+<img src="Img/image%20252.png">
 <br><br>
 
 <div id= '4.5.'><h3>4.5. Web Applications Prototyping.</h4></div>
@@ -1693,20 +1689,26 @@ Para diseñar los prototipos de la interfaz de usuario para Desktop y Mobile Web
 
 3. Enfoque en la Información Relevante: El diseño prioriza la presentación de la información más importante para los usuarios del segmento objetivo, evitando sobrecargar la interfaz.
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/prototype.png">
-
 Enlace del Prototype: https://www.figma.com/design/6fL6lP76J7kZqHFRPzoKLR/Landing-page-%2F-Desarrollo-de-aplicaciones-web?node-id=0-1&node-type=CANVAS&t=MfzOZR4gVNwmIWD6-0
+
+<img src="Img/prototype.png" alt="Prototype desktop">
+
+Enlace del video Prototype-desktop: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a569_upc_edu_pe/ETs6kjG9PWhNhOMDCNojTY4B_JJAt42YKipQ_-RJbqo_4A?e=DxZYqM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+<img src="Img/Video-prototype-mobile.png" alt="Prototype mobile">
+
+Enlace del video Prototype-mobile: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a569_upc_edu_pe/EeaRkQosNhxLovfVir357N8BPz-WtzxkOWIIrzJzC2pKfw?e=joqPJg&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 <div id= '4.6.'><h3>4.6. Domain-Driven Software Architecture.</h4></div>
 <div id= '4.6.1.'><h4>4.6.1. Software Architecture Context Diagram.</h4></div>
- <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/context-diagram.png" alt="Diagrama Contexto" style="margin-bottom: 5px;" width="600"/>
+ <img src="Img/context-diagram.png" alt="Diagrama Contexto" style="margin-bottom: 5px;" width="600"/>
 <div id= '4.6.2.'><h4>4.6.2. Software Architecture Container Diagrams.</h4></div>
- <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/container-diagram.png" alt="Diagrama contenedores" style="margin-bottom: 5px;" width="600"/>
+ <img src="Img/container-diagram.png" alt="Diagrama contenedores" style="margin-bottom: 5px;" width="600"/>
 <div id= '4.6.3.'><h4>4.6.3. Software Architecture Components Diagrams.</h4></div>
- <img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/componente-diagram.png" alt="Diagrama de componentes" style="margin-bottom: 5px;" width="600"/>
+ <img src="Img/componente-diagram.png" alt="Diagrama de componentes" style="margin-bottom: 5px;" width="600"/>
 <div id= '4.7.'><h3>4.7. Software Object-Oriented Design.</h4></div>
 <div id= '4.7.1.'><h4>4.7.1. Class Diagrams.</h4></div>
-<img src = "https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/uml.png" alt="class diagram">
+<img src = "Img/uml.png" alt="class diagram">
 <div id= '4.7.2.'><h4>4.7.2. Class Dictionary.</h4></div>
 
 nombre de clase: Usuario
@@ -1804,7 +1806,7 @@ nombre de clase: Inventario
 <div id= '4.8.'><h3>4.8. Database Design.</h3></div>
 
 <div id= '4.8.1.'><h4>4.8.1. Database Diagram.</h4></div>
-<img src = "https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/BD.png" alt="class diagram">
+<img src = "Img/BD.png" alt="class diagram">
 
 
 
@@ -1820,51 +1822,51 @@ Controlar y rastrear los cambios que se realizan en el software durante el ciclo
 
 **UXPressia:** Es una herramienta que utilicé para desarrollar y gestionar diversos aspectos de la experiencia del usuario en el proyecto. Con UXPressia, elaboré User Personas para definir perfiles detallados de los usuarios, creé Empathy Maps para comprender sus emociones y necesidades, desarrollé Journey Maps para mapear las etapas y puntos de contacto en su interacción con la landing page, y construí Impact Maps para alinear los objetivos del proyecto con las necesidades de los usuarios y los resultados esperados. Esta herramienta facilita una comprensión integral de los usuarios y mejoró el enfoque del diseño. **Ruta de referencia:**
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/uxpressia.png" alt="uxpressia" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/uxpressia.png" alt="uxpressia" style="margin-bottom: 5px;" width="300"/> 
 
 **Miro:** Es una plataforma en línea que facilita la colaboración en tiempo real mediante pizarras digitales. Proporciona herramientas para crear diagramas, mapas mentales, flujos de trabajo y otros tipos de representaciones visuales. En este caso, utilizamos Miro para la elaboración de As-Is y To-Be Scenarios Mapping. **Ruta de referencia:**
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/miro.png" alt="miro" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/miro.png" alt="miro" style="margin-bottom: 5px;" width="300"/> 
 
 **Product UX/UI Design** <br>
 **Figma:** Es una herramienta de diseño colaborativo que se utilizó para desarrollar varios aspectos del proyecto. Primero, se diseñaron los wireframes en Figma para definir la estructura básica y el flujo general de la landing page. Luego, se creó los mock-ups detallados para mostrar la apariencia final, incluyendo colores, tipografía y elementos gráficos. Finalmente, se utilizo Figma para desarrollar prototipos interactivos, permitiendo simular y probar la navegación y las interacciones del usuario antes de proceder con el desarrollo. **Ruta de referencia:** https://www.figma.com/
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/figma.png" alt="figma" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/figma.png" alt="figma" style="margin-bottom: 5px;" width="300"/> 
 
 **Overflow:** Es un plugin de Figma que se usará para crear Wireflows y User Flows. Overflow nos permitirá combinar wireframes con flujos de usuario para visualizar cómo los usuarios interactúan con la interfaz, mostrando la estructura y las conexiones entre pantallas de manera clara. Además, con Overflow podemos mapear el recorrido completo del usuario, detallando cada paso y decisión en el proceso para optimizar la experiencia del usuario y garantizar que cada interacción sea fluida y eficiente. **Ruta de referencia:** https://www.figma.com/community/plugin/880782315986192393/overflow
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/overflow.png" alt="overflow" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/overflow.png" alt="overflow" style="margin-bottom: 5px;" width="300"/> 
 
 **Software Development** <br>
 **WebStorm:** Es un entorno de desarrollo integrado (IDE) creado por JetBrains, diseñado para optimizar la experiencia de programación. En este caso, utilizamos WebStorm como nuestro entorno de desarrollo principal para escribir y editar el código HTML, CSS y JavaScript, además de integrar la biblioteca Bootstrap 5 para desarrollar la landing page de nuestro proyecto. **Ruta de referencia:** https://www.jetbrains.com/es-es/webstorm/
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/webstorm.png" alt="webstorm" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/webstorm.png" alt="webstorm" style="margin-bottom: 5px;" width="300"/> 
 
 **HTML:** Es el lenguaje de marcado que se utiliza para estructurar y organizar el contenido de una página web. En este caso, empleamos HTML para definir la estructura de la landing page, como encabezados, párrafos, imágenes y botones. **Ruta de referencia:** https://html.spec.whatwg.org/multipage/#toc-introduction
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/html.png" alt="html" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/html.png" alt="html" style="margin-bottom: 5px;" width="300"/> 
 
 **CSS:** Es el lenguaje de estilos que se utiliza para controlar la apariencia visual de la página. En este proyecto, utilizamos CSS para personalizar los colores, fuentes, márgenes y el diseño general de los elementos de la landing page. **Ruta de referencia:** https://developer.mozilla.org/es/docs/Web/CSS
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/css.png" alt="css" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/css.png" alt="css" style="margin-bottom: 5px;" width="300"/> 
 
 **JavaScript:** Es un lenguaje de programación que se usa para agregar interactividad a las páginas web. En este caso, empleamos JavaScript para manejar la interacción del usuario, como animaciones o acciones dinámicas en la landing page. **Ruta de referencia:** https://developer.mozilla.org/es/docs/Web/JavaScript
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/JS.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/JS.png" alt="JS" style="margin-bottom: 5px;" width="300"/> 
 
 **Bootstrap 5:** Es una biblioteca de componentes y un sistema de grillas que facilita el diseño web responsivo. Utilizamos Bootstrap 5 en esta landing page para agilizar la creación de un diseño adaptable y aprovechar sus componentes preconstruidos, como botones, formularios y barras de navegación. **Ruta de referencia:** https://getbootstrap.com/
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/bootstrap.png" alt="bootstrap" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/bootstrap.png" alt="bootstrap" style="margin-bottom: 5px;" width="300"/> 
 
 **Software Deployment** <br>
 **Git:** Es una herramienta de control de versiones que nos permitirá rastrear cambios, colaborar de manera eficiente y mantener un historial detallado de las modificaciones en el código. **Ruta de referencia:** https://git-scm.com/
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main//Img/git.png" alt="git" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/git.png" alt="git" style="margin-bottom: 5px;" width="300"/> 
 
 **Software Documentation and Project Management**
 **GitHub:** Como plataforma de alojamiento, facilitará la colaboración en equipo, la gestión de ramas y la integración continua, optimizando el flujo de trabajo de desarrollo y asegurando una gestión organizada del proyecto. **Ruta de referencia:** https://github.com/
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/main/Img/github.png" alt="github" style="margin-bottom: 5px;" width="300"/> 
+<img src="Img/github.png" alt="github" style="margin-bottom: 5px;" width="300"/> 
 
 <div id='5.1.2.'><h4> 5.1.2. Source Code Management.</h4></div>
 El Proyecto tanto de la Landing Page asi como el de la Aplicación web, seguirá los principios del modelo "Git Branch Model" en la cual se define como una estrategia para organizar el trabajo en un repositorio de Git mediante la creación de ramas (branches) que permiten desarrollar nuevas características, corregir errores, y gestionar versiones de manera eficiente. Uno de los modelos más conocidos es Git Flow, propuesto por Vincent Driessen, que define cómo y cuándo crear ramas para mantener el control del ciclo de vida del desarrollo de software, la cual usaremos.
@@ -1932,10 +1934,10 @@ Haz clic en "New repository".
 Dale un nombre al repositorio, por ejemplo, Example.
 Asegúrate de que el repositorio sea público si quieres que GitHub Pages lo publique fácilmente.
 Haz clic en "Create repository".
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030429149.png" alt="5.1.4">
+<img src="Img/imagen_2024-09-07_030429149.png" alt="5.1.4">
 
 2. Subir la landing page al repositorio
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030441701.png" alt="5.1.4">
+<img src="Img/imagen_2024-09-07_030441701.png" alt="5.1.4">
 
 3. Configurar GitHub Pages
 Una vez que tu código esté en GitHub, sigue estos pasos para habilitar GitHub Pages:
@@ -1943,10 +1945,10 @@ Una vez que tu código esté en GitHub, sigue estos pasos para habilitar GitHub 
 Ve a tu repositorio en GitHub.
 Haz clic en la pestaña Settings (Configuración).
 Desplázate hacia abajo hasta la sección Pages en el menú lateral izquierdo.
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030448974.png" alt="5.1.4">
+<img src="Uribe/Img/imagen_2024-09-07_030448974.png" alt="5.1.4">
 
 En la sección Source, selecciona la rama de la que quieres desplegar (normalmente main o gh-pages).
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030455994.png" alt="5.1.4">
+<img src="Uribe/Img/imagen_2024-09-07_030455994.png" alt="5.1.4">
 
 GitHub ahora generará una URL para tu landing page, que estará disponible en algo como:
 
@@ -2206,19 +2208,19 @@ La realización de estas tareas refleja un enfoque estructurado para el desarrol
 A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de la Landing Page:
 
 UT01:
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030552030.png" alt="5.2.1.5">
+<img src="Img/imagen_2024-09-07_030552030.png" alt="5.2.1.5">
 
 UT02:
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030558549.png" alt="5.2.1.5.2">
+<img src="Img/imagen_2024-09-07_030558549.png" alt="5.2.1.5.2">
 
 UT03:
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030606420.png" alt="5.2.1.5.3">
+<img src="Img/imagen_2024-09-07_030606420.png" alt="5.2.1.5.3">
 
 UT04:
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030613860.png" alt="5.2.1.5.4">
+<img src="Img/imagen_2024-09-07_030613860.png" alt="5.2.1.5.4">
 
 UT05:
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030621158.png" alt="5.2.1.5.5">
+<img src="Img/imagen_2024-09-07_030621158.png" alt="5.2.1.5.5">
 
 
 
@@ -2232,7 +2234,7 @@ Durante este sprint, se utilizó GitHub Pages como plataforma de despliegue para
 
 Evidencia de despliegue en github Pages:
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_030749034.png">
+<img src="Img/imagen_2024-09-07_030749034.png">
 
 
 <br>
@@ -2253,9 +2255,9 @@ Evidencia de despliegue en github Pages:
 | Julca Cruz, Renso Anthony | Implementación de la sección contacto.|
 | Uribe Quispe, Jesús Guillermo | Implementación de la sección de modales de Login e información de servicios.|
 
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_033930395.png">
+<img src="Uribe/Img/imagen_2024-09-07_033930395.png">
 <br>
-<img src="https://github.com/TF-AplicacionesWeb/TF/blob/Uribe/Img/imagen_2024-09-07_034018920.png">
+<img src="Uribe/Img/imagen_2024-09-07_034018920.png">
 
 <div id='6.'><h2>6. Conclusiones</h2></div>
 
