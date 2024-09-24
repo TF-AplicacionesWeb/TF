@@ -1817,7 +1817,7 @@ nombre de clase: Inventario
 <div id= '4.8.'><h3>4.8. Database Design.</h3></div>
 
 <div id= '4.8.1.'><h4>4.8.1. Database Diagram.</h4></div>
-<img src = "Img/BD.png" alt="class diagram">
+<img src = "Img/BD.jpeg" alt="class diagram">
 
 
 
