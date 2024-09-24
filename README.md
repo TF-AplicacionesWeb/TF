@@ -452,6 +452,8 @@ Profesionales que buscan optimizar sus prácticas y ofrecer un mejor servicio a 
 - **Segmento Conductual:**
 Dentistas que buscan y necesitan herramientas para optimizar su gestión de citas.
 
+En base a las características dichas anteriormente, concluimos que nuestro segmento objetivo a abarcar son los profesionales dueños de una clínica odontológica y asistentes  o recepcionistas de clínicas dentales.
+
 
 <div id='2.'><h2>Capítulo II: Requirements Elicitation & Analysis</h2></div>
 
