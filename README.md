@@ -441,18 +441,24 @@ Hemos identificado que muchos consultorios dentales todavía dependen de método
 En esta sección, definiremos los perfiles específicos del público objetivo para un producto o servicio. Estos grupos comparten características demográficas, comportamientos o necesidades similares, lo que les diferencia de otros segmentos del mercado y permite ajustar estrategias para satisfacer sus expectativas de manera más efectiva.
 
 - **Segmento demográfico:**
-Dentistas que poseen un ingreso medio y que tienen la capacidad de hacer una inversión en herramientas y sistemas que mejoren su gestión de pacientes.
+Nos enfocamos en dos grupos clave: dueños o administradores de consultorios dentales y dentistas que tienen su propio consultorio. Estos profesionales, en su mayoría de entre 30 y 50 años, cuentan con ingresos medios a altos y la capacidad económica para invertir en herramientas de gestión. Generalmente, ya tienen una base de pacientes estable y están interesados en mejorar la eficiencia de su negocio.
 
 - **Segmento geográfico:**
-Dentistas en áreas urbanas con una base de pacientes significativa.
+El público objetivo se encuentra en áreas urbanas, donde los consultorios dentales suelen tener una mayor demanda de pacientes, lo que genera la necesidad de optimizar la gestión del tiempo y los recursos.
 
 - **Segmento psicográfico:**
-Profesionales que buscan optimizar sus prácticas y ofrecer un mejor servicio a sus pacientes.
+Este grupo incluye a profesionales que buscan innovar en sus prácticas. Valoran la tecnología que les permita optimizar procesos, mejorar la experiencia de sus pacientes y mantener la calidad de su atención. Además, buscan una mayor eficiencia en el manejo administrativo de sus consultorios.
 
 - **Segmento Conductual:**
-Dentistas que buscan y necesitan herramientas para optimizar su gestión de citas.
+Los dueños y dentistas están constantemente buscando soluciones que les faciliten la gestión de citas, la organización de historiales médicos, el control de inventario y la administración de pagos, lo que mejora tanto la satisfacción de los pacientes como la suya.
 
-En base a las características dichas anteriormente, concluimos que nuestro segmento objetivo a abarcar son los profesionales dueños de una clínica odontológica y asistentes  o recepcionistas de clínicas dentales.
+**Sintesis del segmento objetivo**<br>
+Nos dirigimos principalmente a dos segmentos objetivos:
+
+- **Dueños o administradores de consultorios dentales** que buscan herramientas que optimicen la operación del negocio, permitiéndoles manejar citas, inventarios y pagos de manera eficiente.
+- **Dentistas con consultorios propios** que necesitan soluciones para gestionar de manera más ágil su práctica diaria, sin perder de vista el enfoque en la atención al paciente.
+
+  Ambos grupos valoran la eficiencia y la innovación tecnológica para optimizar el servicio y la gestión de su consultorio dental.
 
 
 <div id='2.'><h2>Capítulo II: Requirements Elicitation & Analysis</h2></div>
