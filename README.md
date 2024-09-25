@@ -2409,26 +2409,71 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
 <div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
 En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 2:
 
-<table><thead>
-  <tr>
-    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td rowspan="10"><a href="https://tf-aplicacionesweb.github.io/Landing_Page/" target="_blank" rel="noopener noreferrer">https://tf-aplicacionesweb.github.io/Landing_Page/</a></td>
-    <td>&nbsp;&nbsp;&nbsp;<br>feature/nav&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>747b692&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>"assets: added bootstrap, styles and images files"&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  
-</tbody></table>
+<table>
+  <thead>
+    <tr>
+      <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+      <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="1"><a href="https://tf-aplicacionesweb.github.io/Landing_Page/" target="_blank" rel="noopener noreferrer">https://tf-aplicacionesweb.github.io/Landing_Page/</a></td>
+      <td>&nbsp;&nbsp;&nbsp;<br>feature/nav&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>747b692&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>"assets: added bootstrap, styles and images files"&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td rowspan="6"><a href="https://github.com/TF-AplicacionesWeb/Dentify/" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/Dentify/</a></td>
+      <td>&nbsp;&nbsp;&nbsp;<br>feature/profile&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>734795a&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>"profile: updated profile component"&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>23/09/2024&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;&nbsp;&nbsp;<br>feature/reservation&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>27adf64&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>"reservation: updated reservation component"&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>23/09/2024&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;&nbsp;&nbsp;<br>feature/support&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>86981f6&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>"support: updated support component"&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>23/09/2024&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;&nbsp;&nbsp;<br>feature/register&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>f825eeb&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>"register: updated register component"&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;&nbsp;&nbsp;<br>feature/dashboard&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>75b23fd&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>"dashboard: updated dashboard component"&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+    <tr>
+      <td>&nbsp;&nbsp;&nbsp;<br>feature/payments&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>e07aef9&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>"payments: updated payments component"&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+      <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
 <div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review. </h5></div>
 
