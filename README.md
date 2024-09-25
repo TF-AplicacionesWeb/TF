@@ -73,8 +73,8 @@ URL del repositorio para el reporte del proyecto: https://github.com/TF-Aplicaci
 **TP1**
 
 <img src="Img/ins.png">
-<img src="Img/in2.png">
-<img src="Img/in3.png">
+<img src="Img/ins2.png">
+<img src="Img/ins3.png">
 
 **TB1**
 
@@ -2422,7 +2422,6 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth Huanaco &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
-
 <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>US16&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Dashboard&nbsp;&nbsp;&nbsp;</td>
@@ -2433,7 +2432,6 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br> Sebastián Bohorquez &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
-
 <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>TS001&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Implementar registro usuario&nbsp;&nbsp;&nbsp;</td>
@@ -2444,7 +2442,6 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
-
 <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>TS002&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Implementar inicio de sesión &nbsp;&nbsp;&nbsp;</td>
@@ -2455,7 +2452,6 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
-
 <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>TS005&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Implementar Historial Clinico &nbsp;&nbsp;&nbsp;</td>
@@ -2466,7 +2462,6 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
-
 <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>TS010&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Perfil de Usuario &nbsp;&nbsp;&nbsp;</td>
@@ -2477,7 +2472,6 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth Huanaco &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
-
 <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>TS013&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Dashboard &nbsp;&nbsp;&nbsp;</td>
@@ -2488,13 +2482,13 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth Huanaco &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
- 
-  
 </tbody></table>
+
 
 
 <div id='5.2.2.3.'><h5> 5.2.2.3. Development Evidence for Sprint Review.</h5></div>
 En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 2:
+
 
 <table><thead>
   <tr>
