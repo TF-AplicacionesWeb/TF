@@ -34,6 +34,21 @@ width=50%"/>
 # Registro de Versiones del Informe
 El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva y se incluye un cuadro con la siguiente estructura:
 
+**TP1**
+
+
+| Alumno  | Actividad |
+| -------- | -------- |
+| Bohorquez Lerzundi Gerardo Sebastian| Realización de ppt, funcionalidad dashboard y maquetacion de componente pago|
+| Huanaco Huayta, Elizabeth Lucero | Realización de ppt, funcionalidad de perfil relacionada con fakeAPI |
+| Jimenez Melgar, Daniel Luciano | Realización de formulario de soporte|
+| Julca Cruz, Renso Anthony | Realización de formulario de creación de citas |
+| Uribe Quispe, Jesús Guillermo | Realización de login, registro, autenticación, pagina principal, barra de navegación, generación de FakeAPI, gestión de estructuración de proyecto, gestión de proyecto en github, funcionalidad de historiales clínicos relacionados a la FakeAPI, creación de modelos usuario, pacientes, funcionalidad de internacionalización, configuración de json server, implementación de tailwind css, realización de funcionalidad de servicios CRUD |
+
+
+**TB1**
+
+
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | --------------------------- |
 |TB1 |06/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián| Lean UX Problem Statement, Lean UX Canvas, User Stories, Web Style Guidelines, Information System, Domain-Driven Software Architecture.  |
@@ -55,6 +70,12 @@ URL del repositorio para el reporte del proyecto: https://github.com/TF-Aplicaci
   <img src="Img/imagen_2024-09-07_114230789.png">
 </div>
 
+**TP1**
+
+<img src="Img/ins.png">
+<img src="Img/in2.png">
+<img src="Img/in3.png">
+
 **TB1**
 
 Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
@@ -66,6 +87,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app |
 |  Julca Cruz, Renso Anthony | Diseño de entrvistas, Analisis de Entrevistas, User Personas, User Task Matrix, User Journey Mapping, As-Is Scenario Mapping, Software Development Environment Configuration y Source Code Style Guide & Conventions. |
 |Uribe Quispe, Jesús Guillermo | Descripción de la Startup, Antecedentes y Problemática, Estrategias y tácticas frente a competidores, Segmentos objetivos, Diseño de Base de Datos, Diagrama de clases, Wireframe y Mockup Landing Page|
+**TP1**
 
 **Github Collaboration Insights**
 
@@ -84,8 +106,8 @@ ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miemb
 
 | Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Participé activamente en las reuniones de coordinación para definir nuestro caso de negocio. A partir de estas reuniones, desarrollé los Lean UX Assumptions, investigué sobre los competidores actuales en el mercado, y con esa información realicé un análisis competitivo, así como la redacción de estrategias a aplicar frente a nuestros competidores. Además, coordiné con los miembros del equipo asignados para establecer los parámetros que debíamos seguir en la elaboración de los wireframes y mockups. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br>  Desarrollé el Lean UX Problem Statement, Lean UX Canvas y User Stories, y participé en la definición de la arquitectura de software orientada al dominio. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Realicé un análisis de competidores, llevé a cabo entrevistas, y elaboré un User Task Matrix para identificar las tareas críticas de la aplicación. También creé un glosario de Ubiquitous Language y diseñé wireframes y mock-ups para la versión móvil del landing page, así como para la aplicación web, asegurando una experiencia de usuario eficiente y funcional. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Esta fase del proyecto no solo nos permitió mejorar nuestras habilidades de trabajo en equipo, también nos ayudó a cumplir eficientemente con las actividades asignadas y alcanzar los objetivos establecidos en relación con el caso de negocio. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> El liderazgo conjunto permitió tomar decisiones alineadas y enfocadas en resolver problemas clave del proyecto. El trabajo en equipo mejoró la definición de requisitos y la calidad de nuestras soluciones. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> La colaboración entre los miembros del equipo fue clave para alinear los objetivos del producto y diseñar soluciones efectivas que respondan a las necesidades de nustros futuros usuarios. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Con el trabajo aprendimos la colaboración en equipo sacando adelante mediante lluvia de ideas, para poder mejorar e impulsar el desarrollo del mismo. Tnemos una visión excelente para el desarrollo de nuestro trabajo para poder cubrir esa necesidad a nuestro publico objetivo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable                                                                                      |
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Coordinamos como equipo para elaborar de manera conjunta los wireframes y mockups del landing page, así como los wireframes y mock-ups de la web application. Para lograrlo, establecimos un entorno colaborativo y planificamos las tareas de forma estructurada, asegurando que se cumpliera con el diseño del producto en los plazos acordados. Además, participé en las reuniones de planificación para desarrollar el Lean UX Assumptions, lo que nos permitió tener claros los objetivos del proyecto desde el inicio. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Elaboré las Web Style Guidelines, diseñé el Information System, y planifiqué tareas usando Lean UX, manteniendo un enfoque centrado en el usuario. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Investigué los Competidores y realicé un Análisis de Competidores detallado para identificar sus características, ventajas y debilidades. Conduje Entrevistas con posibles usuarios. Además, elaboré un User Task Matrix para definir las tareas prioritarias que los usuarios deben completar en la plataforma. Creé un glosario de Ubiquitous Language para asegurar una comunicación clara y sin ambigüedades. Finalmente, diseñé Wireframes y Mock-ups para la versión móvil del landing page y Web App. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe Jesús Guillermo** <br> **TB1:** <br> A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimineto de varios objetivos. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Promover la colaboración permitió que el equipo se enfocara en metas compartidas, lo que mejoró la eficiencia y nos ayudó a cumplir los objetivos planificados de manera exitosa. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> Un entorno inclusivo facilitó la planificación efectiva y el cumplimiento de objetivos. La colaboración constante ayudó a integrar ideas diversas y a lograr una experiencia de usuario coherente. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Fomentar la colaboración y establecer un ambiente inclusivo permitió que el equipo se alineara en torno a metas comunes, mejorando la productividad y alcanzando los objetivos planificados de manera satisfactoria. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Se fomento el trabajo en equipo uniendo ideas mediante llucias de iseas y plasmando en ellas un mejor camino para nuestro trabajo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Fomentamos la colaboración, el trabajo en equipo y la designación de tareas del informe para poder entregar el proyecto exitosamente. <br>  <br>
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Participé activamente en las reuniones de coordinación para definir nuestro caso de negocio. A partir de estas reuniones, desarrollé los Lean UX Assumptions, investigué sobre los competidores actuales en el mercado, y con esa información realicé un análisis competitivo, así como la redacción de estrategias a aplicar frente a nuestros competidores. Además, coordiné con los miembros del equipo asignados para establecer los parámetros que debíamos seguir en la elaboración de los wireframes y mockups. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br>  Desarrollé el Lean UX Problem Statement, Lean UX Canvas y User Stories, y participé en la definición de la arquitectura de software orientada al dominio. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Realicé un análisis de competidores, llevé a cabo entrevistas, y elaboré un User Task Matrix para identificar las tareas críticas de la aplicación. También creé un glosario de Ubiquitous Language y diseñé wireframes y mock-ups para la versión móvil del landing page, así como para la aplicación web, asegurando una experiencia de usuario eficiente y funcional. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. **TP1** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Esta fase del proyecto no solo nos permitió mejorar nuestras habilidades de trabajo en equipo, también nos ayudó a cumplir eficientemente con las actividades asignadas y alcanzar los objetivos establecidos en relación con el caso de negocio. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> El liderazgo conjunto permitió tomar decisiones alineadas y enfocadas en resolver problemas clave del proyecto. El trabajo en equipo mejoró la definición de requisitos y la calidad de nuestras soluciones. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> La colaboración entre los miembros del equipo fue clave para alinear los objetivos del producto y diseñar soluciones efectivas que respondan a las necesidades de nustros futuros usuarios. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Con el trabajo aprendimos la colaboración en equipo sacando adelante mediante lluvia de ideas, para poder mejorar e impulsar el desarrollo del mismo. Tnemos una visión excelente para el desarrollo de nuestro trabajo para poder cubrir esa necesidad a nuestro publico objetivo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable                                                                                      |
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Coordinamos como equipo para elaborar de manera conjunta los wireframes y mockups del landing page, así como los wireframes y mock-ups de la web application. Para lograrlo, establecimos un entorno colaborativo y planificamos las tareas de forma estructurada, asegurando que se cumpliera con el diseño del producto en los plazos acordados. Además, participé en las reuniones de planificación para desarrollar el Lean UX Assumptions, lo que nos permitió tener claros los objetivos del proyecto desde el inicio. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Elaboré las Web Style Guidelines, diseñé el Information System, y planifiqué tareas usando Lean UX, manteniendo un enfoque centrado en el usuario. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Investigué los Competidores y realicé un Análisis de Competidores detallado para identificar sus características, ventajas y debilidades. Conduje Entrevistas con posibles usuarios. Además, elaboré un User Task Matrix para definir las tareas prioritarias que los usuarios deben completar en la plataforma. Creé un glosario de Ubiquitous Language para asegurar una comunicación clara y sin ambigüedades. Finalmente, diseñé Wireframes y Mock-ups para la versión móvil del landing page y Web App. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe Jesús Guillermo** <br> **TB1:** <br> A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimineto de varios objetivos. **TP1**  A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimineto de varios objetivos. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Promover la colaboración permitió que el equipo se enfocara en metas compartidas, lo que mejoró la eficiencia y nos ayudó a cumplir los objetivos planificados de manera exitosa. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> Un entorno inclusivo facilitó la planificación efectiva y el cumplimiento de objetivos. La colaboración constante ayudó a integrar ideas diversas y a lograr una experiencia de usuario coherente. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Fomentar la colaboración y establecer un ambiente inclusivo permitió que el equipo se alineara en torno a metas comunes, mejorando la productividad y alcanzando los objetivos planificados de manera satisfactoria. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Se fomento el trabajo en equipo uniendo ideas mediante llucias de iseas y plasmando en ellas un mejor camino para nuestro trabajo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Fomentamos la colaboración, el trabajo en equipo y la designación de tareas del informe para poder entregar el proyecto exitosamente. <br>  <br>
 
 ## Contenido
 
@@ -2282,7 +2304,7 @@ Evidencia de despliegue en github Pages:
 En la siguiente sección, se presentará el sprint #2 con la primera versión de la aplicación web y mejoras en la landing page. Mostrando la organización, distribución y resultados de la aplicación web. 
 
 
-| Sprint # | Sprint 1 |
+| Sprint # | Sprint 2 |
 |----------|----------|
 | **Sprint Planning Background** | |
 | **Date** | 2024-09-21|
@@ -2294,8 +2316,8 @@ En la siguiente sección, se presentará el sprint #2 con la primera versión de
 | **Sprint 1 – 1 Retrospective Summary** | Para el primer sprint tuvimos que aprender a trabajar con el modelo GitFlow, lo que nos permitió, desarrollar satisfactoriamente dicho sprint  |
 | **Sprint Goal & User Stories**| |
 | **Sprint n Goal** | Desarrollar y desplegar la aplicación web funcional que presente de manera clara y atractiva los principales características de la aplicación web, a través del lenguaje de programación "Vue". El objetivo es tener lo máximo posible del front end para conectarlo a la backend, usaremos una Fake API para demostrar los datos y desplegarlo en FireBase. |
-| **Sprint n Velocity** |  x story points |
-| **Sum of Story Points** | x |
+| **Sprint n Velocity** |  5 story points (promedio) |
+| **Sum of Story Points** | 70 |
 
 <div id='5.2.2.2.'><h5> 5.2.2.2. Sprint Backlog #2.</h5></div>
 Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte del front end de la aplicación web, lista para producción en FireBase  con un diseño responsivo y tiempos de carga rápidos.
@@ -2326,8 +2348,144 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT01&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Inicio de sesión en la Aplicación Web&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de la funcionalidad de validación de usuario&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US02&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT02&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de cuenta en la Aplicación Web&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de la funcionalidad de validación de usuario&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US03&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión de citas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT03&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión de citas en la Aplicación Web&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de la funcionalidad de visualización de un formulario para reserver una cita&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Renso Julca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US05&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión de historiales clinicos&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT04&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión de historiales clinicos de los pacientesb&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de la funcionalidad de visualización de los historiales clinicos y pacientes&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US07&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Historial de Pagos&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT05&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión de historiales de pagos&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de la funcionalidad de visualización de los pagos &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Sebastián Bohorquez&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US10&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Menu&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT06&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión de las funcionalidades en general&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de una barra navegación para acceder a las funcionalidades &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US11&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Soporte&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT07&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión de los mensajes a soporte técnico&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de un formulario para comunicarte con el soporte técnico de la empresa &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Daniel Jimenez &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US12&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Perfil&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT08&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión de descripción de la cuenta&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de funcionalidad para cambiar datos de la cuenta &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth Huanaco &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US16&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Dashboard&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT09&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión de datos generales de la empresa&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de funcionalidad para gestionar y ver las actividades de la empresa &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Sebastián Bohorquez &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>TS001&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementar registro usuario&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT10&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementación de API&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de funcionalidad para conectarse a una fakeAPI de la base de datos &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>TS002&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementar inicio de sesión &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT11&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementación de API&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de funcionalidad para conectarse a una fakeAPI de la base de datos para autenticar la cuenta ingresada &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>TS005&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementar Historial Clinico &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT12&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementación de API&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de funcionalidad para conectarse a una fakeAPI de la base de datos para generar los datos de los historiales de cada paciente &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>TS010&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Perfil de Usuario &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT13&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementación de API&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de funcionalidad para conectarse a una fakeAPI de la base de datos para generar los datos del perfil y poder modificarlos &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth Huanaco &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>TS013&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Dashboard &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT14&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementación de API&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de funcionalidad para conectarse a una fakeAPI de la base de datos para generar los datos las actividades de la empresa&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth Huanaco &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
  
@@ -2349,19 +2507,90 @@ En este punto abarcaremos las funcionalidades y la evidencia de que pudimos comp
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="10"><a href="https://tf-aplicacionesweb.github.io/Landing_Page/" target="_blank" rel="noopener noreferrer">https://tf-aplicacionesweb.github.io/Landing_Page/</a></td>
-    <td>&nbsp;&nbsp;&nbsp;<br>feature/nav&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>747b692&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>"assets: added bootstrap, styles and images files"&nbsp;&nbsp;&nbsp;</td>
+<td rowspan="10"><a href="https://github.com/TF-AplicacionesWeb/Dentify" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/Dentify</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-payment&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>90001810&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Merge branch 'develop' into feature-payments"&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>07/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+ <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-profile-api&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>e7d4079&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Merge branch 'develop' into feature-profile-api"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+ <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-patients&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>0762dc6&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"added Patients component, model and service connected on the FakeAPI"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+ <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-dashboardvs2&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>b823369&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Mejora del dashboard mostrando contenido de la fake api"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-dashboardvs2&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>b823369&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Mejora del dashboard mostrando contenido de la fake api"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-authentication&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>7944b16&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"update db.json"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>22/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-toolbar-home&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8522bce&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Add new toolbar home and i18n functionalities"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>22/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-profile&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>4b16f6a&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Add support"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>22/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-reservation&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>fc800d4&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Merge branch 'develop' into feature-reservation"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-profile&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>f1f82b7&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"update profile component api i18n"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+<td> </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-base-service&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>0abd30c&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Registration implementationn"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
   
 </tbody></table>
 
 <div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review. </h5></div>
 
-En este segundo Sprint,
+En este segundo Sprint, veremos las principales commits de las ramas feature:
 
 <table><thead>
   <tr>
@@ -2373,33 +2602,117 @@ En este segundo Sprint,
     <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
   </tr></thead>
 <tbody>
-	
-</tbody>
+  <tr>
+<td rowspan="10"><a href="https://github.com/TF-AplicacionesWeb/Dentify" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/Dentify</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-payment&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>90001810&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Merge branch 'develop' into feature-payments"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+ <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-profile-api&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>e7d4079&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Merge branch 'develop' into feature-profile-api"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+ <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-patients&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>0762dc6&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"added Patients component, model and service connected on the FakeAPI"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+ <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-dashboardvs2&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>b823369&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Mejora del dashboard mostrando contenido de la fake api"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-dashboardvs2&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>b823369&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Mejora del dashboard mostrando contenido de la fake api"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-authentication&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>7944b16&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"update db.json"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>22/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-toolbar-home&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>8522bce&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Add new toolbar home and i18n functionalities"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>22/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-profile&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>4b16f6a&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Add support"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>22/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-reservation&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>fc800d4&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Merge branch 'develop' into feature-reservation"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-profile&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>f1f82b7&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"update profile component api i18n"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+<td> </td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-base-service&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>0abd30c&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>"Registration implementationn"&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  
+</tbody></table>
+
+
 
 <div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review. </h5></div>
 La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades que brinda Dentify.
 
 
 A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de la Landing Page:
+<img src="Img/aw1.png" alt="5.2.1.5.5">
+<img src="Img/aw2.png" alt="5.2.1.5.5">
+<img src="Img/aw3.png" alt="5.2.1.5.5">
 
-
-Link del vídeo: <a></a>
+Link del vídeo: <a>https://drive.google.com/file/d/1UllXRFIyHw8QIyTgb4fUnN8_Mpkd07rn/view?usp=sharing</a>
 
 <div id='5.2.2.6.'><h5> 5.2.2.6. Services Documentation Evidence for Sprint Review. </h5></div>
-Para este primer sprint no fue contemplada la evidencia de documentación de los servicios.
+Para este primer sprint usamos una fakeAPI generada de la base de datos realizada:
+
+<img src="Img/dbjson.png">
 
 <div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review.</h5></div>
 Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web de Dentify. 
 
-Evidencia de despliegue en github Pages:
+Evidencia de despliegue en FireBase:
 
-<img src="" alt="deploy">
-
+<img src="Imgfirebase.png" alt="5.2.1.5.5">
 
 <br>
 
 
-**Link de Landing Page:** <a>link</a>
+**Link de Web app:** <a>https://github.com/TF-AplicacionesWeb/Dentify</a>
 
 
 
@@ -2408,13 +2721,15 @@ Evidencia de despliegue en github Pages:
 
 | Alumno  | Actividad |
 | -------- | -------- |
-| Bohorquez Lerzundi Gerardo Sebastian|   |
-| Huanaco Huayta, Elizabeth Lucero | |
-| Jimenez Melgar, Daniel Luciano |  |
-| Julca Cruz, Renso Anthony | |
-| Uribe Quispe, Jesús Guillermo | |
+| Bohorquez Lerzundi Gerardo Sebastian| Realización de ppt, funcionalidad dashboard y maquetacion de componente pago|
+| Huanaco Huayta, Elizabeth Lucero | Realización de ppt, funcionalidad de perfil relacionada con fakeAPI |
+| Jimenez Melgar, Daniel Luciano | Realización de formulario de soporte|
+| Julca Cruz, Renso Anthony | Realización de formulario de creación de citas |
+| Uribe Quispe, Jesús Guillermo | Realización de login, registro, autenticación, pagina principal, barra de navegación, generación de FakeAPI, gestión de estructuración de proyecto, gestión de proyecto en github, funcionalidad de historiales clínicos relacionados a la FakeAPI, creación de modelos usuario, pacientes, funcionalidad de internacionalización, configuración de json server, implementación de tailwind css, realización de funcionalidad de servicios CRUD |
 
-IMG COMMITS
+<img src="Img/ins.png">
+<img src="Img/in2.png">
+<img src="Img/in3.png">
 
 <div id='6.'><h2>6. Conclusiones</h2></div>
 
@@ -2431,6 +2746,7 @@ GitHub. (2023). GitHub Pages documentation. GitHub. https://docs.github.com/en/p
 
 <div id='7.'><h2>8. Anexo </h2></div>
 - **AppWeb** https://dentify-1db07.web.app
+-github: https://github.com/TF-AplicacionesWeb/Dentify
 
 
 
