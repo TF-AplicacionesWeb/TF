@@ -34,17 +34,27 @@ width=50%"/>
 # Registro de Versiones del Informe
 El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva y se incluye un cuadro con la siguiente estructura:
 
+**TB2**
+
+| Versión | Fecha | Autor | Descripción de modificación |
+| :-----: | :---: | :---: | --------------------------- |
+|TB2 |-/10/2024 | Bohórquez Lerzundi, Gerardo Sebastián| - |
+|TB2 |-/10/2024 |Huanaco Huayta, Elizabeth Lucero | - |
+|TB2 |-/10/2024 |Jimenez Melgar, Daniel Luciano | - |
+|TB2 |-/10/2024 |  Julca Cruz, Renso Anthony | - |
+|TB2 |-/10/2024 |Uribe Quispe, Jesús Guillermo | - |
+
+
+
 **TP1**
 
-
-| Alumno  | Actividad |
-| -------- | -------- |
-| Bohorquez Lerzundi Gerardo Sebastian| Realización de ppt, funcionalidad dashboard y maquetacion de componente pago|
-| Huanaco Huayta, Elizabeth Lucero | Realización de ppt, funcionalidad de perfil relacionada con fakeAPI |
-| Jimenez Melgar, Daniel Luciano | Realización de formulario de soporte|
-| Julca Cruz, Renso Anthony | Realización de formulario de creación de citas |
-| Uribe Quispe, Jesús Guillermo | Realización de login, registro, autenticación, pagina principal, barra de navegación, generación de FakeAPI, gestión de estructuración de proyecto, gestión de proyecto en github, funcionalidad de historiales clínicos relacionados a la FakeAPI, creación de modelos usuario, pacientes, funcionalidad de internacionalización, configuración de json server, implementación de tailwind css, realización de funcionalidad de servicios CRUD |
-
+| Versión | Fecha | Autor | Descripción de modificación |
+| :-----: | :---: | :---: | --------------------------- |
+|TP1 |25/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián| Realización de ppt, funcionalidad dashboard y maquetacion de componente pago |
+|TP1 |25/09/2024 |Huanaco Huayta, Elizabeth Lucero | Realización de ppt, funcionalidad de perfil relacionada con fakeAPI |
+|TP1 |25/09/2024 |Jimenez Melgar, Daniel Luciano |Realización de formulario de soporte |
+|TP1 |25/09/2024 |  Julca Cruz, Renso Anthony |Realización de formulario de creación de citas |
+|TP1 |06/09/2024 |Uribe Quispe, Jesús Guillermo |Realización de login, registro, autenticación, pagina principal, barra de navegación, generación de FakeAPI, gestión de estructuración de proyecto, gestión de proyecto en github, funcionalidad de historiales clínicos relacionados a la FakeAPI, creación de modelos usuario, pacientes, funcionalidad de internacionalización, configuración de json server, implementación de tailwind css, realización de funcionalidad de servicios CRUD|
 
 **TB1**
 
@@ -52,7 +62,6 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | --------------------------- |
 |TB1 |06/09/2024 | Bohórquez Lerzundi, Gerardo Sebastián| Lean UX Problem Statement, Lean UX Canvas, User Stories, Web Style Guidelines, Information System, Domain-Driven Software Architecture.  |
-|TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, Mock-ups del Web app, y prototype mobile y desktop del Web App |
 |TB1 |06/09/2024 |Huanaco Huayta, Elizabeth Lucero | Lean UX Assumptions, Competidores, Análisis competitivo, Estrategias frente a competidores, Wireframes y Mockups de la versión desktop del landing page, y Wireframes de la versión desktop del web application. |
 |TB1 |06/09/2024 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app|
 |TB1 |06/09/2024 |  Julca Cruz, Renso Anthony | Diseño de entrvistas, Analisis de Entrevistas, User Personas, User Task Matrix, User Journey Mapping, As-Is Scenario Mapping, Software Development Environment Configuration y Source Code Style Guide & Conventions. |
@@ -62,21 +71,30 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 URL del repositorio para el reporte del proyecto: https://github.com/TF-AplicacionesWeb
 
-<div align="center">
-  <img src="Img/imagen_2024-09-07_034018920.png">
-</div>
-
-<div align="center">
-  <img src="Img/imagen_2024-09-07_114230789.png">
-</div>
-
 **TP1**
 
 <img src="Img/ins.png">
 <img src="Img/ins2.png">
 <img src="Img/ins3.png">
 
+Para el desarrollo del informe perteneciente a la entrega TP1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrante | Tareas Asignadas |
+| ---------- | ---------------- |
+| Bohórquez Lerzundi, Gerardo Sebastián| Realización de ppt, funcionalidad dashboard y maquetacion de componente pago |
+ |Huanaco Huayta, Elizabeth Lucero | Realización de ppt, funcionalidad de perfil relacionada con fakeAPI |
+|Jimenez Melgar, Daniel Luciano | Realización de formulario de soporte |
+|  Julca Cruz, Renso Anthony |  Realización de formulario de creación de citas |
+|Uribe Quispe, Jesús Guillermo | Realización de login, registro, autenticación, pagina principal, barra de navegación, generación de FakeAPI, gestión de estructuración de proyecto, gestión de proyecto en github, funcionalidad de historiales clínicos relacionados a la FakeAPI, creación de modelos usuario, pacientes, funcionalidad de internacionalización, configuración de json server, implementación de tailwind css, realización de funcionalidad de servicios CRUD. |
+
 **TB1**
+
+<div align="center">
+  <img src="Img/imagen_2024-09-07_034018920.png" alt="tb1-2>
+</div>
+<div align="center">
+  <img src="Img/imagen_2024-09-07_114230789.png" alt="tb1-1">
+</div>
 
 Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
@@ -87,11 +105,12 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 |Jimenez Melgar, Daniel Luciano | Competidores, Analisis de competidores, Entrevistas, User Task Matrix, Ubiquos language, Wireframe y Mock-ups de la version mobile del lading page, y Mock-ups del Web app |
 |  Julca Cruz, Renso Anthony | Diseño de entrvistas, Analisis de Entrevistas, User Personas, User Task Matrix, User Journey Mapping, As-Is Scenario Mapping, Software Development Environment Configuration y Source Code Style Guide & Conventions. |
 |Uribe Quispe, Jesús Guillermo | Descripción de la Startup, Antecedentes y Problemática, Estrategias y tácticas frente a competidores, Segmentos objetivos, Diseño de Base de Datos, Diagrama de clases, Wireframe y Mockup Landing Page|
-**TP1**
 
 **Github Collaboration Insights**
 
 Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
+
+<img src="colab_ins" alt="colab_ins">
 
 Los integrantes son:
 - Bohórquez Lerzundi, Gerardo Sebastián(Sebasbl562)
@@ -106,8 +125,8 @@ ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miemb
 
 | Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Participé activamente en las reuniones de coordinación para definir nuestro caso de negocio. A partir de estas reuniones, desarrollé los Lean UX Assumptions, investigué sobre los competidores actuales en el mercado, y con esa información realicé un análisis competitivo, así como la redacción de estrategias a aplicar frente a nuestros competidores. Además, coordiné con los miembros del equipo asignados para establecer los parámetros que debíamos seguir en la elaboración de los wireframes y mockups. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br>  Desarrollé el Lean UX Problem Statement, Lean UX Canvas y User Stories, y participé en la definición de la arquitectura de software orientada al dominio. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Realicé un análisis de competidores, llevé a cabo entrevistas, y elaboré un User Task Matrix para identificar las tareas críticas de la aplicación. También creé un glosario de Ubiquitous Language y diseñé wireframes y mock-ups para la versión móvil del landing page, así como para la aplicación web, asegurando una experiencia de usuario eficiente y funcional. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. **TP1** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Esta fase del proyecto no solo nos permitió mejorar nuestras habilidades de trabajo en equipo, también nos ayudó a cumplir eficientemente con las actividades asignadas y alcanzar los objetivos establecidos en relación con el caso de negocio. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> El liderazgo conjunto permitió tomar decisiones alineadas y enfocadas en resolver problemas clave del proyecto. El trabajo en equipo mejoró la definición de requisitos y la calidad de nuestras soluciones. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> La colaboración entre los miembros del equipo fue clave para alinear los objetivos del producto y diseñar soluciones efectivas que respondan a las necesidades de nustros futuros usuarios. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Con el trabajo aprendimos la colaboración en equipo sacando adelante mediante lluvia de ideas, para poder mejorar e impulsar el desarrollo del mismo. Tnemos una visión excelente para el desarrollo de nuestro trabajo para poder cubrir esa necesidad a nuestro publico objetivo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable                                                                                      |
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Coordinamos como equipo para elaborar de manera conjunta los wireframes y mockups del landing page, así como los wireframes y mock-ups de la web application. Para lograrlo, establecimos un entorno colaborativo y planificamos las tareas de forma estructurada, asegurando que se cumpliera con el diseño del producto en los plazos acordados. Además, participé en las reuniones de planificación para desarrollar el Lean UX Assumptions, lo que nos permitió tener claros los objetivos del proyecto desde el inicio. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Elaboré las Web Style Guidelines, diseñé el Information System, y planifiqué tareas usando Lean UX, manteniendo un enfoque centrado en el usuario. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Investigué los Competidores y realicé un Análisis de Competidores detallado para identificar sus características, ventajas y debilidades. Conduje Entrevistas con posibles usuarios. Además, elaboré un User Task Matrix para definir las tareas prioritarias que los usuarios deben completar en la plataforma. Creé un glosario de Ubiquitous Language para asegurar una comunicación clara y sin ambigüedades. Finalmente, diseñé Wireframes y Mock-ups para la versión móvil del landing page y Web App. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe Jesús Guillermo** <br> **TB1:** <br> A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimineto de varios objetivos. **TP1**  A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimineto de varios objetivos. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Promover la colaboración permitió que el equipo se enfocara en metas compartidas, lo que mejoró la eficiencia y nos ayudó a cumplir los objetivos planificados de manera exitosa. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> Un entorno inclusivo facilitó la planificación efectiva y el cumplimiento de objetivos. La colaboración constante ayudó a integrar ideas diversas y a lograr una experiencia de usuario coherente. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Fomentar la colaboración y establecer un ambiente inclusivo permitió que el equipo se alineara en torno a metas comunes, mejorando la productividad y alcanzando los objetivos planificados de manera satisfactoria. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Se fomento el trabajo en equipo uniendo ideas mediante llucias de iseas y plasmando en ellas un mejor camino para nuestro trabajo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Fomentamos la colaboración, el trabajo en equipo y la designación de tareas del informe para poder entregar el proyecto exitosamente. <br>  <br>
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Participé activamente en las reuniones de coordinación para definir nuestro caso de negocio. A partir de estas reuniones, desarrollé los Lean UX Assumptions, investigué sobre los competidores actuales en el mercado, y con esa información realicé un análisis competitivo, así como la redacción de estrategias a aplicar frente a nuestros competidores. Además, coordiné con los miembros del equipo asignados para establecer los parámetros que debíamos seguir en la elaboración de los wireframes y mockups. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br>  Desarrollé el Lean UX Problem Statement, Lean UX Canvas y User Stories, y participé en la definición de la arquitectura de software orientada al dominio. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Realicé un análisis de competidores, llevé a cabo entrevistas, y elaboré un User Task Matrix para identificar las tareas críticas de la aplicación. También creé un glosario de Ubiquitous Language y diseñé wireframes y mock-ups para la versión móvil del landing page, así como para la aplicación web, asegurando una experiencia de usuario eficiente y funcional. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. <br> **TP1:** Mediante llamados, organicé al equipo para poder completar exitosamente este trabajo parcial. La comunicación nos ayudó a entendernos mejor. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Esta fase del proyecto no solo nos permitió mejorar nuestras habilidades de trabajo en equipo, también nos ayudó a cumplir eficientemente con las actividades asignadas y alcanzar los objetivos establecidos en relación con el caso de negocio. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> El liderazgo conjunto permitió tomar decisiones alineadas y enfocadas en resolver problemas clave del proyecto. El trabajo en equipo mejoró la definición de requisitos y la calidad de nuestras soluciones. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> La colaboración entre los miembros del equipo fue clave para alinear los objetivos del producto y diseñar soluciones efectivas que respondan a las necesidades de nustros futuros usuarios. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Con el trabajo aprendimos la colaboración en equipo sacando adelante mediante lluvia de ideas, para poder mejorar e impulsar el desarrollo del mismo. Tnemos una visión excelente para el desarrollo de nuestro trabajo para poder cubrir esa necesidad a nuestro publico objetivo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable. <br> **TP1:** Acerca de este trabajo parcial aprendí sobre la organización con el equipo de trabajo, tanto en el sentido de planificación como en el de la estructuración y jerarquización del proyecto.                                                                                     |
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Coordinamos como equipo para elaborar de manera conjunta los wireframes y mockups del landing page, así como los wireframes y mock-ups de la web application. Para lograrlo, establecimos un entorno colaborativo y planificamos las tareas de forma estructurada, asegurando que se cumpliera con el diseño del producto en los plazos acordados. Además, participé en las reuniones de planificación para desarrollar el Lean UX Assumptions, lo que nos permitió tener claros los objetivos del proyecto desde el inicio. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Elaboré las Web Style Guidelines, diseñé el Information System, y planifiqué tareas usando Lean UX, manteniendo un enfoque centrado en el usuario. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Investigué los Competidores y realicé un Análisis de Competidores detallado para identificar sus características, ventajas y debilidades. Conduje Entrevistas con posibles usuarios. Además, elaboré un User Task Matrix para definir las tareas prioritarias que los usuarios deben completar en la plataforma. Creé un glosario de Ubiquitous Language para asegurar una comunicación clara y sin ambigüedades. Finalmente, diseñé Wireframes y Mock-ups para la versión móvil del landing page y Web App. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe Jesús Guillermo** <br> **TB1:** <br> A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimineto de varios objetivos. <br> **TP1:**  A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimiento de varios objetivos que nos propusimos para realización de la aplicación web hecha en Vue. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Promover la colaboración permitió que el equipo se enfocara en metas compartidas, lo que mejoró la eficiencia y nos ayudó a cumplir los objetivos planificados de manera exitosa. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> Un entorno inclusivo facilitó la planificación efectiva y el cumplimiento de objetivos. La colaboración constante ayudó a integrar ideas diversas y a lograr una experiencia de usuario coherente. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Fomentar la colaboración y establecer un ambiente inclusivo permitió que el equipo se alineara en torno a metas comunes, mejorando la productividad y alcanzando los objetivos planificados de manera satisfactoria. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Se fomento el trabajo en equipo uniendo ideas mediante lluvias de ideas y plasmando en ellas un mejor camino para nuestro trabajo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Fomentamos la colaboración, el trabajo en equipo y la designación de tareas del informe para poder entregar el proyecto exitosamente. <br> **TP1:** Fomentamos la colaboración y planificación en el equipo ya que tuvimos diferentes funcionalidades por cumplir y realizar individualmente hablando, a pesar de inconvenientes presentados como el de la reducción de integrantes en el grupo, pudimos hacer lo mejor posible en este entregable.<br>  <br>
 
 ## Contenido
 
@@ -547,6 +566,7 @@ Nos dirigimos principalmente a dos segmentos objetivos:
 
 <div id='2.2.2.'><h3> 2.2.2. Entrevistas</h3></div>
 
+<h2>Asistentes dentales</h2>
 <table>
   <tr align="center">
     <tr>
@@ -601,29 +621,6 @@ Nos dirigimos principalmente a dos segmentos objetivos:
       </td>
     </tr>
         <td rowspan="3">
-            <img src="Img/Imagen_Entrevista_03.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Datos Personales del Entrevistado:</b>
-        </td>
-    </tr>
-    <tr>
-        <td align="left"> 
-        Mariluz es una odontóloga con 10 años de experiencia en el sector dental. Tiene su propio consultorio donde se especializa en ortodoncia, y su enfoque se centra en ofrecer un servicio personalizado y de alta calidad. Además de su práctica clínica, Mariluz se encarga de la administración y gestión de su consultorio, lo que le permite tener un control total sobre su negocio.
-        </td>
-    </tr>
-</table>
-
-<table>
-  <tr align="center">
-    <tr>
-      <td>
-        <b>ENTREVISTA 4</b>
-      </td>
-    </tr>
-        <td rowspan="3">
             <img src="Img/Entrevista moises.png" alt="Imagen_Entrevista_04" style="margin-bottom: 5px;" width="800"/> 
         </td>
     </tr>
@@ -635,6 +632,30 @@ Nos dirigimos principalmente a dos segmentos objetivos:
     <tr>
         <td align="left"> 
         Moisés Rodrigues trabaja como personal administrativo en un consultorio dental, tiene 19 años y se encuentra cursando su 6to ciclo.
+        </td>
+    </tr>
+</table>
+
+<h2>Odontólogos</h2>
+<table>
+  <tr align="center">
+    <tr>
+      <td>
+        <b>ENTREVISTA 4</b>
+      </td>
+    </tr>
+        <td rowspan="3">
+            <img src="Img/Imagen_Entrevista_03.png" alt="Imagen_Entrevista_01" style="margin-bottom: 5px;" width="800"/> 
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Datos Personales del Entrevistado:</b>
+        </td>
+    </tr>
+    <tr>
+        <td align="left"> 
+        Mariluz es una odontóloga con 10 años de experiencia en el sector dental. Tiene su propio consultorio donde se especializa en ortodoncia, y su enfoque se centra en ofrecer un servicio personalizado y de alta calidad. Además de su práctica clínica, Mariluz se encarga de la administración y gestión de su consultorio, lo que le permite tener un control total sobre su negocio.
         </td>
     </tr>
 </table>
