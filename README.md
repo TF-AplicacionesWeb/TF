@@ -13,7 +13,7 @@ width=50%"/>
 <h5 style="text-align: center"> Curso: Aplicaciones Web </h5>
 <h5 style="text-align: center"> Sección: SI91 </h5>
 
-<h5 style="text-align: center"> Docente: Alex Humberto Sánches Ponce </h5>
+<h5 style="text-align: center"> Docente: Alex Humberto Sánchez Ponce </h5>
 
 <h5 style="text-align: center"> Startup: MediTech </h5>
 
@@ -25,7 +25,6 @@ width=50%"/>
 | :-----------------------------------: | :--------: |
 | Bohorquez Lerzundi, Gerardo Sebastián | u202224149 |
 |  Huanaco Huayta, Elizabeth Lucero   | u20211g522 |
-|    Jimenez Melgar, Daniel Luciano     | u20221a569 |
 |  Julca Cruz, Renso Anthony            | u202121579 |
 |     Uribe Quispe, Jesús Guillermo     | u202221876 |
 
@@ -38,11 +37,10 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | --------------------------- |
-|TB2 |-/10/2024 | Bohórquez Lerzundi, Gerardo Sebastián| - |
-|TB2 |-/10/2024 |Huanaco Huayta, Elizabeth Lucero | - |
-|TB2 |-/10/2024 |Jimenez Melgar, Daniel Luciano | - |
-|TB2 |-/10/2024 |  Julca Cruz, Renso Anthony | - |
-|TB2 |-/10/2024 |Uribe Quispe, Jesús Guillermo | - |
+|TB2 |29/10/2024 | Bohórquez Lerzundi, Gerardo Sebastián| - |
+|TB2 |29/10/2024 |Huanaco Huayta, Elizabeth Lucero | - |
+|TB2 |29/10/2024 |  Julca Cruz, Renso Anthony | - |
+|TB2 |29/10/2024 |Uribe Quispe, Jesús Guillermo | - |
 
 
 
@@ -54,7 +52,7 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 |TP1 |25/09/2024 |Huanaco Huayta, Elizabeth Lucero | Realización de ppt, funcionalidad de perfil relacionada con fakeAPI |
 |TP1 |25/09/2024 |Jimenez Melgar, Daniel Luciano |Realización de formulario de soporte |
 |TP1 |25/09/2024 |  Julca Cruz, Renso Anthony |Realización de formulario de creación de citas |
-|TP1 |06/09/2024 |Uribe Quispe, Jesús Guillermo |Realización de login, registro, autenticación, pagina principal, barra de navegación, generación de FakeAPI, gestión de estructuración de proyecto, gestión de proyecto en github, funcionalidad de historiales clínicos relacionados a la FakeAPI, creación de modelos usuario, pacientes, funcionalidad de internacionalización, configuración de json server, implementación de tailwind css, realización de funcionalidad de servicios CRUD|
+|TP1 |25/09/2024 |Uribe Quispe, Jesús Guillermo |Realización de login, registro, autenticación, pagina principal, barra de navegación, generación de FakeAPI, gestión de estructuración de proyecto, gestión de proyecto en github, funcionalidad de historiales clínicos relacionados a la FakeAPI, creación de modelos usuario, pacientes, funcionalidad de internacionalización, configuración de json server, implementación de tailwind css, realización de funcionalidad de servicios CRUD|
 
 **TB1**
 
@@ -115,7 +113,6 @@ Github también presenta un timeline de las ramas principales y los procesos de 
 Los integrantes son:
 - Bohórquez Lerzundi, Gerardo Sebastián(Sebasbl562)
 - Huanaco Huayta, Elizabeth Lucero(lucerohh)
-- Jimenez Melgar, Daniel Luciano(Gatetogod)
 - Julca Cruz, Renzo Anthony(racj02)
 - Uribe Quispe, Jesús Guillermo(JesusU27)
 
@@ -848,16 +845,20 @@ Nos dirigimos principalmente a dos segmentos objetivos:
 
 <div id='3.'><h2>CAPITULO III: REQUIREMENTS SPECIFICATIONS </h2></div>
 <div id='3.1.'><h3>3.1. To-Be Scenario Mapping</h3></div>
+<img src="Img/To-Be-Scenario-Mapping-1.png">
+<img src="Img/To-Be-Scenario-Mapping-2.png">
 <div id='3.2.'><h3>3.2. User Stories</h3></div>
 
-<table class="tg"><thead>
+<table class="tg">
+<thead>
   <tr>
-    <th class="tg-4zxv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Epic / Story ID</span></th>
-    <th class="tg-4zxv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Título</span></th>
-    <th class="tg-4zxv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Descripción</span></th>
-    <th class="tg-4zxv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Criterios de Aceptación</span></th>
-    <th class="tg-4zxv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#FFF;background-color:transparent">Relacionado con (Epic ID)</span></th>
-  </tr></thead>
+    <th class="tg-4zxv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Epic / Story ID</span></th>
+    <th class="tg-4zxv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Título</span></th>
+    <th class="tg-4zxv"><span style="font-weight:400;font-style:normal;text-decoration:none;background-color:transparent">Descripción</span></th>
+    <th class="tg-4zxv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Criterios de Aceptación</span></th>
+    <th class="tg-4zxv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Relacionado con (Epic ID)</span></th>
+  </tr>
+  </thead>
 <tbody>
   <tr>
     <td class="tg-jxgv"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">US01</span></td>
@@ -2453,56 +2454,6 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br> Sebastián Bohorquez &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
-<tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>TS001&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Implementar registro usuario&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>UT10&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Implementación de API&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de funcionalidad para conectarse a una fakeAPI de la base de datos &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-<tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>TS002&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Implementar inicio de sesión &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>UT11&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Implementación de API&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de funcionalidad para conectarse a una fakeAPI de la base de datos para autenticar la cuenta ingresada &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-<tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>TS005&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Implementar Historial Clinico &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>UT12&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Implementación de API&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de funcionalidad para conectarse a una fakeAPI de la base de datos para generar los datos de los historiales de cada paciente &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-<tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>TS010&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Perfil de Usuario &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>UT13&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Implementación de API&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de funcionalidad para conectarse a una fakeAPI de la base de datos para generar los datos del perfil y poder modificarlos &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth Huanaco &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-<tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>TS013&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Dashboard &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>UT14&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Implementación de API&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de funcionalidad para conectarse a una fakeAPI de la base de datos para generar los datos las actividades de la empresa&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth Huanaco &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
-  </tr>
 </tbody></table>
 
 
@@ -2605,7 +2556,199 @@ En este punto abarcaremos las funcionalidades y la evidencia de que pudimos comp
 
 <div id='5.2.2.4.'><h5> 5.2.2.4. Testing Suite Evidence for Sprint Review. </h5></div>
 
-En este segundo Sprint, veremos las principales commits de las ramas feature:
+En este segundo Sprint, veremos los commits de archivos feature relacionados a los Users Stories desarrollados.
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+<td rowspan="10"><a href="https://github.com/TF-AplicacionesWeb" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+ <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+ 
+</tbody></table>
+
+
+
+<div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review. </h5></div>
+La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades que brinda Dentify.
+
+
+A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de la Landing Page:
+<img src="Img/aw1.png" alt="5.2.1.5.5">
+<img src="Img/aw2.png" alt="5.2.1.5.5">
+<img src="Img/aw3.png" alt="5.2.1.5.5">
+<img src="Img/aw4.png" alt="5.2.1.5.5">
+<img src="Img/aw5.png" alt="5.2.1.5.5">
+
+Link del vídeo: <a>https://drive.google.com/file/d/1UllXRFIyHw8QIyTgb4fUnN8_Mpkd07rn/view?usp=sharing</a>
+
+<div id='5.2.2.6.'><h5> 5.2.2.6. Services Documentation Evidence for Sprint Review. </h5></div>
+Para este segundo sprint usamos una fakeAPI generada de la base de datos realizada:
+
+<img src="Img/dbjson.png">
+
+<div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review.</h5></div>
+Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web de Dentify. 
+
+Evidencia de despliegue en FireBase:
+
+<img src="Img/firebase.png" alt="5.2.1.5.5">
+
+<br>
+
+
+**Link de Web app:** <a>https://github.com/TF-AplicacionesWeb/Dentify</a>
+
+
+
+
+<div id='5.2.2.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint. </h5></div>
+
+| Alumno  | Actividad |
+| -------- | -------- |
+| Bohorquez Lerzundi Gerardo Sebastian| Realización de ppt, funcionalidad dashboard y maquetacion de componente pago|
+| Huanaco Huayta, Elizabeth Lucero | Realización de ppt, funcionalidad de perfil relacionada con fakeAPI |
+| Jimenez Melgar, Daniel Luciano | Realización de formulario de soporte|
+| Julca Cruz, Renso Anthony | Realización de formulario de creación de citas |
+| Uribe Quispe, Jesús Guillermo | Realización de login, registro, autenticación, pagina principal, barra de navegación, generación de FakeAPI, gestión de estructuración de proyecto, gestión de proyecto en github, funcionalidad de historiales clínicos relacionados a la FakeAPI, creación de modelos usuario, pacientes, funcionalidad de internacionalización, configuración de json server, implementación de tailwind css, realización de funcionalidad de servicios CRUD |
+
+<img src="Img/ins.png">
+<img src="Img/ins2.png">
+<img src="Img/ins3.png">
+
+
+
+
+<div id='5.2.3.'><h4> 5.2.3. Sprint #3.</h4></div>
+
+<div id='5.2.3.1.'><h5> 5.2.3.1. Sprint Planning #3.</h5></div>
+En la siguiente sección, se presentará el sprint #3 con la versión de la aplicación web e implementación parcial del back-end, desarrollado en C#. Mostrando la organización, distribución y resultados de la aplicación web. 
+
+
+| Sprint # | Sprint 2 |
+|----------|----------|
+| **Sprint Planning Background** | |
+| **Date** | 2024-10-18|
+| **Time** | 03:30 PM |
+| **Location** | llamada por la plataforma "Discord" |
+| **Prepared By** | Uribe Quispe, Jesús Guillermo |
+| **Attendees (to planning meeting)** | Uribe Quispe Jesús Guillermo / Bohorquez Lerzundi Gerardo Sebastián / Huanaco Huayta Elizabeth Lucero |
+| **Sprint 2 – 2 Review Summary** | En el segundo sprint desarrollamos y lanzamos la segunda versión de la aplicación web de Dentify. |
+| **Sprint 2 – 2 Retrospective Summary** | Para el segundo sprint tuvimos que aprender a trabajar con el modelo GitFlow, lo que nos permitió, desarrollar satisfactoriamente dicho sprint.  |
+| **Sprint Goal & User Stories**| |
+| **Sprint n Goal** | Desarrollar y desplegar la primera versión de la estructura Back-End funcional que presente de manera clara para el consumo de la aplicación web, a través del lenguaje de programación "C#".|
+| **Sprint n Velocity** |  n story points (promedio) |
+| **Sum of Story Points** | n |
+
+<div id='5.2.3.2.'><h5> 5.2.3.2. Sprint Backlog #3.</h5></div>
+Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte del back end de la aplicación web y completar las funcionalidades del front end.
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br># Sprint&nbsp;&nbsp;&nbsp;</th>
+    <th colspan="7">Sprint 3</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>User Story&nbsp;&nbsp;&nbsp;</td>
+    <td colspan="6">Work Item/Task</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>Id&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Title&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Id&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Title&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Estimación (Hours)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Assigned to&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Status (In&nbsp;&nbsp;&nbsp;-process / To - review / Done)&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US04&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Recordatorio de Citas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT01&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Recordatorio de Citas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como personal del consultorio, quiero recibir recordatorios de la cita para coordinar y asegurar que todo esté listo para las citas programadas.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US06&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Pagar Tratamiento&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT02&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Pagar Tratamiento&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como personal administrativo, quiero registrar y procesar el pago de un tratamiento para asegurar que la transacción quede registrada.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Sebastián &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US08&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Buscar citas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT03&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Buscar Citas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como personal administrativo, quiero buscar citas por fecha, paciente o dentista para gestionar fácilmente las citas registradas.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US13&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión del inventario&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT04&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión del inventario&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como personal administrativo, quiero gestionar el inventario de productos en el consultorio para asegurar que siempre haya suficiente stock de materiales.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Sebastián&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US15&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Métricas e Informes&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT05&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Métricas e Informes&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero generar y revisar informes de actividades y métricas para evaluar el rendimiento del consultorio y tomar decisiones informadas.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Renso&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>US17&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión de Especialistas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT06&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestión de Especialistas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero agregar y eliminar especialistas en el sistema para mantener actualizado el personal disponible en el consultorio.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody></table>
+
+
+
+<div id='5.2.3.3.'><h5> 5.2.3.3. Development Evidence for Sprint Review.</h5></div>
+En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 3:
+
 
 <table><thead>
   <tr>
@@ -2619,110 +2762,75 @@ En este segundo Sprint, veremos las principales commits de las ramas feature:
 <tbody>
   <tr>
 <td rowspan="10"><a href="https://github.com/TF-AplicacionesWeb/Dentify" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/Dentify</a></td>
-    <td>&nbsp;&nbsp;&nbsp;<br>feature-payment&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>90001810&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>"Merge branch 'develop' into feature-payments"&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-/10/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>feature-profile-api&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>e7d4079&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>"Merge branch 'develop' into feature-profile-api"&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
- <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>feature-patients&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>0762dc6&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>"added Patients component, model and service connected on the FakeAPI"&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
- <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>feature-dashboardvs2&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>b823369&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>"Mejora del dashboard mostrando contenido de la fake api"&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-/10/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
+  
+</tbody></table>
+
+<div id='5.2.3.4.'><h5> 5.2.3.4. Testing Suite Evidence for Sprint Review. </h5></div>
+
+En este tercer Sprint, veremos los archivos .feature relacionados a los user tasks que hemos desarrollado, subidos en el repositorio.
+
+<table><thead>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>feature-dashboardvs2&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>b823369&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>"Mejora del dashboard mostrando contenido de la fake api"&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>25/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-<tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>feature-authentication&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>7944b16&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>"update db.json"&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>22/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-<tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>feature-toolbar-home&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>8522bce&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>"Add new toolbar home and i18n functionalities"&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>22/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-<tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>feature-profile&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>4b16f6a&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>"Add support"&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>22/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-<tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>feature-reservation&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>fc800d4&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>"Merge branch 'develop' into feature-reservation"&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>feature-profile&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>f1f82b7&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>"update profile component api i18n"&nbsp;&nbsp;&nbsp;</td>
+<td rowspan="10"><a href="https://github.com/TF-AplicacionesWeb/TF" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/TF</a></td>
     <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-<tr>
-<td> </td>
-    <td>&nbsp;&nbsp;&nbsp;<br>feature-base-service&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>0abd30c&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>"Registration implementationn"&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>24/09/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-/10/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
+ <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-/10/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+ 
   
 </tbody></table>
 
 
 
-<div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review. </h5></div>
+<div id='5.2.3.5.'><h5> 5.2.3.5. Execution Evidence for Sprint Review. </h5></div>
 La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades que brinda Dentify.
 
+<br><br>
+A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de la Landing Page y la Aplicación Web actualizadas:
 
-A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de la Landing Page:
-<img src="Img/aw1.png" alt="5.2.1.5.5">
-<img src="Img/aw2.png" alt="5.2.1.5.5">
-<img src="Img/aw3.png" alt="5.2.1.5.5">
+[IMAGENES]
 
-Link del vídeo: <a>https://drive.google.com/file/d/1UllXRFIyHw8QIyTgb4fUnN8_Mpkd07rn/view?usp=sharing</a>
+Link del vídeo: <a>-</a>
 
-<div id='5.2.2.6.'><h5> 5.2.2.6. Services Documentation Evidence for Sprint Review. </h5></div>
-Para este primer sprint usamos una fakeAPI generada de la base de datos realizada:
+<div id='5.2.3.6.'><h5> 5.2.3.6. Services Documentation Evidence for Sprint Review. </h5></div>
+Para este tercer sprint usamos la primera versión de nuestro servicio desarrollado en c#.
 
-<img src="Img/dbjson.png">
 
-<div id='5.2.2.7.'><h5> 5.2.2.7. Software Deployment Evidence for Sprint Review.</h5></div>
+<div id='5.2.3.7.'><h5> 5.2.3.7. Software Deployment Evidence for Sprint Review.</h5></div>
 Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web de Dentify. 
 
 Evidencia de despliegue en FireBase:
-
-<img src="Imgfirebase.png" alt="5.2.1.5.5">
 
 <br>
 
@@ -2732,19 +2840,16 @@ Evidencia de despliegue en FireBase:
 
 
 
-<div id='5.2.1.8.'><h5> 5.2.2.8. Team Collaboration Insights during Sprint. </h5></div>
+<div id='5.2.3.8.'><h5> 5.2.3.8. Team Collaboration Insights during Sprint. </h5></div>
 
 | Alumno  | Actividad |
 | -------- | -------- |
-| Bohorquez Lerzundi Gerardo Sebastian| Realización de ppt, funcionalidad dashboard y maquetacion de componente pago|
-| Huanaco Huayta, Elizabeth Lucero | Realización de ppt, funcionalidad de perfil relacionada con fakeAPI |
-| Jimenez Melgar, Daniel Luciano | Realización de formulario de soporte|
-| Julca Cruz, Renso Anthony | Realización de formulario de creación de citas |
-| Uribe Quispe, Jesús Guillermo | Realización de login, registro, autenticación, pagina principal, barra de navegación, generación de FakeAPI, gestión de estructuración de proyecto, gestión de proyecto en github, funcionalidad de historiales clínicos relacionados a la FakeAPI, creación de modelos usuario, pacientes, funcionalidad de internacionalización, configuración de json server, implementación de tailwind css, realización de funcionalidad de servicios CRUD |
+| Bohorquez Lerzundi Gerardo Sebastian|-|
+| Huanaco Huayta, Elizabeth Lucero | -|
+| Jimenez Melgar, Daniel Luciano | -|
+| Julca Cruz, Renso Anthony |-|
+| Uribe Quispe, Jesús Guillermo |- |
 
-<img src="Img/ins.png">
-<img src="Img/in2.png">
-<img src="Img/in3.png">
 
 <div id='6.'><h2>6. Conclusiones</h2></div>
 
