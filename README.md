@@ -2821,18 +2821,32 @@ En este punto abarcaremos las funcionalidades y la evidencia de que pudimos comp
 <tbody>
   <tr>
 <td rowspan="10"><a href="https://github.com/TF-AplicacionesWeb/Dentify" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/Dentify</a></td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-/10/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-appointments&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>391b3c04a0cabe6ff013501338777b507ba35f94&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>added Feature appointments and fix patient feature&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>added Feature appointments and fix patient feature&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>26/10/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-/10/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>hotfix-payments-appointments&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>d1d14316a029ebf4d7b031f3989138bf5312664a&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>fixed payments multiple users&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>fixed payments multiple users&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>26/10/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-inventory&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>c4f555ae7110271e9aac7c0d2afe7949c07cffc9&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Primera implementacion de la pagina inventory, la cual es ta implmentada con las funciones del CRUD. Mas adelante se terminara de implmentar en su totalidad todas las funcionalidades. Por ahora solo mostramos las informacion del iventorio en tabla.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Primera implementacion de la pagina inventory, la cual es ta implmentada con las funciones del CRUD. Mas adelante se terminara de implmentar en su totalidad todas las funcionalidades. Por ahora solo mostramos las informacion del iventorio en tabla.&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>26/10/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-specialists-vs2&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>87200e2e2ba760dc9d2f8527dc5cd7ca8ac4e615&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>updated specialists vs2&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>updated specialists vs2&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>21/10/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
   
 </tbody></table>
