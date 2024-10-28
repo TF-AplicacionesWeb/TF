@@ -212,6 +212,7 @@ ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miemb
    5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
    5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
    5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
+   5.3.3.[Evaluations according to heuristics](#5.3.3.)<br>
 6. [**Conclusiones.**](#6.)<br>
 6.1. [Conclusiones y recomendaciones](#6.1.)<br>
 6.2. [Video About-The-Team](#6.2.)<br>
@@ -2962,6 +2963,168 @@ Evidencia de despliegue en FireBase:
 | Jimenez Melgar, Daniel Luciano | -|
 | Julca Cruz, Renso Anthony |-|
 | Uribe Quispe, Jesús Guillermo |- |
+
+<div id='5.3.3.'><h5> 5.3.3. Evaluations according to heuristics </h5></div>
+
+<h4>SITE o APP A EVALUAR:</h4>
+
+Dentify
+
+Objetivo: Esta evaluación tiene como propósito principal detectar los problemas presentes en la aplicación web Dentify.
+
+Método: Los problemas en la aplicación se identificarán empleando la lista de Heurísticas de Nielsen, inicialmente investigada y desarrollada por Jakob Nielsen.
+
+<h4>TAREAS A EVALUAR:</h4>
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de un usuario nuevo
+2. Inicio de sesión
+3. Reserva de citas
+4. Gestión de pagos
+5. Visualización de facturas
+6. Edición de perfil
+7. Soporte
+8. Visualización de informes
+9. Visualización de métricas
+10. Dashboard
+11. Registro de especialistas 
+12. Gestión de especialistas
+13. Cambio de idioma
+14. Visualización del historial de citas
+15. Registro de un nuevo paciente
+16. Gestión de productos en el inventario
+17. Gestión de pacientes
+
+<h4>ESCALA DE SEVERIDAD:</h4>
+
+Los errores se calificarán según la siguiente escala de severidad.
+
+| Nivel | Descripción                                                                                                                                               |
+|-------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlo. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+
+<h4>TABLA RESUMEN:</h4>
+
+
+| #  | Problema                                                         | Escala de severidad | Heurística/Principio violado                                |
+|----|------------------------------------------------------------------|---------------------|------------------------------------------------------------|
+| 1  | No hay opción para editar una cita registrada  | 3                  | Control y libertad del usuario                          |
+| 2  | No hay opción para eliminar una cita registrada            | 3                   | Control y libertad del usuario        |
+| 3  | Edición de ficha personal del paciente                                   | 4                   | Flexibilidad y eficiencia de uso: El sistema debe permitir la edición de los datos del paciente.                      |
+| 4  | Edición de ficha de seguimiento del paciente                                 | 4 | Eficiencia: El sistema debe permitir el seguimiento de la atención al paciente. |
+| 5  | Confirmación de envío de solicitud en soporte                                           | 2                   | Visibilidad del estado del sistema                          |
+| 6  | Confirmación de registro de una nueva cita                                           | 2                   | Visibilidad del estado del sistema                          |
+| 7  | Cambio parcial de idioma            | 3                   | Consistencia y estándares |
+| 8  | Logout del usuario no accesible | 3 | Control y libertad del usuario |
+
+<h4>DESCRIPCIÓN DE PROBLEMAS:</h4>
+ 
+* PROBLEMA #1:  No hay opción para editar una cita registrada
+- Severidad: 3
+Heurística violada: Control y libertad de usuario
+- Problema:
+En la sección de historial de citas, el usuario no tiene la posibilidad de modificar los detalles de una cita ya registrada. Esto limita la capacidad del usuario para realizar ajustes necesarios en la información de la cita sin tener que cancelar y crear una nueva. La falta de esta opción podría resultar frustrante y hacer menos eficiente el uso del sistema.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Agregar un botón de edición visible en cada cita del historial, idealmente con un ícono de lápiz o ajuste, que indique claramente su función. Este botón debería permitir a los usuarios actualizar la información de una cita de manera rápida y eficiente.
+
+---
+
+* PROBLEMA #2:  No hay opción para eliminar una cita registrada
+- Severidad: 3
+Heurística violada: Control y libertad de usuario
+- Problema:
+En el historial de citas, el usuario no dispone de una opción para eliminar citas previamente registradas. Esto limita el control del usuario sobre la gestión de sus citas, especialmente en casos donde se requiera cancelar una cita sin necesidad de editarla o mantenerla en el historial.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Incorporar un botón de eliminación claramente visible en cada cita registrada, utilizando un ícono de papelera para indicar su función. Al hacer clic, el sistema debería pedir una confirmación para evitar eliminaciones accidentales y permitir una gestión de citas más eficiente.
+
+---
+
+* PROBLEMA #3:  Edición de ficha personal del paciente 
+- Severidad: 4
+Heurística violada: Flexibilidad y eficiencia de uso
+- Problema:
+Actualmente, no se ofrece una opción para editar la ficha personal del paciente, lo cual limita la capacidad del personal para actualizar información crítica del paciente como datos de contacto, antecedentes 
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Añadir una sección de edición en la tarjeta del paciente. Esta sección debe permitir la modificación rápida de la información del paciente, asegurando que se mantenga actualizada y accesible en tiempo real para el personal clínico.
+
+---
+
+* PROBLEMA #4:  Edición de ficha de seguimiento del paciente 
+- Severidad: 4
+Heurística violada: Flexibilidad y eficiencia de uso
+- Problema:
+El sistema actualmente no permite la edición de la ficha de seguimiento del paciente, lo que dificulta la actualización de datos sobre el progreso, cambios en el tratamiento, o el registro de observaciones clínicas importantes. Esto reduce la eficiencia y limita la continuidad en la atención al paciente, dado que no hay una manera fácil de modificar o añadir información clave durante el seguimiento.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Incorporar una sección de edición en la tarjeta del paciente. Esto permitirá al personal médico actualizar el registro de seguimiento en tiempo real, asegurando un seguimiento adecuado del estado de salud del paciente.
+
+---
+
+* PROBLEMA #5:  Confirmación de envío de solicitud en soporte 
+- Severidad: 2
+Heurística violada: Visbilidad del estado del sistema
+- Problema:
+Cuando un usuario envía una solicitud de soporte, el sistema no muestra una confirmación visual que indique que el envío fue exitoso. Esta falta de respuesta visual puede causar confusión e incertidumbre en el usuario, quien no sabe si su solicitud fue recibida o si debe intentarlo nuevamente.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Agregar un mensaje de confirmación o una notificación visual clara que indique el envío exitoso de la solicitud de soporte. Esta notificación podría ser un mensaje emergente o un texto de confirmación en la misma pantalla que indique: "Su solicitud de soporte ha sido enviada exitosamente." 
+
+---
+
+* PROBLEMA #6:  Confirmación de registro de una nueva cita
+- Severidad: 2
+Heurística violada: Visbilidad del estado del sistema
+- Problema:
+Al registrar una nueva cita, el sistema no proporciona una confirmación visual que indique que la cita ha sido creada correctamente. Esta ausencia de retroalimentación puede generar incertidumbre en el usuario, que podría dudar si el registro se realizó con éxito o si debe intentar nuevamente.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Implementar un mensaje de confirmación que se muestre inmediatamente después de que se registre una nueva cita. Este mensaje podría ser una notificación emergente o un texto visible en la misma página que indique: "La cita ha sido registrada exitosamente." 
+
+---
+
+* PROBLEMA #7:  Cambio parcial de idioma
+- Severidad: 3
+Heurística violada: Consistencia y estándares
+- Problema:
+Al intentar cambiar el idioma de la aplicación, solo algunas partes de la interfaz se traducen, mientras que otras permanecen en el idioma original. Esto crea una experiencia confusa y poco profesional, ya que los usuarios pueden sentirse desorientados al ver elementos en diferentes idiomas.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Asegurar que el cambio de idioma sea consistente en toda la aplicación. Esto incluye la traducción de todos los textos y elementos visuales al nuevo idioma seleccionado.
+
+---
+
+* PROBLEMA #8:  Logout del usuario no accesible
+- Severidad: 3
+Heurística violada: Control y libertad de usuario
+- Problema:
+La opción para cerrar sesión (logout) no está implementada en el sistema. Esto puede causar incertidumbre entre los usuarios, quienes podrían preguntarse cómo salir de la aplicación de manera segura.
+
+(Incluir además una captura de pantalla ilustrando el problema).
+
+- Recomendación:
+Implementar una opción de cierre de sesión que sea fácilmente visible y accesible en la interfaz de usuario. Se sugiere colocar un botón de logout en la barra de navegación con un ícono que indique claramente su funcionalidad.
 
 
 <div id='6.'><h2>6. Conclusiones</h2></div>
