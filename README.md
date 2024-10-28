@@ -212,6 +212,7 @@ ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miemb
    5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
    5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
    5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
+   5.3.1.[Interview's design](#5.3.1.)<br>
    5.3.3.[Evaluations according to heuristics](#5.3.3.)<br>
 6. [**Conclusiones.**](#6.)<br>
 6.1. [Conclusiones y recomendaciones](#6.1.)<br>
@@ -2963,6 +2964,23 @@ Evidencia de despliegue en FireBase:
 | Jimenez Melgar, Daniel Luciano | -|
 | Julca Cruz, Renso Anthony |-|
 | Uribe Quispe, Jesús Guillermo |- |
+
+<div id='5.3.1.'><h5> 5.3.1. Interview's design </h5></div>
+<ol>
+    <li>¿Fue fácil encontrar y completar el proceso de registro, o hubo aspectos confusos?</li>
+    <li>¿Tuviste problemas al iniciar sesión y fue la interfaz fácil de entender?</li>
+    <li>¿La opción para reservar citas fue fácil de encontrar y el proceso fue intuitivo?</li>
+    <li>¿Te resultó fácil acceder a la gestión de pagos y el proceso es claro y seguro?</li>
+    <li>¿La factura se muestra de manera clara y contiene todos los datos importantes?</li>
+    <li>¿Fue fácil acceder y editar tu perfil, o tuviste dificultades al guardar los cambios?</li>
+    <li>¿La sección de soporte es fácil de navegar y la información proporcionada es útil y clara?</li>
+    <li>¿Los informes son fáciles de interpretar, o hay información adicional que te gustaría ver?</li>
+    <li>¿El dashboard es fácil de usar y entender, o faltan elementos importantes?</li>
+    <li>¿El proceso de registro de un nuevo paciente es intuitivo y la gestión de especialistas es clara y eficiente?</li>
+    <li>¿Fue fácil encontrar la opción de cambio de idioma y la traducción es precisa y clara?</li>
+    <li>¿El historial de citas se presenta de manera clara y te resulta fácil buscar información en él?</li>
+</ol>
+
 
 <div id='5.3.3.'><h5> 5.3.3. Evaluations according to heuristics </h5></div>
 
