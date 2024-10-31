@@ -2973,62 +2973,63 @@ En esta sección de nuestro proyecto, Dentify, nos enfocamos en detectar cuáles
 <div id='5.3.1.'><h5> 5.3.1. Interview's design </h5></div>
 Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas, los cuales son fundamentales para asegurar que nuestro sitio web, Dentify, y el landing page respondan efectivamente a las necesidades reales de los odontólogos y el personal administrativo. A continuación, se presentan dichos objetivos de usuario:
 
+<br>
 <b>Landing page</b>
 
-**User Goal:** Acceder a la sección Nosotros
-**User persona:** Odontólogos o personal administrativo
+**User Goal:** Acceder a la sección Nosotros <br>
+**User persona:** Odontólogos o personal administrativo  <br>
 **Explicación del flujo**: El usuario accederá a la sección Nosotros y navegar a través de esta para obtener información de nuestra startup, conocer nuestra visión, misión y valores, y videos sobre nuestro producto.
 
-**User Goal:** Acceder a la sección Servicios
-**User persona:** Odontólogos o personal administrativo
+**User Goal:** Acceder a la sección Servicios <br>
+**User persona:** Odontólogos o personal administrativo <br>
 **Explicación del flujo**: El usuario accederá a la sección Servicios y navegar a través de esta para conoces los servicios que ofrecemos dentro de nuestro sitio web.
 
-**User Goal:** Acceder a la sección Servicios
-**User persona:** Odontólogos o personal administrativo
+**User Goal:** Acceder a la sección Servicios  <br>
+**User persona:** Odontólogos o personal administrativo <br>
 **Explicación del flujo**: El usuario accederá a la sección Servicios y navegar a través de esta para conoces los servicios que ofrecemos dentro de nuestro sitio web.
 
-**User Goal:** Acceder a la sección Contáctanos
-**User persona:** Odontólogos o personal administrativo
+**User Goal:** Acceder a la sección Contáctanos <br>
+**User persona:** Odontólogos o personal administrativo <br>
 **Explicación del flujo**: El usuario accederá a la sección Contáctanos y rellenará los datos necesarios para enviar un mensaje de solicitud y comunicarse directamente con nosotros.
 
 ---
 
 <b>Sitio web</b>
 
-**User Goal:** Iniciar sesión
-**User persona:** Odontólogos o personal administrativo
+**User Goal:** Iniciar sesión <br>
+**User persona:** Odontólogos o personal administrativo <br>
 **Explicación del flujo**: El usuario accederá a la aplicación e introducirá su nombre de usuario y contraseña en el formulario de inicio de sesión. Si las credenciales son correctas, el usuario será dirigido al dashboard. En caso contrario, se le solicitará que reintroduzca sus datos.
 
-**User Goal:** Navegar por el dashboard
-**User persona:** Odontólogos o personal administrativo
+**User Goal:** Navegar por el dashboard <br>
+**User persona:** Odontólogos o personal administrativo <br>
 **Explicación del flujo**: Después de iniciar sesión, el usuario será dirigido al dashboard, donde podrá visualizar cambios importantes recientes, citas para el día actual y los pagos recientes.
 
-**User Goal:** Gestionar citas
-**User persona:** Odontólogos o personal administrativo
+**User Goal:** Gestionar citas <br>
+**User persona:** Odontólogos o personal administrativo <br>
 **Explicación del flujo**: Después de iniciar sesión, el usuario podrá dirigirse a la sección Citas para gestionar las citas del sistema. En esta sección, el usuario podrá crear, eliminar o modificar citas.
 
-**User Goal:** Gestionar pagos
-**User persona:** Odontólogos o personal administrativo
+**User Goal:** Gestionar pagos <br>
+**User persona:** Odontólogos o personal administrativo <br>
 **Explicación del flujo**: Después de iniciar sesión, el usuario podrá dirigirse a la sección Pagos para gestionar los pagos en el sistema y visualizar las facturas emitidas. En esta sección, el usuario podrá seleccionar un pago pendiente y registrar un pago. Posteriormente, dentro de la sección pagos, el usuario podrá ingresar a la sección para facturas para visualizar las facturas emitidas.
 
-**User Goal:** Gestionar pacientes
-**User persona:** Odontólogos o personal administrativo
+**User Goal:** Gestionar pacientes <br>
+**User persona:** Odontólogos o personal administrativo <br>
 **Explicación del flujo**: Después de iniciar sesión, el usuario podrá dirigirse a la sección Pacientes para gestionar la información de cada uno de ellos en el sistema. En esta sección, el usuario podrá registrar un nuevo paciente en el sistema y posteriormente podrá registrar su ficha personal y agregar detalles en la ficha de seguimiento.
 
-**User Goal:** Gestionar especialistas
-**User persona:** Odontólogos o personal administrativo
+**User Goal:** Gestionar especialistas <br>
+**User persona:** Odontólogos o personal administrativo <br>
 **Explicación del flujo**: Después de iniciar sesión, el usuario podrá dirigirse a la sección Especialistas para gestionar la información de cada uno de ellos en el sistema. En esta sección, el usuario podrá registrar un nuevo especialista en el sistema y posteriormente podrá registrar su ficha personal y agregar sus horarios disponibles en un formulario. Asimismo, podrá eliminar especialistas del sistema.
 
-**User Goal:** Enviar una solictud a través del formulario de soporte
-**User persona:** Odontólogos o personal administrativo
+**User Goal:** Enviar una solictud a través del formulario de soporte <br>
+**User persona:** Odontólogos o personal administrativo <br>
 **Explicación del flujo**: Después de iniciar sesión, el usuario podrá dirigirse a la sección Soporte para enviar el detalle de un problema que está sucediendo en nuestro sitio web. Para esto, el usuario tendrá que rellenar el formulario con sus datos y detalles del problema.
 
-**User Goal:** Gestionar inventario
-**User persona:** Odontólogos o personal administrativo
+**User Goal:** Gestionar inventario <br>
+**User persona:** Odontólogos o personal administrativo <br>
 **Explicación del flujo**: Después de iniciar sesión, el usuario podrá dirigirse a la sección Inventario para gestionar los productos en el sistema. En esta sección, el usuario podrá agregar, modificar o eliminar productos del sistema.
 
-**User Goal:** Perfil
-**User persona:** Odontólogos o personal administrativo
+**User Goal:** Perfil <br>
+**User persona:** Odontólogos o personal administrativo <br>
 **Explicación del flujo**: Después de iniciar sesión, el usuario podrá dirigirse a la sección Perfil para editar datos personales, como nombre, email o contraseña.
 
 <div id='5.3.3.'><h5> 5.3.3. Evaluations according to heuristics </h5></div>
