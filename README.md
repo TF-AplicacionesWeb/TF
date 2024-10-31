@@ -3364,7 +3364,7 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
     </td>
     <td>
       Nombre: Dianna Palacios
-      Segmento Objetivo: Asistente Odontologico
+      Segmento Objetivo: Odontologo
       Edad: 22
       Distrito: Independencia
     </td>
@@ -3380,18 +3380,18 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
       <strong>Cantidad de videos</strong>: 1<br>
       <strong>Nomenclatura</strong>: upc-pre-202402-s1730-SI91-Dentify-validation-interviews-6<br>
       <strong>Formato</strong>: .mp4<br>
-      <strong>Duración</strong>:
+      <strong>Duración</strong>: 7:34 min
     </td>
     <td>
-      Nombre: 
-      Segmento Objetivo:
-      Edad:
-      Distrito:
+      Nombre: Joaquin Anton
+      Segmento Objetivo: Odontologot
+      Edad: 20
+      Distrito: Chincha Alta
     </td>
     <td>
       Screenshot: <br>
-      <img src="" alt="screenshot" style="width: 200px;"><br>
-      Link: 
+      <img src="Img/interview-Joaquin.png" alt="screenshot" style="width: 200px;"><br>
+      Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EVCNfx3097RBjl8QV-tJQ1IBNSwWKQTcDPqVmt1lMSBiIQ?e=bWoOx1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"><https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EVCNfx3097RBjl8QV-tJQ1IBNSwWKQTcDPqVmt1lMSBiIQ?e=bWoOx1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D/a>
     </td>
   </tr>
 </table>
