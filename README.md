@@ -228,6 +228,7 @@ ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miemb
    5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
    5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
    5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
+   5.3.[Validation Interviews](#5.3.)<br>
    5.3.1.[Interview's design](#5.3.1.)<br>
    5.3.3.[Evaluations according to heuristics](#5.3.3.)<br>
 6. [**Conclusiones.**](#6.)<br>
@@ -3021,23 +3022,72 @@ No se pudo realizar la funcionalidad de Reportes y Métricas en el Front End, ya
 | Huanaco Huayta, Elizabeth Lucero | Funcionalidad de Especialistas, arreglo de funcionalidad de perfil, endpoints en el backend, realización de Validation interviews, realización de entrevistas|
 | Julca Cruz, Renso Anthony |Realización de Funcionalidad de métricas y reportes|
 | Uribe Quispe, Jesús Guillermo |Gestión de proyecto Front End y Back End, realización de Citas, arreglo de bugs en servicios, arreglo de bugs en funcionalidad de pagos y pacientes, realización de funcionalidad de soporte, realización de endpoints de Usuarios en BackEnd, realización de entrevistas.|
+
 <div id='5.3.'><h4> 5.3. Validation Interviews </h4></div>
+En esta sección de nuestro proyecto, Dentify, nos enfocamos en detectar cuáles son los puntos de mejora de nuestro sitio web para lograr un mayor compromiso de los odontólogos y el personal administrativo. Esta fase crucial del proyecto implica un diálogo directo con nuestros principales usuarios para recopilar sus opiniones y sugerencias a través de entrevistas. Así, aseguramos que la plataforma no solo cumpla con los requisitos técnicos, sino que también se adapte a las operaciones diarias y expectativas del personal administrativo y de los odontólogos. A continuación, se presentan los objetivos de los usuario necesarios para desarrollar estas entrevistas.
 
 <div id='5.3.1.'><h4> 5.3.1. Diseño de Entrevistas </h4></div>
-<ol>
-    <li>¿Fue fácil encontrar y completar el proceso de registro, o hubo aspectos confusos?</li>
-    <li>¿Tuviste problemas al iniciar sesión y fue la interfaz fácil de entender?</li>
-    <li>¿La opción para reservar citas fue fácil de encontrar y el proceso fue intuitivo?</li>
-    <li>¿Te resultó fácil acceder a la gestión de pagos y el proceso es claro y seguro?</li>
-    <li>¿La factura se muestra de manera clara y contiene todos los datos importantes?</li>
-    <li>¿Fue fácil acceder y editar tu perfil, o tuviste dificultades al guardar los cambios?</li>
-    <li>¿La sección de soporte es fácil de navegar y la información proporcionada es útil y clara?</li>
-    <li>¿Los informes son fáciles de interpretar, o hay información adicional que te gustaría ver?</li>
-    <li>¿El dashboard es fácil de usar y entender, o faltan elementos importantes?</li>
-    <li>¿El proceso de registro de un nuevo paciente es intuitivo y la gestión de especialistas es clara y eficiente?</li>
-    <li>¿Fue fácil encontrar la opción de cambio de idioma y la traducción es precisa y clara?</li>
-    <li>¿El historial de citas se presenta de manera clara y te resulta fácil buscar información en él?</li>
-</ol>
+
+Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas, los cuales son fundamentales para asegurar que nuestro sitio web, Dentify, y el landing page respondan efectivamente a las necesidades reales de los odontólogos y el personal administrativo. A continuación, se presentan dichos objetivos de usuario:
+
+<br>
+<b>Landing page</b>
+
+**User Goal:** Acceder a la sección Nosotros <br>
+**User persona:** Odontólogos o personal administrativo  <br>
+**Explicación del flujo**: El usuario accederá a la sección Nosotros y navegar a través de esta para obtener información de nuestra startup, conocer nuestra visión, misión y valores, y videos sobre nuestro producto.
+
+**User Goal:** Acceder a la sección Servicios <br>
+**User persona:** Odontólogos o personal administrativo <br>
+**Explicación del flujo**: El usuario accederá a la sección Servicios y navegar a través de esta para conoces los servicios que ofrecemos dentro de nuestro sitio web.
+
+**User Goal:** Acceder a la sección Servicios  <br>
+**User persona:** Odontólogos o personal administrativo <br>
+**Explicación del flujo**: El usuario accederá a la sección Servicios y navegar a través de esta para conoces los servicios que ofrecemos dentro de nuestro sitio web.
+
+**User Goal:** Acceder a la sección Contáctanos <br>
+**User persona:** Odontólogos o personal administrativo <br>
+**Explicación del flujo**: El usuario accederá a la sección Contáctanos y rellenará los datos necesarios para enviar un mensaje de solicitud y comunicarse directamente con nosotros.
+
+---
+
+<b>Sitio web</b>
+
+**User Goal:** Iniciar sesión <br>
+**User persona:** Odontólogos o personal administrativo <br>
+**Explicación del flujo**: El usuario accederá a la aplicación e introducirá su nombre de usuario y contraseña en el formulario de inicio de sesión. Si las credenciales son correctas, el usuario será dirigido al dashboard. En caso contrario, se le solicitará que reintroduzca sus datos.
+
+**User Goal:** Navegar por el dashboard <br>
+**User persona:** Odontólogos o personal administrativo <br>
+**Explicación del flujo**: Después de iniciar sesión, el usuario será dirigido al dashboard, donde podrá visualizar cambios importantes recientes, citas para el día actual y los pagos recientes.
+
+**User Goal:** Gestionar citas <br>
+**User persona:** Odontólogos o personal administrativo <br>
+**Explicación del flujo**: Después de iniciar sesión, el usuario podrá dirigirse a la sección Citas para gestionar las citas del sistema. En esta sección, el usuario podrá crear, eliminar o modificar citas.
+
+**User Goal:** Gestionar pagos <br>
+**User persona:** Odontólogos o personal administrativo <br>
+**Explicación del flujo**: Después de iniciar sesión, el usuario podrá dirigirse a la sección Pagos para gestionar los pagos en el sistema y visualizar las facturas emitidas. En esta sección, el usuario podrá seleccionar un pago pendiente y registrar un pago. Posteriormente, dentro de la sección pagos, el usuario podrá ingresar a la sección para facturas para visualizar las facturas emitidas.
+
+**User Goal:** Gestionar pacientes <br>
+**User persona:** Odontólogos o personal administrativo <br>
+**Explicación del flujo**: Después de iniciar sesión, el usuario podrá dirigirse a la sección Pacientes para gestionar la información de cada uno de ellos en el sistema. En esta sección, el usuario podrá registrar un nuevo paciente en el sistema y posteriormente podrá registrar su ficha personal y agregar detalles en la ficha de seguimiento.
+
+**User Goal:** Gestionar especialistas <br>
+**User persona:** Odontólogos o personal administrativo <br>
+**Explicación del flujo**: Después de iniciar sesión, el usuario podrá dirigirse a la sección Especialistas para gestionar la información de cada uno de ellos en el sistema. En esta sección, el usuario podrá registrar un nuevo especialista en el sistema y posteriormente podrá registrar su ficha personal y agregar sus horarios disponibles en un formulario. Asimismo, podrá eliminar especialistas del sistema.
+
+**User Goal:** Enviar una solictud a través del formulario de soporte <br>
+**User persona:** Odontólogos o personal administrativo <br>
+**Explicación del flujo**: Después de iniciar sesión, el usuario podrá dirigirse a la sección Soporte para enviar el detalle de un problema que está sucediendo en nuestro sitio web. Para esto, el usuario tendrá que rellenar el formulario con sus datos y detalles del problema.
+
+**User Goal:** Gestionar inventario <br>
+**User persona:** Odontólogos o personal administrativo <br>
+**Explicación del flujo**: Después de iniciar sesión, el usuario podrá dirigirse a la sección Inventario para gestionar los productos en el sistema. En esta sección, el usuario podrá agregar, modificar o eliminar productos del sistema.
+
+**User Goal:** Perfil <br>
+**User persona:** Odontólogos o personal administrativo <br>
+**Explicación del flujo**: Después de iniciar sesión, el usuario podrá dirigirse a la sección Perfil para editar datos personales, como nombre, email o contraseña.
 
 <div id='5.3.2.'><h4> 5.3.2. Registro de Entrevistas </h4></div>
 <table style="font-size: 12px;">
@@ -3192,16 +3242,19 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 5. Visualización de facturas
 6. Edición de perfil
 7. Soporte
-8. Visualización de informes
-9. Visualización de métricas
-10. Dashboard
-11. Registro de especialistas 
-12. Gestión de especialistas
-13. Cambio de idioma
-14. Visualización del historial de citas
-15. Registro de un nuevo paciente
-16. Gestión de productos en el inventario
-17. Gestión de pacientes
+8. Dashboard
+9. Registro de especialistas 
+10. Gestión de especialistas
+11. Cambio de idioma
+12. Visualización del historial de citas
+13. Registro de un nuevo paciente
+14. Gestión de productos en el inventario
+15. Gestión de pacientes
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Visualización de informes
+2. Visualización de métricas
 
 <h4>ESCALA DE SEVERIDAD:</h4>
 
