@@ -2749,7 +2749,7 @@ En la siguiente sección, se presentará el sprint #3 con la versión de la apli
 | **Sprint Goal & User Stories**| |
 | **Sprint n Goal** | Desarrollar y desplegar la primera versión de la estructura Back-End funcional que presente de manera clara para el consumo de la aplicación web, a través del lenguaje de programación "C#".|
 | **Sprint n Velocity** |  5 story points (promedio) |
-| **Sum of Story Points** | 45 |
+| **Sum of Story Points** | 55 |
 
 <div id='5.2.3.2.'><h5> 5.2.3.2. Sprint Backlog #3.</h5></div>
 Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte del back end de la aplicación web y completar las funcionalidades del front end.
@@ -2834,6 +2834,26 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>TS001&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementar Registro de Usuario&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT07&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Registro de Usuario&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero registrar usuarios mediante una API. &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Jesus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>TS002&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementar Inicio de Usuario&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT08&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Inicio de Sesión de Usuario&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero obtener los datos de los usuarios validando mediante parametros por medio de una API. &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Jesus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
 </tbody></table>
 
 
@@ -2853,7 +2873,13 @@ En este punto abarcaremos las funcionalidades y la evidencia de que pudimos comp
   </tr></thead>
 <tbody>
   <tr>
-<td rowspan="10"><a href="https://github.com/TF-AplicacionesWeb/Dentify" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/Dentify</a></td>
+<td rowspan="10">
+	<h5>Front End</h5>
+	<a href="https://github.com/TF-AplicacionesWeb/Dentify" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/Dentify</a>
+	<br><br><br>
+	<h5>Back End</h5>
+	<a href="https://github.com/TF-AplicacionesWeb/BackEnd" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/BackEnd</a>
+</td>
     <td>&nbsp;&nbsp;&nbsp;<br>feature-appointments&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>391b3c04a0cabe6ff013501338777b507ba35f94&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>added Feature appointments and fix patient feature&nbsp;&nbsp;&nbsp;</td>
@@ -2880,6 +2906,20 @@ En este punto abarcaremos las funcionalidades y la evidencia de que pudimos comp
     <td>&nbsp;&nbsp;&nbsp;<br>updated specialists vs2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>updated specialists vs2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>21/10/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+<tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>26585ae123ea0f3472acf8c9dac57659d497b096&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>initial commit&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>initial commit&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>29/10/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
   
 </tbody></table>
