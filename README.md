@@ -3290,7 +3290,7 @@ Heurística violada: Control y libertad de usuario
 - Problema:
 En la sección de historial de citas, el usuario no tiene la posibilidad de modificar los detalles de una cita ya registrada. Esto limita la capacidad del usuario para realizar ajustes necesarios en la información de la cita sin tener que cancelar y crear una nueva. La falta de esta opción podría resultar frustrante y hacer menos eficiente el uso del sistema.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+ <img src="Img/evaluation_appointments.png" alt="Failed Edition Appointment" style="margin-bottom: 5px;" width="800"/>
 
 - Recomendación:
 Agregar un botón de edición visible en cada cita del historial, idealmente con un ícono de lápiz o ajuste, que indique claramente su función. Este botón debería permitir a los usuarios actualizar la información de una cita de manera rápida y eficiente.
@@ -3303,7 +3303,8 @@ Heurística violada: Control y libertad de usuario
 - Problema:
 En el historial de citas, el usuario no dispone de una opción para eliminar citas previamente registradas. Esto limita el control del usuario sobre la gestión de sus citas, especialmente en casos donde se requiera cancelar una cita sin necesidad de editarla o mantenerla en el historial.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+ <img src="Img/evaluation_appointments.png" alt="Error to delete Appointment" style="margin-bottom: 5px;" width="800"/>
+
 
 - Recomendación:
 Incorporar un botón de eliminación claramente visible en cada cita registrada, utilizando un ícono de papelera para indicar su función. Al hacer clic, el sistema debería pedir una confirmación para evitar eliminaciones accidentales y permitir una gestión de citas más eficiente.
@@ -3314,9 +3315,9 @@ Incorporar un botón de eliminación claramente visible en cada cita registrada,
 - Severidad: 4
 Heurística violada: Flexibilidad y eficiencia de uso
 - Problema:
-Actualmente, no se ofrece una opción para editar la ficha personal del paciente, lo cual limita la capacidad del personal para actualizar información crítica del paciente como datos de contacto, antecedentes 
+Actualmente, la opción para editar la ficha personal del paciente no está habilitada, lo cual limita la capacidad del personal para actualizar información crítica del paciente como datos de contacto y antecedentes.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+ <img src="Img/evaluation_patients.png" alt="Error to edit patient's personal profile" style="margin-bottom: 5px;" width="800"/>
 
 - Recomendación:
 Añadir una sección de edición en la tarjeta del paciente. Esta sección debe permitir la modificación rápida de la información del paciente, asegurando que se mantenga actualizada y accesible en tiempo real para el personal clínico.
@@ -3327,9 +3328,9 @@ Añadir una sección de edición en la tarjeta del paciente. Esta sección debe 
 - Severidad: 4
 Heurística violada: Flexibilidad y eficiencia de uso
 - Problema:
-El sistema actualmente no permite la edición de la ficha de seguimiento del paciente, lo que dificulta la actualización de datos sobre el progreso, cambios en el tratamiento, o el registro de observaciones clínicas importantes. Esto reduce la eficiencia y limita la continuidad en la atención al paciente, dado que no hay una manera fácil de modificar o añadir información clave durante el seguimiento.
+El sistema actualmente no tiene la ficha de seguimiento del paciente habilitada, lo que dificulta la actualización de datos sobre el progreso, cambios en el tratamiento, o el registro de observaciones clínicas importantes. Esto reduce la eficiencia y limita la continuidad en la atención al paciente, dado que no hay una manera fácil de modificar o añadir información clave durante el seguimiento.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+ <img src="Img/evaluation_patients.png" alt="Error to edit patient's follow-up profile" style="margin-bottom: 5px;" width="800"/>
 
 - Recomendación:
 Incorporar una sección de edición en la tarjeta del paciente. Esto permitirá al personal médico actualizar el registro de seguimiento en tiempo real, asegurando un seguimiento adecuado del estado de salud del paciente.
@@ -3342,8 +3343,8 @@ Heurística violada: Visbilidad del estado del sistema
 - Problema:
 La paleta de colores no es tan llamativo desde el punto de vista del entrevistado, además de que hay espacios que hacen ver vacio la aplicación.
 
-<img src="Img/problem5.png" alt="problem5">
-<br>
+ <img src="Img/evaluation_support.png" alt="support's failed confirmation message" style="margin-bottom: 5px;" width="800"/>
+
 - Recomendación:
 Agrandar más los componentes o añadir otros componentes visuales para rellenar el espacio en blanco.
 
@@ -3355,7 +3356,8 @@ Heurística violada: Visbilidad del estado del sistema
 - Problema:
 Al registrar una nueva cita, el sistema no proporciona una confirmación visual que indique que la cita ha sido creada correctamente. Esta ausencia de retroalimentación puede generar incertidumbre en el usuario, que podría dudar si el registro se realizó con éxito o si debe intentar nuevamente.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+ <img src="Img/evaluation_register_appointment.png" alt="appointent's failed confirmation message" style="margin-bottom: 5px;" width="800"/>
+
 
 - Recomendación:
 Implementar un mensaje de confirmación que se muestre inmediatamente después de que se registre una nueva cita. Este mensaje podría ser una notificación emergente o un texto visible en la misma página que indique: "La cita ha sido registrada exitosamente." 
@@ -3368,7 +3370,7 @@ Heurística violada: Consistencia y estándares
 - Problema:
 Al intentar cambiar el idioma de la aplicación, solo algunas partes de la interfaz se traducen, mientras que otras permanecen en el idioma original. Esto crea una experiencia confusa y poco profesional, ya que los usuarios pueden sentirse desorientados al ver elementos en diferentes idiomas.
 
-<img src="Img/problem7.png" alt="problem7">
+<img src="Img/evaluation_language.png" alt="language change" style="margin-bottom: 5px;" width="800"/>
 
 - Recomendación:
 Asegurar que el cambio de idioma sea consistente en toda la aplicación. Esto incluye la traducción de todos los textos y elementos visuales al nuevo idioma seleccionado.
@@ -3381,7 +3383,7 @@ Heurística violada: Control y libertad de usuario
 - Problema:
 La opción para cerrar sesión (logout) no está implementada en el sistema. Esto puede causar incertidumbre entre los usuarios, quienes podrían preguntarse cómo salir de la aplicación de manera segura.
 
-<img src="Img/problem8.png" alt="problem8">
+<img src="Img/evaluation_logout.png" alt="option logout" style="margin-bottom: 5px;" width="800"/>
 
 - Recomendación:
 Implementar una opción de cierre de sesión que sea fácilmente visible y accesible en la interfaz de usuario. Se sugiere colocar un botón de logout en la barra de navegación con un ícono que indique claramente su funcionalidad.
