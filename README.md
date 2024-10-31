@@ -37,11 +37,10 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | --------------------------- |
-|TB2 |29/10/2024 | Bohórquez Lerzundi, Gerardo Sebastián| - |
-|TB2 |29/10/2024 |Huanaco Huayta, Elizabeth Lucero | - |
-|TB2 |29/10/2024 |  Julca Cruz, Renso Anthony | - |
-|TB2 |29/10/2024 |Uribe Quispe, Jesús Guillermo | - |
-
+|TB2 |29/10/2024 | Bohorquez Lerzundi Gerardo Sebastian|Funcionalidad de Pagos, Inventario, Actualización de Landing Page, realización de informe, realización de entrevistas|
+|TB2 |29/10/2024 | Huanaco Huayta, Elizabeth Lucero | Funcionalidad de Especialistas, arreglo de funcionalidad de perfil, endpoints en el backend, realización de Validation interviews, realización de entrevistas|
+|TB2 |29/10/2024 | Julca Cruz, Renso Anthony |Realización de Funcionalidad de métricas y reportes|
+|TB2 |29/10/2024 | Uribe Quispe, Jesús Guillermo |Gestión de proyecto Front End y Back End, realización de Citas, arreglo de bugs en servicios, arreglo de bugs en funcionalidad de pagos y pacientes, realización de funcionalidad de soporte, realización de endpoints de Usuarios en BackEnd, realización de entrevistas.|
 
 
 **TP1**
@@ -68,6 +67,22 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 ## Project Report Collaboration Insights
 
 URL del repositorio para el reporte del proyecto: https://github.com/TF-AplicacionesWeb
+**TB2**
+
+Front End:
+
+<img src="Img/ins_tb2.png">
+
+
+Para el desarrollo del informe perteneciente a la entrega TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrante | Tareas Asignadas |
+| ---------- | ---------------- |
+| Bohorquez Lerzundi Gerardo Sebastian|Funcionalidad de Pagos, Inventario, Actualización de Landing Page, realización de informe, realización de entrevistas|
+| Huanaco Huayta, Elizabeth Lucero | Funcionalidad de Especialistas, arreglo de funcionalidad de perfil, endpoints en el backend, realización de Validation interviews, realización de entrevistas|
+| Julca Cruz, Renso Anthony |Realización de Funcionalidad de métricas y reportes|
+| Uribe Quispe, Jesús Guillermo |Gestión de proyecto Front End y Back End, realización de Citas, arreglo de bugs en servicios, arreglo de bugs en funcionalidad de pagos y pacientes, realización de funcionalidad de soporte, realización de endpoints de Usuarios en BackEnd, realización de entrevistas.|
+
 
 **TP1**
 
@@ -108,7 +123,7 @@ Para el desarrollo del informe perteneciente a la entrega TB1, se dividió la im
 
 Github también presenta un timeline de las ramas principales y los procesos de merge a los que se han sometido. Todas las ramas se crearon tomando en cuenta el diseño de GitFlow para una buena organización cuando se usa un software de control de versiones.
 
-<img src="colab_ins" alt="colab_ins">
+<img src="Img/branch_tb2.png" alt="colab_ins">
 
 Los integrantes son:
 - Bohórquez Lerzundi, Gerardo Sebastián(Sebasbl562)
@@ -118,8 +133,9 @@ Los integrantes son:
 
 ## STUDENT OUTCOME
 ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo; crea un entorno colaborativo e inclusivo y establece metas, planifica tareas y cumple objetivos.
-<b>ABET – EAC - Student Outcome 5</b>
+<br><br>
 
+<b>ABET – EAC - Student Outcome 5</b>
 | Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Participé activamente en las reuniones de coordinación para definir nuestro caso de negocio. A partir de estas reuniones, desarrollé los Lean UX Assumptions, investigué sobre los competidores actuales en el mercado, y con esa información realicé un análisis competitivo, así como la redacción de estrategias a aplicar frente a nuestros competidores. Además, coordiné con los miembros del equipo asignados para establecer los parámetros que debíamos seguir en la elaboración de los wireframes y mockups. <br> **TP1:** Durante las reuniones virtuales, se organizó y designó las tareas a cada integrante. Esto me permitió desarrollar el componente y los requisitos según se coordinó en la reunión. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br>  Desarrollé el Lean UX Problem Statement, Lean UX Canvas y User Stories, y participé en la definición de la arquitectura de software orientada al dominio. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Realicé un análisis de competidores, llevé a cabo entrevistas, y elaboré un User Task Matrix para identificar las tareas críticas de la aplicación. También creé un glosario de Ubiquitous Language y diseñé wireframes y mock-ups para la versión móvil del landing page, así como para la aplicación web, asegurando una experiencia de usuario eficiente y funcional. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. <br> **TP1:** Mediante llamados, organicé al equipo para poder completar exitosamente este trabajo parcial. La comunicación nos ayudó a entendernos mejor. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Esta fase del proyecto no solo nos permitió mejorar nuestras habilidades de trabajo en equipo, también nos ayudó a cumplir eficientemente con las actividades asignadas y alcanzar los objetivos establecidos en relación con el caso de negocio.<br> **TP1:** En esta entrega del trabajo aprendí que la coordinación y planificación correctamente elaboradas son requisitos imprescindibles durante el desarrollo de un proyecto de software. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> El liderazgo conjunto permitió tomar decisiones alineadas y enfocadas en resolver problemas clave del proyecto. El trabajo en equipo mejoró la definición de requisitos y la calidad de nuestras soluciones. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> La colaboración entre los miembros del equipo fue clave para alinear los objetivos del producto y diseñar soluciones efectivas que respondan a las necesidades de nustros futuros usuarios. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Con el trabajo aprendimos la colaboración en equipo sacando adelante mediante lluvia de ideas, para poder mejorar e impulsar el desarrollo del mismo. Tnemos una visión excelente para el desarrollo de nuestro trabajo para poder cubrir esa necesidad a nuestro publico objetivo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable. <br> **TP1:** Acerca de este trabajo parcial aprendí sobre la organización con el equipo de trabajo, tanto en el sentido de planificación como en el de la estructuración y jerarquización del proyecto.                                                                                     |
@@ -2652,8 +2668,10 @@ En este segundo Sprint, veremos los commits de archivos feature relacionados a l
 <div id='5.2.2.5.'><h5> 5.2.2.5. Execution Evidence for Sprint Review. </h5></div>
 La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades que brinda Dentify.
 
+<br><br>
+A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de la Aplicación web:
 
-A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de la Landing Page:
+<br>
 <img src="Img/aw1.png" alt="5.2.1.5.5">
 <img src="Img/aw2.png" alt="5.2.1.5.5">
 <img src="Img/aw3.png" alt="5.2.1.5.5">
@@ -2672,12 +2690,15 @@ Durante este sprint, se utilizó FireBase como plataforma de despliegue para la 
 
 Evidencia de despliegue en FireBase:
 
+<img src="Img/Firebase_console.png" alt="5.2.1.5.5">
+<br><br>
+Primera versión de Web App:
 <img src="Img/firebase.png" alt="5.2.1.5.5">
 
 <br>
 
 
-**Link de Web app:** <a>https://github.com/TF-AplicacionesWeb/Dentify</a>
+**Link de Web app:** <a href="https://dentify-cf907.web.app/">https://dentify-cf907.web.app/</a>
 
 
 
@@ -2717,8 +2738,8 @@ En la siguiente sección, se presentará el sprint #3 con la versión de la apli
 | **Sprint 2 – 2 Retrospective Summary** | Para el segundo sprint tuvimos que aprender a trabajar con el modelo GitFlow, lo que nos permitió, desarrollar satisfactoriamente dicho sprint.  |
 | **Sprint Goal & User Stories**| |
 | **Sprint n Goal** | Desarrollar y desplegar la primera versión de la estructura Back-End funcional que presente de manera clara para el consumo de la aplicación web, a través del lenguaje de programación "C#".|
-| **Sprint n Velocity** |  n story points (promedio) |
-| **Sum of Story Points** | n |
+| **Sprint n Velocity** |  5 story points (promedio) |
+| **Sum of Story Points** | 45 |
 
 <div id='5.2.3.2.'><h5> 5.2.3.2. Sprint Backlog #3.</h5></div>
 Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte del back end de la aplicación web y completar las funcionalidades del front end.
@@ -2791,7 +2812,7 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero generar y revisar informes de actividades y métricas para evaluar el rendimiento del consultorio y tomar decisiones informadas.&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Renso&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>In Progress&nbsp;&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td>&nbsp;&nbsp;&nbsp;<br>US17&nbsp;&nbsp;&nbsp;</td>
@@ -2932,9 +2953,33 @@ En este tercer Sprint, veremos los archivos .feature relacionados a los user tas
 La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades que brinda Dentify.
 
 <br><br>
-A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de la Landing Page y la Aplicación Web actualizadas:
+A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de las nuevas funcionalidade de la Landing Page y la Aplicación Web:
 
-[IMAGENES]
+<h4>LANDING PAGE</h4>
+Servicios:
+<img src="Img/servicesld.png" alt="Services">
+<br><br>
+About The Team and Product:
+<img src="" alt="AboutThe">
+<br><br>
+
+<h4>WEB APPLICATION</h4>
+Citas:
+<img src="Img/Appointments.png" alt="Appointments">
+<br><br>
+Pagos:
+<img src="Img/Payments.png" alt="Payments">
+<br><br>
+Dentistas:
+<img src="Img/Specialists.png" alt="Specialists">
+<br><br>
+Inventario:
+<img src="Img/Inventory.png" alt="Inventory">
+<br><br>
+
+
+
+
 
 Link del vídeo: <a>-</a>
 
@@ -2943,29 +2988,42 @@ Para este tercer sprint usamos la primera versión de nuestro servicio desarroll
 
 
 <div id='5.2.3.7.'><h5> 5.2.3.7. Software Deployment Evidence for Sprint Review.</h5></div>
-Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web de Dentify. 
+Durante este sprint se usó Github Pages como plataforma de despliegue para la Landing Page:
+<br><br>
+Evidencia de despliegue en Github Pages:
+<br><br>
+<img src="Img/ghp.png" alt="GithubPage">
 
+Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web de Dentify. 
+<br><br>
 Evidencia de despliegue en FireBase:
+<img src="Img/Firebase_console.png" alt="Console">
+<br><br>
+
+<img src="Img/aw4.png" alt="Login">
+<img src="Img/aw5.png" alt="Register">
 
 <br>
 
 
-**Link de Web app:** <a>https://github.com/TF-AplicacionesWeb/Dentify</a>
+**Link de Web app:** <a href="https://dentify-cf907.web.app/">https://dentify-cf907.web.app/</a>
 
 
 
 
 <div id='5.2.3.8.'><h5> 5.2.3.8. Team Collaboration Insights during Sprint. </h5></div>
 
+No se pudo realizar la funcionalidad de Reportes y Métricas en el Front End, ya que el encargado no cumplió la respectiva tarea en el plazo establecido.
+
 | Alumno  | Actividad |
 | -------- | -------- |
-| Bohorquez Lerzundi Gerardo Sebastian|-|
-| Huanaco Huayta, Elizabeth Lucero | -|
-| Jimenez Melgar, Daniel Luciano | -|
-| Julca Cruz, Renso Anthony |-|
-| Uribe Quispe, Jesús Guillermo |- |
+| Bohorquez Lerzundi Gerardo Sebastian|Funcionalidad de Pagos, Inventario, Actualización de Landing Page, realización de informe, realización de entrevistas|
+| Huanaco Huayta, Elizabeth Lucero | Funcionalidad de Especialistas, arreglo de funcionalidad de perfil, endpoints en el backend, realización de Validation interviews, realización de entrevistas|
+| Julca Cruz, Renso Anthony |Realización de Funcionalidad de métricas y reportes|
+| Uribe Quispe, Jesús Guillermo |Gestión de proyecto Front End y Back End, realización de Citas, arreglo de bugs en servicios, arreglo de bugs en funcionalidad de pagos y pacientes, realización de funcionalidad de soporte, realización de endpoints de Usuarios en BackEnd, realización de entrevistas.|
+<div id='5.3.'><h4> 5.3. Validation Interviews </h4></div>
 
-<div id='5.3.1.'><h5> 5.3.1. Interview's design </h5></div>
+<div id='5.3.1.'><h4> 5.3.1. Diseño de Entrevistas </h4></div>
 <ol>
     <li>¿Fue fácil encontrar y completar el proceso de registro, o hubo aspectos confusos?</li>
     <li>¿Tuviste problemas al iniciar sesión y fue la interfaz fácil de entender?</li>
@@ -2981,12 +3039,143 @@ Evidencia de despliegue en FireBase:
     <li>¿El historial de citas se presenta de manera clara y te resulta fácil buscar información en él?</li>
 </ol>
 
+<div id='5.3.2.'><h4> 5.3.2. Registro de Entrevistas </h4></div>
+<table style="font-size: 12px;">
+  <tr>
+    <th>Sección</th>
+    <th>Características del video</th>
+    <th>Sobre el contenido</th>
+    <th>Integración y entrega</th>
+  </tr>
+  <tr>
+    <td>Validation Interviews</td>
+    <td>
+      <strong>Cantidad de videos</strong>: 1<br>
+      <strong>Nomenclatura</strong>: upc-pre-202402-s1730-SI91-Dentify-validation-interviews-1<br>
+      <strong>Formato</strong>: .mp4<br>
+      <strong>Duración</strong>: 8:19 min
+    </td>
+    <td>
+      Nombre: Henry Paolo Reaño Delgadillo
+      Segmento Objetivo: Asistente odontológico
+      Edad: 20 años
+      Distrito: San Juan De Lurigancho
+    </td>
+    <td>
+      Screenshot: <br>
+      <img src="Img/vi1.png" style="width: 200px;"><br>
+      Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/EZ17bNa9DiZNtRn1UtMiR-8BX9iWZqZAkscprUBOeFufzA?e=M5aFIo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+    </td>
+  </tr>
+  <tr>
+  <td>Validation Interviews</td>
+    <td>
+      <strong>Cantidad de videos</strong>: 1<br>
+      <strong>Nomenclatura</strong>:upc-pre-202402-s1730-SI91-Dentify-validation-interviews-2 <br>
+      <strong>Formato</strong>: .mp4<br>
+      <strong>Duración</strong>:
+    </td>
+    <td>
+      Nombre: 
+      Segmento Objetivo:
+      Edad:
+      Distrito:
+    </td>
+    <td>
+      Screenshot: <br>
+      <img src="" alt="screenshot" style="width: 200px;"><br>
+      Link: 
+    </td>
+  </tr>
+  <tr>
+  <td>Validation Interviews</td>
+    <td>
+      <strong>Cantidad de videos</strong>: 1<br>
+      <strong>Nomenclatura</strong>: upc-pre-202402-s1730-SI91-Dentify-validation-interviews-3 <br>
+      <strong>Formato</strong>: .mp4<br>
+      <strong>Duración</strong>:
+    </td>
+    <td>
+      Nombre: 
+      Segmento Objetivo:
+      Edad:
+      Distrito:
+    </td>
+    <td>
+      Screenshot: <br>
+      <img src="" alt="screenshot" style="width: 200px;"><br>
+      Link: 
+    </td>
+  </tr>
+  <tr>
+  <td>Validation Interviews</td>
+    <td>
+      <strong>Cantidad de videos</strong>: 1<br>
+      <strong>Nomenclatura</strong>: upc-pre-202402-s1730-SI91-Dentify-validation-interviews-4 <br>
+      <strong>Formato</strong>: .mp4<br>
+      <strong>Duración</strong>:
+    </td>
+    <td>
+      Nombre: 
+      Segmento Objetivo:
+      Edad:
+      Distrito:
+    </td>
+    <td>
+      Screenshot: <br>
+      <img src="" alt="screenshot" style="width: 200px;"><br>
+      Link: 
+    </td>
+  </tr>
+  <tr>
+  <td>Validation Interviews</td>
+    <td>
+      <strong>Cantidad de videos</strong>: 1<br>
+      <strong>Nomenclatura</strong>:upc-pre-202402-s1730-SI91-Dentify-validation-interviews-5 <br>
+      <strong>Formato</strong>: .mp4<br>
+      <strong>Duración</strong>:
+    </td>
+    <td>
+      Nombre: 
+      Segmento Objetivo:
+      Edad:
+      Distrito:
+    </td>
+    <td>
+      Screenshot: <br>
+      <img src="" alt="screenshot" style="width: 200px;"><br>
+      Link: 
+    </td>
+  </tr>
+  <tr>
+  <td>Validation Interviews</td>
+    <td>
+      <strong>Cantidad de videos</strong>: 1<br>
+      <strong>Nomenclatura</strong>: upc-pre-202402-s1730-SI91-Dentify-validation-interviews-6<br>
+      <strong>Formato</strong>: .mp4<br>
+      <strong>Duración</strong>:
+    </td>
+    <td>
+      Nombre: 
+      Segmento Objetivo:
+      Edad:
+      Distrito:
+    </td>
+    <td>
+      Screenshot: <br>
+      <img src="" alt="screenshot" style="width: 200px;"><br>
+      Link: 
+    </td>
+  </tr>
+</table>
 
-<div id='5.3.3.'><h5> 5.3.3. Evaluations according to heuristics </h5></div>
+
+
+<div id='5.3.3.'><h4> 5.3.3. Evaluations according to heuristics </h4></div>
 
 <h4>SITE o APP A EVALUAR:</h4>
 
-Dentify
+<h5>Dentify</h5>
 
 Objetivo: Esta evaluación tiene como propósito principal detectar los problemas presentes en la aplicación web Dentify.
 
@@ -3094,16 +3283,16 @@ Incorporar una sección de edición en la tarjeta del paciente. Esto permitirá 
 
 ---
 
-* PROBLEMA #5:  Confirmación de envío de solicitud en soporte 
-- Severidad: 2
+* PROBLEMA #5:  Paleta de Colores y Espaciado 
+- Severidad: 1
 Heurística violada: Visbilidad del estado del sistema
 - Problema:
-Cuando un usuario envía una solicitud de soporte, el sistema no muestra una confirmación visual que indique que el envío fue exitoso. Esta falta de respuesta visual puede causar confusión e incertidumbre en el usuario, quien no sabe si su solicitud fue recibida o si debe intentarlo nuevamente.
+La paleta de colores no es tan llamativo desde el punto de vista del entrevistado, además de que hay espacios que hacen ver vacio la aplicación.
 
-(Incluir además una captura de pantalla ilustrando el problema).
-
+<img src="Img/problem5.png" alt="problem5">
+<br>
 - Recomendación:
-Agregar un mensaje de confirmación o una notificación visual clara que indique el envío exitoso de la solicitud de soporte. Esta notificación podría ser un mensaje emergente o un texto de confirmación en la misma pantalla que indique: "Su solicitud de soporte ha sido enviada exitosamente." 
+Agrandar más los componentes o añadir otros componentes visuales para rellenar el espacio en blanco.
 
 ---
 
@@ -3126,7 +3315,7 @@ Heurística violada: Consistencia y estándares
 - Problema:
 Al intentar cambiar el idioma de la aplicación, solo algunas partes de la interfaz se traducen, mientras que otras permanecen en el idioma original. Esto crea una experiencia confusa y poco profesional, ya que los usuarios pueden sentirse desorientados al ver elementos en diferentes idiomas.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+<img src="Img/problem7.png" alt="problem7">
 
 - Recomendación:
 Asegurar que el cambio de idioma sea consistente en toda la aplicación. Esto incluye la traducción de todos los textos y elementos visuales al nuevo idioma seleccionado.
@@ -3139,16 +3328,72 @@ Heurística violada: Control y libertad de usuario
 - Problema:
 La opción para cerrar sesión (logout) no está implementada en el sistema. Esto puede causar incertidumbre entre los usuarios, quienes podrían preguntarse cómo salir de la aplicación de manera segura.
 
-(Incluir además una captura de pantalla ilustrando el problema).
+<img src="Img/problem8.png" alt="problem8">
 
 - Recomendación:
 Implementar una opción de cierre de sesión que sea fácilmente visible y accesible en la interfaz de usuario. Se sugiere colocar un botón de logout en la barra de navegación con un ícono que indique claramente su funcionalidad.
 
 
+<div id='5.4.'><h3>5.4. Video About The Product</h3></div>
+
+<table style="font-size: 12px;">
+  <tr>
+    <th>Sección</th>
+    <th>Características del video</th>
+    <th>Sobre el contenido</th>
+    <th>Integración y entrega</th>
+  </tr>
+  <tr>
+    <td>About The Product</td>
+    <td>
+      <strong>Cantidad de videos</strong>: 1<br>
+      <strong>Nomenclatura</strong>: upc-pre-202402-s1730-SI91-Dentify-about-the-product-sprint-1<br>
+      <strong>Formato</strong>: .mp4<br>
+      <strong>Duración</strong>: 8:19 min
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      Screenshot: <br>
+      <img src="Img/product.png" alt="ATP" style="width: 200px;"><br>
+      Link: 
+    </td>
+  </tr>
+  </table>
+
 <div id='6.'><h2>6. Conclusiones</h2></div>
 
+<div id='6.1.'><h3>6.1. Conclusiones y Recomendaciones</h3></div>
 La aplicación web desarrollada para la gestión de odontologías ha logrado cumplir con los objetivos establecidos relacionados a este entregable, proporcionando una landing page intuitiva y eficiente para dar a conocer la aplicación web de administración de clínicas. El enfoque utilizado permitió priorizar las funcionalidades clave, optimizar la experiencia de usuario y garantizar un rendimiento adecuado en su entorno de implementación tanto como para la Landing page, así como también para la aplicación web. Como resultado, el producto resultado de esta primera entrega es una herramienta que da a conocer "MediTech" y su producto llamado "Dentify" gracias a la fácil interacción con el público.
 
+<div id='6.2.'><h3>6.2. Video About The Team</h3></div>
+
+<table style="font-size: 12px;">
+  <tr>
+    <th>Sección</th>
+    <th>Características del video</th>
+    <th>Sobre el contenido</th>
+    <th>Integración y entrega</th>
+  </tr>
+  <tr>
+    <td>About The Team</td>
+    <td>
+      <strong>Cantidad de videos</strong>: 1<br>
+      <strong>Nomenclatura</strong>: upc-pre-202402-s1730-SI91-Dentify-about-the-team-sprint-1<br>
+      <strong>Formato</strong>: .mp4<br>
+      <strong>Duración</strong>: 8:19 min
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      Screenshot: <br>
+      <img src="Img/product.png" alt="ATP" style="width: 200px;"><br>
+      Link: 
+    </td>
+  </tr>
+  </table>
 
 <div id='7.'><h2>7. Bibliografía</h2></div>
 
@@ -3159,8 +3404,11 @@ Otto, M., & Thornton, J. (2011). Bootstrap. Bootstrap Documentation. Twitter. ht
 GitHub. (2023). GitHub Pages documentation. GitHub. https://docs.github.com/en/pages
 
 <div id='7.'><h2>8. Anexo </h2></div>
-- **AppWeb** https://dentify-1db07.web.app
--github: https://github.com/TF-AplicacionesWeb/Dentify
+<strong>-Repositorio de Aplicacion Web: </strong> https://github.com/TF-AplicacionesWeb/Dentify
+<br><br><strong>-Despliegue de Aplicacion Web: </strong>https://dentify-cf907.web.app/
+<br><br><strong>-Repositorio de Landing Page </strong>https://github.com/TF-AplicacionesWeb/Landing_Page
+<br><br><strong>-Despliegue de Landing Page: </strong>https://tf-aplicacionesweb.github.io/Landing_Page/
+<br><br><strong>-Organización de Github: </strong> https://github.com/TF-AplicacionesWeb/
 
 
 
