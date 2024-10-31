@@ -3590,6 +3590,7 @@ Implementar una opción de cierre de sesión que sea fácilmente visible y acces
       Screenshot: <br>
       <img src="Img/product.png" alt="ATP" style="width: 200px;"><br>
       Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EYeXAEWazRlBnGPilP2urO0B1vyPYYOgYEcaerFmsqiP8w?e=o2G467&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EYeXAEWazRlBnGPilP2urO0B1vyPYYOgYEcaerFmsqiP8w?e=o2G467&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+      Link (YouTube) : <a href="https://youtu.be/TZLUsXcG8QU">https://youtu.be/TZLUsXcG8QU</a>	
     </td>
   </tr>
   </table>
@@ -3624,7 +3625,8 @@ Además, pudimos desarrollar y comprender exitosamente la realización de Web Se
     <td>
       Screenshot: <br>
       <img src="Img/team.png" alt="ATT" style="width: 200px;"><br>
-      Link: 
+      Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EUZQ_L4UUq1Ihz9LidYFNAoB46Kx02gvao_8lVpvRUYWyQ?e=FcJBaa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EUZQ_L4UUq1Ihz9LidYFNAoB46Kx02gvao_8lVpvRUYWyQ?e=FcJBaa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+      Link (YouTube): <a href="https://youtu.be/ULwLRmy4M3w">https://youtu.be/ULwLRmy4M3w</a>
     </td>
   </tr>
   </table>
