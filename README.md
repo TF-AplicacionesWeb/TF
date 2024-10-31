@@ -2950,13 +2950,12 @@ En este punto abarcaremos las funcionalidades y la evidencia de que pudimos comp
     <td>&nbsp;&nbsp;&nbsp;<br>30/10/2024&nbsp;&nbsp;&nbsp;</td>
  
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>feature-dentists&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-89c59062a5f5b7ff5ff0f2bb1b03e0265deb9316&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>dentists and schedules dentists cruds&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>dentists and schedules dentists cruds&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>31/10/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
-  
 </tbody></table>
 
 <div id='5.2.3.4.'><h5> 5.2.3.4. Testing Suite Evidence for Sprint Review. </h5></div>
@@ -2991,8 +2990,10 @@ En este tercer Sprint, veremos los archivos .feature relacionados a los user tas
 <div id='5.2.3.5.'><h5> 5.2.3.5. Execution Evidence for Sprint Review. </h5></div>
 La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades que brinda Dentify.
 
+
 <br><br>
 A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de las nuevas funcionalidades de la Landing Page, la Aplicación Web y el Web Service:
+
 
 <h4>LANDING PAGE</h4>
 Servicios:
@@ -3040,18 +3041,70 @@ Inventario:
 <strong>Base de Datos actualizada:</strong>
 <img src="Img/user_api8.png" alt="user api 8">
 
+<br>
+<strong>Funciones de Dentistas:</strong>
+<img src="Img/user_api9.png" alt="user api 9">
 
+<br><br>
+<strong>Método Post:</strong>
+<img src="Img/user_api10.png" alt="user api 10">
+<img src="Img/user_api11.png" alt="user api 11">
+<img src="Img/user_api12.png" alt="user api 12">
+<br><br>
+<strong>Método Get:</strong>
+<img src="Img/user_api14.png" alt="user api 14">
+<img src="Img/user_api15.png" alt="user api 15">
+<br><br>
+<strong>Método Get mediante id:</strong>
+<img src="Img/user_api16.png" alt="user api 16">
+<img src="Img/user_api17.png" alt="user api 17">
+<br><br>
+<strong>Método Put mediante id:</strong>
+<img src="Img/user_api18.png" alt="user api 18">
+<img src="Img/user_api19.png" alt="user api 19">
+<img src="Img/user_api20.png" alt="user api 20">
+<img src="Img/user_api21.png" alt="user api 21">
+<br><br>
+<strong>Método Delete:</strong>
+<img src="Img/user_api22.png" alt="user api 22">
+<img src="Img/user_api23.png" alt="user api 23">
+<img src="Img/user_api25.png" alt="user api 25">
 
+<br>
+<strong>Funciones de horarios de los dentistas:</strong>
+<img src="Img/user_api26.png" alt="user api 26">
 
+<br><br>
+<strong>Método Post:</strong>
+<img src="Img/user_api27.png" alt="user api 27">
+<img src="Img/user_api28.png" alt="user api 28">
+<img src="Img/user_api29.png" alt="user api 29">
+<img src="Img/user_api30.png" alt="user api 30">
 
+<br><br>
+<strong>Método Get:</strong>
+<img src="Img/user_api31.png" alt="user api 31">
+<img src="Img/user_api32.png" alt="user api 32">
+<img src="Img/user_api33.png" alt="user api 33">
 
+<br><br>
+<strong>Método Get mediante id:</strong>
+<img src="Img/user_api34.png" alt="user api 34">
+<img src="Img/user_api35.png" alt="user api 35">
 
+<br><br>
+<strong>Método Delete:</strong>
+<img src="Img/user_api36.png" alt="user api 36">
+<img src="Img/user_api37.png" alt="user api 37">
 
 Link del vídeo (Landing Page): <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EcaGbEzQen1Lt5-jTF2kzWoB_fKUJ1VsefrRT-DLSxFODA?e=FuqTKI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EcaGbEzQen1Lt5-jTF2kzWoB_fKUJ1VsefrRT-DLSxFODA?e=FuqTKI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"</a>
 
 <br/>
 
 Link del vídeo (App Web): <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/ESFTVjW1ZGdOksC8KYsyWQMBrfSyaDtxLbqkbcZqXwDFSg?e=fiSEoS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/ESFTVjW1ZGdOksC8KYsyWQMBrfSyaDtxLbqkbcZqXwDFSg?e=fiSEoS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+
+<br>
+Link del video (Backend): <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EYqi5khgM1lPmdUt_uZG8KgByDjOYRqZxO6NO6Un-SJRfQ?e=RIEGbT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EYqi5khgM1lPmdUt_uZG8KgByDjOYRqZxO6NO6Un-SJRfQ?e=RIEGbT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
 
 <div id='5.2.3.6.'><h5> 5.2.3.6. Services Documentation Evidence for Sprint Review. </h5></div>
@@ -3098,20 +3151,13 @@ Para este tercer sprint usamos la primera versión de nuestro servicio desarroll
   </tr>
   <tr>
     <td class="tg-0pky"><a href="https://github.com/TF-AplicacionesWeb/BackEnd">https://github.com/TF-AplicacionesWeb/BackEnd</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky">feature-specialists</td>
+    <td class="tg-0pky">89c59062a5f5b7ff5ff0f2bb1b03e0265deb9316</td>
+    <td class="tg-0pky">dentists and schedules dentists cruds</td>
+    <td class="tg-0pky">dentists and schedules dentists cruds</td>
     <td class="tg-0pky">31/10/2024</td>
   </tr>
-  <tr>
-    <td class="tg-0pky"><a href="https://github.com/TF-AplicacionesWeb/BackEnd">https://github.com/TF-AplicacionesWeb/BackEnd</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">31/10/2024</td>
-  </tr>
+
 </tbody></table>
 
 
