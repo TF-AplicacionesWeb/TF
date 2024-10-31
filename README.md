@@ -38,8 +38,8 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 | Versión | Fecha | Autor | Descripción de modificación |
 | :-----: | :---: | :---: | --------------------------- |
 |TB2 |29/10/2024 | Bohorquez Lerzundi Gerardo Sebastian|Funcionalidad de Pagos, Inventario, Actualización de Landing Page, realización de informe, realización de entrevistas|
-|TB2 |29/10/2024 | Huanaco Huayta, Elizabeth Lucero | Funcionalidad de Especialistas, arreglo de funcionalidad de perfil, endpoints en el backend, realización de Validation interviews, realización de entrevistas|
-|TB2 |29/10/2024 | Julca Cruz, Renso Anthony |Realización de Funcionalidad de métricas y reportes|
+|TB2 |29/10/2024 | Huanaco Huayta, Elizabeth Lucero | Funcionalidad de Especialistas, arreglo de funcionalidad de perfil, endpoints de Dentistas en el Back-end, realización de Validation interviews, realización de entrevistas|
+|TB2 |29/10/2024 | Julca Cruz, Renso Anthony |-|
 |TB2 |29/10/2024 | Uribe Quispe, Jesús Guillermo |Gestión de proyecto Front End y Back End, realización de Citas, arreglo de bugs en servicios, arreglo de bugs en funcionalidad de pagos y pacientes, realización de funcionalidad de soporte, realización de endpoints de Usuarios en BackEnd, realización de entrevistas.|
 
 
@@ -69,10 +69,8 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 URL del repositorio para el reporte del proyecto: https://github.com/TF-AplicacionesWeb
 **TB2**
 
-Front End:
-
 <img src="Img/ins_tb2.png">
-
+<img src="Img/ins_org.png">
 
 Para el desarrollo del informe perteneciente a la entrega TB2, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
 
@@ -138,8 +136,8 @@ ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miemb
 <b>ABET – EAC - Student Outcome 5</b>
 | Criterio específico                                                                                                                                              | Acciones realizadas                                                                                                                                                      | Conclusiones                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Participé activamente en las reuniones de coordinación para definir nuestro caso de negocio. A partir de estas reuniones, desarrollé los Lean UX Assumptions, investigué sobre los competidores actuales en el mercado, y con esa información realicé un análisis competitivo, así como la redacción de estrategias a aplicar frente a nuestros competidores. Además, coordiné con los miembros del equipo asignados para establecer los parámetros que debíamos seguir en la elaboración de los wireframes y mockups. <br> **TP1:** Durante las reuniones virtuales, se organizó y designó las tareas a cada integrante. Esto me permitió desarrollar el componente y los requisitos según se coordinó en la reunión. <br> **TB2:** Como integrante del equipo, colaboré en la primera versión del backend, apoyando un ambiente de trabajo colaborativo. Aporté en el desarrollo de algunos endpoints de la API, siguiendo los lineamientos acordados en equipo y mantuve una comunicación con los demás integrantes para alinear nuestro progreso. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br>  Desarrollé el Lean UX Problem Statement, Lean UX Canvas y User Stories, y participé en la definición de la arquitectura de software orientada al dominio. <br> **TP1** <br>  Colaboré en el desarrollo de la funcionalidad de dashboard y en la maquetación del componente de pago, coordinando con el equipo para mantener coherencia en el diseño y la funcionalidad. Además, participé en la creación de la presentación del proyecto, asegurando que reflejara nuestro trabajo conjunto.<br> **TB2** <br> Coordiné con el equipo en el desarrollo de la funcionalidad de pagos, el inventario y la actualización de la landing page. También trabajé en la creación de entrevistas y del informe, aportando liderazgo en cada etapa para reflejar un esfuerzo compartido. <br><br><br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Realicé un análisis de competidores, llevé a cabo entrevistas, y elaboré un User Task Matrix para identificar las tareas críticas de la aplicación. También creé un glosario de Ubiquitous Language y diseñé wireframes y mock-ups para la versión móvil del landing page, así como para la aplicación web, asegurando una experiencia de usuario eficiente y funcional. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. <br> **TP1:** Mediante llamados, organicé al equipo para poder completar exitosamente este trabajo parcial. La comunicación nos ayudó a entendernos mejor. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Esta fase del proyecto no solo nos permitió mejorar nuestras habilidades de trabajo en equipo, también nos ayudó a cumplir eficientemente con las actividades asignadas y alcanzar los objetivos establecidos en relación con el caso de negocio.<br> **TP1:** En esta entrega del trabajo aprendí que la coordinación y planificación correctamente elaboradas son requisitos imprescindibles durante el desarrollo de un proyecto de software.<br> **TB2:** En conclusión, mi participación en el desarrollo de la primera versión del backend reflejó mi compromiso con el trabajo en equipo y la colaboración continua. La comunicación abierta para resolver problemas en grupo permitieron una alineación efectiva en cada etapa. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> El liderazgo conjunto permitió tomar decisiones alineadas y enfocadas en resolver problemas clave del proyecto. El trabajo en equipo mejoró la definición de requisitos y la calidad de nuestras soluciones. <br> **TP1:** <br> Este trabajo en equipo me permitió desarrollar liderazgo compartido, valorando los aportes del grupo y logrando objetivos comunes con una comunicación clara.<br> **TB2:** <br>Este proyecto me ayudó a liderar en áreas críticas, promoviendo un esfuerzo colectivo donde cada miembro aportó a los resultados finales. <br><br><br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> La colaboración entre los miembros del equipo fue clave para alinear los objetivos del producto y diseñar soluciones efectivas que respondan a las necesidades de nustros futuros usuarios. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Con el trabajo aprendimos la colaboración en equipo sacando adelante mediante lluvia de ideas, para poder mejorar e impulsar el desarrollo del mismo. Tnemos una visión excelente para el desarrollo de nuestro trabajo para poder cubrir esa necesidad a nuestro publico objetivo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable. <br> **TP1:** Acerca de este trabajo parcial aprendí sobre la organización con el equipo de trabajo, tanto en el sentido de planificación como en el de la estructuración y jerarquización del proyecto.                                                                                     |
-|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Coordinamos como equipo para elaborar de manera conjunta los wireframes y mockups del landing page, así como los wireframes y mock-ups de la web application. Para lograrlo, establecimos un entorno colaborativo y planificamos las tareas de forma estructurada, asegurando que se cumpliera con el diseño del producto en los plazos acordados. Además, participé en las reuniones de planificación para desarrollar el Lean UX Assumptions, lo que nos permitió tener claros los objetivos del proyecto desde el inicio.<br> **TP1:** A través de la creación de ramas en el proyecto de github, hemos desarrollado colaborativamente las distintas pantallas y funcionalidades para cumplir con los objetivos de este entregable. Esto fomentó el trabajo en equipo y el desarrollo del trabajo. <br> **TB2:** En esta fase del proyecto, trabajé junto al equipo para implementar la primera versión del backend, fomentando un entorno colaborativo. La colaboración constante y el intercambio de ideas facilitaron un ambiente de trabajo en el que cada integrante pudo aportar. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Elaboré las Web Style Guidelines, diseñé el Information System, y planifiqué tareas usando Lean UX, manteniendo un enfoque centrado en el usuario. <br> **TP1:** <br>  Planifiqué y distribuí tareas para avanzar en la funcionalidad de pagos y el diseño del dashboard, estableciendo metas claras con el equipo. Fomenté un ambiente donde cada integrante se sintiera cómodo para aportar, optimizando la eficiencia y el cumplimiento de plazos. <br> **TB2:** <br> Planifiqué la implementación de la funcionalidad de inventario y la actualización de la landing page, estableciendo objetivos alcanzables y distribuyendo tareas en equipo. Coordiné entrevistas, promoviendo un espacio inclusivo y receptivo. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Investigué los Competidores y realicé un Análisis de Competidores detallado para identificar sus características, ventajas y debilidades. Conduje Entrevistas con posibles usuarios. Además, elaboré un User Task Matrix para definir las tareas prioritarias que los usuarios deben completar en la plataforma. Creé un glosario de Ubiquitous Language para asegurar una comunicación clara y sin ambigüedades. Finalmente, diseñé Wireframes y Mock-ups para la versión móvil del landing page y Web App. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe Jesús Guillermo** <br> **TB1:** <br> A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimineto de varios objetivos. <br> **TP1:**  A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimiento de varios objetivos que nos propusimos para realización de la aplicación web hecha en Vue. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Promover la colaboración permitió que el equipo se enfocara en metas compartidas, lo que mejoró la eficiencia y nos ayudó a cumplir los objetivos planificados de manera exitosa.<br> **TP1:** En este entregable fomentamos el ambiente de colaboración a través del desarrollo de nuestras tareas individuales. La participación de los integrantes facilitó el avance del trabajo según lo requerido en este entregable a pesar de los inconvenientes. <br> **TB2:** En conclusión, la implementación de la primera versión del backend fue un claro ejemplo de cómo un entorno colaborativo puede llevar a cumplir los objetivos de manera eficiente. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> Un entorno inclusivo facilitó la planificación efectiva y el cumplimiento de objetivos. La colaboración constante ayudó a integrar ideas diversas y a lograr una experiencia de usuario coherente.<br> **TP1:** <br> Aprendí la importancia de una planificación inclusiva, lo cual mejoró nuestro trabajo en equipo y facilitó el logro de los objetivos. <br> **TB2:** <br> Este proyecto fortaleció mi habilidad para crear un entorno colaborativo, asegurando que el equipo trabajara alineado y alcanzara cada meta establecida. <br> <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Fomentar la colaboración y establecer un ambiente inclusivo permitió que el equipo se alineara en torno a metas comunes, mejorando la productividad y alcanzando los objetivos planificados de manera satisfactoria. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Se fomento el trabajo en equipo uniendo ideas mediante lluvias de ideas y plasmando en ellas un mejor camino para nuestro trabajo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Fomentamos la colaboración, el trabajo en equipo y la designación de tareas del informe para poder entregar el proyecto exitosamente. <br> **TP1:** Fomentamos la colaboración y planificación en el equipo ya que tuvimos diferentes funcionalidades por cumplir y realizar individualmente hablando, a pesar de inconvenientes presentados como el de la reducción de integrantes en el grupo, pudimos hacer lo mejor posible en este entregable.<br>  <br>
+| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Participé activamente en las reuniones de coordinación para definir nuestro caso de negocio. A partir de estas reuniones, desarrollé los Lean UX Assumptions, investigué sobre los competidores actuales en el mercado, y con esa información realicé un análisis competitivo, así como la redacción de estrategias a aplicar frente a nuestros competidores. Además, coordiné con los miembros del equipo asignados para establecer los parámetros que debíamos seguir en la elaboración de los wireframes y mockups. <br> **TP1:** Durante las reuniones virtuales, se organizó y designó las tareas a cada integrante. Esto me permitió desarrollar el componente y los requisitos según se coordinó en la reunión. <br> **TB2:** Como integrante del equipo, colaboré en la primera versión del backend, apoyando un ambiente de trabajo colaborativo. Aporté en el desarrollo de algunos endpoints de la API, siguiendo los lineamientos acordados en equipo y mantuve una comunicación con los demás integrantes para alinear nuestro progreso. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br>  Desarrollé el Lean UX Problem Statement, Lean UX Canvas y User Stories, y participé en la definición de la arquitectura de software orientada al dominio. <br> **TP1** <br>  Colaboré en el desarrollo de la funcionalidad de dashboard y en la maquetación del componente de pago, coordinando con el equipo para mantener coherencia en el diseño y la funcionalidad. Además, participé en la creación de la presentación del proyecto, asegurando que reflejara nuestro trabajo conjunto.<br> **TB2** <br> Coordiné con el equipo en el desarrollo de la funcionalidad de pagos, el inventario y la actualización de la landing page. También trabajé en la creación de entrevistas y del informe, aportando liderazgo en cada etapa para reflejar un esfuerzo compartido. <br><br><br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Realicé un análisis de competidores, llevé a cabo entrevistas, y elaboré un User Task Matrix para identificar las tareas críticas de la aplicación. También creé un glosario de Ubiquitous Language y diseñé wireframes y mock-ups para la versión móvil del landing page, así como para la aplicación web, asegurando una experiencia de usuario eficiente y funcional. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Mediante llamados, organicé al equipo para poder completar exitosamente este primer entregable. La comunicación nos ayudó a entendernos mejor y a ir todos en una misma dirección, asi como también generar un buen entorno. <br> **TP1:** Mediante llamados, organicé al equipo para poder completar exitosamente este trabajo parcial. La comunicación nos ayudó a entendernos mejor. <br> **TB2:** Mediante reuniones y delegación de trabajos y tareas, permitió realizar el trabajo de forma conjunta tanto en el desarrollo del Front End, así como el Back End. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Esta fase del proyecto no solo nos permitió mejorar nuestras habilidades de trabajo en equipo, también nos ayudó a cumplir eficientemente con las actividades asignadas y alcanzar los objetivos establecidos en relación con el caso de negocio.<br> **TP1:** En esta entrega del trabajo aprendí que la coordinación y planificación correctamente elaboradas son requisitos imprescindibles durante el desarrollo de un proyecto de software.<br> **TB2:** En conclusión, mi participación en el desarrollo de la primera versión del backend reflejó mi compromiso con el trabajo en equipo y la colaboración continua. La comunicación abierta para resolver problemas en grupo permitieron una alineación efectiva en cada etapa. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> El liderazgo conjunto permitió tomar decisiones alineadas y enfocadas en resolver problemas clave del proyecto. El trabajo en equipo mejoró la definición de requisitos y la calidad de nuestras soluciones. <br> **TP1:** <br> Este trabajo en equipo me permitió desarrollar liderazgo compartido, valorando los aportes del grupo y logrando objetivos comunes con una comunicación clara.<br> **TB2:** <br>Este proyecto me ayudó a liderar en áreas críticas, promoviendo un esfuerzo colectivo donde cada miembro aportó a los resultados finales. <br><br><br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> La colaboración entre los miembros del equipo fue clave para alinear los objetivos del producto y diseñar soluciones efectivas que respondan a las necesidades de nustros futuros usuarios. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Con el trabajo aprendimos la colaboración en equipo sacando adelante mediante lluvia de ideas, para poder mejorar e impulsar el desarrollo del mismo. Tnemos una visión excelente para el desarrollo de nuestro trabajo para poder cubrir esa necesidad a nuestro publico objetivo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** <br> Acerca de este trabajo aprendí más sobre la colaboración y organización con un equipo, a pesar de inconvenientes que pudimos tener, logramos completar exitosamente este primer entregable. <br> **TP1:** Acerca de este trabajo parcial aprendí sobre la organización con el equipo de trabajo, tanto en el sentido de planificación como en el de la estructuración y jerarquización del proyecto. <br> **TB2:** Acerca de este segundo entregable aprendí a planificar mejor al equipo, así como también comprender el desarrollo de Web Services.                                                                                     |
+|Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Coordinamos como equipo para elaborar de manera conjunta los wireframes y mockups del landing page, así como los wireframes y mock-ups de la web application. Para lograrlo, establecimos un entorno colaborativo y planificamos las tareas de forma estructurada, asegurando que se cumpliera con el diseño del producto en los plazos acordados. Además, participé en las reuniones de planificación para desarrollar el Lean UX Assumptions, lo que nos permitió tener claros los objetivos del proyecto desde el inicio.<br> **TP1:** A través de la creación de ramas en el proyecto de github, hemos desarrollado colaborativamente las distintas pantallas y funcionalidades para cumplir con los objetivos de este entregable. Esto fomentó el trabajo en equipo y el desarrollo del trabajo. <br> **TB2:** En esta fase del proyecto, trabajé junto al equipo para implementar la primera versión del backend, fomentando un entorno colaborativo. La colaboración constante y el intercambio de ideas facilitaron un ambiente de trabajo en el que cada integrante pudo aportar. <br> <br> <br> **Bohorquez Lerzundi, Gerardo Sebastián** <br> **TB1:** <br> Elaboré las Web Style Guidelines, diseñé el Information System, y planifiqué tareas usando Lean UX, manteniendo un enfoque centrado en el usuario. <br> **TP1:** <br>  Planifiqué y distribuí tareas para avanzar en la funcionalidad de pagos y el diseño del dashboard, estableciendo metas claras con el equipo. Fomenté un ambiente donde cada integrante se sintiera cómodo para aportar, optimizando la eficiencia y el cumplimiento de plazos. <br> **TB2:** <br> Planifiqué la implementación de la funcionalidad de inventario y la actualización de la landing page, estableciendo objetivos alcanzables y distribuyendo tareas en equipo. Coordiné entrevistas, promoviendo un espacio inclusivo y receptivo. <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Investigué los Competidores y realicé un Análisis de Competidores detallado para identificar sus características, ventajas y debilidades. Conduje Entrevistas con posibles usuarios. Además, elaboré un User Task Matrix para definir las tareas prioritarias que los usuarios deben completar en la plataforma. Creé un glosario de Ubiquitous Language para asegurar una comunicación clara y sin ambigüedades. Finalmente, diseñé Wireframes y Mock-ups para la versión móvil del landing page y Web App. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Realice las 3 entrevistas basandome en una serie de preguntas para poder recolectar la información de manera satisfactoria, Luego realice las dos User Persona por cada segmento objetivo de nuestro trabajo, realice la User Task Matrix, Journey Mapping y el As-is Scenario Mapping. Para el capitulo 5 realice Software Development Environment Configuration en el cual detallamos que herramientas utilizamos para el desarrollo de nuestro trabajo y finalmente Source Code Style Guide & Conventions. <br> <br> <br> **Uribe Quispe Jesús Guillermo** <br> **TB1:** <br> A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimineto de varios objetivos. <br> **TP1:**  A través de la plataforma Github, hemos ordenado y designado tareas para cada integrante, esto fomenta la colaboración, el trabajo en equipo y el cumplimiento de varios objetivos que nos propusimos para realización de la aplicación web hecha en Vue. <br> **TB2:** A través de Github, cree un entorno para desarrollar controlando las versiones del proyecto y desarrollar de manera más ordenada el proyecto junto con mi equipo. | **Huanaco Huayta Elizabeth Lucero** <br> **TB1:** <br> Promover la colaboración permitió que el equipo se enfocara en metas compartidas, lo que mejoró la eficiencia y nos ayudó a cumplir los objetivos planificados de manera exitosa.<br> **TP1:** En este entregable fomentamos el ambiente de colaboración a través del desarrollo de nuestras tareas individuales. La participación de los integrantes facilitó el avance del trabajo según lo requerido en este entregable a pesar de los inconvenientes. <br> **TB2:** En conclusión, la implementación de la primera versión del backend fue un claro ejemplo de cómo un entorno colaborativo puede llevar a cumplir los objetivos de manera eficiente. <br> <br> <br> **Bohorquez Lerzundi Gerardo Sebastián** <br> **TB1:** <br> Un entorno inclusivo facilitó la planificación efectiva y el cumplimiento de objetivos. La colaboración constante ayudó a integrar ideas diversas y a lograr una experiencia de usuario coherente.<br> **TP1:** <br> Aprendí la importancia de una planificación inclusiva, lo cual mejoró nuestro trabajo en equipo y facilitó el logro de los objetivos. <br> **TB2:** <br> Este proyecto fortaleció mi habilidad para crear un entorno colaborativo, asegurando que el equipo trabajara alineado y alcanzara cada meta establecida. <br> <br> <br> <br> **Jimenez Melgar Daniel Luciano** <br> **TB1:** <br> Fomentar la colaboración y establecer un ambiente inclusivo permitió que el equipo se alineara en torno a metas comunes, mejorando la productividad y alcanzando los objetivos planificados de manera satisfactoria. <br> <br> <br> **Julca Cruz Renso Anthony** <br> **TB1:** <br> Se fomento el trabajo en equipo uniendo ideas mediante lluvias de ideas y plasmando en ellas un mejor camino para nuestro trabajo. <br> <br> <br> **Uribe Quispe, Jesús Guillermo** <br> **TB1:** Fomentamos la colaboración, el trabajo en equipo y la designación de tareas del informe para poder entregar el proyecto exitosamente. <br> **TP1:** Fomentamos la colaboración y planificación en el equipo ya que tuvimos diferentes funcionalidades por cumplir y realizar individualmente hablando, a pesar de inconvenientes presentados como el de la reducción de integrantes en el grupo, pudimos hacer lo mejor posible en este entregable.<br> **TB2:** en conclusión fomenté la participación de mi equipo delegando tareas para una correcta interacción y desarrollo con el proyecto realizado. <br>
 
 ## Contenido
 
@@ -2749,7 +2747,7 @@ En la siguiente sección, se presentará el sprint #3 con la versión de la apli
 | **Sprint Goal & User Stories**| |
 | **Sprint n Goal** | Desarrollar y desplegar la primera versión de la estructura Back-End funcional que presente de manera clara para el consumo de la aplicación web, a través del lenguaje de programación "C#".|
 | **Sprint n Velocity** |  5 story points (promedio) |
-| **Sum of Story Points** | 55 |
+| **Sum of Story Points** | 50 |
 
 <div id='5.2.3.2.'><h5> 5.2.3.2. Sprint Backlog #3.</h5></div>
 Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte del back end de la aplicación web y completar las funcionalidades del front end.
@@ -2854,6 +2852,27 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br> Jesus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>TS014&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementar gestión de dentistas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT09&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestor de dentistas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero obtener los datos de los dentistas validando mediante parametros por medio de una API. &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 7&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>TS015&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Implementar Horarios&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>UT10&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Gestion de horarios de dentistas&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero obtener los datos de los horarios de los dentistas validando mediante parametros por medio de una API. &nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 7&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+
 </tbody></table>
 
 
@@ -2876,9 +2895,7 @@ En este punto abarcaremos las funcionalidades y la evidencia de que pudimos comp
 <td rowspan="10">
 	<h5>Front End</h5>
 	<a href="https://github.com/TF-AplicacionesWeb/Dentify" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/Dentify</a>
-	<br><br><br>
-	<h5>Back End</h5>
-	<a href="https://github.com/TF-AplicacionesWeb/BackEnd" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/BackEnd</a>
+	<br>
 </td>
     <td>&nbsp;&nbsp;&nbsp;<br>feature-appointments&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>391b3c04a0cabe6ff013501338777b507ba35f94&nbsp;&nbsp;&nbsp;</td>
@@ -2907,19 +2924,37 @@ En este punto abarcaremos las funcionalidades y la evidencia de que pudimos comp
     <td>&nbsp;&nbsp;&nbsp;<br>updated specialists vs2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>21/10/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
-<tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>&nbsp;&nbsp;&nbsp;</td>
-  </tr>
+  
+  
+</tbody></table>
+
+<table><thead>
   <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+<td rowspan="10">
+	<h5>Back End</h5>
+	<a href="https://github.com/TF-AplicacionesWeb/BackEnd" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/BackEnd</a>
+</td>
+     <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>26585ae123ea0f3472acf8c9dac57659d497b096&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>initial commit&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>initial commit&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>29/10/2024&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>30/10/2024&nbsp;&nbsp;&nbsp;</td>
+ 
+  <tr>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>31/10/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
   
 </tbody></table>
@@ -2948,53 +2983,7 @@ En este tercer Sprint, veremos los archivos .feature relacionados a los user tas
 &nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>24/10/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
- <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>ba7526d10ed5aea29d48db475f6a37dfb8bf373d&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>updating report and add new files .feature
-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>updating report and add new files .feature
-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>24/10/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>ba7526d10ed5aea29d48db475f6a37dfb8bf373d&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>updating report and add new files .feature
-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>updating report and add new files .feature
-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>24/10/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>ba7526d10ed5aea29d48db475f6a37dfb8bf373d&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>updating report and add new files .feature
-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>updating report and add new files .feature
-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>24/10/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>ba7526d10ed5aea29d48db475f6a37dfb8bf373d&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>updating report and add new files .feature
-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>updating report and add new files .feature
-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>24/10/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>ba7526d10ed5aea29d48db475f6a37dfb8bf373d&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>updating report and add new files .feature
-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>updating report and add new files .feature
-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>24/10/2024&nbsp;&nbsp;&nbsp;</td>
-  </tr>
  
-  
 </tbody></table>
 
 
@@ -3003,14 +2992,14 @@ En este tercer Sprint, veremos los archivos .feature relacionados a los user tas
 La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades que brinda Dentify.
 
 <br><br>
-A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de las nuevas funcionalidade de la Landing Page y la Aplicación Web:
+A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución de las nuevas funcionalidades de la Landing Page, la Aplicación Web y el Web Service:
 
 <h4>LANDING PAGE</h4>
 Servicios:
 <img src="Img/servicesld.png" alt="Services">
 <br><br>
 About The Team and Product:
-<img src="" alt="AboutThe">
+<img src="Img/aboutld.png" alt="AboutThe">
 <br><br>
 
 <h4>WEB APPLICATION</h4>
@@ -3027,31 +3016,119 @@ Inventario:
 <img src="Img/Inventory.png" alt="Inventory">
 <br><br>
 
+<h4>Evidencia de Web Service:</h4>
+<br>
+<strong>Funciones de Usuarios:</strong>
+
+<img src="Img/user_api1.png" alt="user api 1">
+
+<br><br>
+<strong>Método Post:</strong>
+<img src="Img/user_api2.png" alt="user api 2">
+<img src="Img/user_api3.png" alt="user api 3">
+<br><br>
+<strong>Método Get mediante parámetros username y password:</strong>
+<img src="Img/user_api4.png" alt="user api 4">
+<img src="Img/user_api5.png" alt="user api 5">
+
+<br><br>
+<strong>Método Get mediante id:</strong>
+<img src="Img/user_api6.png" alt="user api 6">
+<img src="Img/user_api7.png" alt="user api 7">
+
+<br><br>
+<strong>Base de Datos actualizada:</strong>
+<img src="Img/user_api8.png" alt="user api 8">
 
 
 
 
-Link del vídeo (Landing Page): <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EcaGbEzQen1Lt5-jTF2kzWoB_fKUJ1VsefrRT-DLSxFODA?e=FuqTKI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+
+
+
+
+Link del vídeo (Landing Page): <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EcaGbEzQen1Lt5-jTF2kzWoB_fKUJ1VsefrRT-DLSxFODA?e=FuqTKI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EcaGbEzQen1Lt5-jTF2kzWoB_fKUJ1VsefrRT-DLSxFODA?e=FuqTKI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"</a>
 
 <br/>
 
-Link del vídeo (App Web): <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/ESFTVjW1ZGdOksC8KYsyWQMBrfSyaDtxLbqkbcZqXwDFSg?e=fiSEoS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+Link del vídeo (App Web): <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/ESFTVjW1ZGdOksC8KYsyWQMBrfSyaDtxLbqkbcZqXwDFSg?e=fiSEoS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/ESFTVjW1ZGdOksC8KYsyWQMBrfSyaDtxLbqkbcZqXwDFSg?e=fiSEoS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
 
 <div id='5.2.3.6.'><h5> 5.2.3.6. Services Documentation Evidence for Sprint Review. </h5></div>
 Para este tercer sprint usamos la primera versión de nuestro servicio desarrollado en c#.
 
 
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky" colspan="2">Endpoint </th>
+    <th class="tg-0pky" colspan="4">Details</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" colspan="2">users</td>
+    <td class="tg-0pky" colspan="4">Se implementó el método GET y POST para este endpoint. En el caso del método GET, se implementaron 2 tipos, uno para obtener los datos por medio del id, y otro para obtener los datos por medio de parámetros como Usuario y Contraseña.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">dentists</td>
+    <td class="tg-0pky" colspan="4">Se implementó el método GET, POST, UPDATE AND DELETE para este endpoint. En el caso del método GET se implementó para obtener los datos por medio del parámetro del ID, así como también para obtener todos los datos.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2">schedule_dentists</td>
+    <td class="tg-0pky" colspan="4">Se implementó el método GET, POST y DELETE para este endpoint. En el caso del método GET, se implementaron 2 tipos, uno para obtener los datos por medio del id, y otro para obtener todos los datos.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="2"></td>
+    <td class="tg-0pky" colspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Repository</td>
+    <td class="tg-0pky">Branch</td>
+    <td class="tg-0pky">Commit Id</td>
+    <td class="tg-0pky">Commit message</td>
+    <td class="tg-0pky">Commit message body</td>
+    <td class="tg-0pky">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a href="https://github.com/TF-AplicacionesWeb/BackEnd">https://github.com/TF-AplicacionesWeb/BackEnd</a></td>
+    <td class="tg-0pky">main</td>
+    <td class="tg-0pky">26585ae123ea0f3472acf8c9dac57659d497b096</td>
+    <td class="tg-0pky">initial commit</td>
+    <td class="tg-0pky">initial commit</td>
+    <td class="tg-0pky">30/10/2024</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a href="https://github.com/TF-AplicacionesWeb/BackEnd">https://github.com/TF-AplicacionesWeb/BackEnd</a></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">31/10/2024</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a href="https://github.com/TF-AplicacionesWeb/BackEnd">https://github.com/TF-AplicacionesWeb/BackEnd</a></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">31/10/2024</td>
+  </tr>
+</tbody></table>
+
+
+
 <div id='5.2.3.7.'><h5> 5.2.3.7. Software Deployment Evidence for Sprint Review.</h5></div>
+<br><br>
+
+<strong>Evidencia de despliegue en Github Pages:</strong>
 Durante este sprint se usó Github Pages como plataforma de despliegue para la Landing Page:
 <br><br>
-Evidencia de despliegue en Github Pages:
-<br><br>
+
 <img src="Img/ghp.png" alt="GithubPage">
 
-Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web de Dentify. 
 <br><br>
-Evidencia de despliegue en FireBase:
+<strong>Evidencia de despliegue en FireBase:</strong>
+Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web de Dentify.
+<br><br> 
 <img src="Img/Firebase_console.png" alt="Console">
 <br><br>
 
@@ -3060,9 +3137,9 @@ Evidencia de despliegue en FireBase:
 
 <br>
 
-
+**Link de Landing Page:** <a href="https://tf-aplicacionesweb.github.io/Landing_Page/">https://tf-aplicacionesweb.github.io/Landing_Page/</a>
+<br>
 **Link de Web app:** <a href="https://dentify-cf907.web.app/">https://dentify-cf907.web.app/</a>
-
 
 
 
@@ -3073,7 +3150,7 @@ No se pudo realizar la funcionalidad de Reportes y Métricas en el Front End, ya
 | Alumno  | Actividad |
 | -------- | -------- |
 | Bohorquez Lerzundi Gerardo Sebastian|Funcionalidad de Pagos, Inventario, Actualización de Landing Page, realización de informe, realización de entrevistas|
-| Huanaco Huayta, Elizabeth Lucero | Funcionalidad de Especialistas, arreglo de funcionalidad de perfil, endpoints en el backend, realización de Validation interviews, realización de entrevistas|
+| Huanaco Huayta, Elizabeth Lucero | Funcionalidad de Especialistas, arreglo de funcionalidad de perfil, realización de endpoints de especialistas y horarios en el backend, realización de Validation interviews, realización de entrevistas|
 | Julca Cruz, Renso Anthony |Realización de Funcionalidad de métricas y reportes|
 | Uribe Quispe, Jesús Guillermo |Gestión de proyecto Front End y Back End, realización de Citas, arreglo de bugs en servicios, arreglo de bugs en funcionalidad de pagos y pacientes, realización de funcionalidad de soporte, realización de endpoints de Usuarios en BackEnd, realización de entrevistas.|
 
@@ -3461,7 +3538,7 @@ Implementar una opción de cierre de sesión que sea fácilmente visible y acces
       <strong>Duración</strong>: 8:19 min
     </td>
     <td>
-      -
+      Video de About The Product en base a la aplicación "Dentify" desarrollado por MediTech.
     </td>
     <td>
       Screenshot: <br>
@@ -3475,6 +3552,8 @@ Implementar una opción de cierre de sesión que sea fácilmente visible y acces
 
 <div id='6.1.'><h3>6.1. Conclusiones y Recomendaciones</h3></div>
 La aplicación web desarrollada para la gestión de odontologías ha logrado cumplir con los objetivos establecidos relacionados a este entregable, proporcionando una landing page intuitiva y eficiente para dar a conocer la aplicación web de administración de clínicas. El enfoque utilizado permitió priorizar las funcionalidades clave, optimizar la experiencia de usuario y garantizar un rendimiento adecuado en su entorno de implementación tanto como para la Landing page, así como también para la aplicación web. Como resultado, el producto resultado de esta primera entrega es una herramienta que da a conocer "MediTech" y su producto llamado "Dentify" gracias a la fácil interacción con el público.
+<br><br>
+Además, pudimos desarrollar y comprender exitosamente la realización de Web Services, añadiendo endpoints como users, dentists y schedule dentists.
 
 <div id='6.2.'><h3>6.2. Video About The Team</h3></div>
 
@@ -3494,7 +3573,7 @@ La aplicación web desarrollada para la gestión de odontologías ha logrado cum
       <strong>Duración</strong>: 8:19 min
     </td>
     <td>
-      -
+      Video relacionado acerca de los integrantes del equipo, el desarrollo de cada integrante y sus conclusiones acerca del proyecto realizado.
     </td>
     <td>
       Screenshot: <br>
