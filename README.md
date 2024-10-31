@@ -3384,13 +3384,13 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
     </td>
     <td>
       Nombre: Joaquin Anton
-      Segmento Objetivo: Odontologot
+      Segmento Objetivo: Odontologo
       Edad: 20
       Distrito: Chincha Alta
     </td>
     <td>
       Screenshot: <br>
-      <img src="Img/interview-Joaquin.png" alt="screenshot" style="width: 200px;"><br>
+      <img src="Img/Interview-Joaquin.png" alt="interview Joaquin screenshot" style="width: 200px;"><br>
       Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EVCNfx3097RBjl8QV-tJQ1IBNSwWKQTcDPqVmt1lMSBiIQ?e=bWoOx1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"><https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EVCNfx3097RBjl8QV-tJQ1IBNSwWKQTcDPqVmt1lMSBiIQ?e=bWoOx1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D/a>
     </td>
   </tr>
