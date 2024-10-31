@@ -3031,7 +3031,12 @@ Inventario:
 
 
 
-Link del vídeo: <a>-</a>
+Link del vídeo (Landing Page): <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EcaGbEzQen1Lt5-jTF2kzWoB_fKUJ1VsefrRT-DLSxFODA?e=FuqTKI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+
+<br/>
+
+Link del vídeo (App Web): <a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/ESFTVjW1ZGdOksC8KYsyWQMBrfSyaDtxLbqkbcZqXwDFSg?e=fiSEoS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+
 
 <div id='5.2.3.6.'><h5> 5.2.3.6. Services Documentation Evidence for Sprint Review. </h5></div>
 Para este tercer sprint usamos la primera versión de nuestro servicio desarrollado en c#.
