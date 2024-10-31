@@ -3343,7 +3343,7 @@ Heurística violada: Visbilidad del estado del sistema
 - Problema:
 La paleta de colores no es tan llamativo desde el punto de vista del entrevistado, además de que hay espacios que hacen ver vacio la aplicación.
 
- <img src="Img/evaluation_support.png" alt="support's failed confirmation message" style="margin-bottom: 5px;" width="800"/>
+ <img src="Img/problem5.png" alt="support's failed confirmation message" style="margin-bottom: 5px;" width="800"/>
 
 - Recomendación:
 Agrandar más los componentes o añadir otros componentes visuales para rellenar el espacio en blanco.
