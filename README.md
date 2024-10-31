@@ -228,6 +228,15 @@ ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miemb
    5.2.2.6. [Services Documentation Evidence for Sprint Review.](#5.2.2.6.)<br>
    5.2.2.7. [Software Deployment Evidence for Sprint Review.](#5.2.2.7.)<br>
    5.2.2.8. [Team Collaboration Insights during Sprint.](#5.2.2.8.)<br>
+    5.2.3. [Sprint 3.](#5.2.3.)<br>
+   5.2.3.1. [Sprint Planning 2.](#5.2.3.1.)<br>
+   5.2.3.2. [Sprint Backlog 2.](#5.2.3.2.)<br>
+   5.2.3.3. [Development Evidence for Sprint Review.](#5.2.3.3.)<br>
+   5.2.3.4. [Testing Suite Evidence for Sprint Review.](#5.2.3.4.)<br>
+   5.2.3.5. [Execution Evidence for Sprint Review.](#5.2.3.5.)<br>
+   5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
+   5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
+   5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
    5.3.[Validation Interviews](#5.3.)<br>
    5.3.1.[Interview's design](#5.3.1.)<br>
    5.3.3.[Evaluations according to heuristics](#5.3.3.)<br>
@@ -1741,10 +1750,10 @@ Interacción cuando un cliente realiza y gestiona los pagos
 <img src="Img/image%20252.png">
 <br><br>
 Interacción cuando un cliente registra un paciente con su historial clinico
-<img src="hImg/image%20253.png">
+<img src="Img/image%20253.png">
 <br><br>
 Interacción cuando un cliente gestiona su perfil
-<img src="Uribe/Img/image%20254.png">
+<img src="Img/image%20254.png">
 <br><br>
 Interacción cuando un cliente gestiona el inventariado de la clínica
 <img src="Img/image%20255.png">
