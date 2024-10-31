@@ -3291,7 +3291,7 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
     <td>
       Screenshot: <br>
       <img src="Img/vi1.png" style="width: 200px;"><br>
-      Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/EZ17bNa9DiZNtRn1UtMiR-8BX9iWZqZAkscprUBOeFufzA?e=M5aFIo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+      Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/EZ17bNa9DiZNtRn1UtMiR-8BX9iWZqZAkscprUBOeFufzA?e=M5aFIo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/EZ17bNa9DiZNtRn1UtMiR-8BX9iWZqZAkscprUBOeFufzA?e=M5aFIo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
     </td>
   </tr>
   <tr>
@@ -3311,7 +3311,7 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
     <td>
       Screenshot: <br>
       <img src="Img/interview-Anthony.png" alt="Anthony's interview screenshot" style="width: 200px;"><br>
-      Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/EfSl6Fx69oJMu2bUIG_ujd4B1HIwETnbp79lnZL9fXI-Aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=b251bF
+      Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/EfSl6Fx69oJMu2bUIG_ujd4B1HIwETnbp79lnZL9fXI-Aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=b251bF">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/EfSl6Fx69oJMu2bUIG_ujd4B1HIwETnbp79lnZL9fXI-Aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=b251bF</a>
     </td>
   </tr>
   <tr>
@@ -3323,15 +3323,15 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
       <strong>Duración</strong>:
     </td>
     <td>
-      Nombre: 
-      Segmento Objetivo:
-      Edad:
-      Distrito:
+      Nombre: Andrea Aponte Cruzado
+      Segmento Objetivo: Asistente Odontológico
+      Edad: 21
+      Distrito: Jesús Maria
     </td>
     <td>
       Screenshot: <br>
-      <img src="" alt="screenshot" style="width: 200px;"><br>
-      Link: 
+      <img src="Img/vi3.png" alt="screenshot" style="width: 200px;"><br>
+      Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/Ebo1yttJlG5BlDIQ-XXjM24BT53i20IxhAPh0ylzMLYR-Q?e=IETRxv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/Ebo1yttJlG5BlDIQ-XXjM24BT53i20IxhAPh0ylzMLYR-Q?e=IETRxv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
     </td>
   </tr>
   <tr>
@@ -3351,7 +3351,7 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
     <td>
       Screenshot: <br>
       <img src="Img/interview-Fabrisio.png" alt="Fabrisio's interview screenshot" style="width: 200px;"><br>
-      Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/ER2U3KkNKslHkiztpZbgVUkBGVPx9Cl8Pj8qjJC53jk-sw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=0lWOgB
+      Link: <a href="https://upcedupe-my.sharepoint.com/personal/u20211g522_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211g522%5Fupc%5Fedu%5Fpe%2FDocuments%2FDise%C3%B1o%20sin%20t%C3%ADtulo%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb008995d%2D5b68%2D4a70%2D80f6%2Db3f3906eaa7b">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/ER2U3KkNKslHkiztpZbgVUkBGVPx9Cl8Pj8qjJC53jk-sw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=0lWOgB</a>
     </td>
   </tr>
   <tr>
@@ -3581,7 +3581,7 @@ Implementar una opción de cierre de sesión que sea fácilmente visible y acces
       <strong>Cantidad de videos</strong>: 1<br>
       <strong>Nomenclatura</strong>: upc-pre-202402-s1730-SI91-Dentify-about-the-product-sprint-1<br>
       <strong>Formato</strong>: .mp4<br>
-      <strong>Duración</strong>: 8:19 min
+      <strong>Duración</strong>: 1:48 min
     </td>
     <td>
       Video de About The Product en base a la aplicación "Dentify" desarrollado por MediTech.
@@ -3589,7 +3589,7 @@ Implementar una opción de cierre de sesión que sea fácilmente visible y acces
     <td>
       Screenshot: <br>
       <img src="Img/product.png" alt="ATP" style="width: 200px;"><br>
-      Link: 
+      Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EYeXAEWazRlBnGPilP2urO0B1vyPYYOgYEcaerFmsqiP8w?e=o2G467&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EYeXAEWazRlBnGPilP2urO0B1vyPYYOgYEcaerFmsqiP8w?e=o2G467&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
     </td>
   </tr>
   </table>
@@ -3623,7 +3623,7 @@ Además, pudimos desarrollar y comprender exitosamente la realización de Web Se
     </td>
     <td>
       Screenshot: <br>
-      <img src="Img/product.png" alt="ATP" style="width: 200px;"><br>
+      <img src="Img/team.png" alt="ATT" style="width: 200px;"><br>
       Link: 
     </td>
   </tr>
