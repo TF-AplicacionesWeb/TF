@@ -3639,7 +3639,7 @@ Driessen, V. (2010). A successful Git branching model. nvie.com. https://nvie.co
 Otto, M., & Thornton, J. (2011). Bootstrap. Bootstrap Documentation. Twitter. https://getbootstrap.com
 GitHub. (2023). GitHub Pages documentation. GitHub. https://docs.github.com/en/pages
 
-<div id='7.'><h2>8. Anexo </h2></div>
+<div id='8.'><h2>8. Anexo </h2></div>
 <strong>-Repositorio de Aplicacion Web: </strong> https://github.com/TF-AplicacionesWeb/Dentify
 <br><br><strong>-Despliegue de Aplicacion Web: </strong>https://dentify-cf907.web.app/
 <br><br><strong>-Repositorio de Landing Page </strong>https://github.com/TF-AplicacionesWeb/Landing_Page
@@ -3647,6 +3647,8 @@ GitHub. (2023). GitHub Pages documentation. GitHub. https://docs.github.com/en/p
 <br><br><strong>-Organización de Github: </strong> https://github.com/TF-AplicacionesWeb/
 
 
+<strong>Link de Exposición: </strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/ESgmIZdKLNJGhxfCXevXawMBXFsHSPx4ITtaxg8uf0YLsg?e=WdgWut&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">
+https://upcedupe-my.sharepoint.com/: v:/g/personal/u202221876_upc_edu_pe/ESgmIZdKLNJGhxfCXevXawMBXFsHSPx4ITtaxg8uf0YLsg?e=WdgWut&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
 
 
