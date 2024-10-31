@@ -3132,18 +3132,18 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
       <strong>Cantidad de videos</strong>: 1<br>
       <strong>Nomenclatura</strong>:upc-pre-202402-s1730-SI91-Dentify-validation-interviews-2 <br>
       <strong>Formato</strong>: .mp4<br>
-      <strong>Duración</strong>:
+      <strong>Duración</strong>: 8:35 min
     </td>
     <td>
-      Nombre: 
-      Segmento Objetivo:
-      Edad:
-      Distrito:
+      Nombre: Anthony Martin Huapaya Cuevas
+      Segmento Objetivo: Asistente odontológico
+      Edad: 20 años
+      Distrito: Villa María del Triunfo
     </td>
     <td>
       Screenshot: <br>
-      <img src="" alt="screenshot" style="width: 200px;"><br>
-      Link: 
+      <img src="Img/interview-Anthony.png" alt="Anthony's interview screenshot" style="width: 200px;"><br>
+      Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/EfSl6Fx69oJMu2bUIG_ujd4B1HIwETnbp79lnZL9fXI-Aw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=b251bF
     </td>
   </tr>
   <tr>
@@ -3172,18 +3172,18 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
       <strong>Cantidad de videos</strong>: 1<br>
       <strong>Nomenclatura</strong>: upc-pre-202402-s1730-SI91-Dentify-validation-interviews-4 <br>
       <strong>Formato</strong>: .mp4<br>
-      <strong>Duración</strong>:
+      <strong>Duración</strong>: 8:17 min
     </td>
     <td>
-      Nombre: 
-      Segmento Objetivo:
-      Edad:
-      Distrito:
+      Nombre: Fabrisio Belahonia Miranda
+      Segmento Objetivo: Odontólogo
+      Edad: 24 años
+      Distrito: Huachipa
     </td>
     <td>
       Screenshot: <br>
-      <img src="" alt="screenshot" style="width: 200px;"><br>
-      Link: 
+      <img src="Img/interview-Fabrisio.png" alt="Fabrisio's interview screenshot" style="width: 200px;"><br>
+      Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/ER2U3KkNKslHkiztpZbgVUkBGVPx9Cl8Pj8qjJC53jk-sw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=0lWOgB
     </td>
   </tr>
   <tr>
