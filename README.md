@@ -3360,18 +3360,18 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
       <strong>Cantidad de videos</strong>: 1<br>
       <strong>Nomenclatura</strong>:upc-pre-202402-s1730-SI91-Dentify-validation-interviews-5 <br>
       <strong>Formato</strong>: .mp4<br>
-      <strong>Duración</strong>:
+      <strong>Duración</strong>: 7:42 min
     </td>
     <td>
-      Nombre: 
-      Segmento Objetivo:
-      Edad:
-      Distrito:
+      Nombre: Dianna Palacios
+      Segmento Objetivo: Asistente Odontologico
+      Edad: 22
+      Distrito: Independencia
     </td>
     <td>
       Screenshot: <br>
-      <img src="" alt="screenshot" style="width: 200px;"><br>
-      Link: 
+      <img src="Img/interview-Dianna.png" alt="Diannas's interview screenshot" style="width: 200px;"><br>
+      Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EeVP-VRmLxFFsd41XQCXAtcBJr1zs8B-jKi1rLnzo1P6NQ?e=Lv9Phy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EeVP-VRmLxFFsd41XQCXAtcBJr1zs8B-jKi1rLnzo1P6NQ?e=Lv9Phy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
     </td>
   </tr>
   <tr>
