@@ -3187,6 +3187,15 @@ Durante este sprint, se utilizó FireBase como plataforma de despliegue para la 
 <br>
 **Link de Web app:** <a href="https://dentify-cf907.web.app/">https://dentify-cf907.web.app/</a>
 
+<br><br>
+<strong>Evidencia de despliegue en Azure:</strong>
+Durante este esprint, se utilizo Azure como plataforma de despliegue para el backend de Dentify.
+
+<br><br>
+<img src="Img/azure.png" alt="azure">
+<img src="Img/swagger.png" alt="swagger">
+
+**Link video:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/Ef7aLItpu65BlOwMe_DHoI0BYzmAJjiR7FV-nLBsutsplQ?e=LniG37&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/Ef7aLItpu65BlOwMe_DHoI0BYzmAJjiR7FV-nLBsutsplQ?e=LniG37&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a> 
 
 
 <div id='5.2.3.8.'><h5> 5.2.3.8. Team Collaboration Insights during Sprint. </h5></div>
