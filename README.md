@@ -3197,8 +3197,20 @@ No se pudo realizar la funcionalidad de Reportes y Métricas en el Front End, ya
 | -------- | -------- |
 | Bohorquez Lerzundi Gerardo Sebastian|Funcionalidad de Pagos, Inventario, Actualización de Landing Page, realización de informe, realización de entrevistas|
 | Huanaco Huayta, Elizabeth Lucero | Funcionalidad de Especialistas, arreglo de funcionalidad de perfil, realización de endpoints de especialistas y horarios en el backend, realización de Validation interviews, realización de entrevistas|
-| Julca Cruz, Renso Anthony |Realización de Funcionalidad de métricas y reportes|
+| Julca Cruz, Renso Anthony |-|
 | Uribe Quispe, Jesús Guillermo |Gestión de proyecto Front End y Back End, realización de Citas, arreglo de bugs en servicios, arreglo de bugs en funcionalidad de pagos y pacientes, realización de funcionalidad de soporte, realización de endpoints de Usuarios en BackEnd, realización de entrevistas.|
+
+
+<h5>Insights de la Aplicación Web: </h5>
+<img src="Img/ins_sprint3_1.png">
+<img src="Img/ins_sprint3_2.png">
+<img src="Img/ins_sprint3_3.png">
+
+<br><br>
+<h5>Insights del Web Service: </h5>
+<img src="Img/ins_sprint3_4.png">
+<img src="Img/ins_sprint3_5.png">
+
 
 <div id='5.3.'><h4> 5.3. Validation Interviews </h4></div>
 En esta sección de nuestro proyecto, Dentify, nos enfocamos en detectar cuáles son los puntos de mejora de nuestro sitio web para lograr un mayor compromiso de los odontólogos y el personal administrativo. Esta fase crucial del proyecto implica un diálogo directo con nuestros principales usuarios para recopilar sus opiniones y sugerencias a través de entrevistas. Así, aseguramos que la plataforma no solo cumpla con los requisitos técnicos, sino que también se adapte a las operaciones diarias y expectativas del personal administrativo y de los odontólogos. A continuación, se presentan los objetivos de los usuario necesarios para desarrollar estas entrevistas.
@@ -3642,10 +3654,10 @@ GitHub. (2023). GitHub Pages documentation. GitHub. https://docs.github.com/en/p
 <div id='8.'><h2>8. Anexo </h2></div>
 <strong>-Repositorio de Aplicacion Web: </strong> https://github.com/TF-AplicacionesWeb/Dentify
 <br><br><strong>-Despliegue de Aplicacion Web: </strong>https://dentify-cf907.web.app/
-<br><br><strong>-Repositorio de Landing Page </strong>https://github.com/TF-AplicacionesWeb/Landing_Page
+<br><br><strong>-Repositorio de Landing Page </strong>https://github.com/TF-AplicacionesWeb/Landing_Page/
 <br><br><strong>-Despliegue de Landing Page: </strong>https://tf-aplicacionesweb.github.io/Landing_Page/
+<br><br><strong>-Repositorio de Web Service </strong> https://github.com/TF-AplicacionesWeb/BackEnd
 <br><br><strong>-Organización de Github: </strong> https://github.com/TF-AplicacionesWeb/
-
 
 <strong>Link de Exposición: </strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/ESgmIZdKLNJGhxfCXevXawMBXFsHSPx4ITtaxg8uf0YLsg?e=WdgWut&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">
 https://upcedupe-my.sharepoint.com/: v:/g/personal/u202221876_upc_edu_pe/ESgmIZdKLNJGhxfCXevXawMBXFsHSPx4ITtaxg8uf0YLsg?e=WdgWut&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
