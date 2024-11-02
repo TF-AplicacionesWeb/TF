@@ -3187,6 +3187,15 @@ Durante este sprint, se utilizó FireBase como plataforma de despliegue para la 
 <br>
 **Link de Web app:** <a href="https://dentify-cf907.web.app/">https://dentify-cf907.web.app/</a>
 
+<br><br>
+<strong>Evidencia de despliegue en Azure:</strong>
+Durante este esprint, se utilizo Azure como plataforma de despliegue para el backend de Dentify.
+
+<br><br>
+<img src="Img/azure.png" alt="azure">
+<img src="Img/swagger.png" alt="swagger">
+
+**Link video:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/Ef7aLItpu65BlOwMe_DHoI0BYzmAJjiR7FV-nLBsutsplQ?e=LniG37&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/Ef7aLItpu65BlOwMe_DHoI0BYzmAJjiR7FV-nLBsutsplQ?e=LniG37&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a> 
 
 
 <div id='5.2.3.8.'><h5> 5.2.3.8. Team Collaboration Insights during Sprint. </h5></div>
@@ -3376,7 +3385,7 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
     </td>
     <td>
       Nombre: Dianna Palacios
-      Segmento Objetivo: Asistente Odontologico
+      Segmento Objetivo: Odontologo
       Edad: 22
       Distrito: Independencia
     </td>
@@ -3392,18 +3401,18 @@ Esta sección detalla los objetivos de usuario que guiarán nuestras entrevistas
       <strong>Cantidad de videos</strong>: 1<br>
       <strong>Nomenclatura</strong>: upc-pre-202402-s1730-SI91-Dentify-validation-interviews-6<br>
       <strong>Formato</strong>: .mp4<br>
-      <strong>Duración</strong>:
+      <strong>Duración</strong>: 7:34 min
     </td>
     <td>
-      Nombre: 
-      Segmento Objetivo:
-      Edad:
-      Distrito:
+      Nombre: Joaquin Anton
+      Segmento Objetivo: Odontologo
+      Edad: 20
+      Distrito: Chincha Alta
     </td>
     <td>
       Screenshot: <br>
-      <img src="" alt="screenshot" style="width: 200px;"><br>
-      Link: 
+      <img src="Img/Interview-Joaquin.png" alt="interview Joaquin screenshot" style="width: 200px;"><br>
+      Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EVCNfx3097RBjl8QV-tJQ1IBNSwWKQTcDPqVmt1lMSBiIQ?e=YKPpfb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EVCNfx3097RBjl8QV-tJQ1IBNSwWKQTcDPqVmt1lMSBiIQ?e=YKPpfb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
     </td>
   </tr>
 </table>
