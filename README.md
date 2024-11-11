@@ -25,13 +25,21 @@ width=50%"/>
 | :-----------------------------------: | :--------: |
 | Bohorquez Lerzundi, Gerardo Sebastián | u202224149 |
 |  Huanaco Huayta, Elizabeth Lucero   | u20211g522 |
-|  Julca Cruz, Renso Anthony            | u202121579 |
 |     Uribe Quispe, Jesús Guillermo     | u202221876 |
 
 <h5 style="text-align: center"> Ciclo 2024-02 </h5>
 
 # Registro de Versiones del Informe
 El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Esta sección inicia en una página nueva y se incluye un cuadro con la siguiente estructura:
+
+
+**TF**
+
+| Versión | Fecha | Autor | Descripción de modificación |
+| :-----: | :---: | :---: | --------------------------- |
+|TF |16/10/2024 | Bohorquez Lerzundi Gerardo Sebastian| realización de informe, endpoints de back end, presentación y exposición |
+|TF |16/10/2024 | Huanaco Huayta, Elizabeth Lucero |realización de informe, endpoints de back end, presentación y exposición|
+|TF |16/10/2024 | Uribe Quispe, Jesús Guillermo |gestión de versiones de back end, realización de informe, endpoints de back end, presentación y exposición|
 
 **TB2**
 
@@ -67,6 +75,19 @@ El objetivo de esta sección es resumir las modificaciones relevantes que se rea
 ## Project Report Collaboration Insights
 
 URL del repositorio para el reporte del proyecto: https://github.com/TF-AplicacionesWeb
+**TF**
+<img src="Img/ins_tf.png">
+<img src="Img/ins2_tf.png">
+
+Para el desarrollo del informe perteneciente a la entrega TF, se dividió la implementación de secciones de la siguiente forma para cada integrante del equipo:
+
+| Integrante | Tareas Asignadas |
+| ---------- | ---------------- |
+| Bohorquez Lerzundi Gerardo Sebastian| realización de informe, endpoints de back end, presentación y exposición |
+| Huanaco Huayta, Elizabeth Lucero |realización de informe, endpoints de back end, presentación y exposición|
+| Uribe Quispe, Jesús Guillermo |gestión de versiones de back end, realización de informe, endpoints de back end, presentación y exposición|
+
+
 **TB2**
 
 <img src="Img/ins_tb2.png">
@@ -126,7 +147,6 @@ Github también presenta un timeline de las ramas principales y los procesos de 
 Los integrantes son:
 - Bohórquez Lerzundi, Gerardo Sebastián(Sebasbl562)
 - Huanaco Huayta, Elizabeth Lucero(lucerohh)
-- Julca Cruz, Renzo Anthony(racj02)
 - Uribe Quispe, Jesús Guillermo(JesusU27)
 
 ## STUDENT OUTCOME
@@ -235,6 +255,15 @@ ABET – EAC - Student Outcome 5: Trabaja efectivamente en un equipo cuyos miemb
    5.2.3.6. [Services Documentation Evidence for Sprint Review.](#5.2.3.6.)<br>
    5.2.3.7. [Software Deployment Evidence for Sprint Review.](#5.2.3.7.)<br>
    5.2.3.8. [Team Collaboration Insights during Sprint.](#5.2.3.8.)<br>
+   5.2.4. [Sprint 4.](#5.2.4.)<br>
+   5.2.4.1. [Sprint Planning 2.](#5.2.4.1.)<br>
+   5.2.4.2. [Sprint Backlog 2.](#5.2.4.2.)<br>
+   5.2.4.3. [Development Evidence for Sprint Review.](#5.2.4.3.)<br>
+   5.2.4.4. [Testing Suite Evidence for Sprint Review.](#5.2.4.4.)<br>
+   5.2.4.5. [Execution Evidence for Sprint Review.](#5.2.4.5.)<br>
+   5.2.4.6. [Services Documentation Evidence for Sprint Review.](#5.2.4.6.)<br>
+   5.2.4.7. [Software Deployment Evidence for Sprint Review.](#5.2.4.7.)<br>
+   5.2.4.8. [Team Collaboration Insights during Sprint.](#5.2.4.8.)<br>
    5.3.[Validation Interviews](#5.3.)<br>
    5.3.1.[Interview's design](#5.3.1.)<br>
    5.3.3.[Evaluations according to heuristics](#5.3.3.)<br>
@@ -3220,6 +3249,330 @@ No se pudo realizar la funcionalidad de Reportes y Métricas en el Front End, ya
 <img src="Img/ins_sprint3_4.png">
 <img src="Img/ins_sprint3_5.png">
 
+<div id='5.2.4.'><h4> 5.2.4. Sprint #4.</h4></div>
+
+<div id='5.2.4.1.'><h5> 5.2.4.1. Sprint Planning #4.</h5></div>
+En la siguiente sección, se presentará el sprint #4 con la versión de la aplicación web e implementación total del back-end, desarrollado en C#. Mostrando la organización, distribución y resultados de la aplicación web y los web services.
+
+| Sprint # | Sprint 4 |
+|----------|----------|
+| **Sprint Planning Background** | Sprint 4|
+| **Date** | 2024-10-10|
+| **Time** | 02:30 PM |
+| **Location** | llamada por la plataforma "Discord" |
+| **Prepared By** | Uribe Quispe, Jesús Guillermo |
+| **Attendees (to planning meeting)** | Uribe Quispe Jesús Guillermo / Bohorquez Lerzundi Gerardo Sebastián / Huanaco Huayta Elizabeth Lucero |
+| **Sprint 3 – 3 Review Summary** | En el tercer sprint desarrollamos y lanzamos la primera versión del web service de Dentify. |
+| **Sprint 3 – 3 Retrospective Summary** | Para el tercer sprint tuvimos que aprender a trabajar con el modelo GitFlow, lo que nos permitió, desarrollar satisfactoriamente dicho sprint.  |
+| **Sprint Goal & User Stories**| |
+| **Sprint n Goal** | Desarrollar y desplegar la versión de la estructura Back-End funcional que presente de manera clara para el consumo de la aplicación web, a través del lenguaje de programación "C#".|
+| **Sprint n Velocity** |  5 story points (promedio) |
+| **Sum of Story Points** | 55 |
+
+<div id='5.2.4.2.'><h5> 5.2.4.2. Sprint Backlog #4.</h5></div>
+Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera total el back end de la aplicación web.
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br># Sprint&nbsp;&nbsp;&nbsp;</th>
+    <th colspan="7">Sprint 4</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td colspan="2">&nbsp;&nbsp;&nbsp;<br>User Story&nbsp;&nbsp;&nbsp;</td>
+    <td colspan="6">Work Item/Task</td>
+  </tr>
+  
+
+<tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>TS003&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Gestionar Citas&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>UT01&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>Crear una API para gestionar citas.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API para que los usuarios puedan gestionar citas.&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>TS004&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Implementar Recordatorio de Citas&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>UT02&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>Crear un sistema de recordatorio de citas que envíe notificaciones a los pacientes.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear un sistema de recordatorio de citas que envíe notificaciones a los pacientes.&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>TS005&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Gestionar Historial Clínico&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>UT03&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>Implementar una API para gestionar el historial clínico de los pacientes.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API para gestionar el historial clínico de los pacientes.&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>TS006&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Pagar Tratamiento&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>UT04&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>Implementar una API que permita procesar pagos de tratamientos.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita procesar pagos de tratamientos.&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>TS007&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Historial de Pagos&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>UT05&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>Crear una API que muestre el historial de pagos de un paciente.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API que muestre el historial de pagos de un paciente.&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>TS008&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Buscar Citas&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>UT06&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>Implementar una API que permita buscar citas programadas por paciente o por fecha.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita buscar citas programadas por paciente o por fecha.&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>TS009&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Buscar Historial Clínico&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>UT07&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>Implementar una funcionalidad que permita buscar el historial clínico de los pacientes.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una funcionalidad que permita buscar el historial clínico de los pacientes.&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>TS010&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Perfil de Usuario&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>UT08&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>Crear una página donde los usuarios puedan actualizar su perfil.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una página donde los usuarios puedan actualizar su perfil.&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>TS011&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Gestionar Inventario&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>UT09&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>Crear una API para gestionar el inventario de productos utilizados en los tratamientos odontológicos.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API para gestionar el inventario de productos utilizados en los tratamientos odontológicos.&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>TS012&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Métricas e Informes&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>UT10&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>Implementar una API para generar métricas e informes de rendimiento de los odontólogos y citas.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API para generar métricas e informes de rendimiento de los odontólogos y citas.&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;&nbsp;<br>TS013&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Dashboard&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>UT11&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>Crear un dashboard que muestre un resumen de citas, pagos y métricas.&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear un dashboard que muestre un resumen de citas, pagos y métricas.&nbsp;&nbsp;&nbsp;</td> 
+  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br> -&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
+</tr>
+
+
+</tbody></table>
+
+
+<div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review.</h5></div>
+En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 3:
+
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+<td rowspan="10">
+	<h5>Back End</h5>
+	<a href="https://github.com/TF-AplicacionesWeb/BackEnd" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/BackEnd</a>
+</td>
+     <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+ 
+  <tr>
+   <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+</tbody></table>
+
+<div id='5.2.4.4.'><h5> 5.2.4.4. Testing Suite Evidence for Sprint Review. </h5></div>
+
+En este cuarto Sprint, veremos los archivos .feature relacionados a los user tasks que hemos desarrollado, subidos en el repositorio.
+
+<table><thead>
+  <tr>
+    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
+    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
+  </tr></thead>
+<tbody>
+  <tr>
+<td rowspan="10"><a href="https://github.com/TF-AplicacionesWeb/TF" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/TF</a></td>
+    <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-
+&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>-
+&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>11/11/2024&nbsp;&nbsp;&nbsp;</td>
+  </tr>
+ 
+</tbody></table>
+
+
+<div id='5.2.4.5.'><h5> 5.2.4.5. Execution Evidence for Sprint Review. </h5></div>
+La realización de estas tareas refleja un enfoque estructurado para el desarrollo de la aplicación web. Cada tarea aborda un componente crucial del producto, lo que asegura que se cubran tanto aspectos visuales como funcionales. Este enfoque modular permite no solo mantener un orden en el proceso de desarrollo, sino también garantizar que cada sección cumple con las funcionalidades que brinda Dentify.
+
+
+<br><br>
+A continuación se mostrarán capturas de pantallas así como el vídeo de la ejecución el Web Service, ya que la Landing Page y la Aplicación web fueron terminadas en el anterior sprint:
+
+<h4>Evidencia de Web Service:</h4>
+<br>
+
+
+<br>
+Link del video (Backend): <a href=""></a>
+
+
+<div id='5.2.4.6.'><h5> 5.2.4.6. Services Documentation Evidence for Sprint Review. </h5></div>
+Para este cuarto sprint usamos la versión de nuestro servicio desarrollado en c#.
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky" colspan="2">Endpoint </th>
+    <th class="tg-0pky" colspan="4">Details</th>
+  </tr></thead>
+<tbody>
+  
+  <tr>
+    <td class="tg-0pky" colspan="2">-</td>
+    <td class="tg-0pky" colspan="4">-</td>
+  </tr>
+
+  <tr>
+    <td class="tg-0pky" colspan="2"></td>
+    <td class="tg-0pky" colspan="4"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Repository</td>
+    <td class="tg-0pky">Branch</td>
+    <td class="tg-0pky">Commit Id</td>
+    <td class="tg-0pky">Commit message</td>
+    <td class="tg-0pky">Commit message body</td>
+    <td class="tg-0pky">Commited on (Date)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a href="https://github.com/TF-AplicacionesWeb/BackEnd">https://github.com/TF-AplicacionesWeb/BackEnd</a></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">-</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><a href="https://github.com/TF-AplicacionesWeb/BackEnd">https://github.com/TF-AplicacionesWeb/BackEnd</a></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">-</td>
+  </tr>
+
+</tbody></table>
+
+
+
+<div id='5.2.3.7.'><h5> 5.2.4.7. Software Deployment Evidence for Sprint Review.</h5></div>
+<br><br>
+
+<strong>Evidencia de despliegue en Github Pages:</strong>
+Durante este sprint se usó Github Pages como plataforma de despliegue para la Landing Page:
+<br><br>
+
+<img src="Img/ghp.png" alt="GithubPage">
+
+<br><br>
+<strong>Evidencia de despliegue en FireBase:</strong>
+Durante este sprint, se utilizó FireBase como plataforma de despliegue para la aplicación web de Dentify.
+<br><br> 
+<img src="Img/Firebase_console.png" alt="Console">
+<br><br>
+
+<img src="Img/aw4.png" alt="Login">
+<img src="Img/aw5.png" alt="Register">
+
+<br>
+
+**Link de Landing Page:** <a href="https://tf-aplicacionesweb.github.io/Landing_Page/">https://tf-aplicacionesweb.github.io/Landing_Page/</a>
+<br>
+**Link de Web app:** <a href="https://dentify-cf907.web.app/">https://dentify-cf907.web.app/</a>
+
+<br><br>
+<strong>Evidencia de despliegue en Azure:</strong>
+Durante este esprint, se utilizo Azure como plataforma de despliegue para el backend de Dentify.
+
+<br><br>
+<img src="Img/azure.png" alt="azure">
+
+**Link video:** <a href=""></a> 
+
+
+<div id='5.2.4.8.'><h5> 5.2.4.8. Team Collaboration Insights during Sprint. </h5></div>
+
+No se pudo realizar la funcionalidad de Reportes y Métricas en el Front End, ya que el encargado no cumplió la respectiva tarea en el plazo establecido.
+
+| Alumno  | Actividad |
+| -------- | -------- |
+| Bohorquez Lerzundi Gerardo Sebastian| realización de informe, endpoints de back end, presentación y exposición |
+| Huanaco Huayta, Elizabeth Lucero |realización de informe, endpoints de back end, presentación y exposición|
+| Uribe Quispe, Jesús Guillermo |gestión de versiones de back end, realización de informe, endpoints de back end, presentación y exposición|
+
+
+<br><br>
+<h5>Insights del Web Service: </h5>
+
+
 
 <div id='5.3.'><h4> 5.3. Validation Interviews </h4></div>
 En esta sección de nuestro proyecto, Dentify, nos enfocamos en detectar cuáles son los puntos de mejora de nuestro sitio web para lograr un mayor compromiso de los odontólogos y el personal administrativo. Esta fase crucial del proyecto implica un diálogo directo con nuestros principales usuarios para recopilar sus opiniones y sugerencias a través de entrevistas. Así, aseguramos que la plataforma no solo cumpla con los requisitos técnicos, sino que también se adapte a las operaciones diarias y expectativas del personal administrativo y de los odontólogos. A continuación, se presentan los objetivos de los usuario necesarios para desarrollar estas entrevistas.
@@ -3654,28 +4007,33 @@ Además, pudimos desarrollar y comprender exitosamente la realización de Web Se
 
 <div id='7.'><h2>7. Bibliografía</h2></div>
 
-Elmasri, R., & Navathe, S. B. (2016). Fundamentals of database systems (7th ed.). Pearson.
+Albahari, J., & Albahari, B. (2021). C# 9.0 in a Nutshell: The Definitive Reference. O'Reilly Media.
+Bass, L., Clements, P., & Kazman, R. (2012). Software Architecture in Practice (3rd ed.). Addison-Wesley.
 Booch, G., Rumbaugh, J., & Jacobson, I. (2005). The unified modeling language user guide (2nd ed.). Addison-Wesley.
 Driessen, V. (2010). A successful Git branching model. nvie.com. https://nvie.com/posts/a-successful-git-branching-model/
-Otto, M., & Thornton, J. (2011). Bootstrap. Bootstrap Documentation. Twitter. https://getbootstrap.com
+Duffy, A. (2020). Domain-Driven Design with JavaScript: Implementing DDD using Node.js and TypeScript. Packt Publishing.
+Elmasri, R., & Navathe, S. B. (2016). Fundamentals of database systems (7th ed.). Pearson.
+Evans, E. (2004). Domain-Driven Design: Tackling Complexity in the Heart of Software. Addison-Wesley.
+Fowler, M. (2018). Refactoring: Improving the Design of Existing Code (2nd ed.). Addison-Wesley.
 GitHub. (2023). GitHub Pages documentation. GitHub. https://docs.github.com/en/pages
+Martin, R. C. (2008). Clean Code: A Handbook of Agile Software Craftsmanship. Prentice Hall.
+Otto, M., & Thornton, J. (2011). Bootstrap. Bootstrap Documentation. Twitter. https://getbootstrap.com
+Skeet, J. (2019). C# in Depth (4th ed.). Manning Publications.
+Troelsen, A., & Japhe, P. (2021). Pro C# 9 with .NET 5: Foundational Principles and Practices for Building Powerful, Cross-Platform Applications. Apress.
+Vernon, V. (2016). Implementing Domain-Driven Design. Addison-Wesley Professional.
+You, E. (2020). Vue.js: Up and Running: Building Accessible and Performant Web Apps. O'Reilly Media.
+Boucher, J., & Esposito, D. (2019). Vue.js 2 and Bootstrap 4 Web Development. Packt Publishing.
 
 <div id='8.'><h2>8. Anexo </h2></div>
-<strong>-Repositorio de Aplicacion Web: </strong> https://github.com/TF-AplicacionesWeb/Dentify
-<br><br><strong>-Despliegue de Aplicacion Web: </strong>https://dentify-cf907.web.app/
-<br><br><strong>-Repositorio de Landing Page </strong>https://github.com/TF-AplicacionesWeb/Landing_Page/
-<br><br><strong>-Despliegue de Landing Page: </strong>https://tf-aplicacionesweb.github.io/Landing_Page/
-<br><br><strong>-Repositorio de Web Service </strong> https://github.com/TF-AplicacionesWeb/BackEnd
-<br><br><strong>-Organización de Github: </strong> https://github.com/TF-AplicacionesWeb/
 
-<strong>Link de Exposición: </strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/ESgmIZdKLNJGhxfCXevXawMBXFsHSPx4ITtaxg8uf0YLsg?e=WdgWut&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">
-https://upcedupe-my.sharepoint.com/: v:/g/personal/u202221876_upc_edu_pe/ESgmIZdKLNJGhxfCXevXawMBXFsHSPx4ITtaxg8uf0YLsg?e=WdgWut&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
-
-
-
-
-
-
-
+| Descripción                           | Enlace                                                                                                                                                                                              |
+|---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Repositorio de Aplicación Web         | [https://github.com/TF-AplicacionesWeb/Dentify](https://github.com/TF-AplicacionesWeb/Dentify)                                                                                                    |
+| Despliegue de Aplicación Web          | - |
+| Repositorio de Landing Page           | [https://github.com/TF-AplicacionesWeb/Landing_Page/](https://github.com/TF-AplicacionesWeb/Landing_Page/)                                                                                         |
+| Despliegue de Landing Page            | [https://tf-aplicacionesweb.github.io/Landing_Page/](https://tf-aplicacionesweb.github.io/Landing_Page/)                                                                                             |
+| Repositorio de Web Service            | [https://github.com/TF-AplicacionesWeb/BackEnd](https://github.com/TF-AplicacionesWeb/BackEnd)                                                                                                     |
+| Organización de Github                | [https://github.com/TF-AplicacionesWeb/](https://github.com/TF-AplicacionesWeb/)                                                                                                                  |
+| Link de Exposición                    | - |
 
 
