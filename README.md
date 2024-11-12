@@ -3449,10 +3449,10 @@ En este cuarto Sprint, veremos los archivos .feature relacionados a los user tas
   <tr>
 <td rowspan="10"><a href="https://github.com/TF-AplicacionesWeb/TF" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/TF</a></td>
     <td>&nbsp;&nbsp;&nbsp;<br>main&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-
+    <td>&nbsp;&nbsp;&nbsp;<br>2b091e4ecf3b427b0580cb27f9b93c7f5e03dc03&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>add features and update sprint #4 of the report
 &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-
+    <td>&nbsp;&nbsp;&nbsp;<br>add features and update sprint #4 of the report
 &nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>11/11/2024&nbsp;&nbsp;&nbsp;</td>
   </tr>
