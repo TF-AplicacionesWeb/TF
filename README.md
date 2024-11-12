@@ -1855,16 +1855,6 @@ nombre de clase: HistorialClinico
 | descripcion       | text   | Descripción del historial |
 | tratamiento       | string | Tratamiento asignado      |
 
-nombre de clase: Metricas
-
-| atributo      | tipo    | descripción               |
-|---------------|---------|---------------------------|
-| id_metricas   | int     | Identificador único       |
-| total_citas   | int     | Total de citas            |
-| total_pagos   | decimal | Total de pagos            |
-| fecha_inicio  | date    | Fecha de inicio           |
-| fecha_fin     | date    | Fecha de finalización     |
-
 
 nombre de clase: Odontologo
 
@@ -1923,6 +1913,151 @@ nombre de clase: Inventario
 
 <div id= '4.8.1.'><h4>4.8.1. Database Diagram.</h4></div>
 <img src = "Img/BD.jpeg" alt="class diagram">
+
+
+---
+
+### Support_message
+
+| Name        | Type        | Description                                      |
+|-------------|-------------|--------------------------------------------------|
+| id          | int         | ID del mensaje de soporte                        |
+| name        | varchar(50) | Nombre del usuario que envía el mensaje          |
+| email       | varchar(50) | Email del usuario que envía el mensaje           |
+| description | text        | Descripción del mensaje de soporte               |
+| user_id     | int         | ID del usuario asociado al mensaje de soporte    |
+
+---
+
+### Subscriptions
+
+| Name           | Type          | Description                                      |
+|----------------|---------------|--------------------------------------------------|
+| id             | int           | ID de la suscripción                             |
+| name           | varchar(30)   | Nombre de la suscripción                         |
+| description    | varchar(250)  | Descripción de la suscripción                    |
+| month_duration | int           | Duración en meses de la suscripción              |
+| amount         | float         | Monto de la suscripción                          |
+| updated_at     | datetime      | Fecha de última actualización                    |
+| user_id        | int           | ID del usuario asociado a la suscripción         |
+
+---
+
+### Inventory
+
+| Name            | Type          | Description                                      |
+|-----------------|---------------|--------------------------------------------------|
+| material_id     | int           | ID del material en inventario                    |
+| material_name   | varchar(100)  | Nombre del material                              |
+| quantity        | int           | Cantidad de material disponible                  |
+| unit_price      | decimal       | Precio unitario del material                     |
+| update_date     | date          | Fecha de última actualización del inventario     |
+| user_id         | int           | ID del usuario asociado al inventario            |
+
+---
+
+### Clinical_History
+
+| Name           | Type          | Description                                      |
+|----------------|---------------|--------------------------------------------------|
+| history_id     | int           | ID del historial clínico                         |
+| background     | varchar(250)  | Antecedentes del paciente                        |
+| date           | date          | Fecha del historial                              |
+| diagnosis      | varchar(250)  | Diagnóstico del paciente                         |
+| treatment      | varchar(255)  | Tratamiento asignado al paciente                 |
+| user_id        | int           | ID del usuario asociado al historial clínico     |
+
+---
+
+### Users
+
+| Name           | Type           | Description                                      |
+|----------------|----------------|--------------------------------------------------|
+| id             | int            | ID del usuario                                   |
+| username       | varchar(50)    | Nombre de usuario                                |
+| first_name     | varchar(100)   | Nombre del usuario                               |
+| last_name      | varchar(100)   | Apellido del usuario                             |
+| email          | varchar(100)   | Email del usuario                                |
+| password       | varchar(255)   | Contraseña del usuario                           |
+| phone          | varchar(15)    | Teléfono del usuario                             |
+| registration_date | date        | Fecha de registro del usuario                    |
+| company        | varchar(100)   | Compañía a la que pertenece el usuario           |
+| trial          | bit            | Indica si el usuario está en periodo de prueba   |
+
+---
+
+### Appointments
+
+| Name           | Type          | Description                                      |
+|----------------|---------------|--------------------------------------------------|
+| appointment_id | int           | ID de la cita                                    |
+| dentist_id     | int           | ID del odontólogo                                |
+| user_id        | int           | ID del usuario que creó la cita                  |
+| appointment_date | datetime    | Fecha de la cita                                 |
+| reason         | varchar(255)  | Motivo de la cita                                |
+| completed      | bit           | Indica si la cita fue realizada                  |
+| reminder_sent  | bit           | Indica si se envió un recordatorio               |
+| duration       | int           | Duración de la cita                              |
+| payment_id     | int           | ID del pago asociado a la cita                   |
+| payment_status | bit           | Estado de pago de la cita                        |
+
+---
+
+### Dentists
+
+| Name           | Type          | Description                                      |
+|----------------|---------------|--------------------------------------------------|
+| id             | int           | ID del odontólogo                                |
+| first_name     | varchar(100)  | Nombre del odontólogo                            |
+| last_name      | varchar(100)  | Apellido del odontólogo                          |
+| specialty      | varchar(100)  | Especialidad del odontólogo                      |
+| experience     | int           | Años de experiencia del odontólogo               |
+| phone          | varchar(15)   | Teléfono del odontólogo                          |
+| email          | varchar(100)  | Email del odontólogo                             |
+| total_appointments | int       | Total de citas atendidas por el odontólogo       |
+| user_id        | int           | ID del usuario asociado al odontólogo            |
+
+---
+
+### Patients
+
+| Name           | Type          | Description                                      |
+|----------------|---------------|--------------------------------------------------|
+| id             | int           | ID del paciente                                  |
+| history_id     | int           | ID del historial clínico del paciente            |
+| first_name     | varchar(50)   | Nombre del paciente                              |
+| last_name      | varchar(50)   | Apellido del paciente                            |
+| email          | varchar(100)  | Email del paciente                               |
+| age            | int           | Edad del paciente                                |
+| background     | varchar(255)  | Antecedentes médicos del paciente                |
+| birth_date     | date          | Fecha de nacimiento del paciente                 |
+| appointment_id | int           | ID de la cita asociada                           |
+| user_id        | int           | ID del usuario asociado al paciente              |
+
+---
+
+### Payments
+
+| Name           | Type          | Description                                      |
+|----------------|---------------|--------------------------------------------------|
+| payment_id     | int           | ID del pago                                      |
+| amount         | decimal       | Monto del pago                                   |
+| payment_date   | date          | Fecha del pago                                   |
+
+---
+
+### Schedule
+
+| Name           | Type          | Description                                      |
+|----------------|---------------|--------------------------------------------------|
+| schedule_id    | int           | ID del horario                                   |
+| dentist_id     | int           | ID del odontólogo                                |
+| day_of_week    | varchar(50)   | Día de la semana                                 |
+| start_time     | time          | Hora de inicio del turno                         |
+| end_time       | time          | Hora de finalización del turno                   |
+| user_id        | int           | ID del usuario asociado al horario               |
+
+
 
 
 
