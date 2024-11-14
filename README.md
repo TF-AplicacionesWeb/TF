@@ -3534,38 +3534,86 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
 
 
 <div id='5.2.4.3.'><h5> 5.2.4.3. Development Evidence for Sprint Review.</h5></div>
-En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 3:
+En este punto abarcaremos las funcionalidades y la evidencia de que pudimos completar exitosamente las tareas planteadas en el Sprint Planning 4: <br><br>
 
 
-<table><thead>
-  <tr>
-    <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Branch&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Commit ID&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Commit<br>&nbsp;&nbsp;&nbsp;<br>Message Body&nbsp;&nbsp;&nbsp;</th>
-    <th>&nbsp;&nbsp;&nbsp;<br>Committed on&nbsp;&nbsp;&nbsp;(Date)&nbsp;&nbsp;&nbsp;</th>
-  </tr></thead>
-<tbody>
-  <tr>
-<td rowspan="10">
-	<h5>Back End</h5>
-	<a href="https://github.com/TF-AplicacionesWeb/BackEnd" target="_blank" rel="noopener noreferrer">https://github.com/TF-AplicacionesWeb/BackEnd</a>
-</td>
-     <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
- 
-  <tr>
-   <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>-&nbsp;&nbsp;&nbsp;</td>
-  </tr>
-</tbody></table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit message</th>
+      <th>Commit message body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="8">
+      <h5>Back End</h5>
+      <a href="https://github.com/TF-AplicacionesWeb/BackEnd">https://github.com/TF-AplicacionesWeb/BackEnd</a></td>
+      <td>feature-clinical-records</td>
+      <td>4355aade71d1cd9c97c27f345759e170f703d1bf</td>
+      <td>Clinical records feature</td>
+      <td>Clinical records endpoint has been finished</td>
+      <td>14/11/24</td>
+    </tr>
+    <tr>
+      <td>feature-inventory</td>
+      <td>be8221b33f69f02328e82cb3f5633dbd3b897f5c</td>
+      <td>Feature inventory</td>
+      <td>Feature inventory</td>
+      <td>14/11/24</td>
+    </tr>
+    <tr>
+      <td>feature-patients</td>
+      <td>faa54a6f480606b75e03ad02045910c7795ef495</td>
+      <td>Feature patients</td>
+      <td>Feature patients</td>
+      <td>14/11/24</td>
+    </tr>
+    <tr>
+      <td>feature-payments</td>
+      <td>24bc17995215fdcaf540ef880e49c3bd84f72dff</td>
+      <td>Feature payments</td>
+      <td>Feature payments</td>
+      <td>14/11/24</td>
+    </tr>
+    <tr>
+      <td>feature-support</td>
+      <td>6da76263e1d6bdacb1fa601f687aeadc5788b7cd</td>
+      <td>Support message feature</td>
+      <td>Support-message endpoint has been finished with post and get by id CRUDs</td>
+      <td>14/11/24</td>
+    </tr>
+    <tr>
+      <td>fix-feature-dentists</td>
+      <td>43235ea67b25ce515476de757adc4ebe20275a00</td>
+      <td>Fixed delete by id CRUD in schedule dentist endpoint</td>
+      <td>Fixed delete by id CRUD in schedule dentist endpoint</td>
+      <td>14/11/24</td>
+    </tr>
+    <tr>
+      <td>fix-feature-user</td>
+      <td>408574623a96e3dd0ce6dea1a77e32993c4a1b88</td>
+      <td>Fix feature user</td>
+      <td>Fix feature user</td>
+      <td>14/11/24</td>
+    </tr>
+    <tr>
+      <td>feature-appointments</td>
+      <td>2960b8b9ff88f3e9b6e81c2c2db6764104a26162</td>
+      <td>Feature appointments</td>
+      <td>Feature appointments</td>
+      <td>14/11/24</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br><br>
 
 <div id='5.2.4.4.'><h5> 5.2.4.4. Testing Suite Evidence for Sprint Review. </h5></div>
 
@@ -3604,6 +3652,182 @@ A continuación se mostrarán capturas de pantallas así como el vídeo de la ej
 
 <h4>Evidencia de Web Service:</h4>
 <br>
+<strong>Funciones de Usuarios:</strong>
+
+<img src="Img/user_api1.png" alt="user api 1">
+
+<br><br>
+<strong>Método Post:</strong>
+<img src="Img/user_api2.png" alt="user api 2">
+<img src="Img/user_api3.png" alt="user api 3">
+<br><br>
+<strong>Método Get mediante parámetros username y password:</strong>
+<img src="Img/user_api4.png" alt="user api 4">
+<img src="Img/user_api5.png" alt="user api 5">
+
+<br><br>
+<strong>Método Get mediante id:</strong>
+<img src="Img/user_api6.png" alt="user api 6">
+<img src="Img/user_api7.png" alt="user api 7">
+
+<br><br>
+<strong>Base de Datos actualizada:</strong>
+<img src="Img/user_api8.png" alt="user api 8">
+
+<br>
+<strong>Funciones de Dentistas:</strong>
+<img src="Img/user_api9.png" alt="user api 9">
+
+<br><br>
+<strong>Método Post:</strong>
+<img src="Img/user_api10.png" alt="user api 10">
+<img src="Img/user_api11.png" alt="user api 11">
+<img src="Img/user_api12.png" alt="user api 12">
+<br><br>
+<strong>Método Get:</strong>
+<img src="Img/user_api14.png" alt="user api 14">
+<img src="Img/user_api15.png" alt="user api 15">
+<br><br>
+<strong>Método Get mediante id:</strong>
+<img src="Img/user_api16.png" alt="user api 16">
+<img src="Img/user_api17.png" alt="user api 17">
+<br><br>
+<strong>Método Put mediante id:</strong>
+<img src="Img/user_api18.png" alt="user api 18">
+<img src="Img/user_api19.png" alt="user api 19">
+<img src="Img/user_api20.png" alt="user api 20">
+<img src="Img/user_api21.png" alt="user api 21">
+<br><br>
+<strong>Método Delete:</strong>
+<img src="Img/user_api22.png" alt="user api 22">
+<img src="Img/user_api23.png" alt="user api 23">
+<img src="Img/user_api25.png" alt="user api 25">
+
+<br>
+<strong>Funciones de horarios de los dentistas:</strong>
+<img src="Img/user_api26.png" alt="user api 26">
+
+<br><br>
+<strong>Método Post:</strong>
+<img src="Img/user_api27.png" alt="user api 27">
+<img src="Img/user_api28.png" alt="user api 28">
+<img src="Img/user_api29.png" alt="user api 29">
+<img src="Img/user_api30.png" alt="user api 30">
+
+<br><br>
+<strong>Método Get:</strong>
+<img src="Img/user_api31.png" alt="user api 31">
+<img src="Img/user_api32.png" alt="user api 32">
+<img src="Img/user_api33.png" alt="user api 33">
+
+<br><br>
+<strong>Método Get mediante id:</strong>
+<img src="Img/user_api34.png" alt="user api 34">
+<img src="Img/user_api35.png" alt="user api 35">
+
+<br><br>
+<strong>Método Delete:</strong>
+<img src="Img/user_api36.png" alt="user api 36">
+<img src="Img/user_api37.png" alt="user api 37">
+
+<br>
+<strong>Funciones de las historias clínicas:</strong>
+<img src="Img/user_api49.png" alt="user api 49">
+
+<br><br>
+<strong>Método Post:</strong>
+<img src="Img/user_api42.png" alt="user api 42">
+<img src="Img/user_api43.png" alt="user api 43">
+
+<br><br>
+<strong>Método Get:</strong>
+<img src="Img/user_api44.png" alt="user api 44">
+<img src="Img/user_api45.png" alt="user api 45">
+
+<br><br>
+<strong>Método Get mediante id:</strong>
+<img src="Img/user_api46.png" alt="user api 46">
+<img src="Img/user_api47.png" alt="user api 47">
+
+<br>
+<strong>Funciones de los mensajes de soporte:</strong>
+<img src="Img/user_api50.png" alt="user api 50">
+
+<br><br>
+<strong>Método Post:</strong>
+<img src="Img/user_api38.png" alt="user api 38">
+<img src="Img/user_api39.png" alt="user api 39">
+
+<br><br>
+<strong>Método Get mediante id:</strong>
+<img src="Img/user_api40.png" alt="user api 40">
+<img src="Img/user_api41.png" alt="user api 41">
+
+<br>
+<strong>Funciones de inventario:</strong>
+<img src="Img/user_api51.png" alt="user api 51">
+
+<br><br>
+<strong>Método Post:</strong>
+<img src="Img/user_api52.png" alt="user api 52">
+<img src="Img/user_api53.png" alt="user api 53">
+
+<br><br>
+<strong>Método Get:</strong>
+<img src="Img/user_api54.png" alt="user api 54">
+<img src="Img/user_api55.png" alt="user api 55">
+
+<br><br>
+<strong>Método Get mediante id:</strong>
+<img src="Img/user_api56.png" alt="user api 56">
+<img src="Img/user_api57.png" alt="user api 57">
+
+<br><br>
+<strong>Método Put mediante id:</strong>
+<img src="Img/user_api58.png" alt="user api 58">
+<img src="Img/user_api59.png" alt="user api 59">
+
+<br><br>
+<strong>Método Delete:</strong>
+<img src="Img/user_api60.png" alt="user api 60">
+<img src="Img/user_api61.png" alt="user api 61">
+
+<br>
+<strong>Funciones de pagos:</strong>
+<img src="Img/user_api63.png" alt="user api 63">
+
+<br><br>
+<strong>Método Post:</strong>
+<img src="Img/user_api64.png" alt="user api 64">
+<img src="Img/user_api65.png" alt="user api 65">
+
+<br><br>
+<strong>Método Get:</strong>
+<img src="Img/user_api66.png" alt="user api 66">
+<img src="Img/user_api67.png" alt="user api 67">
+
+<br><br>
+<strong>Método Get mediante id:</strong>
+<img src="Img/user_api68.png" alt="user api 68">
+<img src="Img/user_api69.png" alt="user api 69">
+
+<br><br>
+<strong>Método Put mediante id:</strong>
+<img src="Img/user_api70.png" alt="user api 70">
+<img src="Img/user_api71.png" alt="user api 71">
+
+<br><br>
+<strong>Método Delete:</strong>
+<img src="Img/user_api72.png" alt="user api 72">
+<img src="Img/user_api73.png" alt="user api 73">
+
+<br>
+<strong>Funciones de pacientes:</strong>
+<img src="Img/user_api62.png" alt="user api 62">
+
+<br>
+<strong>Funciones de citas:</strong>
+<img src="Img/user_api74.png" alt="user api 74">
 
 
 <br>
@@ -3611,54 +3835,35 @@ Link del video (Backend): <a href=""></a>
 
 
 <div id='5.2.4.6.'><h5> 5.2.4.6. Services Documentation Evidence for Sprint Review. </h5></div>
-Para este cuarto sprint usamos la versión de nuestro servicio desarrollado en c#.
+Para este cuarto sprint usamos la versión de nuestro servicio desarrollado en c#.<br><br>
 
-<table class="tg"><thead>
-  <tr>
-    <th class="tg-0pky" colspan="2">Endpoint </th>
-    <th class="tg-0pky" colspan="4">Details</th>
-  </tr></thead>
-<tbody>
-  
-  <tr>
-    <td class="tg-0pky" colspan="2">-</td>
-    <td class="tg-0pky" colspan="4">-</td>
-  </tr>
-
-  <tr>
-    <td class="tg-0pky" colspan="2"></td>
-    <td class="tg-0pky" colspan="4"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Repository</td>
-    <td class="tg-0pky">Branch</td>
-    <td class="tg-0pky">Commit Id</td>
-    <td class="tg-0pky">Commit message</td>
-    <td class="tg-0pky">Commit message body</td>
-    <td class="tg-0pky">Commited on (Date)</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a href="https://github.com/TF-AplicacionesWeb/BackEnd">https://github.com/TF-AplicacionesWeb/BackEnd</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">-</td>
-    <td class="tg-0pky">-</td>
-    <td class="tg-0pky">-</td>
-    <td class="tg-0pky">-</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><a href="https://github.com/TF-AplicacionesWeb/BackEnd">https://github.com/TF-AplicacionesWeb/BackEnd</a></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky">-</td>
-    <td class="tg-0pky">-</td>
-    <td class="tg-0pky">-</td>
-    <td class="tg-0pky">-</td>
-  </tr>
-
-</tbody></table>
+| **Endpoint** | **Details** |
+|--------------|-------------|
+| users            | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/users. En el caso del método GET, se desarrollaron dos variantes: una para obtener los datos de un usuario específico mediante su id, y otra para recuperar la lista completa de usuarios. El método PUT permite actualizar la información de un usuario mediante su id, mientras que el método POST se utiliza para crear un nuevo usuario a través de los datos proporcionados en el cuerpo de la solicitud (request body). Por último, el método DELETE permite eliminar un usuario específico mediante su id.         |
+| dentists            | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint de /api/dentists. El método GET tiene dos variantes: una para obtener la lista completa de dentistas y otra para recuperar la información específica de un dentista mediante su id. El método POST se utiliza para crear un nuevo registro de dentista a partir de los datos enviados en el cuerpo de la solicitud (request body). El método PUT permite actualizar la información de un dentista específico mediante su id, mientras que el método DELETE se encarga de eliminar un registro de dentista también a través de su id.           |
+| schedule_dentists            | Se implementaron los métodos HTTP GET, POST y DELETE para el endpoint /api/schedule_dentists. El método GET tiene dos variantes: una para obtener la lista completa de horarios registrados y otra para recuperar la información de un horario específico mediante su id. El método POST se utiliza para crear un nuevo horario para un dentista, enviando los datos en el cuerpo de la solicitud (request body). Finalmente, el método DELETE permite eliminar un horario específico mediante su id.           |
+| clinical_records            | Se implementaron los métodos HTTP GET y POST para el endpoint /api/clinical_records. El método POST se utiliza para crear un nuevo historial clínico, enviando los datos necesarios en el cuerpo de la solicitud (request body). El método GET tiene dos variantes: una para obtener la lista completa de historiales clínicos y otra para obtener la información específica de un historial clínico mediante su id.            |
+| inventory            | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/inventory. El método GET permite obtener la lista completa de productos del inventario o consultar información específica de un producto mediante su id. El método POST se utiliza para agregar un nuevo producto al inventario, enviando los datos correspondientes en el cuerpo de la solicitud (request body). El método PUT permite actualizar la información de un producto existente en el inventario mediante su id, mientras que el método DELETE se encarga de eliminar un producto del inventario a través de su id.           |
+| patients            | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/patients. El método GET tiene dos variantes: una para obtener la lista completa de pacientes y otra para recuperar la información de un paciente específico mediante su id. El método POST se utiliza para agregar un nuevo paciente al sistema, enviando los datos correspondientes en el cuerpo de la solicitud (request body). El método PUT permite actualizar la información de un paciente existente mediante su id, mientras que el método DELETE se encarga de eliminar un paciente del sistema a través de su id.           |
+| payments            | Se implementaron los métodos HTTP GET, POST, PUT y DELETE para el endpoint /api/payments. El método GET permite obtener la lista completa de pagos realizados, mientras que la variante GET por id recupera la información de un pago específico utilizando su id. El método POST se utiliza para registrar un nuevo pago, enviando los detalles correspondientes en el cuerpo de la solicitud (request body). El método PUT permite actualizar la información de un pago existente mediante su id, y el método DELETE se encarga de eliminar un pago a través de su id.           |
+| support_message            | Se implementaron los métodos HTTP POST y GET para el endpoint /api/support-message. El método POST se utiliza para crear un nuevo mensaje de soporte, enviando los datos necesarios en el cuerpo de la solicitud (request body). Por otro lado, el método GET permite obtener la información de un mensaje de soporte específico mediante su id.            |
+| appointments            | Se implementaron los métodos HTTP GET, POST y DELETE para el endpoint /api/appointments. El método GET permite obtener la lista completa de citas programadas, mientras que la variante GET por id recupera la información de una cita específica mediante su id. El método POST se utiliza para crear una nueva cita, enviando los datos necesarios en el cuerpo de la solicitud (request body). Por último, el método DELETE se encarga de eliminar una cita existente utilizando su id.           |
 
 
+**Commit Information**
 
-<div id='5.2.3.7.'><h5> 5.2.4.7. Software Deployment Evidence for Sprint Review.</h5></div>
+| **Repository** | **Branch** | **Commit Id** | **Commit message** | **Commit message body** | **Committed on (Date)** |
+|----------------|------------|---------------|--------------------|-------------------------|-------------------------|
+| [https://github.com/TF-AplicacionesWeb/BackEnd](https://github.com/TF-AplicacionesWeb/BackEnd) | feature-clinical-records          | 4355aade71d1cd9c97c27f345759e170f703d1bf             | Clinical records feature | Clinical records endpoint has been finished | 14/11/24                       |
+| [https://github.com/TF-AplicacionesWeb/BackEnd](https://github.com/TF-AplicacionesWeb/BackEnd) | feature-inventory          | be8221b33f69f02328e82cb3f5633dbd3b897f5c             | Feature inventory | Feature inventory | 14/11/24 |
+| [https://github.com/TF-AplicacionesWeb/BackEnd](https://github.com/TF-AplicacionesWeb/BackEnd) | feature-patients          | faa54a6f480606b75e03ad02045910c7795ef495             | Feature patients  | Feature patients   | 14/11/24                       |
+| [https://github.com/TF-AplicacionesWeb/BackEnd](https://github.com/TF-AplicacionesWeb/BackEnd) | feature-payments          | 24bc17995215fdcaf540ef880e49c3bd84f72dff             | Feature payments | Feature payments  | 14/11/24                       |
+| [https://github.com/TF-AplicacionesWeb/BackEnd](https://github.com/TF-AplicacionesWeb/BackEnd) | feature-support          | 6da76263e1d6bdacb1fa601f687aeadc5788b7cd             | Support message feature   | Support-message endpoint has been finished with post and get by id CRUDs | 14/11/24                       |
+| [https://github.com/TF-AplicacionesWeb/BackEnd](https://github.com/TF-AplicacionesWeb/BackEnd) | fix-feature-dentists          | 43235ea67b25ce515476de757adc4ebe20275a00             | Fixed delete by id CRUD in schedule dentist endpoint | Fixed delete by id CRUD in schedule dentist endpoint | 14/11/24  |
+| [https://github.com/TF-AplicacionesWeb/BackEnd](https://github.com/TF-AplicacionesWeb/BackEnd) | fix-feature-user          | 408574623a96e3dd0ce6dea1a77e32993c4a1b88             | Fix feature user | Fix feature user| 14/11/24                       |
+| [https://github.com/TF-AplicacionesWeb/BackEnd](https://github.com/TF-AplicacionesWeb/BackEnd) | feature-appointments          | 2960b8b9ff88f3e9b6e81c2c2db6764104a26162             | Feature appointments | Feature appointments| 14/11/24                       |
+
+<div id='5.2.4.7.'><h5> 5.2.4.7. Software Deployment Evidence for Sprint Review.</h5></div>
 <br><br>
 
 <strong>Evidencia de despliegue en Github Pages:</strong>
