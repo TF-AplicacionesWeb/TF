@@ -3825,9 +3825,60 @@ A continuación se mostrarán capturas de pantallas así como el vídeo de la ej
 <strong>Funciones de pacientes:</strong>
 <img src="Img/user_api62.png" alt="user api 62">
 
-<br>
+<br><br>
+<strong>Método Post:</strong>
+<img src="Img/user_api84.png" alt="user api 84">
+<img src="Img/user_api85.png" alt="user api 85">
+
+<br><br>
+<strong>Método Get:</strong>
+<img src="Img/user_api86.png" alt="user api 86">
+<img src="Img/user_api87.png" alt="user api 87">
+
+<br><br>
+<strong>Método Get mediante id</strong>
+<img src="Img/user_api88.png" alt="user api 88">
+<img src="Img/user_api89.png" alt="user api 89">
+
+<br><br>
+<strong>Método Put mediante id</strong>
+<img src="Img/user_api90.png" alt="user api 90">
+<img src="Img/user_api91.png" alt="user api 91">
+
+<br><br>
+<strong>Método Delete mediante id</strong>
+<img src="Img/user_api94.png" alt="user api 94">
+<img src="Img/user_api95.png" alt="user api 95">
+
+<br> 
 <strong>Funciones de citas:</strong>
 <img src="Img/user_api74.png" alt="user api 74">
+
+<br><br>
+<strong>Método Post:</strong>
+<img src="Img/user_api76.png" alt="user api 76">
+<img src="Img/user_api77.png" alt="user api 77">
+
+<br><br>
+<strong>Método Get:</strong>
+<img src="Img/user_api78.png" alt="user api 78">
+<img src="Img/user_api79.png" alt="user api 79">
+
+<br><br>
+<strong>Método Get mediante id:</strong>
+<img src="Img/user_api80.png" alt="user api 80">
+<img src="Img/user_api81.png" alt="user api 81">
+
+<br><br>
+<strong>Método Put mediante id:</strong>
+<img src="Img/user_api82.png" alt="user api 82">
+<img src="Img/user_api83.png" alt="user api 83">
+
+<br><br>
+<strong>Método Delete:</strong>
+<img src="Img/user_api92.png" alt="user api 92">
+<img src="Img/user_api93.png" alt="user api 93">
+
 
 
 <br>
