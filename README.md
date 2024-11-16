@@ -3881,7 +3881,7 @@ A continuación se mostrarán capturas de pantallas así como el vídeo de la ej
 
 
 <br>
-Link del video (Backend): <a href=""></a>
+Link del video (Backend): <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/ESJINuIaOx5GiQ_dyD2w6TUBK__IXKI_jfHSAV83uHvFkw?e=nvKgwL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/ESJINuIaOx5GiQ_dyD2w6TUBK__IXKI_jfHSAV83uHvFkw?e=nvKgwL&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
 
 <div id='5.2.4.6.'><h5> 5.2.4.6. Services Documentation Evidence for Sprint Review. </h5></div>
@@ -3945,7 +3945,7 @@ Durante este esprint, se utilizo Azure como plataforma de despliegue para el bac
 <br><br>
 <img src="Img/azure.png" alt="azure">
 
-**Link video:** <a href=""></a> 
+**Link video:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EXYfYXq4TehAv3WXFYmZ1PIBRUyiTloDznEaywzc49z7lg?e=l8JaXA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EXYfYXq4TehAv3WXFYmZ1PIBRUyiTloDznEaywzc49z7lg?e=l8JaXA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a> 
 
 
 <div id='5.2.4.8.'><h5> 5.2.4.8. Team Collaboration Insights during Sprint. </h5></div>
