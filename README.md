@@ -3931,13 +3931,20 @@ Durante este sprint, se utilizó FireBase como plataforma de despliegue para la 
 
 <img src="Img/aw4.png" alt="Login">
 <img src="Img/aw5.png" alt="Register">
+<img src="Img/aw6.png" alt="Dashboard">
+<img src="Img/aw7.png" alt="Appointment">
+<img src="Img/aw8.png" alt="Patients">
+<img src="Img/aw9.png" alt="Payments">
+<img src="Img/aw10.png" alt="Specialists">
+<img src="Img/aw12.png" alt="Support">
+<img src="Img/aw13.png" alt="Metrics">
+<img src="Img/aw14.png" alt="Profile">
+
 
 <br>
 
-**Link de Landing Page:** <a href="https://tf-aplicacionesweb.github.io/Landing_Page/">https://tf-aplicacionesweb.github.io/Landing_Page/</a>
-<br>
-**Link de Web app:** <a href="https://dentify-cf907.web.app/">https://dentify-cf907.web.app/</a>
 
+**Link de Web app:** <a href="https://dentify-a50f5.web.app/">https://dentify-a50f5.web.app/</a>
 <br><br>
 <strong>Evidencia de despliegue en Azure:</strong>
 Durante este esprint, se utilizo Azure como plataforma de despliegue para el backend de Dentify.
@@ -3945,8 +3952,11 @@ Durante este esprint, se utilizo Azure como plataforma de despliegue para el bac
 <br><br>
 <img src="Img/azure.png" alt="azure">
 
+**Link de despliegue del Web Service:** <a href="https://app-241115201629.azurewebsites.net/swagger/index.html">https://app-241115201629.azurewebsites.net/swagger/index.html</a>
+
 **Link video:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EXYfYXq4TehAv3WXFYmZ1PIBRUyiTloDznEaywzc49z7lg?e=l8JaXA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EXYfYXq4TehAv3WXFYmZ1PIBRUyiTloDznEaywzc49z7lg?e=l8JaXA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a> 
 
+**Link video de despliegue de ambas capas:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/EWw3uKC3tUVHrj2qo3LxCKMBwidr4b_bFCc-M55RgX1DZQ?e=RRmQ8q">Click Aqui</a>
 
 <div id='5.2.4.8.'><h5> 5.2.4.8. Team Collaboration Insights during Sprint. </h5></div>
 
@@ -4422,10 +4432,11 @@ Boucher, J., & Esposito, D. (2019). Vue.js 2 and Bootstrap 4 Web Development. Pa
 | Descripción                           | Enlace                                                                                                                                                                                              |
 |---------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Repositorio de Aplicación Web         | [https://github.com/TF-AplicacionesWeb/Dentify](https://github.com/TF-AplicacionesWeb/Dentify)                                                                                                    |
-| Despliegue de Aplicación Web          | - |
+| Despliegue de Aplicación Web          | [https://dentify-a50f5.web.app/](https://dentify-a50f5.web.app/) |
 | Repositorio de Landing Page           | [https://github.com/TF-AplicacionesWeb/Landing_Page/](https://github.com/TF-AplicacionesWeb/Landing_Page/)                                                                                         |
 | Despliegue de Landing Page            | [https://tf-aplicacionesweb.github.io/Landing_Page/](https://tf-aplicacionesweb.github.io/Landing_Page/)                                                                                             |
-| Repositorio de Web Service            | [https://github.com/TF-AplicacionesWeb/BackEnd](https://github.com/TF-AplicacionesWeb/BackEnd)                                                                                                     |
+| Repositorio de Web Service            | [https://github.com/TF-AplicacionesWeb/BackEnd](https://github.com/TF-AplicacionesWeb/BackEnd)            
+| Despligue de Web Service               | [https://app-241115201629.azurewebsites.net/swagger/index.html](https://app-241115201629.azurewebsites.net/swagger/index.html) |                                                                                         |
 | Organización de Github                | [https://github.com/TF-AplicacionesWeb/](https://github.com/TF-AplicacionesWeb/)                                                                                                                  |
 | Link de Exposición                    | - |
 
