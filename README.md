@@ -4496,6 +4496,6 @@ Boucher, J., & Esposito, D. (2019). Vue.js 2 and Bootstrap 4 Web Development. Pa
 | Repositorio de Web Service            | [https://github.com/TF-AplicacionesWeb/BackEnd](https://github.com/TF-AplicacionesWeb/BackEnd)            
 | Despligue de Web Service               | [https://app-241115201629.azurewebsites.net/swagger/index.html](https://app-241115201629.azurewebsites.net/swagger/index.html) |                                                                                         |
 | Organización de Github                | [https://github.com/TF-AplicacionesWeb/](https://github.com/TF-AplicacionesWeb/)                                                                                                                  |
-| Link de Exposición                    | - |
+| Link de Exposición                    | [https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/EQE6v2VHjDdMjSLkarR5TqIBtUihCbZ99TU-_DstxKVY-A?e=5ZQo31&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202221876_upc_edu_pe/EQE6v2VHjDdMjSLkarR5TqIBtUihCbZ99TU-_DstxKVY-A?e=5ZQo31&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 
 
