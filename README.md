@@ -3161,6 +3161,60 @@ En este punto abarcaremos las funcionalidades y la evidencia de que pudimos comp
 
 En este tercer Sprint, veremos los archivos .feature relacionados a los user tasks que hemos desarrollado, subidos en el repositorio.
 
+<br>
+**Unit Tests**
+
+<br>
+**Dentist Controller**
+Estas pruebas están diseñadas para verificar el comportamiento y la funcionalidad del Dentist Controller, asegurando que cada método dentro de este controlador cumpla con las expectativas definidas.
+
+
+Verifica que el método de creación de un nuevo dentista en el Dentist Controller devuelva Created Result cuando la operación es exitosa.
+<img src="Img/unit-test-1.png" alt="Services">
+
+Verifica que el método de creación de un nuevo dentista en el Dentist Controller devuelva Bad Request la operación falla.
+<img src="Img/unit-test-2.png" alt="Services">
+
+
+Verifica que el método get by id en el Dentist Controller devuelva Ok Result cuando la operación es exitosa.
+<img src="Img/unit-test-3.png" alt="Services">
+
+Verifica que el método get by id en el Dentist Controller devuelva Not Found cuando la operación es exitosa.
+<img src="Img/unit-test-4.png" alt="Services">
+
+Verifica que el método get all en el Dentist Controller devuelva Ok Result cuando la operación es exitosa.
+<img src="Img/unit-test-5.png" alt="Services">
+
+Verifica que el método get all en el Dentist Controller devuelva No Content cuando la operación es exitosa.
+<img src="Img/unit-test-6.png" alt="Services">
+
+Verifica que el método update en el Dentist Controller devuelva Ok cuando la operación es exitosa.
+<img src="Img/unit-test-7.png" alt="Services">
+
+Verifica que el método update en el Dentist Controller devuelva Bad Request cuando la operación es exitosa.
+<img src="Img/unit-test-8.png" alt="Services">
+
+Verifica que el método delete en el Dentist Controller devuelva el resultado esperado cuando la operación es exitosa.
+<img src="Img/unit-test-9.png" alt="Services">
+
+<br><br>
+**Schedule Dentist Controller**
+Estas pruebas están diseñadas para verificar el comportamiento y la funcionalidad del Schedule Dentist Controller, asegurando que cada método dentro de este controlador cumpla con las expectativas definidas.
+
+<br>
+Verifica que el método de creación de un nuevo horario en el Schedule Dentist Controller devuelva Created Result cuando la operación es exitosa y Bad Request la operación falla.
+<img src="Img/unit-test-10.png" alt="Services">
+
+Verifica que el método get by id en el Schedule Dentist Controller devuelva Ok Result cuando la operación es exitosa y Not Found cuando la operación es exitosa.
+<img src="Img/unit-test-11.png" alt="Services">
+
+Verifica que el método get all en el Schedule Dentist Controller devuelva Ok Result cuando la operación es exitosa y No Content cuando la operación es exitosa.
+<img src="Img/unit-test-12.png" alt="Services">
+
+Verifica que el método delete en el Schedule Dentist Controller devuelva el resultado esperado cuando la operación es exitosa.
+<img src="Img/unit-test-13.png" alt="Services">
+
+
 <table><thead>
   <tr>
     <th>&nbsp;&nbsp;&nbsp;<br>Repository&nbsp;&nbsp;&nbsp;</th>
@@ -3675,6 +3729,86 @@ En este punto abarcaremos las funcionalidades y la evidencia de que pudimos comp
 <div id='5.2.4.4.'><h5> 5.2.4.4. Testing Suite Evidence for Sprint Review. </h5></div>
 
 En este cuarto Sprint, veremos los archivos .feature relacionados a los user tasks que hemos desarrollado, subidos en el repositorio.
+
+
+<br>
+**Unit Tests**
+
+<br>
+**Dentist Controller**
+Estas pruebas están diseñadas para verificar el comportamiento y la funcionalidad del Dentist Controller, asegurando que cada método dentro de este controlador cumpla con las expectativas definidas.
+
+
+Verifica que el método de creación de un nuevo dentista en el Dentist Controller devuelva Created Result cuando la operación es exitosa.
+<img src="Img/unit-test-1.png" alt="Services">
+
+Verifica que el método de creación de un nuevo dentista en el Dentist Controller devuelva Bad Request la operación falla.
+<img src="Img/unit-test-2.png" alt="Services">
+
+
+Verifica que el método get by id en el Dentist Controller devuelva Ok Result cuando la operación es exitosa.
+<img src="Img/unit-test-3.png" alt="Services">
+
+Verifica que el método get by id en el Dentist Controller devuelva Not Found cuando la operación es exitosa.
+<img src="Img/unit-test-4.png" alt="Services">
+
+Verifica que el método get all en el Dentist Controller devuelva Ok Result cuando la operación es exitosa.
+<img src="Img/unit-test-5.png" alt="Services">
+
+Verifica que el método get all en el Dentist Controller devuelva No Content cuando la operación es exitosa.
+<img src="Img/unit-test-6.png" alt="Services">
+
+Verifica que el método update en el Dentist Controller devuelva Ok cuando la operación es exitosa.
+<img src="Img/unit-test-7.png" alt="Services">
+
+Verifica que el método update en el Dentist Controller devuelva Bad Request cuando la operación es exitosa.
+<img src="Img/unit-test-8.png" alt="Services">
+
+Verifica que el método delete en el Dentist Controller devuelva el resultado esperado cuando la operación es exitosa.
+<img src="Img/unit-test-9.png" alt="Services">
+
+<br><br>
+**Schedule Dentist Controller**
+Estas pruebas están diseñadas para verificar el comportamiento y la funcionalidad del Schedule Dentist Controller, asegurando que cada método dentro de este controlador cumpla con las expectativas definidas.
+
+<br>
+Verifica que el método de creación de un nuevo horario en el Schedule Dentist Controller devuelva Created Result cuando la operación es exitosa y Bad Request la operación falla.
+<img src="Img/unit-test-10.png" alt="Services">
+
+Verifica que el método get by id en el Schedule Dentist Controller devuelva Ok Result cuando la operación es exitosa y Not Found cuando la operación es exitosa.
+<img src="Img/unit-test-11.png" alt="Services">
+
+Verifica que el método get all en el Schedule Dentist Controller devuelva Ok Result cuando la operación es exitosa y No Content cuando la operación es exitosa.
+<img src="Img/unit-test-12.png" alt="Services">
+
+Verifica que el método delete en el Schedule Dentist Controller devuelva el resultado esperado cuando la operación es exitosa.
+<img src="Img/unit-test-13.png" alt="Services">
+
+<br><br>
+**Clinical Record Controller**
+Estas pruebas están diseñadas para verificar el comportamiento y la funcionalidad del Clinical Record Controller, asegurando que cada método dentro de este controlador cumpla con las expectativas definidas.
+
+<br>
+Verifica que el método de creación de una nueva historia clínica en el Clinical Record Controller devuelva Created Result cuando la operación es exitosa y Bad Request la operación falla.
+<img src="Img/unit-test-14.png" alt="Services">
+
+Verifica que el método get by id en el Clinical Record Controller devuelva Ok Result cuando la operación es exitosa y Not Found cuando la operación es exitosa.
+<img src="Img/unit-test-15.png" alt="Services">
+
+Verifica que el método get all en el Clinical Record Controller devuelva Ok Result cuando la operación es exitosa y No Content cuando la operación es exitosa.
+<img src="Img/unit-test-16.png" alt="Services">
+
+<br><br>
+**Support Message Controller**
+Estas pruebas están diseñadas para verificar el comportamiento y la funcionalidad del Support Message Controller, asegurando que cada método dentro de este controlador cumpla con las expectativas definidas.
+
+<br>
+Verifica que el método de creación de un nuevo mensaje de soporte en el Support Message Controller devuelva Created Result cuando la operación es exitosa y Bad Request la operación falla.
+<img src="Img/unit-test-17.png" alt="Services">
+
+Verifica que el método get by id en el Support Message Controller devuelva Ok Result cuando la operación es exitosa y Not Found cuando la operación es exitosa.
+<img src="Img/unit-test-18.png" alt="Services">
+<br><br>
 
 <table><thead>
   <tr>
@@ -4414,7 +4548,7 @@ Implementar una opción de cierre de sesión que sea fácilmente visible y acces
     <td>About The Product</td>
     <td>
       <strong>Cantidad de videos</strong>: 1<br>
-      <strong>Nomenclatura</strong>: upc-pre-202402-s1730-SI91-Dentify-about-the-product-sprint-1<br>
+      <strong>Nomenclatura</strong>: upc-pre-202402-s1730-SI91-Dentify-about-the-product-sprint-3<br>
       <strong>Formato</strong>: .mp4<br>
       <strong>Duración</strong>: 1:48 min
     </td>
@@ -4423,9 +4557,9 @@ Implementar una opción de cierre de sesión que sea fácilmente visible y acces
     </td>
     <td>
       Screenshot: <br>
-      <img src="Img/product.png" alt="ATP" style="width: 200px;"><br>
-      Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EYeXAEWazRlBnGPilP2urO0B1vyPYYOgYEcaerFmsqiP8w?e=o2G467&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202224149_upc_edu_pe/EYeXAEWazRlBnGPilP2urO0B1vyPYYOgYEcaerFmsqiP8w?e=o2G467&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
-      Link (YouTube) : <a href="https://youtu.be/TZLUsXcG8QU">https://youtu.be/TZLUsXcG8QU</a>	
+      <img src="Img/screen-video-about-the-product.png" alt="ATP" style="width: 200px;"><br>
+      Link: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/Ed92MQEFultEnpa5T64gA0IBlRB6WJjBxzC0Y1OoLxWbNg?e=Ge8Glr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g522_upc_edu_pe/Ed92MQEFultEnpa5T64gA0IBlRB6WJjBxzC0Y1OoLxWbNg?e=Ge8Glr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+      Link (YouTube) : <a href="https://youtu.be/duR1XmKuMbI">https://youtu.be/duR1XmKuMbI</a>	
     </td>
   </tr>
   </table>
