@@ -1323,43 +1323,43 @@ El "Product Backlog" es una herramienta esencial en la metodología ágil de des
 
 | # Orden | User story ID | Título                | Description                                                                 | Story points (1,2,3,5,8,13) |
 |---------|----------------|-----------------------|-----------------------------------------------------------------------------|--------------|
-|01| US01|Registrar usuario|Como personal del consultorio, quiero registrarme en la aplicación para acceder a los servicios.|5|
-|02|US02|Iniciar sesión|Como personal de consultorio, quiero iniciar sesión en la aplicación para acceder a mi cuenta.|5|
-|03|US03| Gestionar citas|Como personal administrativo, quiero programar una cita en el sistema para distribuir eficientemente las consultas.|5|
-|04|US04|Recordatorio de cita|Como personal del consultorio, quiero recibir recordatorios de la cita para coordinar y asegurar que todo esté listo para las citas programadas.|5|
-|05|US05|Gestionar historias clínicas|Como personal odontológico, quiero acceder y actualizar las historias clínicas de las pacientes para asegurar que la información esté disponible durante las consultas.|5|
+|01| US01|Registrar usuario|Como personal del consultorio, quiero registrarme en la aplicación para acceder a los servicios.|4|
+|02|US02|Iniciar sesión|Como personal de consultorio, quiero iniciar sesión en la aplicación para acceder a mi cuenta.|3|
+|03|US03| Gestionar citas|Como personal administrativo, quiero programar una cita en el sistema para distribuir eficientemente las consultas.|3|
+|04|US04|Recordatorio de cita|Como personal del consultorio, quiero recibir recordatorios de la cita para coordinar y asegurar que todo esté listo para las citas programadas.|4|
+|05|US05|Gestionar historias clínicas|Como personal odontológico, quiero acceder y actualizar las historias clínicas de las pacientes para asegurar que la información esté disponible durante las consultas.|4|
 |06|US06|Pagar tratamiento|Como personal administrativo, quiero registrar y procesar el pago de un tratamiento para asegurar que la transacción quede registrada.|5|
-|07|US07|Historial de pagos|Como personal administrativo, quiero visualizar las facturas de los pagos registrados en el sistema para realizar un seguimiento eficiente.|5|
-|08|US08|Buscar citas|Como personal administrativo, quiero buscar citas por fecha, paciente o dentista para gestionar fácilmente las citas registradas.|5|
+|07|US07|Historial de pagos|Como personal administrativo, quiero visualizar las facturas de los pagos registrados en el sistema para realizar un seguimiento eficiente.|2|
+|08|US08|Buscar citas|Como personal administrativo, quiero buscar citas por fecha, paciente o dentista para gestionar fácilmente las citas registradas.|2|
 |09|US09|Buscar historia clínica | Como personal odontológico, quiero buscar la historia clínica del paciente para acceder inmediatamente a la información médica relevante.|5|
-|10|US10|Menú |Como personal del consultorio,quiero acceder a un menú de navegación organizado para gestionar de manera eficiente información relevante del consultorio|5|
-|11|US11|Soporte|Como personal del consultorio, quiero acceder a la sección soporte del sistema para resolver cualquier problema en la aplicación.|5|
+|10|US10|Menú |Como personal del consultorio,quiero acceder a un menú de navegación organizado para gestionar de manera eficiente información relevante del consultorio|2|
+|11|US11|Soporte|Como personal del consultorio, quiero acceder a la sección soporte del sistema para resolver cualquier problema en la aplicación.|3|
 |12|US12|Perfil | Como usuario, quiero poder gestionar mi perfil personal en la aplicación para actualizar mis datos y preferencias.|3|
-|13|US13|Gestión del inventario|Como personal administrativo, quiero gestionar el inventario de productos en el consultorio para asegurar que siempre haya suficiente stock de materiales.|5|
+|13|US13|Gestión del inventario|Como personal administrativo, quiero gestionar el inventario de productos en el consultorio para asegurar que siempre haya suficiente stock de materiales.|4|
 |14|US14|Aumento en la base de datos | Como personal administrativo, necesito adquirir un mayor almacenamiento para administrar los datos de mi consultoría.|5|
-|15|US15|Métricas e informes | Como administrador, quiero generar y revisar informes de actividades y métricas para evaluar el rendimiento del consultorio y tomar decisiones informadas. | 5|
+|15|US15|Métricas e informes | Como administrador, quiero generar y revisar informes de actividades y métricas para evaluar el rendimiento del consultorio y tomar decisiones informadas. | 4|
 |16|US16|Dashboard |Como personal administrativo, quiero ver un panel de control que muestre un resumen de las actividades y métricas del consultorio para tener una visión general rápida. | 5 |
-|17|US17|Gestion de especialistas |Como administrador, quiero agregar y eliminar especialistas en el sistema para mantener actualizado el personal disponible en el consultorio.|5|
+|17|US17|Gestion de especialistas |Como administrador, quiero agregar y eliminar especialistas en el sistema para mantener actualizado el personal disponible en el consultorio.|4|
 |18|US18|Gestión horarios|Como administrador, quiero actualizar los horarios disponibles de los especialistas para coordinar adecuadamente la programación de citas.|5|
-|19|US19|Menú Principal(Landing Page)|Como visitante quiero visualizar en un navegador atajos importantes hacia los datos de MediTech, sobre quienes son, que ofrecen y sus contactos.|5|
-|20|US20|Sección “Nosotros”|Como visitante quiero saber más sobre MediTech, su producto y las características que definen a la empresa.|5|
-|21|US21|Sección “Servicios”  |Como visitante quiero saber más sobre el producto y las funcionalidades que posee.|5|
-|22|US22|Sección “Información”|Como visitante quiero saber sobre los distintos tipos de medio por donde comunicarme con “Meditech”.|5|
-|23|US23 |Sección “Contacto” | Como visitante al estar interesado en el producto “Dentify”, quiero más información sobre las demás funcionalidades y contactar directamente con Meditech para dar a conocer mi posible adquisición del producto.|5|
-|24|TS001|Implementar Registro de Usuario|Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita el registro de nuevos usuarios.|5|
-|25|TS002|Implementar Inicio de Sesión|	Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita a los usuarios iniciar sesión de forma segura.|5|
-|26|TS003|Gestionar Citas|	Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API para que los usuarios puedan gestionar citas.|5|
+|19|US19|Menú Principal(Landing Page)|Como visitante quiero visualizar en un navegador atajos importantes hacia los datos de MediTech, sobre quienes son, que ofrecen y sus contactos.|3|
+|20|US20|Sección “Nosotros”|Como visitante quiero saber más sobre MediTech, su producto y las características que definen a la empresa.|2|
+|21|US21|Sección “Servicios”  |Como visitante quiero saber más sobre el producto y las funcionalidades que posee.|2|
+|22|US22|Sección “Información”|Como visitante quiero saber sobre los distintos tipos de medio por donde comunicarme con “Meditech”.|1|
+|23|US23 |Sección “Contacto” | Como visitante al estar interesado en el producto “Dentify”, quiero más información sobre las demás funcionalidades y contactar directamente con Meditech para dar a conocer mi posible adquisición del producto.|2|
+|24|TS001|Implementar Registro de Usuario|Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita el registro de nuevos usuarios.|2|
+|25|TS002|Implementar Inicio de Sesión|	Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita a los usuarios iniciar sesión de forma segura.|3|
+|26|TS003|Gestionar Citas|	Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API para que los usuarios puedan gestionar citas.|4|
 |27|TS004|Implementar Recordatorio de Citas	|Como desarrollador que trabaja en la aplicación de Meditech, quiero crear un sistema de recordatorio de citas que envíe notificaciones a los pacientes.|5|
-|28|TS005|Gestionar Historial Clínico	| Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API para gestionar el historial clínico de los pacientes.|5|
+|28|TS005|Gestionar Historial Clínico	| Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API para gestionar el historial clínico de los pacientes.|4|
 |29|TS006 | Pagar Tratamiento	| Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita procesar pagos de tratamientos.|5|
-|30|TS007|Historial de Pagos	| Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API que muestre el historial de pagos de un paciente.|5|
-|31|TS008|	Buscar Citas	|Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita buscar citas programadas por paciente o por fecha.|5|
-|32|TS009|	Buscar Historial Clínico	|Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una funcionalidad que permita buscar el historial clínico de los pacientes.|5|	
-|33|TS010|	Perfil de Usuario	| Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una página donde los usuarios puedan actualizar su perfil.	|5|
-|34|TS011|	Gestionar Inventario	| Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API para gestionar el inventario de productos utilizados en los tratamientos odontológicos.|5|
+|30|TS007|Historial de Pagos	| Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API que muestre el historial de pagos de un paciente.|3|
+|31|TS008|	Buscar Citas	|Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita buscar citas programadas por paciente o por fecha.|3|
+|32|TS009|	Buscar Historial Clínico	|Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una funcionalidad que permita buscar el historial clínico de los pacientes.|4|	
+|33|TS010|	Perfil de Usuario	| Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una página donde los usuarios puedan actualizar su perfil.	|2|
+|34|TS011|	Gestionar Inventario	| Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API para gestionar el inventario de productos utilizados en los tratamientos odontológicos.|4|
 |35|TS012|	Métricas e Informes	| Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API para generar métricas e informes de rendimiento de los odontólogos y citas.|5|
 |36|TS013|	Dashboard	|Como desarrollador que trabaja en la aplicación de Meditech, quiero crear un dashboard que muestre un resumen de citas, pagos y métricas.|5|
-|37|TS014|	Gestión de Odontólogos	|Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una funcionalidad para gestionar la información de los odontólogos.|5|
+|37|TS014|	Gestión de Odontólogos	|Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una funcionalidad para gestionar la información de los odontólogos.|4|
 |38|TS015|	Gestión de Horarios|	Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una funcionalidad que permita gestionar los horarios de los odontólogos.|5|
 
 <div id='4.'><h2> CAPÍTULO IV: PRODUCT DESIGN</h2></div>
@@ -3581,7 +3581,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>Crear un dashboard que muestre un resumen de citas, pagos y métricas.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear un dashboard que muestre un resumen de citas, pagos y métricas.&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>7&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>6&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
