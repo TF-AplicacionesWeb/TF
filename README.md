@@ -3462,7 +3462,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>Crear una API para gestionar citas.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API para que los usuarios puedan gestionar citas.&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3472,7 +3472,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>UT02&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>Crear un sistema de recordatorio de citas que envíe notificaciones a los pacientes.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear un sistema de recordatorio de citas que envíe notificaciones a los pacientes.&nbsp;&nbsp;&nbsp;</td> 
-  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>6&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
@@ -3484,7 +3484,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>Implementar una API para gestionar el historial clínico de los pacientes.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API para gestionar el historial clínico de los pacientes.&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3494,7 +3494,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>UT04&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>Implementar una API que permita procesar pagos de tratamientos.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita procesar pagos de tratamientos.&nbsp;&nbsp;&nbsp;</td> 
-  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>6&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Sebastián&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
@@ -3505,8 +3505,8 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>UT05&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>Crear una API que muestre el historial de pagos de un paciente.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API que muestre el historial de pagos de un paciente.&nbsp;&nbsp;&nbsp;</td> 
-  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Sebastián&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3516,8 +3516,8 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>UT06&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>Implementar una API que permita buscar citas programadas por paciente o por fecha.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita buscar citas programadas por paciente o por fecha.&nbsp;&nbsp;&nbsp;</td> 
-  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3528,7 +3528,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>Implementar una funcionalidad que permita buscar el historial clínico de los pacientes.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una funcionalidad que permita buscar el historial clínico de los pacientes.&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3538,8 +3538,8 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>UT08&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>Crear una página donde los usuarios puedan actualizar su perfil.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una página donde los usuarios puedan actualizar su perfil.&nbsp;&nbsp;&nbsp;</td> 
-  <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3550,7 +3550,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>Crear una API para gestionar el inventario de productos utilizados en los tratamientos odontológicos.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API para gestionar el inventario de productos utilizados en los tratamientos odontológicos.&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Sebastián&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3560,8 +3560,8 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>UT10&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>Implementar una API para generar métricas e informes de rendimiento de los odontólogos y citas.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API para generar métricas e informes de rendimiento de los odontólogos y citas.&nbsp;&nbsp;&nbsp;</td> 
-  <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>6&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3571,8 +3571,8 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>UT11&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>Crear un dashboard que muestre un resumen de citas, pagos y métricas.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear un dashboard que muestre un resumen de citas, pagos y métricas.&nbsp;&nbsp;&nbsp;</td> 
-  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>7&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>6&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
