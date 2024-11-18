@@ -2265,6 +2265,7 @@ Para el Sprint #1 nos trazamos como objetivo desarrollar y desplegar una landing
     <td>&nbsp;&nbsp;&nbsp;<br>Title&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Estimación (Hours)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Story points &nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Assigned to&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Status (In&nbsp;&nbsp;&nbsp;-process / To - review / Done)&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2275,6 +2276,7 @@ Para el Sprint #1 nos trazamos como objetivo desarrollar y desplegar una landing
     <td>&nbsp;&nbsp;&nbsp;<br>Página principal de la Landing Page&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración del navegador y sus funcionalidades e implementación del modelo de la página-&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
+	  <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2285,6 +2287,7 @@ Para el Sprint #1 nos trazamos como objetivo desarrollar y desplegar una landing
     <td>&nbsp;&nbsp;&nbsp;<br>Sección de la página llamada "Nosotros"&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de la descripción de la empresa y que lo caracteriza&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+	  <td>&nbsp;&nbsp;&nbsp;<br> 2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Daniel Melgar&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2295,6 +2298,7 @@ Para el Sprint #1 nos trazamos como objetivo desarrollar y desplegar una landing
     <td>&nbsp;&nbsp;&nbsp;<br>Sección de la página llamada "Servicios"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración del contenedor que contiene la información acerca de lo que ofrecemos dentro de nuestro producto &nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+	  <td>&nbsp;&nbsp;&nbsp;<br> 2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elizabeth Huanaco&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2305,6 +2309,7 @@ Para el Sprint #1 nos trazamos como objetivo desarrollar y desplegar una landing
     <td>&nbsp;&nbsp;&nbsp;<br>Sección de la página llamada "Más Información"&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración del pie de página en donde se muestra las redes, información de la empresa y un acceso rápido&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
+	  <td>&nbsp;&nbsp;&nbsp;<br> 1&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Sebastián Bohorquez&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2315,6 +2320,7 @@ Para el Sprint #1 nos trazamos como objetivo desarrollar y desplegar una landing
     <td>&nbsp;&nbsp;&nbsp;<br>Desarrollo de  formulario de contacto&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Funcionalidad para enviar un mensaje y resolver las dudas de los posibles usuarios.&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
+	  <td>&nbsp;&nbsp;&nbsp;<br> 2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Daniel Melgar&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2559,6 +2565,7 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>Title&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Estimación (Hours)&nbsp;&nbsp;&nbsp;</td>
+	  <td>&nbsp;&nbsp;&nbsp;<br>Story Points&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Assigned to&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Status (In&nbsp;&nbsp;&nbsp;-process / To - review / Done)&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2568,7 +2575,8 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT01&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Inicio de sesión en la Aplicación Web&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de la funcionalidad de validación de usuario&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 6&nbsp;&nbsp;&nbsp;</td>
+	  <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2578,7 +2586,8 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT02&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Registro de cuenta en la Aplicación Web&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de la funcionalidad de validación de usuario&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
+	<td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2589,6 +2598,7 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>Gestión de citas en la Aplicación Web&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de la funcionalidad de visualización de un formulario para reserver una cita&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+	<td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Renso Julca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2598,7 +2608,8 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT04&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Gestión de historiales clinicos de los pacientesb&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de la funcionalidad de visualización de los historiales clinicos y pacientes&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 6&nbsp;&nbsp;&nbsp;</td>
+	  <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2608,7 +2619,8 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT05&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Gestión de historiales de pagos&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de la funcionalidad de visualización de los pagos &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
+	<td>&nbsp;&nbsp;&nbsp;<br> 2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Sebastián Bohorquez&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2618,7 +2630,8 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT06&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Gestión de las funcionalidades en general&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de una barra navegación para acceder a las funcionalidades &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
+	<td>&nbsp;&nbsp;&nbsp;<br> 2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2629,6 +2642,7 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>Gestión de los mensajes a soporte técnico&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de un formulario para comunicarte con el soporte técnico de la empresa &nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+	<td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Daniel Jimenez &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2638,7 +2652,8 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT08&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Gestión de descripción de la cuenta&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de funcionalidad para cambiar datos de la cuenta &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
+	<td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth Huanaco &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2648,7 +2663,8 @@ Para el Sprint #2 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT09&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Gestión de datos generales de la empresa&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de funcionalidad para gestionar y ver las actividades de la empresa &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 7&nbsp;&nbsp;&nbsp;</td>
+	<td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Sebastián Bohorquez &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2951,8 +2967,8 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT01&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Recordatorio de Citas&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como personal del consultorio, quiero recibir recordatorios de la cita para coordinar y asegurar que todo esté listo para las citas programadas.&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 7&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 6&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2973,8 +2989,8 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT03&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Buscar Citas&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como personal administrativo, quiero buscar citas por fecha, paciente o dentista para gestionar fácilmente las citas registradas.&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2985,7 +3001,7 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>Gestión del inventario&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como personal administrativo, quiero gestionar el inventario de productos en el consultorio para asegurar que siempre haya suficiente stock de materiales.&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Sebastián&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2995,8 +3011,8 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT05&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Métricas e Informes&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero generar y revisar informes de actividades y métricas para evaluar el rendimiento del consultorio y tomar decisiones informadas.&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 6&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Renso&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>In Progress&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -3006,8 +3022,8 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT06&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Gestión de Especialistas&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero agregar y eliminar especialistas en el sistema para mantener actualizado el personal disponible en el consultorio.&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 7&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 6&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -3017,8 +3033,8 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT07&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Registro de Usuario&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero registrar usuarios mediante una API. &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -3029,7 +3045,7 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>Inicio de Sesión de Usuario&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero obtener los datos de los usuarios validando mediante parametros por medio de una API. &nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -3039,8 +3055,8 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT09&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Gestor de dentistas&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero obtener los datos de los dentistas validando mediante parametros por medio de una API. &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 7&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 6&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -3455,7 +3471,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>Crear una API para gestionar citas.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API para que los usuarios puedan gestionar citas.&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3465,7 +3481,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>UT02&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>Crear un sistema de recordatorio de citas que envíe notificaciones a los pacientes.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear un sistema de recordatorio de citas que envíe notificaciones a los pacientes.&nbsp;&nbsp;&nbsp;</td> 
-  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>6&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
@@ -3477,7 +3493,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>Implementar una API para gestionar el historial clínico de los pacientes.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API para gestionar el historial clínico de los pacientes.&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3487,7 +3503,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>UT04&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>Implementar una API que permita procesar pagos de tratamientos.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita procesar pagos de tratamientos.&nbsp;&nbsp;&nbsp;</td> 
-  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>6&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Sebastián&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
@@ -3498,8 +3514,8 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>UT05&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>Crear una API que muestre el historial de pagos de un paciente.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API que muestre el historial de pagos de un paciente.&nbsp;&nbsp;&nbsp;</td> 
-  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Sebastián&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3509,8 +3525,8 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>UT06&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>Implementar una API que permita buscar citas programadas por paciente o por fecha.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API que permita buscar citas programadas por paciente o por fecha.&nbsp;&nbsp;&nbsp;</td> 
-  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3521,7 +3537,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>Implementar una funcionalidad que permita buscar el historial clínico de los pacientes.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una funcionalidad que permita buscar el historial clínico de los pacientes.&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3531,8 +3547,8 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>UT08&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>Crear una página donde los usuarios puedan actualizar su perfil.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una página donde los usuarios puedan actualizar su perfil.&nbsp;&nbsp;&nbsp;</td> 
-  <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3543,7 +3559,7 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>Crear una API para gestionar el inventario de productos utilizados en los tratamientos odontológicos.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear una API para gestionar el inventario de productos utilizados en los tratamientos odontológicos.&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Sebastián&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3553,8 +3569,8 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>UT10&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>Implementar una API para generar métricas e informes de rendimiento de los odontólogos y citas.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero implementar una API para generar métricas e informes de rendimiento de los odontólogos y citas.&nbsp;&nbsp;&nbsp;</td> 
-  <td>&nbsp;&nbsp;&nbsp;<br>4&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>6&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
@@ -3564,8 +3580,8 @@ Para el Sprint #4 nos trazamos como objetivo desarrollar y desplegar de manera t
   <td>&nbsp;&nbsp;&nbsp;<br>UT11&nbsp;&nbsp;&nbsp;</td> 
   <td>&nbsp;&nbsp;&nbsp;<br>Crear un dashboard que muestre un resumen de citas, pagos y métricas.&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Como desarrollador que trabaja en la aplicación de Meditech, quiero crear un dashboard que muestre un resumen de citas, pagos y métricas.&nbsp;&nbsp;&nbsp;</td> 
-  <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br>5&nbsp;&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;&nbsp;<br>7&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>6&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
 </tr>
