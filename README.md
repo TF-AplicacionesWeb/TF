@@ -2256,6 +2256,7 @@ Para el Sprint #1 nos trazamos como objetivo desarrollar y desplegar una landing
     <td>&nbsp;&nbsp;&nbsp;<br>Title&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Descripción&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Estimación (Hours)&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br>Story points &nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Assigned to&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Status (In&nbsp;&nbsp;&nbsp;-process / To - review / Done)&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2266,6 +2267,7 @@ Para el Sprint #1 nos trazamos como objetivo desarrollar y desplegar una landing
     <td>&nbsp;&nbsp;&nbsp;<br>Página principal de la Landing Page&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración del navegador y sus funcionalidades e implementación del modelo de la página-&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
+	  <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesús Uribe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2276,6 +2278,7 @@ Para el Sprint #1 nos trazamos como objetivo desarrollar y desplegar una landing
     <td>&nbsp;&nbsp;&nbsp;<br>Sección de la página llamada "Nosotros"&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración de la descripción de la empresa y que lo caracteriza&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+	  <td>&nbsp;&nbsp;&nbsp;<br> 2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Daniel Melgar&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2286,6 +2289,7 @@ Para el Sprint #1 nos trazamos como objetivo desarrollar y desplegar una landing
     <td>&nbsp;&nbsp;&nbsp;<br>Sección de la página llamada "Servicios"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración del contenedor que contiene la información acerca de lo que ofrecemos dentro de nuestro producto &nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>3&nbsp;&nbsp;&nbsp;</td>
+	  <td>&nbsp;&nbsp;&nbsp;<br> 2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elizabeth Huanaco&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2296,6 +2300,7 @@ Para el Sprint #1 nos trazamos como objetivo desarrollar y desplegar una landing
     <td>&nbsp;&nbsp;&nbsp;<br>Sección de la página llamada "Más Información"&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Elaboración del pie de página en donde se muestra las redes, información de la empresa y un acceso rápido&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
+	  <td>&nbsp;&nbsp;&nbsp;<br> 1&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Sebastián Bohorquez&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2306,6 +2311,7 @@ Para el Sprint #1 nos trazamos como objetivo desarrollar y desplegar una landing
     <td>&nbsp;&nbsp;&nbsp;<br>Desarrollo de  formulario de contacto&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Funcionalidad para enviar un mensaje y resolver las dudas de los posibles usuarios.&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>2&nbsp;&nbsp;&nbsp;</td>
+	  <td>&nbsp;&nbsp;&nbsp;<br> 2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Daniel Melgar&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
