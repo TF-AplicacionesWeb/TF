@@ -2958,8 +2958,8 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT01&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Recordatorio de Citas&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como personal del consultorio, quiero recibir recordatorios de la cita para coordinar y asegurar que todo esté listo para las citas programadas.&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 7&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 6&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2980,8 +2980,8 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT03&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Buscar Citas&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como personal administrativo, quiero buscar citas por fecha, paciente o dentista para gestionar fácilmente las citas registradas.&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesús&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -2992,7 +2992,7 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>Gestión del inventario&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como personal administrativo, quiero gestionar el inventario de productos en el consultorio para asegurar que siempre haya suficiente stock de materiales.&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Sebastián&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -3002,8 +3002,8 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT05&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Métricas e Informes&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero generar y revisar informes de actividades y métricas para evaluar el rendimiento del consultorio y tomar decisiones informadas.&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 6&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Renso&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>In Progress&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -3013,8 +3013,8 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT06&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Gestión de Especialistas&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero agregar y eliminar especialistas en el sistema para mantener actualizado el personal disponible en el consultorio.&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 7&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 6&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -3024,8 +3024,8 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT07&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Registro de Usuario&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero registrar usuarios mediante una API. &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 2&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -3036,7 +3036,7 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>Inicio de Sesión de Usuario&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero obtener los datos de los usuarios validando mediante parametros por medio de una API. &nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 3&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Jesus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
@@ -3046,8 +3046,8 @@ Para el Sprint #3 nos trazamos como objetivo desarrollar y desplegar la parte de
     <td>&nbsp;&nbsp;&nbsp;<br>UT09&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Gestor de dentistas&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Como administrador, quiero obtener los datos de los dentistas validando mediante parametros por medio de una API. &nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;<br> 7&nbsp;&nbsp;&nbsp;</td>
-     <td>&nbsp;&nbsp;&nbsp;<br> 5&nbsp;&nbsp;&nbsp;</td>
+    <td>&nbsp;&nbsp;&nbsp;<br> 6&nbsp;&nbsp;&nbsp;</td>
+     <td>&nbsp;&nbsp;&nbsp;<br> 4&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br> Elizabeth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
     <td>&nbsp;&nbsp;&nbsp;<br>Done&nbsp;&nbsp;&nbsp;</td>
   </tr>
