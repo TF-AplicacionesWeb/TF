@@ -768,6 +768,7 @@ Nos dirigimos principalmente a dos segmentos objetivos:
 
 **Datos del entrevistado #1**<br>
 **Nombre completo:** Allison Rivera<br>
+**Segmento Objetivo:** Asistente dental<br>
 **Edad:** 20 años <br>
 **Distrito:** Los Olivos<br>
 
@@ -780,6 +781,8 @@ Nos dirigimos principalmente a dos segmentos objetivos:
 
 **Datos del entrevistado #2** <br>
 **Nombre completo:** Fiorella Vilca<br>
+**Segmento Objetivo:** Asistente dental<br>
+
 **Edad:** 23 años <br>
 **Distrito:** San Martin de Porres<br>
 
@@ -790,6 +793,8 @@ Nos dirigimos principalmente a dos segmentos objetivos:
 
 **Datos del entrevistado #3**<br>
 **Nombre completo:** Mariluz Cruz<br>
+**Segmento Objetivo:** Asistente dental<br>
+
 **Edad:** 40 años <br>
 **Distrito:** Carabayllo<br>
 
@@ -799,6 +804,8 @@ Nos dirigimos principalmente a dos segmentos objetivos:
 
 **Datos del entrevistado #4**<br>
 **Nombre completo:** Moises Rodriguez<br>
+**Segmento Objetivo:** Odontólogo <br>
+
 **Edad:** 19 años <br>
 **Distrito:** Ate<br>
 
@@ -809,6 +816,7 @@ Nos dirigimos principalmente a dos segmentos objetivos:
 
 **Datos del entrevistado #5**<br>
 **Nombre completo:** Alejandro Flores<br>
+**Segmento Objetivo:** Odontólogo <br>
 **Edad:** 20 años<br>
 **Distrito:** Ate<br>
 
@@ -818,6 +826,7 @@ Nos dirigimos principalmente a dos segmentos objetivos:
 
 **Datos del entrevistado #6**<br>
 **Nombre completo:** Jose Luza<br>
+**Segmento Objetivo:** Odontólogo <br>
 **Edad:** 19 años<br>
 **Distrito:** Surquillo<br>
 
